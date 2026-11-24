@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a21-2",
+ "title": "Research the person",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does the track record of the person you want to partner with show?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Research the person",
+   "lines": [
+    {
+     "text": "Jose said: how do you identify that this person is wrong for me? What is the criteria? A student said: do their motives line up with your goal? Another said: look at whether what they say aligns with their actions. If they rationalize things that don't add up, that can be a telltale sign.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the incongruence is something we learned in the book on neurolinguistic programming: they say something and their actions are something else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "My first go-to is how many of their relationships have been successful, he said. Go through the inventory of their past. This one has no business partners but himself. This one has lived in seven countries. This one has switched between seven or eight businesses. You see the warning signs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked: what was the context of those business relationships? Jose said: yes. I have had people look me in the face and say they want to be my partner, and when I look at their track record they have never had a partner. They only do things by themselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who do they do business with?",
+   "lines": [
+    {
+     "text": "He said that in his country there are many ethnic and cultural groups, and some people only do business inside their own. They may say: I want to be your partner. But when you look, they never do business outside their culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What does the track record of the person you are about to partner with say?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the person you are thinking of partnering with.",
+   "Write their past partnerships and how they ended.",
+   "Write whether what they say matches what they do.",
+   "Write whether their motives line up with your goal.",
+   "Write what you would need to see to trust them."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to look for in what someone says?",
+   "choices": [
+    "Whether it aligns with their actions",
+    "Whether it is long",
+    "Whether it is loud"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What was Jose's first go-to for researching a partner?",
+   "choices": [
+    "Their track record of past relationships",
+    "Their age",
+    "Their address"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student ask about the past business relationships?",
+   "choices": [
+    "What the context was",
+    "What the price was",
+    "Who paid"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Research the track record. Check words against actions.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

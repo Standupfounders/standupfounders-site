@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d2-4",
+ "title": "Personal brand and company brand",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is your name your brand, or your company's?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Authority is fragmenting",
+   "lines": [
+    {
+     "text": "A student said: trust in news and government organizations went down, and trust in individual reporters went up, because it was one person reporting the facts against giant conglomerates.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that the authority of the media outlets became fragmented in viewers' minds, and people began a search for information. He said that the author's thesis is that you cannot divorce the corporate brand from the personal brand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Both brands",
+   "lines": [
+    {
+     "text": "Jose read a passage in which the strategy to build only one is based on two misguided notions, such as that an institution is more sustainable if not built on a person, and that building both a corporate brand and a leader's brand dilutes both. A student first heard it as a warning against doing both, and Jose read it again.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that you have to work on both: you as a person, a leader and the founder, with your credibility and trust, and the company and what gives it credibility. He used a famous founder and his company as an example of one that cannot be separated.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: people did not care who the team was, they trusted her to choose the right people. You are the brand and people trust you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What would people say your name stands for?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what your name stands for.",
+   "Write what your company stands for.",
+   "Write where they overlap.",
+   "Write what you will build for each.",
+   "Write who you would trust to choose a team for you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the author's thesis is?",
+   "choices": [
+    "You cannot divorce the corporate brand from the personal brand",
+    "Only the company matters",
+    "Only the person matters"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say became fragmented?",
+   "choices": [
+    "The authority of media outlets",
+    "Prices",
+    "Roads"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about her team?",
+   "choices": [
+    "People trusted her to choose the right people",
+    "People wanted to see every name",
+    "People did not care at all"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Work on both brands. People trust a person first.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

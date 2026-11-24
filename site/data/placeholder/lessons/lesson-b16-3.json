@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-b16-3",
+ "title": "Pick people that are not in a conflict of interest",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who sits at your table, and do they want you to grow?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He sees the potential, not the present",
+   "lines": [
+    {
+     "text": "As Jose retells it, the author bought a small film company that others called a maker of cheap movies. Jose read a line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I knew that if I could increase their budgets it would allow them to make bigger films",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "He defended himself, Jose said: we make movies that are profitable. That film company became a massive success. He sees what a company can be in the future. He doesn't see it in its present state. He visualizes. He builds a relationship with these people and makes them feel good about growth.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pick people that are not in a conflict of interest",
+   "lines": [
+    {
+     "text": "What about the board of directors, Jose asked? There is a conflict of interest. Some of the people on his board own content companies too, and they don't like that he keeps buying content. They are in direct competition.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They are jealous and envious that he is buying companies and growing, Jose said, and their company isn't growing as fast. That is a mistake the author made, bringing them onto the board. Thank God he had enough shares to balance it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you are building a board for your company, Jose said, you have to pick people who are not going to be a conflict of interest. People who are strategically interested in your growth. Otherwise you are going to have a big problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A Lone Ranger is a red flag",
+   "lines": [
+    {
+     "text": "Big lessons, Jose said. Number one: when you build a board, pick strategic partners without conflicts of interest, without big egos, people who are nurturing and genuinely interested in your company's growth.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Number two: when you do deals, make sure the person is relationship-oriented, not win-lose. Find out their style from what they have done in the past. Are they win-win, or short-term viewers? Do they have partners, or have they never had partners? Maybe they are a Lone Ranger. That is a red flag. They may say they want a partnership, but they will do it alone, and sooner or later they will come and get you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Also expose yourself, he said: I'm a long-term player, here's why, here's how I see things. They will appreciate your demeanor. He builds trust right away. Building trust: that is what we learned from this chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What does the history of your next partner tell you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who sits on your board or advises you.",
+   "Write whether any of them could be in conflict with your growth.",
+   "Write a deal partner's history: have they had partners?",
+   "Write the style you will look for: win-win or short-term.",
+   "Write what you will say to build trust in the first meeting."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a board member with a competing company is?",
+   "choices": [
+    "A conflict of interest",
+    "A great asset",
+    "A customer"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a red flag in a partner?",
+   "choices": [
+    "Never having had partners",
+    "Having a lawyer",
+    "Being friendly"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you should do about your own style?",
+   "choices": [
+    "Expose it: say you are a long-term player and why",
+    "Hide it",
+    "Copy theirs"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pick strategic people without conflicts, check their history, and build trust.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

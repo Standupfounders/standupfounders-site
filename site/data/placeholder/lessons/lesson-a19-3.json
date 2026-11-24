@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a19-3",
+ "title": "Ten minutes at dinner",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you had ten minutes at a dinner with the person who could help, what would you say?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ten minutes at dinner",
+   "lines": [
+    {
+     "text": "Jose set an exercise: you are in the environmental business, thrown into a dinner with a senator, you have ten minutes. Give me the top five things that would make them say: I want a follow-up meeting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: a large share of the country's infrastructure is on the coastline, so a solution to flooding, erosion or damage to coastal infrastructure affects a very large number of people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said to tighten it: first, their state. Second, what data would you collect to state the overall impact?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Data and economic impact",
+   "lines": [
+    {
+     "text": "A student said: do a survey of whether people want something done. And use real data, the frequency and intensity of storms over the last hundred years against the last ten, and the economic impact. What the senator is looking for is the economic impact: what happens if you don't do this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Those are great talking points, Jose said. That is the grassroots: you can say thirty thousand people in your state are dealing with an erosion problem. He said he was making the numbers up for the exercise. And then: what would you do next?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Never lead with what you gain",
+   "lines": [
+    {
+     "text": "A student suggested offering to do the work cheaper and giving savings to a cause of the senator's choosing. Jose said that you would be kicked out. The most catastrophic thing you can do is talk about how you will gain money from it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It's a given that you want something out of it, he said. The protocol, in the countries I know, is that you wait for the person to say: you could help me in this area. You let them say it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The next thing you do is build your team: gather all the companies in your sector and form a committee, a cluster. If you go on your own, they will say: look how greedy this company is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You are representing something bigger than your company: a whole sector. You never go as one company saying: I want this and I want that. They will kick you out of the office.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the bigger thing you represent?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the five things you would say in ten minutes.",
+   "Write the number of people affected, with its source.",
+   "Write the economic cost of doing nothing.",
+   "Write what you would not say about your own gain.",
+   "Write the cluster of companies you would first invite."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the most catastrophic thing to do with a senator?",
+   "choices": [
+    "Talk about how you will gain money",
+    "Prepare data",
+    "Bring a team"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a senator is looking for?",
+   "choices": [
+    "The economic impact",
+    "The colour of the report",
+    "A long speech"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you represent?",
+   "choices": [
+    "A whole sector, not only your company",
+    "Only yourself",
+    "Nobody"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Lead with their state and the data. Never lead with your gain. Represent a sector.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

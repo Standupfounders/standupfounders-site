@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a15-3",
+ "title": "Tell the truth, and how",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last hold back a true thing because it might hurt?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two paths",
+   "lines": [
+    {
+     "text": "There are two paths, Jose said. You can tell people the truth, because deep down you want them to get better, and it bothers you as a leader that you are cheating them from reaching their full potential. But your delivery may not be how they want to receive it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person in the book probably only knows one way to communicate harshly. He suggested the film Whiplash as a must-watch, and that he watched it with his children.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the nobility is in the truth. A student asked: is there a balance between the two extremes? People are so sensitive today. How can I stop hurting their feelings? Jose said: there is always a balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How you talk to yourself",
+   "lines": [
+    {
+     "text": "It is not only how you express an honest opinion to others, Jose said. How do you talk to yourself? We know how to cushion ourselves and justify: I'm doing well, I'm happy with my progress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How many of us are comfortable saying: I'm thirty years old, I'm not where I want to be, I don't have freedom of time. What am I doing wrong? And not only about numbers: why wasn't it more?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Feedback that builds",
+   "lines": [
+    {
+     "text": "A student said: how you speak to yourself internally is very reflective of how you guide and criticize others. Use the golden rule: how would I want to be guided? Saying something is bad isn't constructive. Explain why. Give more words than that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said harsh feedback is motivating but doesn't help people develop the self-discipline to chase the goals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said there is a difference between lack of discipline, which is will, and sheer lack of ability. A person with the will but not the ability is coachable. A student agreed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "With children, he said, never say: you're so good at that. The right comment is: you worked so hard to get where you are. Celebrate the process. A student said: appreciating the effort, not the result.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you say if you spoke to yourself as you would to someone you lead?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one true thing you have held back from someone you lead.",
+   "Write how you would say it so they can hear it.",
+   "Write what you tell yourself about your progress and what is a cushion.",
+   "Write the difference between will and ability on your team.",
+   "Write the effort you will praise this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say is in the truth?",
+   "choices": [
+    "Nobility",
+    "Danger",
+    "Delay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you should say to a child who wins?",
+   "choices": [
+    "You worked so hard to get where you are",
+    "You're so good at that",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did a student describe a person with the will but not the ability?",
+   "choices": [
+    "Coachable",
+    "Hopeless",
+    "Lazy"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Tell the truth, with words that help. Praise the effort. Talk to yourself honestly.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

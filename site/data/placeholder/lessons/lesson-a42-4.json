@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a42-4",
+ "title": "Interview for the mission",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you ask a candidate that a resume can't answer?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Interview for the way they think",
+   "lines": [
+    {
+     "text": "A student said: if we use his method, I've heard him say that he relies on intuition a lot, but if he asks an interview question, it would be presenting a problem and asking how they would solve it. He can tell by how the person reacts how they will react to problems in future.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "So you want probing questions that address accountability, problem solving, open-mindedness, collaboration and leadership, the student said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student added: at large scale, you can send surveys, but you can't take the engineering out. You have to have one-to-one interviews. If you give someone a survey they can take their time. In an interview they have to think on their feet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Put the resume away",
+   "lines": [
+    {
+     "text": "Jose said: in the interview, people come with their resume and the job description they found somewhere, and start talking about all the ways they fit. I say to them: put that away. We don't need to talk about the job description or your experience. I just want to talk to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the greatest, most significant, successful moment you have had in your life? What is the meaning of success for you? Some of the happiest moments in terms of achievement, and why? That throws them for a little bit of a loop.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then you do a needs assessment, he said, of what a significant life is for them, and how that fits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Branding as standards",
+   "lines": [
+    {
+     "text": "A student said that branding is also setting the standards for a company. With new job applicants, branding comes into the interview process and the ads you put out: that is the first point a new hire sees.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked a student to imagine describing the company's culture to a new hire in a cafeteria. The student said: I would describe it as an opportunity to express innovation. Your upside is directly contingent on your work ethic, your big-picture belief and your buying into the culture. I'm asking you to believe in the process and the vision, and in yourself, to be part of something big.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you say in the cafeteria?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the problem you would give a candidate.",
+   "Write what you would learn from how they react.",
+   "Write the questions that move them off the resume.",
+   "Write what your job ads say about your standards.",
+   "Write the cafeteria speech for a new hire."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say an interview question would be?",
+   "choices": [
+    "A problem, and how they would solve it",
+    "What is your salary?",
+    "Where do you live?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask candidates to put away?",
+   "choices": [
+    "The resume and job description",
+    "The phone",
+    "The coat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is the first point a new hire sees?",
+   "choices": [
+    "The ads you put out",
+    "The office",
+    "The contract"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Interview for how people think, not for their resume. Let your ads state your standards.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

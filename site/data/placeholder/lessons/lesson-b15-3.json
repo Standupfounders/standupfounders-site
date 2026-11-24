@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-b15-3",
+ "title": "Business radars",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who around you is idling, and who is moving?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Business radars",
+   "lines": [
+    {
+     "text": "When he hires a new executive, as Jose retells it, the author says: if you don't tell me right away you want the job, the deal is off. I want people who don't hesitate.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is all about momentum, Jose said. He doesn't like people who are just idling.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that many people have ideas, and when you get down to actually talking about it, they keep coming up with excuses why their idea won't work. It is the same thinking as not taking action. I'm standing still.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: I call them little business radars. Your radar should tell you: does this person have a history of turning an idea and a strategy into an operational plan? What is in their history as an executive, an entrepreneur, a business person?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If I meet a person with all these great ideas and no team behind them, no lawyers, bankers, accountants, no structure, that scares me. I'm not going to trust that person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I'm not done yet",
+   "lines": [
+    {
+     "text": "Jose read a line from the end of the chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It was a long way from selling billboards in the South, but I knew I wasn't finished yet",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "I like that he does celebrate, Jose said, even though he continually creates a new goal. You have to celebrate the little victories day to day. If you don't, and you're not proud of yourself, you are in danger of never being conscious of all the things you're achieving.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would your radar say about the people you work with?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people you work or plan with.",
+   "Write who has a history of turning ideas into action.",
+   "Write who has ideas but no team or structure.",
+   "Write one small victory you have not celebrated.",
+   "Write the next goal, after you celebrate."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call his way of reading whether a person can execute?",
+   "choices": [
+    "Business radars",
+    "A scorecard",
+    "A contract"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of people did Jose say the author doesn't like?",
+   "choices": [
+    "People who are just idling",
+    "People who ask questions",
+    "People who work late"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have to celebrate?",
+   "choices": [
+    "The little victories day to day",
+    "Only the final goal",
+    "Nothing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read people with your business radar, and celebrate the little victories.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

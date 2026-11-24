@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c16-3",
+ "title": "One small change, kept",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the one small change you will keep doing?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One coin",
+   "lines": [
+    {
+     "text": "Jose said that the chapter before the last talks about the coin: one positive change, like meditating for one minute or reading one page, is likely to deliver a noticeable difference. He said the effect of one small action repeated enough times is where we are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: remember the one percent he mentioned. Try little changes; they will be more effective.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Character is habit",
+   "lines": [
+    {
+     "text": "Jose said: if you think of a person's character, it is the sum of their habitual attitude to life. Through thought habits and physical habits we become virtues or vices. If you break down someone's small daily habits, that is who they are, and the power is that we can change it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said we can learn a lot about people by living with them for a week: what they do in the morning, the afternoon and at night.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Apply it",
+   "lines": [
+    {
+     "text": "A student said: I would be very intentional about the environment, not compromising on the values of the people we bring in, because one person who does not align can affect the whole culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the underlying thing in the book is discipline and consistency, and that it is about the application. He called it a very practical roadmap and an instrument you use again and again: what are our habits in treating people, in expressing love, in work ethic?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added: everybody can apply these changes; it is for us to determine when and how and what discipline to apply.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your coin, and when will you start flipping it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one change that takes one minute.",
+   "Write when you will do it.",
+   "Write your three best daily habits.",
+   "Write the habit you most want to change.",
+   "Write the date you will review."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say character is?",
+   "choices": [
+    "The sum of a person's habitual attitude to life",
+    "Their job",
+    "Their luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to remember?",
+   "choices": [
+    "The one percent, try little changes",
+    "Make one huge change",
+    "Wait a year"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the underlying thing in the book is?",
+   "choices": [
+    "Discipline",
+    "Speed",
+    "Money"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "One small change, repeated. Character is habit. Apply it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

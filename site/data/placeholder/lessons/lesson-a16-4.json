@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a16-4",
+ "title": "Barriers to entry",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What stops a competitor from copying you tomorrow?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Barriers to entry",
+   "lines": [
+    {
+     "text": "Another thing that is really important, Jose said, is: what are the barriers to entry? Can competitors come in and lower my margin even more? Is there a price war? Can anybody get into the business?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is what happened in the dot-com era, he said. People realized a web directory has no barrier to entry. Anybody can do a directory, and that is why it lost market share when a search engine came along with a massive barrier: its search algorithm.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The secret sauce",
+   "lines": [
+    {
+     "text": "Jose asked the students: what is the secret sauce of the solar division? A student said: the sales teams and the sales process. Jose said: that can be replicated. Anybody can build a sales team.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student named a home battery pack. Jose said that is packaging: when you're not really inventing anything, you are creating an aesthetic and a package. A student said: you're rebranding something that already exists.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the brand awareness. Jose said: your branding is your protection. There is a thing called brand equity, the value your brand has. When people go to a supermarket they grab the soup they know, because of its history.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "His opinion",
+   "lines": [
+    {
+     "text": "A student said it was the limitations of the kinds of roofs. Jose said: this is an opinion, and we will see over the history. I don't believe there is a barrier to entry. I believe he has to grab market share, build a brand, and go as fast as he can to become a household name.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The business is vulnerable because there isn't a secret sauce, he said. And a brand isn't necessarily protected: brands from other countries are flooding the market and taking share from established companies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your barrier to entry, and is it real?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what a competitor would need to copy you.",
+   "Write whether it takes one month or ten years.",
+   "Write your secret sauce, if you have one.",
+   "Write what your brand is worth to customers.",
+   "Write what you would do if a price war started."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say anybody can build?",
+   "choices": [
+    "A sales team",
+    "A search algorithm",
+    "A brand overnight"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say your branding is?",
+   "choices": [
+    "Your protection",
+    "Your logo",
+    "Your slogan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student call a rebranded existing product?",
+   "choices": [
+    "Rebranding",
+    "Invention",
+    "Research"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your barrier to entry. Build a brand that protects you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

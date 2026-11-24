@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c11-3",
+ "title": "Habit or identity first",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which comes first, the habit or the identity?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Chicken or egg",
+   "lines": [
+    {
+     "text": "Jose asked: where are the negative habits coming from? Adopted by accident, or deeply rooted in identity? A student said: our habits can become part of our identity. When you say I am a person who exercises and force yourself to go, you feel good, and it carries you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked the chicken-and-egg question: habit then identity, or identity then habit? A student said they work in tandem: instead of I am terrible at names, say I will learn how, repeat the name, use it in a sentence, and then you say I am someone who is good at names.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Survival patterns",
+   "lines": [
+    {
+     "text": "Jose said that he believes habits come from identity patterns, including survival patterns of fight or flight. A habit can become a survival pattern, self-destructive behavior rooted in a negative belief system, or it can come from a positive belief system and an inner voice that guides you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student described how the way he was raised shaped a habit: he grew up learning to finish what is on the plate, and he realized it when he was around people who threw food away. If you listen to your inner voice you can defend against it, so he now takes less or asks for a half portion.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that people from hard times may keep a preservation mode all their lives, and their habits are about survival.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of your habits comes from how you were raised?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit you have from how you were raised.",
+   "Write the belief behind it.",
+   "Write what you want it to be now.",
+   "Write the sentence: I am someone who...",
+   "Write who you could talk to if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say the habit and identity do?",
+   "choices": [
+    "Work in tandem",
+    "Never meet",
+    "Compete"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student suggest saying instead of I am terrible at names?",
+   "choices": [
+    "I will learn how to be good at names",
+    "Never mind",
+    "I do not care"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say habits can become?",
+   "choices": [
+    "A survival pattern",
+    "A holiday",
+    "A tax"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know where a habit comes from. Rewrite the sentence that holds it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a35-3",
+ "title": "No one sees it all",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How much of what you decide depends on things you cannot see?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "No one sees it all",
+   "lines": [
+    {
+     "text": "Jose said that what we can extract from this is that the person in the book is not really someone with that empathetic gene, and had no idea his satellites would be used on drones. He will go through a massive learning curve.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "One person can't possibly understand all the complexities of everything that is going on, he said, not even the head of a country a lot of the time. You have to have incredible administration skills to understand all the complexities.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added that you have to understand the history over centuries to understand a conflict, and why a leader uses a city of reference that means a lot to a people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Ten perspectives",
+   "lines": [
+    {
+     "text": "Jose said: I don't know that part of the world as much as I know another. I've listened to people from both sides talk about it, and you can get ten different perspectives.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he hopes the war ends: it is terribly tragic and very sad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you want to know before you decided on something you can't fully see?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a decision you are making on partial information.",
+   "Write who could fill in what you cannot see.",
+   "Write the history behind it that you don't know.",
+   "Write how many perspectives you have heard.",
+   "Write what you will do before you decide."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about one person understanding all the complexity?",
+   "choices": [
+    "One person can't possibly",
+    "One person always can",
+    "It is easy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you have to understand to understand a conflict?",
+   "choices": [
+    "The history over centuries",
+    "The latest news",
+    "The prices"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How many perspectives did Jose say you can get on this?",
+   "choices": [
+    "Ten different ones",
+    "One",
+    "None"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "No one sees it all. Seek other perspectives and history before you decide.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

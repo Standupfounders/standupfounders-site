@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a14-2",
+ "title": "Your stance on privacy and responsibility",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What have you promised your customers about their information?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Privacy",
+   "lines": [
+    {
+     "text": "Jose said: are you going to use the AI data you collect to invade somebody's privacy? If you have a business and you are generating user information, are you going to respect the privacy of what you collect?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your stance on data surveillance, on collection of data, on security? he asked. We have facial recognition, smartphones, a whole world of ways we could violate our customer data. That's an ethical stance: as a business owner I will respect the privacy of my users and my client base.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Accountability",
+   "lines": [
+    {
+     "text": "The other one is accountability, he said. If you use AI for a health diagnosis and it gives a wrong one, and somebody takes the wrong medicine and dies, what is your stance? Are you responsible?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: absolutely, you are responsible. You used the software to predict something. You still have to have a licence to prescribe it. And a doctor who took an oath and doesn't take responsibility for what they told patients should lose their licence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the lines are getting blurry and people are going to have to take a stance. It is not going to be good enough just to write a disclaimer. You are going to have to say: these are the risks associated with it, and I am going to be a responsible user of AI.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: modern society's number one issue is that nobody wants to take personal responsibility for their own decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The list",
+   "lines": [
+    {
+     "text": "Jose listed what entrepreneurs need to take a stance on: ethics, privacy, accountability, data bias, job displacement, and transparency of the systems and algorithms. Algorithms are highly manipulative, he said, and that is a massive responsibility.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: having a side is really important. It depends on your industry and how much you use AI, but if you are not thinking about it from an ethical standpoint, you are missing what all entrepreneurs should be doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the line you will not cross with your customers' information?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what information you collect and why.",
+   "Write the line you will not cross with it.",
+   "Write what happens if your use of AI gives a wrong answer.",
+   "Write who is responsible in your business, by name.",
+   "Write why a disclaimer alone is not enough."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is not good enough?",
+   "choices": [
+    "Just writing a disclaimer",
+    "Taking a stance",
+    "Being responsible"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about responsibility for a wrong diagnosis?",
+   "choices": [
+    "You are responsible; you still need the licence",
+    "The software is responsible",
+    "Nobody is responsible"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose list to take a stance on?",
+   "choices": [
+    "Privacy, accountability, bias, job displacement, transparency",
+    "Colour, size, price",
+    "Speed, weight, fuel"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Take a stance on privacy and accountability. A disclaimer is not enough.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c12-2",
+ "title": "What spending reveals",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do your last three months of spending say about you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Money reveals habits",
+   "lines": [
+    {
+     "text": "Jose asked what money can reveal about a person. A student said: where you spend reveals your priorities and your positive and negative habits, such as whether you are impulsive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he cannot think of a better way to study a person's habits than looking at their credit card bills, and recalled the saying that history does not repeat itself, humans always do. The attribution is to be checked.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: do our habits pay us interest? Do we rationalize how we spend? I needed that, I really need a new car. We can rationalize all day, but is it true to who we want to become?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Triggers and inheritance",
+   "lines": [
+    {
+     "text": "A student said: negative triggers around money can be external pressure, being around certain people, and emotional catalysts before a purchase.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked about generational triggers. A student said: seeing how your parents handle money can turn into a pattern, or the opposite, because it left a mark on you; either way, it has an effect.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Rich and wealthy",
+   "lines": [
+    {
+     "text": "Jose said that people who grew up in hard times keep a preservation mode. He distinguished rich from wealthy: a rich person can afford the expensive car, house and boat; wealthy is the income that is not spent, the hidden part, having your options open with money in the bank.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where do you see yourself in the rich and wealthy distinction?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. This is not financial advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "List your top five spends last month.",
+   "Write what each says about your priorities.",
+   "Write one purchase you rationalized.",
+   "Write a trigger around money you notice.",
+   "Write what wealth means to you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say spending reveals?",
+   "choices": [
+    "Your priorities and habits",
+    "Your age",
+    "Your weather"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask about habits?",
+   "choices": [
+    "Whether they pay us interest",
+    "Whether they are cheap",
+    "Whether they are old"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Jose describe being wealthy?",
+   "choices": [
+    "Income that is not spent",
+    "Owning a boat",
+    "Having a big house"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read your spending like a diary. Know rich from wealthy, in your own words.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

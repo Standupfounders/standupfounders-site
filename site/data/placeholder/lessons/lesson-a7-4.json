@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a7-4",
+ "title": "Ask why not",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you do if the mission came first and the profit second?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Mission first",
+   "lines": [
+    {
+     "text": "A student said that one of the investors in the book said he does not look at it as a business first. He looks at the mission, and then back-fills it to make it profitable and sustainable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: what a great way to do it. That's why he has amazing focus: he asks the simple question, why? Who says we can't do it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said they felt relieved. I'm good at business when I'm thinking about business, but on a mission it's a different approach. If the mission is to accomplish a task, do it at whatever cost and then figure out how to make it profitable. It's reassuring: I'm not on the wrong path, it's just not textbook.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Break it down, and do the research",
+   "lines": [
+    {
+     "text": "I love the way he breaks down things into simple forms, Jose said. It's metal and fuel. But he does do the research. He goes to the space agency's website and thinks: these people went to the moon in 1969, so why wouldn't someone go to Mars?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I talk a lot about possibility versus impossibility thinkers, he said. Some people see the impossibility first, which is an illusion at times, because a lot of the time impossibility is just the opinion of others. He is a possibility thinker first and keeps going with the relentlessness of: why not?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I think he looks at probability, because it's the only thing you can calculate. You can't calculate a possibility. Jose said: possibility gets into what you are assuming to make it possible.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What were you told is impossible, and whose opinion was it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the mission behind your next project.",
+   "Write how you would make it profitable after you start.",
+   "Write the simplest form of the problem, as metal and fuel.",
+   "Write one thing someone told you was impossible, and whose opinion that was.",
+   "Write what you are assuming to make it possible."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the investor in the book look at first, according to a student?",
+   "choices": [
+    "The mission, then profit",
+    "The profit, then the mission",
+    "The competition"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What simple question did Jose say the person asks?",
+   "choices": [
+    "Why? Who says we can't?",
+    "How much?",
+    "When?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say impossibility is a lot of the time?",
+   "choices": [
+    "The opinion of others",
+    "A fact",
+    "A law"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start with the mission. Break it down, do the research, ask why not.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

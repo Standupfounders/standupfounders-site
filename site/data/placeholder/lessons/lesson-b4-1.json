@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b4-1",
+ "title": "Owning the content doesn't mean that you own the way to distribute it",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "You can make something people want. Who controls how it reaches them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I come from a telecom background",
+   "lines": [
+    {
+     "text": "Jose said he comes from a telecom and internet background. What the author is doing, in a very tiny mini way, is what I try to do. He dealt with cable network monopolies, and I dealt with monopolies. We had very similar parallel stories, mine very minuscule. That is why I understand a lot of what he went through.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Let's start with the basics, he said. Back then, how would you distribute a television signal? Students named cable and an antenna. And there was one more: your telephone line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The last piece, the one that gets to your house, they call the last mile, he said. How are you going to get to the last mile?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Owning the content doesn't mean that you own the way to distribute it",
+   "lines": [
+    {
+     "text": "As Jose describes it from the book, the author was coming from a limited signal, and he wanted to go national. He believed he had enough content.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But owning the content, owning the movies, he said, doesn't mean that you own the way to distribute them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you are a big cable company, he said, and you spent millions of dollars laying out fiber optic cable and putting up antennas, getting to the last mile, you are a massive monopoly. It is like knocking on their door and saying: can I use your network to distribute my content?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They'll say: sure, pay us. And when you pay, he said, you realize they are not going to pay you anything. They will limit how you use their network. Eventually they will choke you out, because they don't want somebody competing with them and using their network to get traction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you make, and who controls the road it travels on?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you make or offer.",
+   "Write how it reaches people today: the road it travels.",
+   "Write who controls that road.",
+   "Write what happens to you if they change the rules.",
+   "Write one second road you could build."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the 'last mile' is?",
+   "choices": [
+    "The last piece that gets to your house",
+    "The longest road in a city",
+    "The cost of the final sale"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say owning the content does not mean?",
+   "choices": [
+    "That you own the way to distribute it",
+    "That you will earn money",
+    "That people will watch"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a network owner will eventually do to a content provider using their network?",
+   "choices": [
+    "Choke it out",
+    "Pay it more",
+    "Ignore it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Owning the content is not owning the road. Know who controls how your work reaches people.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

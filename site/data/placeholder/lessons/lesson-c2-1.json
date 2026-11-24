@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-c2-1",
+ "title": "Cues and the plan you make beforehand",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the cue that tells you a habit is about to start?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Cues and awareness",
+   "lines": [
+    {
+     "text": "Jose summarized the chapter: with enough practice you pick up on the cues that predict certain outcomes. Relevant cues in a situation are the foundation of every habit. You do not always know what tipped you off, such as when you are hungry and grab something to eat.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the subconscious can overtake the conscious, and the relationship works the other way as well: you can consciously affect the subconscious by bringing the cues to light. Behavior change starts with this awareness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Making it conscious",
+   "lines": [
+    {
+     "text": "A student said: pointing and calling works because by verbalizing it and saying it aloud you reinforce it and make yourself more aware.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that this brings it from the non-conscious to the conscious level, and you need a technique that works for you, but you have to pick one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the book calls another technique an implementation intention: a plan you make beforehand about when and where to act. When X arises, I will perform Y.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is being conscious and intentional and not just going through the motions. Another said: not leaving it up to chance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Write one if-then for a habit you want: when X arises, I will do Y.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a cue you notice before a habit starts.",
+   "Write one way to make it conscious: say it aloud, write it, point at it.",
+   "Write an if-then for a habit you want.",
+   "Write when and where it will happen.",
+   "Write what you will do the first time you miss it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say behavior change starts with?",
+   "choices": [
+    "Awareness",
+    "Money",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say pointing and calling does?",
+   "choices": [
+    "Makes you more aware by saying it aloud",
+    "Hides the habit",
+    "Speeds up the day"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is an implementation intention?",
+   "choices": [
+    "A plan beforehand about when and where to act",
+    "A new job title",
+    "A wish"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice the cue. Make it conscious. Plan the if-then.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

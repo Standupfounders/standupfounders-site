@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a35-2",
+ "title": "Listen before you bring your agenda",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you go into a negotiation to listen, or to deliver your agenda?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Cultural sensitivity",
+   "lines": [
+    {
+     "text": "Jose said: I don't want to be political. I'm very careful when I say things. It is not always what you read and see on the news. There are always two sides to the coin. In the end I attribute a lot of these problems to a lack of cultural sensitivity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is a balancing act, and something that has played out through history, in several places.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Negotiating for a country",
+   "lines": [
+    {
+     "text": "Jose said that this will come into play when they talk about negotiations. They will hold two or three classes at least on negotiation. When you negotiate on behalf of a country, you really have to be a good listener.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some of the people with enormous responsibilities come with an agenda, he said. It is kind of the structure of the military: you have a mission and you are very linear about what you are supposed to accomplish. That training is a double-edged sword. You know exactly what your objective is, but it doesn't always work like that. It is not black and white.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Imagine the responsibility of someone in a foreign country who is interpreting information and bringing it back to the capital, he said. A student said: it is a good game of telephone, and the agendas tend to persevere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you listen for first, before you bring your agenda?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last negotiation you went into with an agenda.",
+   "Write what you would have heard if you had listened first.",
+   "Write how information changes as it passes from person to person in your work.",
+   "Write what cultural differences you have had to learn.",
+   "Write the first question you will ask next time."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose attribute a lot of these problems to?",
+   "choices": [
+    "A lack of cultural sensitivity",
+    "A lack of money",
+    "A lack of time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have to be when negotiating for a country?",
+   "choices": [
+    "A good listener",
+    "A fast talker",
+    "A silent partner"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call training that gives you a linear mission?",
+   "choices": [
+    "A double-edged sword",
+    "A gift",
+    "A mistake"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Listen before you bring your agenda. Remember that information changes as it travels.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

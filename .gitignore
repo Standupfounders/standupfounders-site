@@ -1,0 +1,11 @@
+.env
+*.pem
+*.key
+/data/real/
+/_local/
+/media/
+*.m4a
+*.wav
+*.mov
+*.webm
+.DS_Store

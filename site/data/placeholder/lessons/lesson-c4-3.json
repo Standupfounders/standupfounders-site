@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c4-3",
+ "title": "People are triggers too",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who do your habits become when you spend time with them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Relationships are triggers",
+   "lines": [
+    {
+     "text": "Jose said that you can move to a bigger room, but what about relationships? How are business and friend relationships influencing your habits?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: those are some of the fastest triggers back into any behavior, good or bad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: what kind of people do you attract? Are they open, curious, responsive? He recalled what parents say: you are who you hang around.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The business effect",
+   "lines": [
+    {
+     "text": "He said that this affects the clients you attract, the energy and the culture of the company. He gave examples of meetings where someone says: people in my circle told me I can trust you, and everything aligns.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: successful people structure their environments. They are very conscious. They do not just say it is a bad environment with a lot of distractions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "List them",
+   "lines": [
+    {
+     "text": "A student said: the book talks about listing them out. Jose said: our mind is like post-it notes, and before you know it you have twenty or thirty of them stuck all over the place.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Write down the three people who most shape your habits. What does each one trigger?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the three people you spend the most time with.",
+   "Write what each one triggers in you.",
+   "Write the people who trigger your best habits.",
+   "Write one relationship you could change or limit.",
+   "Write one new circle you want to join."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about relationships and triggers?",
+   "choices": [
+    "They are some of the fastest triggers",
+    "They are slow",
+    "They do not matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the people you attract?",
+   "choices": [
+    "It affects clients and culture",
+    "It affects nothing",
+    "It only affects family"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say successful people do?",
+   "choices": [
+    "Structure their environment",
+    "Blame it",
+    "Ignore it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "People are triggers. Choose them. List your cues.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

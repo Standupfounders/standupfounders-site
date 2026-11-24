@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "id": "lesson-b7-j",
+ "title": "I learned a lot of business through people's stories",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "This is a story, not a lesson. Read it and think about how you learn best.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I learned a lot of business through people's stories",
+   "lines": [
+    {
+     "text": "Jose said you have to get the book. Otherwise you will be kind of lost. If you don't read it, you are not going to get anything out of it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is one of the things I tell people all the time, he said. I learned a lot of business through people's stories, and learning from their mistakes, their good decisions and bad decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I didn't go to business school, he said. But I have been in business all my life. I went and studied literature. I had to go through a learning curve on my own, and one of the ways I learned a lot was listening to people's stories.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A story about how somebody grew a business",
+   "lines": [
+    {
+     "text": "It is a lot more exciting, he said, than if I were to give you a financial management book from a university and we went into the technicalities of finance, versus telling a story about how somebody grew a business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he prepares for class every single day to give valuable lessons. And you are definitely not going to be an entrepreneur if you are not at a speed of learning that is adequate to handle all this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whose story taught you the most?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the story that taught you the most about business or life.",
+   "Write what the person did, right or wrong.",
+   "Write what you will do differently because of it."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose say he learned a lot of business?",
+   "choices": [
+    "Through people's stories and their mistakes and decisions",
+    "Through business school",
+    "Through a manual"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose study?",
+   "choices": [
+    "Literature",
+    "Engineering",
+    "Medicine"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a story is, compared with a finance textbook?",
+   "choices": [
+    "A lot more exciting",
+    "Less useful",
+    "Longer"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Learn from people's stories, their mistakes and their good decisions.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-a1-2",
+ "title": "You'll figure it out",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What did your parents tell you when you did not know what to do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How was risk instilled?",
+   "lines": [
+    {
+     "text": "Jose asked: how was the concept of risk instilled in him? A student said: he sees his father's pursuit of entrepreneurial ideas and the risk he assumes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose read a line from the book about the author's parents leaving the boys in a park.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "it was insane to leave me and my brother alone in the park at that age.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Parents weren't overprotective like parents are today, Jose said. When you see parents with their children: be careful, don't do this, sit still, don't move. They are ingraining it. Other parents say: he's going to get dirty, who cares, go explore. That whole thing will influence your child forever, just the way you talk to them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You'll figure it out",
+   "lines": [
+    {
+     "text": "A student said: it was fascinating how many times they mention that he travelled alone on a train at ten. Along the way you learn that you dispose of time. Another said: every time you increase your risk appetite, it increases incrementally. Getting punched in the mouth is scary until you do, and then it's not so bad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "And what about the mom saying: you'll figure it out? Jose asked. That is a privilege. As parents we are contaminated by our own fear and instill it in our children: you've got to be a doctor, a lawyer, make money, study. We impose that view, at the danger of cutting off their idea of their future.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Schools can do that too, he said: they tell you everything you have to do. That's why some great entrepreneurs say: I figured out how to learn on my own. A student said they were homeschooled and taught themselves almost everything.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People will always tell you what you didn't study and what you don't know, Jose said. I always tell my children: you can do anything. You just have to understand how to absorb the information, be passionate, and develop habits where you don't get distracted. It is all about laser focus.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you tell yourself or others when they don't know what to do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what your parents told you about risk.",
+   "Write one fear you were handed that was not yours.",
+   "Write what you can learn on your own.",
+   "Write a time you did something alone that scared you, and what it taught you.",
+   "Write the sentence you will say next time someone you lead says: I don't know how."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call the mother's saying 'you'll figure it out'?",
+   "choices": [
+    "A privilege",
+    "A mistake",
+    "A rule"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we do as parents out of our own fear?",
+   "choices": [
+    "Instill it in our children and impose our view of their future",
+    "Let them choose",
+    "Ignore them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say it is all about?",
+   "choices": [
+    "Laser focus",
+    "Luck",
+    "Money"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Tell people they'll figure it out. Don't hand them your fear.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

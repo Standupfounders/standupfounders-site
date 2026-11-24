@@ -1,0 +1,144 @@
+{
+ "schema": 1,
+ "id": "lesson-b9-1",
+ "title": "He uses a lot of war metaphors",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When someone threatens you, do you freeze, or do you turn it around?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He uses a lot of war metaphors",
+   "lines": [
+    {
+     "text": "What I admire about him, Jose said, is that he immediately likens it to a war. Like D-Day. I had my business back here, and I had to send another ship ahead of me.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He uses a lot of war metaphors, Jose said, because that is what he studied. Jose read a line from the author about it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I've used Cnn as our beach head. and I figured the only way we could keep them from taking the 3rd deal was to create our own headline service",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "That is how he sees it, Jose said. He is proactive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He turns that around and uses it as their weapon",
+   "lines": [
+    {
+     "text": "Jose asked: how does he know there is an opportunity? A student said: when they threaten him. Another student read the executive's words: we have deep pockets, and he doesn't.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he catches this executive's words and immediately turns them around and uses them as a weapon against them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose then gave a short summary of three federal antitrust laws, which he said he dealt with in his own internet days. One is about price fixing. One is about mergers and acquisitions, which have to pass the regulators so that massive companies cannot create monopolies. And one protects smaller businesses from unfair conduct.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that opened a door for the author to sue. But that didn't stop the other side from continuing on their path.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the author then launched a second channel, which would split the market, and the other side's losses would be larger than expected. Jose said: he was charging fifteen cents a subscriber, so what does he do? He includes the other channel in it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the weapon someone has pointed at you, and how could you turn it around?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a threat or attack someone has made on you or your business.",
+   "Write the weapon in it: what their words reveal.",
+   "Write how you could turn it around.",
+   "Write the metaphor you use for your own fight.",
+   "Write one step you will take, proactive, not reactive."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the author is?",
+   "choices": [
+    "Proactive",
+    "Slow to react",
+    "Silent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author did with the executive's words?",
+   "choices": [
+    "Turned them around and used them as a weapon",
+    "Ignored them",
+    "Agreed with them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author's second channel would do?",
+   "choices": [
+    "Split the market for the other side",
+    "Close the first channel",
+    "Raise prices"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Turn the threat around. Be proactive, not reactive.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

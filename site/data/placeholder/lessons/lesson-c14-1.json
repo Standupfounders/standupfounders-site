@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-c14-1",
+ "title": "Pick your field",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "In which field would your build and your wiring win?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two bodies, two sports",
+   "lines": [
+    {
+     "text": "Jose described the book's opening: two elite athletes in different sports, whose bodies differ a great deal, yet whose legs are about the same size. Their genetics suited each sport. He asked what the main point is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: pick your field. If somebody of normal size goes into a boxing match against a much bigger person, you lose. You need to pick the right battles, or the right fields.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Context decides",
+   "lines": [
+    {
+     "text": "Jose said that your competence depends on the context, and when the environment changes, so do the qualities that determine success. It applies to medicine, law and business, not only sports.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked why people do not simply choose what they are good at. A student said: other people, societies, and impressions of what is more successful. People put themselves in a hole they do not fit in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Rewrite the frame",
+   "lines": [
+    {
+     "text": "A student said the book's point is: rewrite the rules, recreate your frame.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Where does your field fit your gifts, and where did you choose for someone else?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your strongest gifts.",
+   "Write the field where they count most.",
+   "Write where you compete against your build.",
+   "Write who told you what was successful.",
+   "Write the frame you will recreate."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about picking your field?",
+   "choices": [
+    "Pick the right battles",
+    "Fight them all",
+    "Avoid every field"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say competence depends on?",
+   "choices": [
+    "The context",
+    "The title",
+    "The price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say stops people choosing what they are good at?",
+   "choices": [
+    "Other people's impressions of success",
+    "Their weight",
+    "The weather"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pick the field that fits. Recreate your frame.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

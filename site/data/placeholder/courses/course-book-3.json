@@ -1,0 +1,1439 @@
+{
+ "schema": 1,
+ "id": "course-book-3",
+ "slug": "book-3",
+ "title": "Jose's analysis of a book we are still naming",
+ "label": "Course 3",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "A third course, built from Jose's group calls on one book about habits, in the book's order. The book is not named yet. Modules are added one at a time.",
+ "season_note": "A suggested run of about 16 weeks. Suggested dates only: nothing locks.",
+ "weeks": 16,
+ "modules": [
+  {
+   "id": "m-c1",
+   "title": "Systems, triggers and replacing habits",
+   "minutes": 65,
+   "week_from": 1,
+   "week_to": 1,
+   "items": [
+    {
+     "id": "i-c1-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you build a process, not just a goal?",
+       "item": "i-c1-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know who you want to become?",
+       "item": "i-c1-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what your surroundings trigger?",
+       "item": "i-c1-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c1-1",
+     "kind": "section",
+     "title": "Goals and systems",
+     "minutes": 9,
+     "idea": "Build the process, not just the goal.",
+     "lesson": "lesson-c1-1"
+    },
+    {
+     "id": "i-c1-2",
+     "kind": "section",
+     "title": "Courage and who you become",
+     "minutes": 9,
+     "idea": "Courage first; identity shapes behavior.",
+     "lesson": "lesson-c1-2"
+    },
+    {
+     "id": "i-c1-3",
+     "kind": "section",
+     "title": "Triggers in your surroundings",
+     "minutes": 9,
+     "idea": "Read your surroundings; place good triggers.",
+     "lesson": "lesson-c1-3"
+    },
+    {
+     "id": "i-c1-4",
+     "kind": "section",
+     "title": "The elephant and the rider",
+     "minutes": 9,
+     "idea": "Steer the subconscious with conscious choice.",
+     "lesson": "lesson-c1-4"
+    },
+    {
+     "id": "i-c1-5",
+     "kind": "section",
+     "title": "Replace, don't just remove",
+     "minutes": 9,
+     "idea": "Find the trigger; replace the response.",
+     "lesson": "lesson-c1-5"
+    },
+    {
+     "id": "i-c1-w",
+     "kind": "workshop",
+     "title": "Workshop: My system, my trigger, my replacement",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "A system I will build for one goal.",
+      "A trigger I will place or remove.",
+      "A habit I will replace, and with what."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c2",
+   "title": "Cues, stacking and talking to someone overloaded",
+   "minutes": 65,
+   "week_from": 2,
+   "week_to": 2,
+   "items": [
+    {
+     "id": "i-c2-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you notice the cue before a habit starts?",
+       "item": "i-c2-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you stack new habits on old ones?",
+       "item": "i-c2-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you check person and system when a process breaks?",
+       "item": "i-c2-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c2-1",
+     "kind": "section",
+     "title": "Cues and the plan you make beforehand",
+     "minutes": 9,
+     "idea": "Notice the cue; plan the if-then.",
+     "lesson": "lesson-c2-1"
+    },
+    {
+     "id": "i-c2-2",
+     "kind": "section",
+     "title": "Habit stacking",
+     "minutes": 9,
+     "idea": "Stack the new habit on one you already do.",
+     "lesson": "lesson-c2-2"
+    },
+    {
+     "id": "i-c2-3",
+     "kind": "section",
+     "title": "Person or system?",
+     "minutes": 9,
+     "idea": "Audit with a person view and a system view.",
+     "lesson": "lesson-c2-3"
+    },
+    {
+     "id": "i-c2-4",
+     "kind": "section",
+     "title": "Talking to someone who takes on too much",
+     "minutes": 9,
+     "idea": "Be authentic, don't persuade, ask why.",
+     "lesson": "lesson-c2-4"
+    },
+    {
+     "id": "i-c2-5",
+     "kind": "section",
+     "title": "Change language and the cue",
+     "minutes": 9,
+     "idea": "Use change language; attach it to a cue.",
+     "lesson": "lesson-c2-5"
+    },
+    {
+     "id": "i-c2-w",
+     "kind": "workshop",
+     "title": "Workshop: My stack and my change sentence",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One if-then or stack for a habit I want.",
+      "One audit question for a broken process.",
+      "One change sentence attached to a cue."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c3",
+   "title": "Obvious cues, new surroundings and old patterns",
+   "minutes": 56,
+   "week_from": 3,
+   "week_to": 3,
+   "items": [
+    {
+     "id": "i-c3-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you make your cues obvious?",
+       "item": "i-c3-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your structure without your cues?",
+       "item": "i-c3-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you picture what you want in detail?",
+       "item": "i-c3-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c3-1",
+     "kind": "section",
+     "title": "Make it obvious",
+     "minutes": 9,
+     "idea": "Make the cue obvious; design choices.",
+     "lesson": "lesson-c3-1"
+    },
+    {
+     "id": "i-c3-2",
+     "kind": "section",
+     "title": "Out of your usual surroundings",
+     "minutes": 9,
+     "idea": "Without cues, choose consciously.",
+     "lesson": "lesson-c3-2"
+    },
+    {
+     "id": "i-c3-3",
+     "kind": "section",
+     "title": "Picture it, tag its value",
+     "minutes": 9,
+     "idea": "Picture it vividly; know why it matters.",
+     "lesson": "lesson-c3-3"
+    },
+    {
+     "id": "i-c3-4",
+     "kind": "section",
+     "title": "The prison of old patterns",
+     "minutes": 9,
+     "idea": "See old patterns; question them.",
+     "lesson": "lesson-c3-4"
+    },
+    {
+     "id": "i-c3-w",
+     "kind": "workshop",
+     "title": "Workshop: My obvious cue, my picture, my old pattern",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One obvious cue with time and place.",
+      "One thing I will picture in detail and why it matters.",
+      "One old pattern I will question."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c4",
+   "title": "Elimination, presence and the people around you",
+   "minutes": 56,
+   "week_from": 4,
+   "week_to": 4,
+   "items": [
+    {
+     "id": "i-c4-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you remove the cue instead of fighting it?",
+       "item": "i-c4-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you be fully present for ten minutes?",
+       "item": "i-c4-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you choose who shapes your habits?",
+       "item": "i-c4-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c4-1",
+     "kind": "section",
+     "title": "Take it out of sight",
+     "minutes": 9,
+     "idea": "Take the cue out of sight.",
+     "lesson": "lesson-c4-1"
+    },
+    {
+     "id": "i-c4-2",
+     "kind": "section",
+     "title": "Presence and attention",
+     "minutes": 9,
+     "idea": "Be present; return to your object.",
+     "lesson": "lesson-c4-2"
+    },
+    {
+     "id": "i-c4-3",
+     "kind": "section",
+     "title": "People are triggers too",
+     "minutes": 9,
+     "idea": "Choose the people who trigger your best habits.",
+     "lesson": "lesson-c4-3"
+    },
+    {
+     "id": "i-c4-4",
+     "kind": "section",
+     "title": "Clear the clutter for your team",
+     "minutes": 9,
+     "idea": "Create presence, give the why.",
+     "lesson": "lesson-c4-4"
+    },
+    {
+     "id": "i-c4-w",
+     "kind": "workshop",
+     "title": "Workshop: My removal, my practice, my people",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One cue I will take out of sight.",
+      "One daily practice to return my attention.",
+      "The three people who shape my habits."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c5",
+   "title": "Anticipation, becoming the character and the greatest day",
+   "minutes": 56,
+   "week_from": 5,
+   "week_to": 5,
+   "items": [
+    {
+     "id": "i-c5-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you plan more than you act?",
+       "item": "i-c5-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you treat your goal as a journey?",
+       "item": "i-c5-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your beliefs about money?",
+       "item": "i-c5-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c5-1",
+     "kind": "section",
+     "title": "Anticipation feels safer than action",
+     "minutes": 9,
+     "idea": "Plans carry no risk; act on inputs.",
+     "lesson": "lesson-c5-1"
+    },
+    {
+     "id": "i-c5-2",
+     "kind": "section",
+     "title": "A journey, not a destination",
+     "minutes": 9,
+     "idea": "Work in progress; act as who you are becoming.",
+     "lesson": "lesson-c5-2"
+    },
+    {
+     "id": "i-c5-3",
+     "kind": "section",
+     "title": "What you believe about wealth",
+     "minutes": 9,
+     "idea": "Find hidden beliefs; define wealthy yourself.",
+     "lesson": "lesson-c5-3"
+    },
+    {
+     "id": "i-c5-4",
+     "kind": "section",
+     "title": "The greatest day of your life",
+     "minutes": 9,
+     "idea": "Say who you are; let actions show it.",
+     "lesson": "lesson-c5-4"
+    },
+    {
+     "id": "i-c5-w",
+     "kind": "workshop",
+     "title": "Workshop: My input, my character, my definition",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One input I will do today instead of planning.",
+      "The character I am becoming and three behaviors.",
+      "My own definition of wealthy."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c6",
+   "title": "Circles, desire and gratitude",
+   "minutes": 56,
+   "week_from": 6,
+   "week_to": 6,
+   "items": [
+    {
+     "id": "i-c6-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you choose the circles that shape your habits?",
+       "item": "i-c6-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know whose reality you compare yourself with?",
+       "item": "i-c6-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you set your values and priorities each morning?",
+       "item": "i-c6-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c6-1",
+     "kind": "section",
+     "title": "Three circles and desire",
+     "minutes": 9,
+     "idea": "Choose your circles; know your desire.",
+     "lesson": "lesson-c6-1"
+    },
+    {
+     "id": "i-c6-2",
+     "kind": "section",
+     "title": "Exaggerated versions of reality",
+     "minutes": 9,
+     "idea": "Know whose reality you chase.",
+     "lesson": "lesson-c6-2"
+    },
+    {
+     "id": "i-c6-3",
+     "kind": "section",
+     "title": "Three things each morning",
+     "minutes": 9,
+     "idea": "Gratitude, values and priorities.",
+     "lesson": "lesson-c6-3"
+    },
+    {
+     "id": "i-c6-4",
+     "kind": "section",
+     "title": "Gratitude and meaningful coincidence",
+     "minutes": 9,
+     "idea": "Start the day with gratitude.",
+     "lesson": "lesson-c6-4"
+    },
+    {
+     "id": "i-c6-w",
+     "kind": "workshop",
+     "title": "Workshop: My circle, my morning three, my gratitude",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The circle I will join or build.",
+      "My three morning things.",
+      "Ten things I am grateful for, anchored to a cue."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c7",
+   "title": "Praise the process: culture and team",
+   "minutes": 56,
+   "week_from": 7,
+   "week_to": 7,
+   "items": [
+    {
+     "id": "i-c7-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you praise effort and process?",
+       "item": "i-c7-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you say we more than I?",
+       "item": "i-c7-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your warning signs for hiring?",
+       "item": "i-c7-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c7-1",
+     "kind": "section",
+     "title": "Praise the process",
+     "minutes": 9,
+     "idea": "Praise effort, not the person.",
+     "lesson": "lesson-c7-1"
+    },
+    {
+     "id": "i-c7-2",
+     "kind": "section",
+     "title": "From I to we",
+     "minutes": 9,
+     "idea": "Say we; share processes.",
+     "lesson": "lesson-c7-2"
+    },
+    {
+     "id": "i-c7-3",
+     "kind": "section",
+     "title": "Hiring for culture",
+     "minutes": 9,
+     "idea": "Hire for attitude and coachability.",
+     "lesson": "lesson-c7-3"
+    },
+    {
+     "id": "i-c7-4",
+     "kind": "section",
+     "title": "When the team misses the goal",
+     "minutes": 9,
+     "idea": "Do not isolate; give roles; build trust.",
+     "lesson": "lesson-c7-4"
+    },
+    {
+     "id": "i-c7-w",
+     "kind": "workshop",
+     "title": "Workshop: My praise, my we, my hire list",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One process I will praise and how.",
+      "Three we sentences for my team.",
+      "My three characteristics and three warning signs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c8",
+   "title": "Planning, models and the people around you",
+   "minutes": 56,
+   "week_from": 8,
+   "week_to": 8,
+   "items": [
+    {
+     "id": "i-c8-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you start what you plan?",
+       "item": "i-c8-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you choose models and take only the good?",
+       "item": "i-c8-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you test your assumptions about people?",
+       "item": "i-c8-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c8-1",
+     "kind": "section",
+     "title": "Planning and acting",
+     "minutes": 9,
+     "idea": "Mindset, picture, process, decide.",
+     "lesson": "lesson-c8-1"
+    },
+    {
+     "id": "i-c8-2",
+     "kind": "section",
+     "title": "Models of excellence",
+     "minutes": 9,
+     "idea": "Take the good, leave the bad.",
+     "lesson": "lesson-c8-2"
+    },
+    {
+     "id": "i-c8-3",
+     "kind": "section",
+     "title": "The environment of relationships",
+     "minutes": 9,
+     "idea": "Choose relationships that improve you.",
+     "lesson": "lesson-c8-3"
+    },
+    {
+     "id": "i-c8-4",
+     "kind": "section",
+     "title": "Intent needs structure and people",
+     "minutes": 9,
+     "idea": "Turn intent into action and structure.",
+     "lesson": "lesson-c8-4"
+    },
+    {
+     "id": "i-c8-w",
+     "kind": "workshop",
+     "title": "Workshop: My decision, my models, my structure",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The decision that starts my plan.",
+      "Three models and one thing from each.",
+      "The structure I carry with me."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c9",
+   "title": "Two-minute starts, states and memories",
+   "minutes": 56,
+   "week_from": 9,
+   "week_to": 9,
+   "items": [
+    {
+     "id": "i-c9-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you start habits in two minutes?",
+       "item": "i-c9-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your resourceful state?",
+       "item": "i-c9-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you use the same discipline everywhere?",
+       "item": "i-c9-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c9-1",
+     "kind": "section",
+     "title": "The two-minute rule",
+     "minutes": 9,
+     "idea": "Start with two minutes; set the object out.",
+     "lesson": "lesson-c9-1"
+    },
+    {
+     "id": "i-c9-2",
+     "kind": "section",
+     "title": "A resourceful state",
+     "minutes": 9,
+     "idea": "Notice your state; come from clarity.",
+     "lesson": "lesson-c9-2"
+    },
+    {
+     "id": "i-c9-3",
+     "kind": "section",
+     "title": "Discipline at work and at home",
+     "minutes": 9,
+     "idea": "Use work discipline at home.",
+     "lesson": "lesson-c9-3"
+    },
+    {
+     "id": "i-c9-4",
+     "kind": "section",
+     "title": "Memory management",
+     "minutes": 9,
+     "idea": "Learn from the negative; manage memories.",
+     "lesson": "lesson-c9-4"
+    },
+    {
+     "id": "i-c9-w",
+     "kind": "workshop",
+     "title": "Workshop: My two minutes, my state, my memory",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My two-minute start and the object I set out.",
+      "My resourceful state and what brings it.",
+      "One memory I will keep in a more useful way."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c10",
+   "title": "Commitment devices, one-job places and the four laws",
+   "minutes": 56,
+   "week_from": 10,
+   "week_to": 10,
+   "items": [
+    {
+     "id": "i-c10-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you use choices now to control later?",
+       "item": "i-c10-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Does each place do only one job?",
+       "item": "i-c10-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Does your team have structure and identity?",
+       "item": "i-c10-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c10-1",
+     "kind": "section",
+     "title": "Commitment devices",
+     "minutes": 9,
+     "idea": "Make bad habits hard.",
+     "lesson": "lesson-c10-1"
+    },
+    {
+     "id": "i-c10-2",
+     "kind": "section",
+     "title": "One place, one job",
+     "minutes": 9,
+     "idea": "One place, one job; keep your rituals.",
+     "lesson": "lesson-c10-2"
+    },
+    {
+     "id": "i-c10-3",
+     "kind": "section",
+     "title": "Structure, safety and the unit",
+     "minutes": 9,
+     "idea": "Give structure; build cohesion.",
+     "lesson": "lesson-c10-3"
+    },
+    {
+     "id": "i-c10-4",
+     "kind": "section",
+     "title": "Four laws and their opposites",
+     "minutes": 9,
+     "idea": "Use the four laws; invert for bad habits.",
+     "lesson": "lesson-c10-4"
+    },
+    {
+     "id": "i-c10-w",
+     "kind": "workshop",
+     "title": "Workshop: My device, my place, my inventory",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One commitment device I will set.",
+      "One place or hour for one job.",
+      "An inventory with the four laws for one task."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c11",
+   "title": "Identity, rewards and the inner voice",
+   "minutes": 56,
+   "week_from": 11,
+   "week_to": 11,
+   "items": [
+    {
+     "id": "i-c11-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know the identity behind your habit?",
+       "item": "i-c11-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your rewards fit who you want to be?",
+       "item": "i-c11-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where your habits come from?",
+       "item": "i-c11-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c11-1",
+     "kind": "section",
+     "title": "Incentives start, identity sustains",
+     "minutes": 9,
+     "idea": "Identity keeps a habit going.",
+     "lesson": "lesson-c11-1"
+    },
+    {
+     "id": "i-c11-2",
+     "kind": "section",
+     "title": "Rewards that fit your identity",
+     "minutes": 9,
+     "idea": "Reward the process; fit the reward.",
+     "lesson": "lesson-c11-2"
+    },
+    {
+     "id": "i-c11-3",
+     "kind": "section",
+     "title": "Habit or identity first",
+     "minutes": 9,
+     "idea": "Know where a habit comes from.",
+     "lesson": "lesson-c11-3"
+    },
+    {
+     "id": "i-c11-4",
+     "kind": "section",
+     "title": "The voice and its questions",
+     "minutes": 9,
+     "idea": "Name your voice; ask better questions.",
+     "lesson": "lesson-c11-4"
+    },
+    {
+     "id": "i-c11-w",
+     "kind": "workshop",
+     "title": "Workshop: My identity, my reward, my question",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The identity behind my habit.",
+      "A reward that fits it.",
+      "The question I will ask myself tomorrow."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c12",
+   "title": "Tracking, spending and time",
+   "minutes": 56,
+   "week_from": 12,
+   "week_to": 12,
+   "items": [
+    {
+     "id": "i-c12-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you track a habit you want to build?",
+       "item": "i-c12-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what your spending says about you?",
+       "item": "i-c12-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your money habits pay you back?",
+       "item": "i-c12-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c12-1",
+     "kind": "section",
+     "title": "Two jars and a calendar",
+     "minutes": 9,
+     "idea": "Track what you want to build.",
+     "lesson": "lesson-c12-1"
+    },
+    {
+     "id": "i-c12-2",
+     "kind": "section",
+     "title": "What spending reveals",
+     "minutes": 9,
+     "idea": "Read your spending like a diary.",
+     "lesson": "lesson-c12-2"
+    },
+    {
+     "id": "i-c12-3",
+     "kind": "section",
+     "title": "Habits that pay interest",
+     "minutes": 9,
+     "idea": "Make habits that pay interest.",
+     "lesson": "lesson-c12-3"
+    },
+    {
+     "id": "i-c12-4",
+     "kind": "section",
+     "title": "Time and freedom",
+     "minutes": 9,
+     "idea": "Aim for time and freedom.",
+     "lesson": "lesson-c12-4"
+    },
+    {
+     "id": "i-c12-w",
+     "kind": "workshop",
+     "title": "Workshop: My count, my spending, my time",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One thing I will count every day.",
+      "What my spending says and what I will change.",
+      "What time and freedom would look like."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c13",
+   "title": "Pain, accountability and inherited habits",
+   "minutes": 47,
+   "week_from": 13,
+   "week_to": 13,
+   "items": [
+    {
+     "id": "i-c13-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you add an immediate cost to a bad habit?",
+       "item": "i-c13-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where your accountability began?",
+       "item": "i-c13-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know which habits are really yours?",
+       "item": "i-c13-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c13-1",
+     "kind": "section",
+     "title": "Pain is a teacher",
+     "minutes": 9,
+     "idea": "Add an immediate cost; ask someone to watch.",
+     "lesson": "lesson-c13-1"
+    },
+    {
+     "id": "i-c13-2",
+     "kind": "section",
+     "title": "Where accountability starts",
+     "minutes": 9,
+     "idea": "Accountability starts early; give choices.",
+     "lesson": "lesson-c13-2"
+    },
+    {
+     "id": "i-c13-3",
+     "kind": "section",
+     "title": "Whose habits are these?",
+     "minutes": 9,
+     "idea": "Sort yours from inherited.",
+     "lesson": "lesson-c13-3"
+    },
+    {
+     "id": "i-c13-w",
+     "kind": "workshop",
+     "title": "Workshop: My cost, my choice, my inventory",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One immediate cost for a bad habit.",
+      "One choice I will give someone.",
+      "My habits sorted into mine and inherited."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c14",
+   "title": "Your field, your voices and congruence",
+   "minutes": 56,
+   "week_from": 14,
+   "week_to": 14,
+   "items": [
+    {
+     "id": "i-c14-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you compete in the field that fits you?",
+       "item": "i-c14-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you interrupt your inner critic?",
+       "item": "i-c14-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your habits fit your wiring?",
+       "item": "i-c14-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c14-1",
+     "kind": "section",
+     "title": "Pick your field",
+     "minutes": 9,
+     "idea": "Pick the field that fits; recreate your frame.",
+     "lesson": "lesson-c14-1"
+    },
+    {
+     "id": "i-c14-2",
+     "kind": "section",
+     "title": "The inner critic and its policeman",
+     "minutes": 9,
+     "idea": "Interrupt the critic.",
+     "lesson": "lesson-c14-2"
+    },
+    {
+     "id": "i-c14-3",
+     "kind": "section",
+     "title": "Habits that fit your wiring",
+     "minutes": 9,
+     "idea": "Build habits that fit you.",
+     "lesson": "lesson-c14-3"
+    },
+    {
+     "id": "i-c14-4",
+     "kind": "section",
+     "title": "Congruence",
+     "minutes": 9,
+     "idea": "Be congruent; master one skill.",
+     "lesson": "lesson-c14-4"
+    },
+    {
+     "id": "i-c14-w",
+     "kind": "workshop",
+     "title": "Workshop: My field, my policeman, my congruence",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The field where my gifts count most.",
+      "What my policeman says to my critic.",
+      "What I will remove because it is incongruent."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c15",
+   "title": "Boredom, get-to and passing it on",
+   "minutes": 56,
+   "week_from": 15,
+   "week_to": 15,
+   "items": [
+    {
+     "id": "i-c15-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Is your work at the edge of your ability?",
+       "item": "i-c15-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you say get to?",
+       "item": "i-c15-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you stay through the hard part?",
+       "item": "i-c15-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c15-1",
+     "kind": "section",
+     "title": "The Goldilocks rule and boredom",
+     "minutes": 9,
+     "idea": "Work at the edge of your ability.",
+     "lesson": "lesson-c15-1"
+    },
+    {
+     "id": "i-c15-2",
+     "kind": "section",
+     "title": "Have to, or get to",
+     "minutes": 9,
+     "idea": "Say get to; block time; regulate the swing.",
+     "lesson": "lesson-c15-2"
+    },
+    {
+     "id": "i-c15-3",
+     "kind": "section",
+     "title": "Staying with the hard part",
+     "minutes": 9,
+     "idea": "Stay through the boredom; own the commitment.",
+     "lesson": "lesson-c15-3"
+    },
+    {
+     "id": "i-c15-4",
+     "kind": "section",
+     "title": "Pass it on by leading and asking",
+     "minutes": 9,
+     "idea": "Regulate yourself; ask what matters to them.",
+     "lesson": "lesson-c15-4"
+    },
+    {
+     "id": "i-c15-w",
+     "kind": "workshop",
+     "title": "Workshop: My edge, my get-to, my question",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "A task at the edge of my ability.",
+      "Three have-tos rewritten as get-tos.",
+      "One question that matters to someone I lead."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-c16",
+   "title": "Awareness, defining moments and one small change",
+   "minutes": 47,
+   "week_from": 16,
+   "week_to": 16,
+   "items": [
+    {
+     "id": "i-c16-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you notice cues before you crave?",
+       "item": "i-c16-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you see the small decisions behind big moments?",
+       "item": "i-c16-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you keep one small change going?",
+       "item": "i-c16-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-c16-1",
+     "kind": "section",
+     "title": "Awareness before desire",
+     "minutes": 9,
+     "idea": "Notice before you want.",
+     "lesson": "lesson-c16-1"
+    },
+    {
+     "id": "i-c16-2",
+     "kind": "section",
+     "title": "Little decisions and defining moments",
+     "minutes": 9,
+     "idea": "Little decisions add up.",
+     "lesson": "lesson-c16-2"
+    },
+    {
+     "id": "i-c16-3",
+     "kind": "section",
+     "title": "One small change, kept",
+     "minutes": 9,
+     "idea": "One small change, repeated.",
+     "lesson": "lesson-c16-3"
+    },
+    {
+     "id": "i-c16-w",
+     "kind": "workshop",
+     "title": "Workshop: My cue, my decision, my coin",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "A cue I will notice before the craving.",
+      "A decision I will take in an instant.",
+      "My one small change and its date."
+     ]
+    }
+   ]
+  }
+ ],
+ "slots": [],
+ "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+}

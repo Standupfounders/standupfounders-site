@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a21-3",
+ "title": "Questions that reveal",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What question would tell you most about someone, without making them feel hunted?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Be conversational",
+   "lines": [
+    {
+     "text": "In an interview, Jose said, we have so little time to analyze somebody. You better be good at the questions you ask. You don't want to ask like some intelligence agent, in a threatening way. You want to be very conversational.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I would ask more questions and talk about myself. Another said: if the answer is too romantic, that is a good sign to move to a harder question, like: what was the big challenge you faced and how did you overcome it? What is one you couldn't overcome?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said you can preface it with a disclaimer: do you mind if I don't use an orthodox way to interview, and we just talk? That is preparing the territory.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Questions that reveal",
+   "lines": [
+    {
+     "text": "A student suggested: describe a time when you were unable to provide the value you thought you could bring to a situation. If somebody romanticizes what they have done, it makes them uncomfortable because they didn't rehearse that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: tell me about your failures and how you worked them out. Jose said: those are very good. Give me three of the most successful moments of your life. That will tell you a lot about a person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said you should have five or six revealing questions that help you filter. Everybody will have their own style and selection.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Signs",
+   "lines": [
+    {
+     "text": "Jose said that people who don't acknowledge the negative hide from it, blame their external environment, and say: the economy did this. That is the person who victimizes themselves. Imagine an investor who invests in you and you say: we lost all the money because of the economy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: they never think they are in the wrong. Even a simple shift to the idea that they could be wrong makes them defensive. Jose said: people who don't apologize are another sign.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked: do you look at it as someone can change, or that people come as they are? If they don't acknowledge any room to change, that is an early indicator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What would you ask, and how would you ask it so that the person feels respected?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write five questions you would ask a possible partner.",
+   "Write how you would say them so they feel respected.",
+   "Write the answer that would worry you.",
+   "Write what you would want to hear about their failures.",
+   "Write three of your own most successful moments."
+  ]
+ },
+ "check": [
+  {
+   "q": "What kind of interview did Jose say to aim for?",
+   "choices": [
+    "Very conversational, not threatening",
+    "A cross-examination",
+    "A written test only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student suggest asking about?",
+   "choices": [
+    "A time they could not provide the value they thought they could",
+    "Their salary",
+    "Their hobbies"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about people who blame their environment?",
+   "choices": [
+    "They victimize themselves, and that is a warning sign",
+    "They are honest",
+    "They are always right"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask conversational, revealing questions. Listen for blame and for no apology.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

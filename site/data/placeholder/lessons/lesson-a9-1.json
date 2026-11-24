@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a9-1",
+ "title": "The make-or-break moment",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would make you say: I will do this at all costs?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The make-or-break moment",
+   "lines": [
+    {
+     "text": "A student said the person in the book is at the make-or-break moment. Most weaker men would turn back, but he puts all his chips on the table and burns the boats. He is committed to his vision at all costs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he sets an ultimatum in his head: I will do it at all costs. Where does he get that fortitude, and how taxing is it for him? Here he is, with two companies about to go bankrupt. How does he act under this stress?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said he uses the fate of humankind as his motivator. Inside, they said, he is under strain, but in that time he is most focused, clear and alert. He uses the stress and is dialed in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Calm in front of others",
+   "lines": [
+    {
+     "text": "There are two things leaders do under enormous stress, Jose said, and we see great entrepreneurs go through this. With all that suffering, when he talks to other people he talks in a calm way: we have the parts for the next rocket, let's get right back to it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose then read what an employee said about him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I think most of us would have followed him to the gates of hell carrying Suntan oil.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "What a statement, Jose said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you are under stress, how do you sound to the people who follow you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the moment in your work when you would burn the boats.",
+   "Write the ultimatum you would set yourself.",
+   "Write how you sound to your team when you are under stress.",
+   "Write what motivates you beyond money.",
+   "Write what a member of your team would say about following you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say the person is doing at the make-or-break moment?",
+   "choices": [
+    "Putting all his chips on the table",
+    "Turning back",
+    "Asking for time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Jose say the person talks to other people under stress?",
+   "choices": [
+    "In a calm way",
+    "Angrily",
+    "Not at all"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say stress did for his focus?",
+   "choices": [
+    "It made him clear and alert",
+    "It scattered him",
+    "It slowed him"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Set your ultimatum. Stay calm in front of the people who follow you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

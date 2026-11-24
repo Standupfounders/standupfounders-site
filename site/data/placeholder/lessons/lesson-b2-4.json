@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "lesson-b2-4",
+ "title": "Smart money and dumb money",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who has a say in your business? Did you choose them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Smart money and dumb money",
+   "lines": [
+    {
+     "text": "A student asked if voting shares are valued differently. Jose said no, but they carry votes. If you buy a certain amount of equity, you also buy a seat on the board, and you negotiate for it. The founder can say no.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "As entrepreneurs, Jose said, we have what you call smart money and dumb money. Sometimes the money invested in your company comes from somebody strategic, a mentor, somebody who is going to help you advance the company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you take on votes, he said, you need to make sure you value those people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave the example of one of the best-known founders, who took on more money and more shareholders, lost control of the board, and was fired from his own company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A board",
+   "lines": [
+    {
+     "text": "You want a board, Jose said, because, number one, it gives stability to your business. Number two, it gives investors a safety: it is not just one person making major decisions. There is a board of seasoned people who understand the industry.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So there is a balance, he said: putting together a board of people you can listen to, and losing control of your company, which is the other extreme.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked: isn't it best to own the majority and let people you trust be your board? Jose said he believes wholeheartedly in having a board of advisors. I love to ask people's opinion, and to get feedback before I make a major decision. That is my personal thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "I know friends of mine who are comfortable making a decision on their own, he said. So there is a real balance there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells the chapter, the author was growing fast, from billboards to radio to television in a year, and his conservative board saw all the signs of danger and risk. Jose said we will see how much he is calculating his risk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Remember, Jose said, advertising is the first thing an economy cuts when there is a recession. It is a very vulnerable business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is on your board of advisors?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people whose opinion you ask before a big decision.",
+   "Write who gives you more than money or help: a mentor.",
+   "Write one person you would not give a vote to, and why.",
+   "Write what a board of advisors would help you avoid.",
+   "Write one decision you will ask for feedback on this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say smart money is?",
+   "choices": [
+    "Money from somebody strategic, like a mentor, who helps advance the company",
+    "Money kept in a bank",
+    "Money borrowed from friends"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did Jose say you want a board?",
+   "choices": [
+    "It gives stability and safety, so one person isn't making every major decision",
+    "It lowers taxes",
+    "It makes the company look big"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Jose like to do before a major decision?",
+   "choices": [
+    "Ask people's opinion and get feedback",
+    "Wait a year",
+    "Decide alone"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose who has a say. Take smart money, and keep a balance between advice and control.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

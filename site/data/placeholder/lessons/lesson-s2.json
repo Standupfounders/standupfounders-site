@@ -1,0 +1,177 @@
+{
+ "schema": 1,
+ "id": "lesson-s2",
+ "title": "A speed-based goal",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "You have a goal. You have a finish line. But how fast do you want to get there? Most of us never decide.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Momentum",
+   "lines": [
+    {
+     "text": "Jose said that early in the morning he talks to himself. Today I am going to develop real clarity in everything I do. I am going to stay positive. I am going to be a better communicator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you talk to yourself that way, he said, you kind of develop momentum.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He added something to the book. The book doesn't talk about momentum, he said, but that is how we identify the pace the founder is at.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I call it a speed-based goal",
+   "lines": [
+    {
+     "text": "Momentum is something the founder is always gauging, Jose said. I call it a speed-based goal. I am always conscious of how fast we are going to get there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Time is a fight",
+   "lines": [
+    {
+     "text": "A student said it always feels like there is not enough time. Jose did not quite agree. He said the founder thinks people don't understand that you have to fight against time. It is an unrelenting fight.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "So what is your definition of time, Jose asked, and how do you define it in the culture of your company?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When people say I don't have enough time, he said, what they are really saying is that they don't know how to manage their time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How far ahead can you see?",
+   "lines": [
+    {
+     "text": "A lot of people see the potential when they are a few visible steps away from it. Very few see it when they are far away. That, Jose said, is the definition of a visionary.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a man whose great-grandfather always talked about a hundred years after he was dead. He bought land and planned a hundred years ahead.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where is your limit, Jose asked. Ten years ahead, twenty, fifty? Some people live day to day, and he said there is a beauty in that as well.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why can't I say we are going to make twenty million?",
+   "lines": [
+    {
+     "text": "What is the speed of our goals, he asked? Is everybody on my speed, or on their own? Why do I say five million? Why can't I say twenty million, and force my behavior to go after it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Clarity of intent comes first. If you have clarity of intent, you can break it down into specific actions. And if you break it down into specific actions, you are more likely to take action.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where is your goal's speed today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one goal with a number on it.",
+   "Write a date for it.",
+   "Ask Jose's question: why that number and not a bigger one? Write your answer.",
+   "Write the first specific action you will take this week.",
+   "Write how far ahead you usually plan: a year, ten years, a day. Is that the limit you want?"
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say 'I don't have enough time' really means?",
+   "choices": [
+    "I don't know how to manage my time",
+    "I have too many friends",
+    "I should work faster"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does a speed-based goal ask besides what you want?",
+   "choices": [
+    "Who else wants it",
+    "How fast you will get there",
+    "How much it costs"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "According to Jose, what makes you more likely to take action?",
+   "choices": [
+    "Clarity of intent broken down into specific actions",
+    "A bigger reward",
+    "A longer deadline"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "A goal has a speed. Make your intent clear, then break it into actions.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

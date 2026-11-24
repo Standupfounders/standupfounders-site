@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a1-5",
+ "title": "What is strategy?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do that nobody else in your field does?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is strategy?",
+   "lines": [
+    {
+     "text": "Jose asked: what is strategy in business? A student said: route planning, with contingencies and a desired outcome in mind. Jose said: that's pretty close, but that's more the definition of milestones. Another said: like chess, getting into the other person's mind and overcoming anticipated obstacles.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In a business you have two different things, Jose said: strategy and operational effectiveness. Operations is your job descriptions, what you're doing day to day. You need strategy to run a good operation, and you need a good operation to run a good strategy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I haven't really thought about this definition, he said, I'm brainstorming with you. But I would say it's a unique and valuable positioning involving a different set of activities. It is doing something other companies are not doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The activities have to drive the strategy",
+   "lines": [
+    {
+     "text": "Think of a famous technology company, he said. Innovation, extreme customer focus, the preferences of consumers. Then my entire operation has teams innovating, thinking about customer focus. The activities we do day to day have to be driving that strategy, and they have to be different from other companies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A sports brand, he said, is about storytelling and an emotional connection, aspirational. An energy drink brand's mission is giving wings to people and ideas, going to the extreme. A fast food chain was the first restaurant in the world where you could go in and out and get a meal without sitting down. That is strategy. The simpler your strategy is, the better.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you are strategic, he said, you are only effective if you turn it into an operation: day-to-day activities times the thousands of employees. You don't become successful as an entrepreneur if you just stay in strategy. A student said: you have to operationalize everything to hand it off. Jose said: I think ninety-nine percent of businesses fail because they don't turn it into a good operation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What are we doing that nobody else is doing?",
+   "lines": [
+    {
+     "text": "Jose gave his own company as an example: erosion control. We come out and do a study free of charge and help you become aware if you have an erosion problem. We help you identify it before you have a bigger problem. And we are agnostic to solutions: we look at the problem, then find the solution. Everybody else has an array of products.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student described their own difference: the output is design, but the effort behind it is all about their business and operations. Jose said: that is your strategy. They are going to meet a bunch of companies that come with the same offer. The difference is you consider how the digital bridges with their operations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the unique and valuable thing your activities do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you do that other people in your field do not.",
+   "Write the three day-to-day activities that drive it.",
+   "Write the strategy in one simple sentence.",
+   "Write who runs the operation so you don't stay only in strategy.",
+   "Write the problem you look at before you offer a product."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose describe strategy?",
+   "choices": [
+    "A unique and valuable positioning involving a different set of activities",
+    "A plan with deadlines",
+    "A big budget"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you need to be effective as a strategic person?",
+   "choices": [
+    "To turn strategy into an operation",
+    "More ideas",
+    "More staff only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about how simple a strategy should be?",
+   "choices": [
+    "The simpler, the better",
+    "Very complex",
+    "Secret"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Strategy is doing something different and valuable. Turn it into an operation.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

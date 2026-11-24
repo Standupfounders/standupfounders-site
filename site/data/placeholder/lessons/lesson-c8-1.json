@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c8-1",
+ "title": "Planning and acting",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you planning to avoid acting, or acting without a plan?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Four steps",
+   "lines": [
+    {
+     "text": "Jose described a four-step bootcamp he teaches to young people between ten and eighteen. Step one is mindset: I can, I will. Step two is visualization of your dream and goals, very specifically, with journaling. Step three is process: the business plan, financial plan and job descriptions. Step four is execution, which boils down to making decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said we have taken action before planning, and planned without taking action. Where do you think the balance is?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Planning against doing",
+   "lines": [
+    {
+     "text": "A student said: at the start I wanted the presentations and the website perfect, and there were always excuses that I was not ready. Letting that go and just doing it, posting and walking into stores and talking to people, was much better, because what I was thinking was not reality, only what I thought was reality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that people who are very organized and granular, and people who act now, create tension, and that there will always be that tension in a company. He said he had planned and not acted on a book he had been writing for years, out of fear of failure.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: not everyone is the best at everything. If there were a bunch of Joses in a company it would be crazy. People who balance each other make a team better than one person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Don't drink the Kool-Aid",
+   "lines": [
+    {
+     "text": "Jose said that an older mentor told him he was there to make sure that when Jose had an idea he was not drinking the Kool-Aid, intoxicated with an idea only he lived in. That is why you put together a board of advisors and friends whose opinion you respect.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is your reality check, and would you listen?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a plan you have not started.",
+   "Write the decision that would start it.",
+   "Write who is your opposite on this and what they would say.",
+   "Write who could be your reality check.",
+   "Write the first action for today."
+  ]
+ },
+ "check": [
+  {
+   "q": "What is step four of Jose's bootcamp?",
+   "choices": [
+    "Execution",
+    "Mindset",
+    "Process"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say was not reality?",
+   "choices": [
+    "What I thought was reality",
+    "The website",
+    "The store"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a board of advisors helps with?",
+   "choices": [
+    "Not drinking the Kool-Aid",
+    "Saving tax",
+    "Hiring staff"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Mindset, picture, process, then decide. Keep a reality check.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

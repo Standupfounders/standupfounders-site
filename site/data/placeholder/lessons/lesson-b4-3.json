@@ -1,0 +1,144 @@
+{
+ "schema": 1,
+ "id": "lesson-b4-3",
+ "title": "There is no 'I lost, and I go home'",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you fail at something, what is the first thing you say to yourself?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He's the little guy",
+   "lines": [
+    {
+     "text": "Jose summed up the end of the last chapter. The author is dealing with regulators and trying to push his content. His philosophy: if a rule doesn't let me do something so logical, it must be a bad rule.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He realizes the monopolies are trying to stop him, Jose said. They have created laws to protect their interests. He wants to be national, not local, so he lobbies the government. He is the little guy, David and Goliath, against the big guys in Congress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose read a line from the author about where he stood.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I was the underdog and entrepreneur trying to compete in a world dominated by all Ollie Gopalas. Right? Television needed an independent voice offering more choice and more variety.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    }
+   ]
+  },
+  {
+   "heading": "There is no 'I lost, and I go home'",
+   "lines": [
+    {
+     "text": "Jose asked: what is the takeaway from the author? Number one, think about his attitude. He is going against the government, the local stations and the big networks. What is his attitude the whole time? A student said: he is determined, and no one is going to fight for you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he is relentless. He is consistent. He works nonstop in everything, even in sailing, which is metaphorical to what is going on in his life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "And in the face of defeat? A student said: he is going to find a way out. Jose agreed. He acknowledges the defeat and then immediately goes: I'm getting up. I'm doing it this way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Our perception of losing should always be, he said: how can I get better? How do I get back on the saddle if I fell off the horse? There is no 'I lost, and I go home' for him. That doesn't exist.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The only thing that exists in his mind is trying and getting there, and trying again. He only engages possibility thinking, not impossibility thinking. That doesn't mean you won't have setbacks. But the possibility of failing at something and not getting it doesn't exist in his head.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you say to yourself after a loss?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one loss or setback from the last year.",
+   "Write what you said to yourself after it.",
+   "Rewrite it the way Jose reads the author: how can I get better? How do I get back on the saddle?",
+   "Write the next try you will make.",
+   "Write what 'possibility thinking' looks like in your work this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the author never does in the face of defeat?",
+   "choices": [
+    "Says 'I lost, and I go home'",
+    "Admits it",
+    "Tries again"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of thinking did Jose say the author engages?",
+   "choices": [
+    "Possibility thinking",
+    "Impossibility thinking",
+    "Short-term thinking"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Jose say our perception of losing should always be?",
+   "choices": [
+    "How can I get better?",
+    "Who is to blame?",
+    "How can I quit?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Have no 'I lost, and I go home'. After a loss, ask how you can get better and try again.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

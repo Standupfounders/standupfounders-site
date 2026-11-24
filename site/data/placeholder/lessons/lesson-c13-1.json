@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c13-1",
+ "title": "Pain is a teacher",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does a bad habit cost you right now, today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pain is a teacher",
+   "lines": [
+    {
+     "text": "Jose said that the chapter says pain is an effective teacher: to get rid of a bad habit, add an immediate consequence so you become aware that the habit causes it. The book's examples are a fee for a late bill and a demerit for lateness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the book proposes a habit contract, and that knowing someone is watching is a powerful motivator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Accountability",
+   "lines": [
+    {
+     "text": "Jose said: you promise to change a habit and you create accountability. People around you say: you said you would do this, and you are not doing it. In his team they set goals together, like a fast for three days or a surge.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that in a surge you are redefining your habits: instead of working eight hours you work sixteen, so you are constantly evolving your habits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: setting the ramifications of not keeping the habit helps, especially when it is a second try, and you need something stronger than internal disappointment: external reinforcement.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The delay problem",
+   "lines": [
+    {
+     "text": "Jose said that you may not feel the consequence of a bad habit until months later, so you do not get the warning or urgency, and some people go their whole lives without a warning sign. He asked everyone: what are your worst habits, and why don't you change them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is a consequence you could add today to a habit you want to drop?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a bad habit.",
+   "Write an immediate cost you could attach to it.",
+   "Write who could watch.",
+   "Write the habit contract in one sentence.",
+   "Write what warning you could set up earlier."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say pain is, in the chapter?",
+   "choices": [
+    "An effective teacher",
+    "A waste",
+    "A reward"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a powerful motivator?",
+   "choices": [
+    "Knowing someone is watching",
+    "Secrecy",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you need beyond internal disappointment?",
+   "choices": [
+    "External reinforcement",
+    "A bigger goal",
+    "A new tool"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Add an immediate cost. Ask someone to watch. Set an early warning.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

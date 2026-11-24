@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-a13-2",
+ "title": "Can AI be decoupled from human will?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If a machine could do your thinking better than you, would you hand it over?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two schools of thought",
+   "lines": [
+    {
+     "text": "Jose said this chapter is very dense, and a pivotal point. There are two schools of thought. One of the two men says: why does it matter if machines surpass human intelligence, even consciousness? It is the next stage of evolution.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The other says that human consciousness is a precious flicker of light in the universe that should never be extinguished. They were friends and now they are not, because of this philosophical conflict.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked a student: where would you be in that? The student said they don't think AI should take over human consciousness. There is a good balance, but it is scary, and a little scary that it is out of our control.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Can AI be decoupled from human will?",
+   "lines": [
+    {
+     "text": "A student said that humans are, mathematically, rather detrimental to their own existence over a long enough time, so a strong enough AI could deduce that a mass population reduction is the best outcome for humanity to survive. They said this idea is used in movies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the question he took from this chapter is: can artificial intelligence be decoupled from human will? That is at the heart of the conflict between the two men. Is there a danger in decoupling artificial intelligence from human will?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you take the power cord off the computer, you can't unplug it suddenly when it has a bug.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said one human mind is no match for a chatbot in the amount of data it can draw on. Can some robot with that capability overtake the intelligence of a human mind to make a decision? That is what we are talking about.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Free will and the platforms",
+   "lines": [
+    {
+     "text": "A student said that free will is already being interfered with. Social media is programming our dopamine centres and we are becoming dependent and addicted. Right now that is human-controlled, but as AI gets more intelligent it could be a different thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "If it controlled the sources where we get all our information, the student said, and our messages and emails, that is profound control and influence over people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another student said it is already used more than a search engine as a source of information, so it is almost a mass information filter. Take the most important information, manipulate it by one degree, and nobody ends up at true north.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Where do you stand on handing decisions to a machine?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write which decisions you would never hand to a machine.",
+   "Write which you already have.",
+   "Write how you check where your information comes from.",
+   "Write what the power cord is in your own use of technology.",
+   "Write your position: next stage of evolution, or a flicker of light to protect."
+  ]
+ },
+ "check": [
+  {
+   "q": "What question did Jose take from this chapter?",
+   "choices": [
+    "Can artificial intelligence be decoupled from human will?",
+    "Can robots dance?",
+    "Who owns the data?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is already happening with social media?",
+   "choices": [
+    "It programs our dopamine centres and makes us dependent",
+    "It makes us free",
+    "It has no effect"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did one view say about machines surpassing humans?",
+   "choices": [
+    "It is the next stage of evolution",
+    "It must never happen",
+    "It is impossible"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know where you stand on handing decisions to machines. Check your information.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

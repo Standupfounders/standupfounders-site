@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a24-1",
+ "title": "Stability around you",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who around you brings stability, and who brings drama?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Surround yourself with stability",
+   "lines": [
+    {
+     "text": "Jose said the lesson from this chapter is: you want to make sure you are surrounded with people who bring you stability, not instability. We do have to look around at our friends and the people we hang out with and decide: is this good energy for me, or bad?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he would paint the chapter about the person in the book's relationships in broad brushstrokes, because it repeats a pattern he has already described: people who attract drama.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Carrying crosses",
+   "lines": [
+    {
+     "text": "This is a big personal challenge for me, Jose said: I'm always helping people and carrying crosses. A kid of eighteen without a good family upbringing, and I bring him to my house and teach him. We have tendencies to carry people, or anchors or situations. We are the giver and somebody else is the taker.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "After a while you have to decide: am I buoyant enough to carry this person? If you are carrying too much weight, you are going to go underwater. Your time is a resource.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I find myself helping three, four, five kids who need a lot of emotional support, he said. Where is that time coming from? Am I taking it away from my family? Can I spare it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whom can you really carry, and what is it costing you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who around you brings stability.",
+   "Write who brings drama.",
+   "Write whom you are carrying and what it costs.",
+   "Write the time you are taking from your family.",
+   "Write one person you will carry less, and how you will say it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to make sure of with the people around you?",
+   "choices": [
+    "That they bring stability, not instability",
+    "That they are rich",
+    "That they are famous"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What image did Jose use for carrying people?",
+   "choices": [
+    "Being buoyant enough",
+    "A heavy bag",
+    "A long road"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call your time?",
+   "choices": [
+    "A resource",
+    "A gift",
+    "A burden"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Surround yourself with stability. Know how much weight you can carry.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

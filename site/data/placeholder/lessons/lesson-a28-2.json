@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-a28-2",
+ "title": "Make it familiar",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the problem you have never visualized solving?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Make it familiar",
+   "lines": [
+    {
+     "text": "When we visualize, Jose said, we don't just do it once. We do it over and over, because we have to enter into the details and the challenges and the conversations we will have. We are teaching the brain to make this reality become familiar. We make our imagination familiar.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How does that affect his leadership style? A student said: the brain can't decipher whether the event is happening or not, so in his leadership style, technically, he has already been there. Jose said: he says, I know we are going to make it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that is how athletes talk about being in flow: it was just happening exactly the way they imagined it. It is the state of flow, when the subconscious takes over and everything you imagined becomes real, and it is familiar.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Anxiety and control",
+   "lines": [
+    {
+     "text": "A student said: when there is a high-stress problem, it keeps me up at night, because I am going through the plays. I see what has happened, what it will result in, and my options. You change the visualization until you get the outcome and have a plan, which brings it back under your control.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Once you have the plan and the solution, the anxiety dissipates, because you feel in control again. I didn't realize why that anxiety happens: it is because of that lack of control, the student said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: when it becomes familiar, the subconscious maximizes the meeting between attention and opportunity. It is the bridge between attention and opportunity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Small steps and care",
+   "lines": [
+    {
+     "text": "He asked a student: what if I said I want you to make our company a million dollars in six months? What if I said: every day you write a list of ten things, and add ten more, and ten more, for the next month? How much closer are you? The student said: much closer when you break it into steps.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that the person in the book has a line he loves, near the end of the chapter, and read it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "precision is not expensive. It's about caring.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Do you care to make it precise? Then you can make it precise, he said. Think how deep that statement is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you break into ten daily steps this week?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a goal that feels unfamiliar.",
+   "Write ten daily steps toward it.",
+   "Add ten more tomorrow, for a month.",
+   "Write what you have already rehearsed in your head.",
+   "Write one thing where you will care enough to make it precise."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say we are teaching the brain when we visualize?",
+   "choices": [
+    "To make the imagined reality familiar",
+    "To forget the problem",
+    "To sleep"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say anxiety comes from?",
+   "choices": [
+    "A lack of control",
+    "Too much sleep",
+    "Too much work"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about precision, reading from the book?",
+   "choices": [
+    "It is not expensive; it is about caring",
+    "It is always expensive",
+    "It is impossible"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Rehearse in detail until it is familiar. Break it into small steps. Care enough to be precise.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

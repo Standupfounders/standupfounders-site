@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-b13-3",
+ "title": "Business is like a road",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Does your next move build the road you are already on, or start a new one?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Streamline",
+   "lines": [
+    {
+     "text": "Jose said that, in a small team, you are vulnerable to getting into the wrong deal. If you get into the wrong deal it could be a year of your time. You don't have a year of time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are the criteria when big companies buy a company, he asked? How quickly does it improve my bottom line? And how are the company's processes already aligned with my processes?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you have momentum and you've got your staff, he said, be careful not to be in a business that changes your existing processes. Use your existing processes to gain more revenue. Keep that streamline and add more revenue using it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Business is like a road",
+   "lines": [
+    {
+     "text": "Business is like a road, Jose said. When they build a road, first they put rock on it, then thinner rock, then they wet it and compact the dirt, then gravel, then the thick tar. They are layering the road. We layer in business too, because we want the car to keep going along that road and get momentum.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If we go to a completely different road, we don't have that speed anymore. We lose the momentum, because we're off the road. We have to build the road again, and it could have many curves we didn't foresee.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So whatever business I acquire, or whatever momentum I'm getting, I want to keep that momentum. The questions for the author: does this build my current business? Does it make me stronger in the marketplace? Does it give me more leverage? Does it give me more security for the future?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Leadership is about accountability, and it starts with yourself",
+   "lines": [
+    {
+     "text": "Jose summed up: so far we have gone into personal leadership, belief systems, and now strategy and operations. Leadership is about accountability, and it starts with yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you are not accountable to yourself, he said, and you are blaming people and circumstances and victimizing yourself, you are never going to get anywhere. The author had a lot of opportunities to victimize himself. The networks had a monopoly. They were lobbying against him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the road you are layering, and what would take you off it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the road you have been building: your process, your clients, your momentum.",
+   "Write a new opportunity you are considering.",
+   "Ask Jose's questions: does it build my current business, make me stronger, give me leverage, give me security?",
+   "Write what it would change in your existing process.",
+   "Decide: add it to your road, or leave it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a wrong deal could cost a small team?",
+   "choices": [
+    "A year of time",
+    "A little money",
+    "A day"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose compare business to?",
+   "choices": [
+    "A road that is layered so the car keeps momentum",
+    "A river",
+    "A ladder"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say leadership starts with?",
+   "choices": [
+    "Being accountable to yourself",
+    "Being rich",
+    "Being the loudest"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep layering the road you are on. Leadership starts with accountability to yourself.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

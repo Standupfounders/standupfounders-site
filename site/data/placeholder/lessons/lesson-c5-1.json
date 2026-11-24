@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c5-1",
+ "title": "Anticipation feels safer than action",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which feels better to you: the plan or the doing?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Making it attractive",
+   "lines": [
+    {
+     "text": "Jose summarized chapter 8: if you want to increase the odds that a behavior will occur, make it more attractive. The goal is to make habits irresistible. Super normal stimuli are heightened versions of reality that increase our desire to take action.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose told a short personal story about a long-held dream he has not yet acted on, and asked why, when he has done other things, he is not doing the one thing he wants above anything else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Anticipation is safe",
+   "lines": [
+    {
+     "text": "A student said: you want to hold on to the sensation, and the book says the anticipation feels better than the action itself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: anticipation is de-risked. There is no risk of failure with anticipation, only with the action. When you become too attached to the outcome in your head, you freeze and avoid the things you need to do. It is outputs against inputs: to get these outputs, put in these inputs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: basically that is fear. A student said: the fear sneaks in and you do not label it as fear, because it does not feel scary.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pipe dream or pipeline",
+   "lines": [
+    {
+     "text": "Another student said it is like people who plan a vacation two years ahead: the planning is as good as the trip, and cancelling is an easy out. It is also why salespeople fill a pipeline with maybes. A pipeline of maybes is a pipe dream; he would rather have three real opportunities than fifteen.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of your plans are maybes you keep because they feel good?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write something you keep planning but not doing.",
+   "Write what the planning gives you.",
+   "Write the risk you avoid by not acting.",
+   "Write the inputs you control.",
+   "Write the first input you will do today."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say anticipation is?",
+   "choices": [
+    "De-risked",
+    "Risky",
+    "Costly"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student call a pipeline full of maybes?",
+   "choices": [
+    "A pipe dream",
+    "A strong pipeline",
+    "A shortcut"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What are super normal stimuli, according to Jose's summary?",
+   "choices": [
+    "Heightened versions of reality that increase our desire",
+    "Normal stimuli",
+    "Boring ones"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Plans feel safe because they carry no risk. Act on the inputs.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

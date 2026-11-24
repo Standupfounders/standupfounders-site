@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-c11-2",
+ "title": "Rewards that fit your identity",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What reward do you give yourself that undoes what you just did?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Short-term rewards for long-term goals",
+   "lines": [
+    {
+     "text": "Jose asked what short-term rewards can carry you toward a long-term goal, as when you start training for something that will take a year. A student said: enjoy the process more than the end result.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the book gives a massage as a short-term reward after hard training.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A reward that fits who you are",
+   "lines": [
+    {
+     "text": "A student described the book's idea of a dedicated bank account: every time you resist the urge to do the habit you are quitting, you put five dollars into a fund for something you want. You are re-anchoring the experience to something satisfying instead of a drain.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that what he learned is: do not reward a hard workout with a treat that goes against your identity. He said that is how we were programmed as children: if you eat your dinner, you get dessert.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is a reward that supports who you want to be?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit you want to keep.",
+   "Write the reward you give yourself now.",
+   "Write whether it supports or undoes your identity.",
+   "Write a reward that supports it.",
+   "Write what you would put in a dedicated fund."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to enjoy more?",
+   "choices": [
+    "The process",
+    "The end result",
+    "The prize"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student describe for rewards?",
+   "choices": [
+    "A dedicated bank account",
+    "A holiday",
+    "A medal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say not to do after a hard workout?",
+   "choices": [
+    "Reward yourself against your identity",
+    "Rest",
+    "Drink water"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Reward the process. Choose rewards that fit who you want to be.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c5-2",
+ "title": "A journey, not a destination",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is your dream a journey or a destination?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A work in progress",
+   "lines": [
+    {
+     "text": "A student said: I would change my mindset and see it as a work in progress, never really complete until the day you die. It is okay to have revisions, and there is no risk in making an effort, ripping the page in half and starting over.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is the trick, make it a journey, not a destination.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Reward before the work",
+   "lines": [
+    {
+     "text": "Jose said that in a film he loves, a man is addicted to adopting new identities as the journey. Jose asked: why not cheat and believe I am already that successful writer? If I believe it, any act I do will never be as powerful as the consciousness that accompanies the act.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is like giving yourself the reward before doing the work. Another said: it is speaking it into existence. It is the essence that gives it power, and then you have to embody it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Become the character",
+   "lines": [
+    {
+     "text": "A student said: build it like a character, with traits, personality, behaviors. Say: this is the person I am striving to become. Add more and more of that character's behaviors to your day until it becomes the fabric of your reality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: you visualize the intention, and then you become the visualization. I really think you become the character.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would a person who has already done this do in the next hour?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a goal you treat as a destination.",
+   "Write how it could be a work in progress.",
+   "Write the character you want to become and three behaviors.",
+   "Write one behavior you will do today as that person.",
+   "Write what you will do if the page needs to be ripped and redone."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to make it?",
+   "choices": [
+    "A journey, not a destination",
+    "A secret",
+    "A race"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about building a character?",
+   "choices": [
+    "Give it traits and behaviors and add them to your day",
+    "Wait for it to appear",
+    "Copy someone"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say it is like?",
+   "choices": [
+    "Giving yourself the reward before the work",
+    "Punishment",
+    "A holiday"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make it a work in progress. Act as the person you are becoming.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

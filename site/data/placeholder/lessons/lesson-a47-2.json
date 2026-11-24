@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a47-2",
+ "title": "When the payer pulls the other way",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Can a business live without the customer who pays the bills?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who pays decides",
+   "lines": [
+    {
+     "text": "A student said: it is free speech against paid speech. Jose said the fundamental question is whether a media outlet can exist and develop a business model without an advertising base.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked whether there is an inherent conflict of interest between the advertisers, the main money source, and publishing what is good for the readership. A student agreed: news organizations all rely on advertising, so he would have to engineer something completely different.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that, little by little, since the turn of the century, advertisers have had more influence on what media publish. He said money is money, and losing it is very hurtful and a major crisis.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ideas the group tried",
+   "lines": [
+    {
+     "text": "A student said: add paid tiers, where the top level removes advertisements, to help make up for the lost advertising.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: give owners of one product in the group an exclusive benefit on another, so the companies feed each other.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he would get the management of every company in the group in a room and ask: how do we fix this one? Draw circles on a blackboard, show what each company does and see where they connect.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said: a network of films, shows and news on the platform, as an idea.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Which of your income sources is pulling your business in a direction you do not want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your main source of income.",
+   "Write what that source would like you to do that you do not want.",
+   "Write one second source you could build.",
+   "Write one pairing inside your own work that could feed each other.",
+   "Write who you would put in the room."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student call the conflict?",
+   "choices": [
+    "Free speech against paid speech",
+    "Old against new",
+    "Big against small"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What would Jose do first?",
+   "choices": [
+    "Put the management of all the companies in a room",
+    "Sell",
+    "Wait"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a paid top tier could do?",
+   "choices": [
+    "Remove advertisements",
+    "Add advertisements",
+    "Close the app"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know who pays. Build a second source. Get the whole team in a room.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

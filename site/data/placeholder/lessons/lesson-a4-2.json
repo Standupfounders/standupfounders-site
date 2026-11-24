@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a4-2",
+ "title": "Founder or CEO?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What job are you best at, and is it the one you hold?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Founder, or CEO?",
+   "lines": [
+    {
+     "text": "A student said the person in the book became the chief technology officer, and thought it would be great. Then he said you actually can't be the chief technology officer unless you are the CEO, because he could not make the decisions himself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: are the founders of a big technology company, scientists and coders, necessarily CEO material? You can be a founder, he said, but not necessarily the CEO, which is a totally different skill set.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Running a company of fifty thousand people is not the same as running a start-up with an idea and ten employees, he said. It's night and day. Maybe someone has the title so they can make management decisions and stick to strategy, and a chief operating officer behind the scenes does the day to day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Don't be insecure",
+   "lines": [
+    {
+     "text": "So that is the second lesson, he said: don't ever be insecure as an entrepreneur that you're not the CEO of your company. You could hire somebody to run it, and you stick to strategy, ideas and the direction of the company. It could be counterproductive for you to be the day-to-day manager.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Be where you are most effective, he said, and don't be afraid to put people who are smarter than you in the key positions. But be very careful. He told of a founder who hired the head of a soft-drink company as CEO, who ended up turning on him: he was not a visionary. The founder was fired from his own company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where are you most effective, and who could do the rest better?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the work where you are most effective.",
+   "Write the work you do only because you think you should.",
+   "Write the skills a CEO needs that a founder may not have.",
+   "Write who you could hire who is smarter than you, and in what role.",
+   "Write what you would check before you hand someone the key role."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about founders and CEOs?",
+   "choices": [
+    "A founder is not necessarily the CEO; it is a different skill set",
+    "They are always the same",
+    "A CEO must be a coder"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do about being CEO?",
+   "choices": [
+    "Don't be insecure about not being CEO; stick to strategy",
+    "Always be CEO",
+    "Never hire anyone"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose warn about when putting a smarter person in a key role?",
+   "choices": [
+    "Be very careful who you pick",
+    "Do not pay them",
+    "Tell no one"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be where you are most effective. Choose the person for the key role with care.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

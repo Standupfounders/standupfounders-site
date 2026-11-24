@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a50-2",
+ "title": "The first dollar",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When does your first dollar come in?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How granular is too granular",
+   "lines": [
+    {
+     "text": "A student said: how granular is too granular before execution? If you are too granular and it borders perfectionism, you almost never get started.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that his one yardstick is: when are you making your first dollar? People come with plans for everything, but where is the priority for the money, and when does it come in? A lot of great ideas stall before that first dollar.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the question made me recognize that we fixate on clients who are slow to start, when we should find those who generate revenue quickly. Once the revenue is coming in, you can figure out the process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Tinkerers and frequency",
+   "lines": [
+    {
+     "text": "Jose said he calls them the tinkerers, or the paper pushers: they plan and plan and then tinker, but they do not go get the money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the frequency of risk-taking and decision-making will eventually take you into the wealth of possibilities. It is all about going out and trying over and over again.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said: you can sit and hypothesize all day about whether you are right, but you do not know until you try it. It is not a slot machine. It is a smart number scheme: make decisions faster.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the first dollar in the thing you are planning, and when does it come?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the first dollar of your current plan.",
+   "Write the date you expect it.",
+   "Write what you are tinkering with instead.",
+   "Write the next small decision you can make today.",
+   "Write how many tries you have made, not planned."
+  ]
+ },
+ "check": [
+  {
+   "q": "What was Jose's one yardstick?",
+   "choices": [
+    "When is your first dollar",
+    "How many pages is the plan",
+    "How big is the team"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call people who plan and plan but do not go get the money?",
+   "choices": [
+    "Tinkerers",
+    "Leaders",
+    "Investors"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about trying?",
+   "choices": [
+    "You do not know until you try it",
+    "Never try",
+    "Wait a year"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find the first dollar. Stop tinkering. Try often.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

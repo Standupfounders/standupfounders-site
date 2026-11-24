@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b23-1",
+ "title": "Give me your top three global concerns",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you could fix three problems in the world, what would they be?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Give me your top three global concerns",
+   "lines": [
+    {
+     "text": "Jose said the author goes through a traumatic event with the merger and goes from nine billion dollars to two billion. And he says, characteristically: don't feel sorry for me, I still have two billion.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is never sitting still, Jose said, as some people at the end of their careers are: I'm just gonna sit and do nothing. He says: now I'm going to tackle world problems. As Jose tells it, he names three that concern him most. Jose asked each student for theirs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: chronic health problems, and pollution. Another said: misinformation, the global health crisis and what is in our food, and the growing population.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Make it part of your branding",
+   "lines": [
+    {
+     "text": "You can pick certain things and make them your mission, Jose said. You don't have to be a billionaire to get involved and give your time. But it should definitely be part of your branding, part of who you are and the message you deliver.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you are specific, he said, you have a mission and you are consistently committed to the cause, how can that harm you? It can only give you more positive impressions from other people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student, on sourcing food: it truly has to be part of what you believe in. I want to know where I'm getting it from. People around you are going to see the benefits. I'm not going to tell you how to live your life. I'm just going to tell you how to live a better one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose's example: you go to a farmers' market, interview somebody, put it on Instagram. Develop a little news channel. Someone researches you before a meeting, and finds your videos about sourcing food, and twenty minutes of an hour meeting becomes a conversation about that. It builds rapport. It shows you have values and are a long-term thinker.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are your top three, and what is your small way to act on one?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your top three global concerns.",
+   "Pick one and make it your mission in one sentence.",
+   "Write one small, consistent action you will take on it.",
+   "Write how you will show it publicly: a short video, a post.",
+   "Write how it will come up in your next meeting."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you don't have to be to get involved in a cause?",
+   "choices": [
+    "A billionaire",
+    "A student",
+    "A leader"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a mission should be part of?",
+   "choices": [
+    "Your branding",
+    "Your taxes",
+    "Your contract"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a video about your cause builds?",
+   "choices": [
+    "Rapport",
+    "Debt",
+    "Distance"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pick a cause, make it part of who you are, and act on it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

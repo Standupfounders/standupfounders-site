@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-a1-3",
+ "title": "We're on a spectrum",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where on the spectrum of risk do you live?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The risk is part of what makes it appealing",
+   "lines": [
+    {
+     "text": "Jose asked: what in our lives has created this entrepreneurial mindset, and what are we doing about establishing those habits, reading and absorbing information, and having a perspective of risk where you say: I am resilient to risk, take that risk away, I'm going to laser focus on the possibilities, not the impossibilities?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I think the risk is part of what makes it so appealing, because almost everybody on this call came from a high-friction childhood. A lack of pressure is almost worse than too much pressure. It's like a dopamine, adrenaline addiction. Make it chaos and I'll be the calmest person in the room.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "We're on a spectrum",
+   "lines": [
+    {
+     "text": "We're on a spectrum, Jose said. Some of us are in an environment with the least chaos and the least risk. Others are in high-risk chaos. Some are in the middle, and other people are super high risk takers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of people who are seventy years old and starting another business that will take ten years. I ask them: why? And they say: Jose, that's my nature. That's why I wake up every day. I'm not feeling alive unless I'm doing something this big.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where on the spectrum are you, and are you happy there?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write where you sit on the spectrum: least chaos, middle, high risk.",
+   "Write what in your childhood put you there.",
+   "Write whether risk feels like an addiction or a choice.",
+   "Write one habit that helps you stay focused on possibilities.",
+   "Write what you would start at seventy, and why not start it now."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say a lack of pressure is?",
+   "choices": [
+    "Almost worse than too much pressure",
+    "Always good",
+    "Impossible"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What image did Jose use for people's relationship with risk?",
+   "choices": [
+    "A spectrum",
+    "A staircase",
+    "A circle"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the seventy-year-olds say about starting a business?",
+   "choices": [
+    "It's their nature; they don't feel alive unless they do something big",
+    "They need the money",
+    "They were told to"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know where you are on the risk spectrum, and why.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

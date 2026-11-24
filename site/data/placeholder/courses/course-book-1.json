@@ -1,0 +1,5189 @@
+{
+ "schema": 1,
+ "id": "course-book-1",
+ "slug": "book-1",
+ "title": "Jose's analysis of a book we are still naming",
+ "label": "Course 1",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "A first course, built from Jose's group calls on one book, in the book's order. The book is not named yet.",
+ "season_note": "A suggested run of about 56 weeks. Suggested dates only: nothing locks.",
+ "weeks": 56,
+ "modules": [
+  {
+   "id": "m-start",
+   "title": "Start Here",
+   "minutes": 30,
+   "week_from": 1,
+   "week_to": 1,
+   "items": [
+    {
+     "id": "i-st1",
+     "kind": "section",
+     "title": "What Stand Up is and how to use it",
+     "minutes": 10,
+     "idea": "Placeholder: a short welcome, how a section works, how saving works. Written for someone with no starting point."
+    },
+    {
+     "id": "i-st2",
+     "kind": "section",
+     "title": "How this course is built",
+     "minutes": 10,
+     "idea": "Placeholder: books, modules, sections, and the suggested pace. Nothing locks."
+    },
+    {
+     "id": "i-st3",
+     "kind": "workshop",
+     "title": "Where I am starting",
+     "minutes": 10,
+     "idea": "Placeholder: three short lines about where you are today.",
+     "steps": [
+      "Placeholder: what I am building or want to build.",
+      "Placeholder: what I already know.",
+      "Placeholder: what I want from this course."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a1",
+   "title": "What were those defining moments?",
+   "minutes": 70,
+   "week_from": 2,
+   "week_to": 2,
+   "items": [
+    {
+     "id": "i-a1-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Can you name your defining childhood moments?",
+       "item": "i-a1-1",
+       "options": [
+        "No",
+        "A few",
+        "Yes"
+       ]
+      },
+      {
+       "q": "What did you hear when you did not know what to do?",
+       "item": "i-a1-2",
+       "options": [
+        "Be careful",
+        "Mixed",
+        "You'll figure it out"
+       ]
+      },
+      {
+       "q": "Do you know where you sit on the risk spectrum?",
+       "item": "i-a1-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you lived in more than two places or cultures?",
+       "item": "i-a1-4",
+       "options": [
+        "No",
+        "Two",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you say your strategy in one simple sentence?",
+       "item": "i-a1-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a1-1",
+     "kind": "section",
+     "title": "What were those defining moments?",
+     "minutes": 9,
+     "idea": "Learn about yourself from another's life.",
+     "lesson": "lesson-a1-1"
+    },
+    {
+     "id": "i-a1-2",
+     "kind": "section",
+     "title": "You'll figure it out",
+     "minutes": 9,
+     "idea": "Don't hand people your fear.",
+     "lesson": "lesson-a1-2"
+    },
+    {
+     "id": "i-a1-3",
+     "kind": "section",
+     "title": "We're on a spectrum",
+     "minutes": 9,
+     "idea": "Know where you are on the risk spectrum.",
+     "lesson": "lesson-a1-3"
+    },
+    {
+     "id": "i-a1-4",
+     "kind": "section",
+     "title": "Global nomads",
+     "minutes": 9,
+     "idea": "Notice how where you have lived shapes how you connect.",
+     "lesson": "lesson-a1-4"
+    },
+    {
+     "id": "i-a1-5",
+     "kind": "section",
+     "title": "What is strategy?",
+     "minutes": 9,
+     "idea": "Strategy is doing something different and valuable, then operating it.",
+     "lesson": "lesson-a1-5"
+    },
+    {
+     "id": "i-a1-w",
+     "kind": "workshop",
+     "title": "Workshop: My moments, my spectrum, my strategy",
+     "minutes": 20,
+     "idea": "One page, five lines.",
+     "steps": [
+      "Three defining moments, and what they taught me about risk.",
+      "What I tell people when they don't know what to do.",
+      "My place on the risk spectrum.",
+      "Where I have lived and how it shapes me.",
+      "My strategy in one simple sentence."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a29",
+   "title": "What shapes the way we see: books, philosophy and imagination (belongs after A1 in call order)",
+   "minutes": 65,
+   "week_from": 3,
+   "week_to": 3,
+   "items": [
+    {
+     "id": "i-a29-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Can you name your three books?",
+       "item": "i-a29-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you use imagination to speculate what is possible?",
+       "item": "i-a29-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you notice desires that disappoint?",
+       "item": "i-a29-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the picture that defines you?",
+       "item": "i-a29-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your repeated theme?",
+       "item": "i-a29-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a29-1",
+     "kind": "section",
+     "title": "What reached us as children",
+     "minutes": 9,
+     "idea": "Know the books and moments that filter you.",
+     "lesson": "lesson-a29-1"
+    },
+    {
+     "id": "i-a29-2",
+     "kind": "section",
+     "title": "Technology changes our reality",
+     "minutes": 9,
+     "idea": "Technology can change your reality.",
+     "lesson": "lesson-a29-2"
+    },
+    {
+     "id": "i-a29-3",
+     "kind": "section",
+     "title": "Desire and being satisfied",
+     "minutes": 9,
+     "idea": "Practise being satisfied in the present.",
+     "lesson": "lesson-a29-3"
+    },
+    {
+     "id": "i-a29-4",
+     "kind": "section",
+     "title": "Anxiety, faith and imagination",
+     "minutes": 9,
+     "idea": "Know your stage; notice your defining pictures.",
+     "lesson": "lesson-a29-4"
+    },
+    {
+     "id": "i-a29-5",
+     "kind": "section",
+     "title": "The books that shaped you",
+     "minutes": 9,
+     "idea": "Look for the repeated theme.",
+     "lesson": "lesson-a29-5"
+    },
+    {
+     "id": "i-a29-w",
+     "kind": "workshop",
+     "title": "Workshop: My books and my reality",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My three books and the age I read them.",
+      "The reality I am building with technology.",
+      "One desire I will loosen.",
+      "The picture from childhood that defines me.",
+      "My repeated theme."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a2",
+   "title": "Learn from stories, mentors and decisions",
+   "minutes": 70,
+   "week_from": 4,
+   "week_to": 4,
+   "items": [
+    {
+     "id": "i-a2-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you learn best from stories?",
+       "item": "i-a2-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a mentor with knowledge in your space?",
+       "item": "i-a2-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Where do you wait for someone else's yes?",
+       "item": "i-a2-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you written your process step by step?",
+       "item": "i-a2-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you finish what you start?",
+       "item": "i-a2-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a2-1",
+     "kind": "section",
+     "title": "Learn business through stories",
+     "minutes": 9,
+     "idea": "Learn through stories; name your defining moments.",
+     "lesson": "lesson-a2-1"
+    },
+    {
+     "id": "i-a2-2",
+     "kind": "section",
+     "title": "Choose a mentor who is a facilitator",
+     "minutes": 9,
+     "idea": "Choose a facilitator with knowledge in your space.",
+     "lesson": "lesson-a2-2"
+    },
+    {
+     "id": "i-a2-3",
+     "kind": "section",
+     "title": "Make the decision yourself",
+     "minutes": 9,
+     "idea": "Want the power to decide and execute.",
+     "lesson": "lesson-a2-3"
+    },
+    {
+     "id": "i-a2-4",
+     "kind": "section",
+     "title": "When people don't see what you see",
+     "minutes": 9,
+     "idea": "Change the message, find the audience, keep persisting, show your process.",
+     "lesson": "lesson-a2-4"
+    },
+    {
+     "id": "i-a2-5",
+     "kind": "section",
+     "title": "Pick one and finish it",
+     "minutes": 9,
+     "idea": "Pick one thing and finish it.",
+     "lesson": "lesson-a2-5"
+    },
+    {
+     "id": "i-a2-w",
+     "kind": "workshop",
+     "title": "Workshop: My mentor, my decision, my finish",
+     "minutes": 20,
+     "idea": "One page, five lines.",
+     "steps": [
+      "The story that taught me something about business.",
+      "My ideal mentor and my first question.",
+      "A decision that is mine to make.",
+      "My first three steps, written down.",
+      "The one thing I will pick and finish."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a3",
+   "title": "Strike while the iron is hot: wave, mission, attention",
+   "minutes": 52,
+   "week_from": 5,
+   "week_to": 5,
+   "items": [
+    {
+     "id": "i-a3-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know which wave you are in front of?",
+       "item": "i-a3-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you say your mission in one sentence?",
+       "item": "i-a3-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you notice what you pass every day?",
+       "item": "i-a3-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a3-1",
+     "kind": "section",
+     "title": "Strike while the iron is hot",
+     "minutes": 9,
+     "idea": "Notice the wave; put yourself in the right place.",
+     "lesson": "lesson-a3-1"
+    },
+    {
+     "id": "i-a3-2",
+     "kind": "section",
+     "title": "Have a mission",
+     "minutes": 9,
+     "idea": "Know your mission and the problem it fixes.",
+     "lesson": "lesson-a3-2"
+    },
+    {
+     "id": "i-a3-3",
+     "kind": "section",
+     "title": "See what is in front of you",
+     "minutes": 9,
+     "idea": "See the problem in front of you.",
+     "lesson": "lesson-a3-3"
+    },
+    {
+     "id": "i-a3-w",
+     "kind": "workshop",
+     "title": "Workshop: My wave, my mission, my view",
+     "minutes": 20,
+     "idea": "One page, four lines.",
+     "steps": [
+      "The wave I am standing in front of.",
+      "My mission in one sentence.",
+      "The problem I see that others pass by.",
+      "One thing I will do this week about it."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a4",
+   "title": "Fake it, leverage and how far you will go",
+   "minutes": 61,
+   "week_from": 6,
+   "week_to": 6,
+   "items": [
+    {
+     "id": "i-a4-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Can you say where your ethical line is?",
+       "item": "i-a4-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where you are most effective?",
+       "item": "i-a4-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Could you write your operations manual?",
+       "item": "i-a4-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know how far you want to go?",
+       "item": "i-a4-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a4-1",
+     "kind": "section",
+     "title": "Fake it, with an ethical line",
+     "minutes": 9,
+     "idea": "Visualize who you want to be, never at someone's expense.",
+     "lesson": "lesson-a4-1"
+    },
+    {
+     "id": "i-a4-2",
+     "kind": "section",
+     "title": "Founder or CEO?",
+     "minutes": 9,
+     "idea": "Be where you are most effective.",
+     "lesson": "lesson-a4-2"
+    },
+    {
+     "id": "i-a4-3",
+     "kind": "section",
+     "title": "Leverage and systems",
+     "minutes": 9,
+     "idea": "Offer upside with no risk, and put the system in place.",
+     "lesson": "lesson-a4-3"
+    },
+    {
+     "id": "i-a4-4",
+     "kind": "section",
+     "title": "No off switch",
+     "minutes": 9,
+     "idea": "Know what you will pay and how far you want to go.",
+     "lesson": "lesson-a4-4"
+    },
+    {
+     "id": "i-a4-w",
+     "kind": "workshop",
+     "title": "Workshop: My line, my role, my system",
+     "minutes": 20,
+     "idea": "One page, five lines.",
+     "steps": [
+      "Who I want to be, and where my ethical line is.",
+      "Where I am most effective, and who does the rest.",
+      "An offer with no risk for the other side.",
+      "The system I will put in place.",
+      "How far I will go."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a5",
+   "title": "Partners, advisors and good ideas",
+   "minutes": 65,
+   "week_from": 7,
+   "week_to": 7,
+   "items": [
+    {
+     "id": "i-a5-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know who your first partners are?",
+       "item": "i-a5-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Could a mentor see that you give?",
+       "item": "i-a5-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you name your industry's missing leg?",
+       "item": "i-a5-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Is your industry disruptive or fragmented?",
+       "item": "i-a5-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what your investor wants?",
+       "item": "i-a5-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a5-1",
+     "kind": "section",
+     "title": "Your first partners",
+     "minutes": 9,
+     "idea": "Look after your first partners; build the team that covers you.",
+     "lesson": "lesson-a5-1"
+    },
+    {
+     "id": "i-a5-2",
+     "kind": "section",
+     "title": "Recruit an advisor",
+     "minutes": 9,
+     "idea": "Research, show you give, appeal sincerely.",
+     "lesson": "lesson-a5-2"
+    },
+    {
+     "id": "i-a5-3",
+     "kind": "section",
+     "title": "Is the industry ripe for disruption?",
+     "minutes": 9,
+     "idea": "Look for the industry's missing leg.",
+     "lesson": "lesson-a5-3"
+    },
+    {
+     "id": "i-a5-4",
+     "kind": "section",
+     "title": "Disruptive or fragmented?",
+     "minutes": 9,
+     "idea": "Know if you disrupt or consolidate; be realistic.",
+     "lesson": "lesson-a5-4"
+    },
+    {
+     "id": "i-a5-5",
+     "kind": "section",
+     "title": "Home run or first base?",
+     "minutes": 9,
+     "idea": "Understand how your investors think.",
+     "lesson": "lesson-a5-5"
+    },
+    {
+     "id": "i-a5-w",
+     "kind": "workshop",
+     "title": "Workshop: My partners, my advisor, my industry",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "Who my first partners are, and what I owe them.",
+      "The advisor I will research.",
+      "My industry's missing leg.",
+      "Whether I disrupt or consolidate.",
+      "What my investor wants, and what I want."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a6",
+   "title": "Vision, operations and the people around you",
+   "minutes": 56,
+   "week_from": 8,
+   "week_to": 8,
+   "items": [
+    {
+     "id": "i-a6-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your side of the page?",
+       "item": "i-a6-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your teams speak each other's language?",
+       "item": "i-a6-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a translator?",
+       "item": "i-a6-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do the people close to you know where you are heading?",
+       "item": "i-a6-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a6-1",
+     "kind": "section",
+     "title": "Two sides of the page",
+     "minutes": 9,
+     "idea": "Know your side; build a team for the other.",
+     "lesson": "lesson-a6-1"
+    },
+    {
+     "id": "i-a6-2",
+     "kind": "section",
+     "title": "Close the gap between strategy and operation",
+     "minutes": 9,
+     "idea": "Bring the other team into the room; start from the user.",
+     "lesson": "lesson-a6-2"
+    },
+    {
+     "id": "i-a6-3",
+     "kind": "section",
+     "title": "Managing relationships and ego",
+     "minutes": 9,
+     "idea": "Keep confidence from becoming ego; find a translator.",
+     "lesson": "lesson-a6-3"
+    },
+    {
+     "id": "i-a6-4",
+     "kind": "section",
+     "title": "Everybody is on the train",
+     "minutes": 9,
+     "idea": "Know your balance; remember who is on the train.",
+     "lesson": "lesson-a6-4"
+    },
+    {
+     "id": "i-a6-w",
+     "kind": "workshop",
+     "title": "Workshop: My side, my translator, my train",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "My side of the page, and who is on the other.",
+      "The team I will bring into the room.",
+      "My translator.",
+      "What I will tell the people on my train."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a7",
+   "title": "Purpose, people and why not",
+   "minutes": 56,
+   "week_from": 9,
+   "week_to": 9,
+   "items": [
+    {
+     "id": "i-a7-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know the larger problem you would chase?",
+       "item": "i-a7-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Are the people around you inspiring?",
+       "item": "i-a7-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your core values?",
+       "item": "i-a7-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you start with the mission?",
+       "item": "i-a7-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a7-1",
+     "kind": "section",
+     "title": "A new sense of purpose",
+     "minutes": 9,
+     "idea": "Look for the larger problem; hold your certainty.",
+     "lesson": "lesson-a7-1"
+    },
+    {
+     "id": "i-a7-2",
+     "kind": "section",
+     "title": "Who do you hang around?",
+     "minutes": 9,
+     "idea": "Choose people who inspire you and don't judge.",
+     "lesson": "lesson-a7-2"
+    },
+    {
+     "id": "i-a7-3",
+     "kind": "section",
+     "title": "You create your environment",
+     "minutes": 9,
+     "idea": "Build your environment; align your values.",
+     "lesson": "lesson-a7-3"
+    },
+    {
+     "id": "i-a7-4",
+     "kind": "section",
+     "title": "Ask why not",
+     "minutes": 9,
+     "idea": "Mission first; break it down; ask why not.",
+     "lesson": "lesson-a7-4"
+    },
+    {
+     "id": "i-a7-w",
+     "kind": "workshop",
+     "title": "Workshop: My purpose, my people, my why not",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "The larger problem I would chase.",
+      "The people who inspire me, and the one change I will make.",
+      "My core values in three words.",
+      "The thing I was told is impossible, and my why not."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a8",
+   "title": "Calculated risk, pilots and conviction",
+   "minutes": 56,
+   "week_from": 10,
+   "week_to": 10,
+   "items": [
+    {
+     "id": "i-a8-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know the real cost behind what you sell?",
+       "item": "i-a8-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you check price against cost?",
+       "item": "i-a8-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you start small?",
+       "item": "i-a8-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you show people what you see?",
+       "item": "i-a8-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a8-1",
+     "kind": "section",
+     "title": "Calculated risk",
+     "minutes": 9,
+     "idea": "Calculate the risk; know the cost of the basic materials.",
+     "lesson": "lesson-a8-1"
+    },
+    {
+     "id": "i-a8-2",
+     "kind": "section",
+     "title": "Price against cost",
+     "minutes": 9,
+     "idea": "Compare price to cost; back intuition with data.",
+     "lesson": "lesson-a8-2"
+    },
+    {
+     "id": "i-a8-3",
+     "kind": "section",
+     "title": "Pilot first",
+     "minutes": 9,
+     "idea": "Start with a pilot.",
+     "lesson": "lesson-a8-3"
+    },
+    {
+     "id": "i-a8-4",
+     "kind": "section",
+     "title": "Build the glasses",
+     "minutes": 9,
+     "idea": "Hold your convictions; build the glasses.",
+     "lesson": "lesson-a8-4"
+    },
+    {
+     "id": "i-a8-w",
+     "kind": "workshop",
+     "title": "Workshop: My cost, my pilot, my glasses",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "The price and the real cost of one thing.",
+      "The evidence that backs my gut.",
+      "My pilot and what it proves.",
+      "The glasses I hand someone to see what I see."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a9",
+   "title": "Crisis, failure and the all-in scale",
+   "minutes": 65,
+   "week_from": 11,
+   "week_to": 11,
+   "items": [
+    {
+     "id": "i-a9-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your ultimatum?",
+       "item": "i-a9-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your life jacket in a crisis?",
+       "item": "i-a9-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you document what went wrong?",
+       "item": "i-a9-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what you'd tell your team in week one of a crisis?",
+       "item": "i-a9-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where you are on the scale?",
+       "item": "i-a9-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a9-1",
+     "kind": "section",
+     "title": "The make-or-break moment",
+     "minutes": 9,
+     "idea": "Set your ultimatum; stay calm in front of your people.",
+     "lesson": "lesson-a9-1"
+    },
+    {
+     "id": "i-a9-2",
+     "kind": "section",
+     "title": "The hangman's noose",
+     "minutes": 9,
+     "idea": "Find your life jacket; know your line.",
+     "lesson": "lesson-a9-2"
+    },
+    {
+     "id": "i-a9-3",
+     "kind": "section",
+     "title": "Failure is the currency",
+     "minutes": 9,
+     "idea": "Treat failure as tuition; write it down.",
+     "lesson": "lesson-a9-3"
+    },
+    {
+     "id": "i-a9-4",
+     "kind": "section",
+     "title": "The free fall",
+     "minutes": 9,
+     "idea": "Hold your mission; ask how it looks in ten years.",
+     "lesson": "lesson-a9-4"
+    },
+    {
+     "id": "i-a9-5",
+     "kind": "section",
+     "title": "Where are you on the scale?",
+     "minutes": 9,
+     "idea": "Turn fear into vigilance.",
+     "lesson": "lesson-a9-5"
+    },
+    {
+     "id": "i-a9-w",
+     "kind": "workshop",
+     "title": "Workshop: My ultimatum, my life jacket, my audit",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My ultimatum.",
+      "My life jacket in a crisis.",
+      "My failure audit: what went wrong and what I will write down.",
+      "What I would tell my team in week one.",
+      "My place on the scale and my standard."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a10",
+   "title": "Raising money with the right people",
+   "minutes": 56,
+   "week_from": 12,
+   "week_to": 12,
+   "items": [
+    {
+     "id": "i-a10-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know what you want from an investor besides money?",
+       "item": "i-a10-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know which kind of investor fits you?",
+       "item": "i-a10-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a list of investors to research?",
+       "item": "i-a10-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you keep customers' money separate?",
+       "item": "i-a10-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a10-1",
+     "kind": "section",
+     "title": "Not all money is good money",
+     "minutes": 9,
+     "idea": "Choose investors who share your mission.",
+     "lesson": "lesson-a10-1"
+    },
+    {
+     "id": "i-a10-2",
+     "kind": "section",
+     "title": "Kinds of investors",
+     "minutes": 9,
+     "idea": "Know the kinds; research first.",
+     "lesson": "lesson-a10-2"
+    },
+    {
+     "id": "i-a10-3",
+     "kind": "section",
+     "title": "Find your investors",
+     "minutes": 9,
+     "idea": "Search the sector; go where they are.",
+     "lesson": "lesson-a10-3"
+    },
+    {
+     "id": "i-a10-4",
+     "kind": "section",
+     "title": "Partner with the giant",
+     "minutes": 9,
+     "idea": "Partner; show something real; respect the fundamentals.",
+     "lesson": "lesson-a10-4"
+    },
+    {
+     "id": "i-a10-w",
+     "kind": "workshop",
+     "title": "Workshop: My investors, my keywords, my first meeting",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "What I want from an investor besides money.",
+      "My investor type and keywords.",
+      "The convention or contact I will approach, and my goal.",
+      "What I will say in a first meeting with no numbers."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a11",
+   "title": "Government, regulation and telling the truth",
+   "minutes": 56,
+   "week_from": 13,
+   "week_to": 13,
+   "items": [
+    {
+     "id": "i-a11-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you watch every cost?",
+       "item": "i-a11-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the rules that apply to you?",
+       "item": "i-a11-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you told an official your story?",
+       "item": "i-a11-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you tell new hires the real risks?",
+       "item": "i-a11-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a11-1",
+     "kind": "section",
+     "title": "Cost plus",
+     "minutes": 9,
+     "idea": "Be aware of cost; expect regulation.",
+     "lesson": "lesson-a11-1"
+    },
+    {
+     "id": "i-a11-2",
+     "kind": "section",
+     "title": "Dealing with the government",
+     "minutes": 9,
+     "idea": "Learn the rules; build support; order your allies.",
+     "lesson": "lesson-a11-2"
+    },
+    {
+     "id": "i-a11-3",
+     "kind": "section",
+     "title": "Make them the hero",
+     "minutes": 9,
+     "idea": "Help officials be the hero; start early.",
+     "lesson": "lesson-a11-3"
+    },
+    {
+     "id": "i-a11-4",
+     "kind": "section",
+     "title": "Tell new hires the truth",
+     "minutes": 9,
+     "idea": "Tell new hires the truth; connect look to engineering.",
+     "lesson": "lesson-a11-4"
+    },
+    {
+     "id": "i-a11-w",
+     "kind": "workshop",
+     "title": "Workshop: My rules, my allies, my truth",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "The rules that apply to me.",
+      "My first ally and my last.",
+      "The one page I would hand an official.",
+      "What I tell a new hire about the risks."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a12",
+   "title": "Mission, anchors and control of your process",
+   "minutes": 65,
+   "week_from": 14,
+   "week_to": 14,
+   "items": [
+    {
+     "id": "i-a12-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know how long you can wait for profit?",
+       "item": "i-a12-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your negative anchors?",
+       "item": "i-a12-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you control what decides your quality?",
+       "item": "i-a12-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know how you learn best?",
+       "item": "i-a12-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know a big company's need you could meet?",
+       "item": "i-a12-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a12-1",
+     "kind": "section",
+     "title": "Businesses on the way to somewhere",
+     "minutes": 9,
+     "idea": "Keep to the mission; know how long you can wait.",
+     "lesson": "lesson-a12-1"
+    },
+    {
+     "id": "i-a12-2",
+     "kind": "section",
+     "title": "Identify the anchor",
+     "minutes": 9,
+     "idea": "Identify your anchors; say: that's not me.",
+     "lesson": "lesson-a12-2"
+    },
+    {
+     "id": "i-a12-3",
+     "kind": "section",
+     "title": "Control the process",
+     "minutes": 9,
+     "idea": "Control the process that decides your quality.",
+     "lesson": "lesson-a12-3"
+    },
+    {
+     "id": "i-a12-4",
+     "kind": "section",
+     "title": "Learn what you don't like",
+     "minutes": 9,
+     "idea": "Push into what you avoid; know how you learn.",
+     "lesson": "lesson-a12-4"
+    },
+    {
+     "id": "i-a12-5",
+     "kind": "section",
+     "title": "Where does my business fit?",
+     "minutes": 9,
+     "idea": "Fit your offer to a big company's need.",
+     "lesson": "lesson-a12-5"
+    },
+    {
+     "id": "i-a12-w",
+     "kind": "workshop",
+     "title": "Workshop: My wait, my anchor, my process",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "How long I can wait for profit.",
+      "My anchor and my sentence.",
+      "The process I will keep control of.",
+      "The subject I will push into.",
+      "The big company I will approach, and my slight adjustment."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a13",
+   "title": "Mission, machines and where you draw the line",
+   "minutes": 56,
+   "week_from": 15,
+   "week_to": 15,
+   "items": [
+    {
+     "id": "i-a13-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Are you in it for the mission?",
+       "item": "i-a13-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know which decisions you won't hand to a machine?",
+       "item": "i-a13-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you notice what you hand to the tool?",
+       "item": "i-a13-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where you draw your line?",
+       "item": "i-a13-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a13-1",
+     "kind": "section",
+     "title": "Missionaries, not mercenaries",
+     "minutes": 9,
+     "idea": "Be clear whether you are a missionary or a mercenary.",
+     "lesson": "lesson-a13-1"
+    },
+    {
+     "id": "i-a13-2",
+     "kind": "section",
+     "title": "Can AI be decoupled from human will?",
+     "minutes": 9,
+     "idea": "Know where you stand on handing decisions to machines.",
+     "lesson": "lesson-a13-2"
+    },
+    {
+     "id": "i-a13-3",
+     "kind": "section",
+     "title": "The medium can become the danger",
+     "minutes": 9,
+     "idea": "Notice what you hand to the tool.",
+     "lesson": "lesson-a13-3"
+    },
+    {
+     "id": "i-a13-4",
+     "kind": "section",
+     "title": "Take a stance",
+     "minutes": 9,
+     "idea": "Know the cost of automating; take a stance.",
+     "lesson": "lesson-a13-4"
+    },
+    {
+     "id": "i-a13-w",
+     "kind": "workshop",
+     "title": "Workshop: My mission, my line, my stance",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "Whether I am a missionary or a mercenary.",
+      "Decisions I won't hand to a machine.",
+      "What I keep doing myself.",
+      "My stance on technology, in two sentences."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a14",
+   "title": "A responsible stance on AI",
+   "minutes": 65,
+   "week_from": 16,
+   "week_to": 16,
+   "items": [
+    {
+     "id": "i-a14-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know who is accountable for your tools?",
+       "item": "i-a14-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a stance on customers' data?",
+       "item": "i-a14-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you say how your work was made?",
+       "item": "i-a14-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a position on AI?",
+       "item": "i-a14-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you create without a machine's first draft?",
+       "item": "i-a14-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a14-1",
+     "kind": "section",
+     "title": "Who is accountable?",
+     "minutes": 9,
+     "idea": "Ask who is accountable; check for bias.",
+     "lesson": "lesson-a14-1"
+    },
+    {
+     "id": "i-a14-2",
+     "kind": "section",
+     "title": "Your stance on privacy and responsibility",
+     "minutes": 9,
+     "idea": "Take a stance; a disclaimer is not enough.",
+     "lesson": "lesson-a14-2"
+    },
+    {
+     "id": "i-a14-3",
+     "kind": "section",
+     "title": "Augmented, not artificial",
+     "minutes": 9,
+     "idea": "Use AI as a tool; say how the work was made.",
+     "lesson": "lesson-a14-3"
+    },
+    {
+     "id": "i-a14-4",
+     "kind": "section",
+     "title": "Lead with a position",
+     "minutes": 9,
+     "idea": "Lead with a position that can evolve.",
+     "lesson": "lesson-a14-4"
+    },
+    {
+     "id": "i-a14-5",
+     "kind": "section",
+     "title": "Keep your creativity alive",
+     "minutes": 9,
+     "idea": "Guard your creativity.",
+     "lesson": "lesson-a14-5"
+    },
+    {
+     "id": "i-a14-w",
+     "kind": "workshop",
+     "title": "Workshop: My stance on AI",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "Who is accountable in my business.",
+      "What I will do with customers' information.",
+      "How I say my work was made.",
+      "My position on AI, and when it may change.",
+      "What I will keep creating myself."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a15",
+   "title": "Intuition, limits and culture",
+   "minutes": 65,
+   "week_from": 17,
+   "week_to": 17,
+   "items": [
+    {
+     "id": "i-a15-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your top assumptions?",
+       "item": "i-a15-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your personal limitation?",
+       "item": "i-a15-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you tell the truth in words people can hear?",
+       "item": "i-a15-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a process behind your intention?",
+       "item": "i-a15-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the culture you create?",
+       "item": "i-a15-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a15-1",
+     "kind": "section",
+     "title": "Intuition and assumptions",
+     "minutes": 9,
+     "idea": "Study your assumptions before your numbers.",
+     "lesson": "lesson-a15-1"
+    },
+    {
+     "id": "i-a15-2",
+     "kind": "section",
+     "title": "Your personal limitations",
+     "minutes": 9,
+     "idea": "Name your limits; don't let the past decide.",
+     "lesson": "lesson-a15-2"
+    },
+    {
+     "id": "i-a15-3",
+     "kind": "section",
+     "title": "Tell the truth, and how",
+     "minutes": 9,
+     "idea": "Tell the truth, with words that help.",
+     "lesson": "lesson-a15-3"
+    },
+    {
+     "id": "i-a15-4",
+     "kind": "section",
+     "title": "From intention to process",
+     "minutes": 9,
+     "idea": "Repeat the intention; build the process.",
+     "lesson": "lesson-a15-4"
+    },
+    {
+     "id": "i-a15-5",
+     "kind": "section",
+     "title": "A culture of discipline",
+     "minutes": 9,
+     "idea": "Choose your culture on purpose.",
+     "lesson": "lesson-a15-5"
+    },
+    {
+     "id": "i-a15-w",
+     "kind": "workshop",
+     "title": "Workshop: My assumptions, my limits, my culture",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My three biggest assumptions.",
+      "My personal limitation and whose voice it is.",
+      "The true thing I will say, and how.",
+      "My statement and the first step of its process.",
+      "The culture I want, and where I am on the spectrum."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a16",
+   "title": "Know your numbers and test your idea",
+   "minutes": 65,
+   "week_from": 18,
+   "week_to": 18,
+   "items": [
+    {
+     "id": "i-a16-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your cost to acquire a customer?",
+       "item": "i-a16-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you answered an investor's questions about your idea?",
+       "item": "i-a16-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your margin?",
+       "item": "i-a16-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your barrier to entry?",
+       "item": "i-a16-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your burn rate?",
+       "item": "i-a16-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a16-1",
+     "kind": "section",
+     "title": "The cost to acquire a customer",
+     "minutes": 9,
+     "idea": "Know the real cost of winning a customer.",
+     "lesson": "lesson-a16-1"
+    },
+    {
+     "id": "i-a16-2",
+     "kind": "section",
+     "title": "Kick the tires",
+     "minutes": 9,
+     "idea": "Test your idea with real questions.",
+     "lesson": "lesson-a16-2"
+    },
+    {
+     "id": "i-a16-3",
+     "kind": "section",
+     "title": "Product first, margins always",
+     "minutes": 9,
+     "idea": "Product first; know your margin.",
+     "lesson": "lesson-a16-3"
+    },
+    {
+     "id": "i-a16-4",
+     "kind": "section",
+     "title": "Barriers to entry",
+     "minutes": 9,
+     "idea": "Know your barrier to entry.",
+     "lesson": "lesson-a16-4"
+    },
+    {
+     "id": "i-a16-5",
+     "kind": "section",
+     "title": "Know your numbers",
+     "minutes": 9,
+     "idea": "Know your numbers; read theirs before you call.",
+     "lesson": "lesson-a16-5"
+    },
+    {
+     "id": "i-a16-w",
+     "kind": "workshop",
+     "title": "Workshop: My numbers and my questions",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My cost to acquire a customer.",
+      "Ten questions about my idea, answered or marked unknown.",
+      "My margin and my volume.",
+      "My barrier to entry.",
+      "My burn rate and my next call."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a17",
+   "title": "Breadth, curiosity and your learning plan",
+   "minutes": 65,
+   "week_from": 19,
+   "week_to": 19,
+   "items": [
+    {
+     "id": "i-a17-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know what your education taught you?",
+       "item": "i-a17-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you learn from fields outside yours?",
+       "item": "i-a17-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you diagnosed your gaps?",
+       "item": "i-a17-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you follow your curiosity?",
+       "item": "i-a17-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what you want to read?",
+       "item": "i-a17-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a17-1",
+     "kind": "section",
+     "title": "Specialist or generalist?",
+     "minutes": 9,
+     "idea": "Ask whether you were taught what to think or how.",
+     "lesson": "lesson-a17-1"
+    },
+    {
+     "id": "i-a17-2",
+     "kind": "section",
+     "title": "Cross-training",
+     "minutes": 9,
+     "idea": "Learn from other fields.",
+     "lesson": "lesson-a17-2"
+    },
+    {
+     "id": "i-a17-3",
+     "kind": "section",
+     "title": "A personal needs assessment",
+     "minutes": 9,
+     "idea": "Diagnose your gaps and build around them.",
+     "lesson": "lesson-a17-3"
+    },
+    {
+     "id": "i-a17-4",
+     "kind": "section",
+     "title": "Learning without a box",
+     "minutes": 9,
+     "idea": "Love learning; follow your curiosity.",
+     "lesson": "lesson-a17-4"
+    },
+    {
+     "id": "i-a17-5",
+     "kind": "section",
+     "title": "The magazine rack",
+     "minutes": 9,
+     "idea": "Follow what you love, and be honest.",
+     "lesson": "lesson-a17-5"
+    },
+    {
+     "id": "i-a17-w",
+     "kind": "workshop",
+     "title": "Workshop: My learning plan",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "What my education taught me, and what it didn't.",
+      "My butterfly: what could improve my main stroke.",
+      "My three gaps and a book for each.",
+      "What I am curious about and uncomfortable with.",
+      "My magazine."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a18",
+   "title": "Building a team that makes it",
+   "minutes": 65,
+   "week_from": 20,
+   "week_to": 20,
+   "items": [
+    {
+     "id": "i-a18-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you start from a problem you share with others?",
+       "item": "i-a18-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have written criteria for hiring?",
+       "item": "i-a18-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you screen for accountability?",
+       "item": "i-a18-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask for proof?",
+       "item": "i-a18-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your turnover cost?",
+       "item": "i-a18-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a18-1",
+     "kind": "section",
+     "title": "Start today",
+     "minutes": 9,
+     "idea": "See the problem and start with your network.",
+     "lesson": "lesson-a18-1"
+    },
+    {
+     "id": "i-a18-2",
+     "kind": "section",
+     "title": "Build the team",
+     "minutes": 9,
+     "idea": "Set your criteria before you interview.",
+     "lesson": "lesson-a18-2"
+    },
+    {
+     "id": "i-a18-3",
+     "kind": "section",
+     "title": "Habits tell you",
+     "minutes": 9,
+     "idea": "Screen for accountability.",
+     "lesson": "lesson-a18-3"
+    },
+    {
+     "id": "i-a18-4",
+     "kind": "section",
+     "title": "Givers and takers",
+     "minutes": 9,
+     "idea": "Look for long-term goals achieved; ask for proof.",
+     "lesson": "lesson-a18-4"
+    },
+    {
+     "id": "i-a18-5",
+     "kind": "section",
+     "title": "Will or skill",
+     "minutes": 9,
+     "idea": "Know will from skill; know turnover cost.",
+     "lesson": "lesson-a18-5"
+    },
+    {
+     "id": "i-a18-w",
+     "kind": "workshop",
+     "title": "Workshop: My team criteria",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "The problem I will start on today.",
+      "My five hiring criteria.",
+      "The question and the proof I will ask for.",
+      "The signs of a giver and a taker for me.",
+      "The cost of replacing one person, and my teach-back procedure."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a19",
+   "title": "Regulation, lobbying and leverage",
+   "minutes": 65,
+   "week_from": 21,
+   "week_to": 21,
+   "items": [
+    {
+     "id": "i-a19-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know the rule that applies to you?",
+       "item": "i-a19-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what they run on?",
+       "item": "i-a19-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have your ten minutes ready?",
+       "item": "i-a19-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a plan before the meeting?",
+       "item": "i-a19-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have an endorsement to bring?",
+       "item": "i-a19-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a19-1",
+     "kind": "section",
+     "title": "Regulators are behind the innovator",
+     "minutes": 9,
+     "idea": "Expect the rules to lag; plan early.",
+     "lesson": "lesson-a19-1"
+    },
+    {
+     "id": "i-a19-2",
+     "kind": "section",
+     "title": "What a politician needs",
+     "minutes": 9,
+     "idea": "Learn what the person you want to influence needs.",
+     "lesson": "lesson-a19-2"
+    },
+    {
+     "id": "i-a19-3",
+     "kind": "section",
+     "title": "Ten minutes at dinner",
+     "minutes": 9,
+     "idea": "Lead with their state and the data; never your gain.",
+     "lesson": "lesson-a19-3"
+    },
+    {
+     "id": "i-a19-4",
+     "kind": "section",
+     "title": "Protect yourself in a committee",
+     "minutes": 9,
+     "idea": "Be the messenger with a plan.",
+     "lesson": "lesson-a19-4"
+    },
+    {
+     "id": "i-a19-5",
+     "kind": "section",
+     "title": "Bring the endorsement",
+     "minutes": 9,
+     "idea": "Bring the endorsement; invite everyone.",
+     "lesson": "lesson-a19-5"
+    },
+    {
+     "id": "i-a19-w",
+     "kind": "workshop",
+     "title": "Workshop: My public-affairs plan",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "The rule that applies to my idea.",
+      "What the decision maker needs.",
+      "My ten minutes: state, data, impact.",
+      "My committee and my plan.",
+      "My endorsement and my media plan."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a20",
+   "title": "Your time, your rules and your team's accountability",
+   "minutes": 65,
+   "week_from": 22,
+   "week_to": 22,
+   "items": [
+    {
+     "id": "i-a20-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your peak hours?",
+       "item": "i-a20-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know who set your rules?",
+       "item": "i-a20-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know who takes your time?",
+       "item": "i-a20-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you draw the line early?",
+       "item": "i-a20-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your people set their own goals?",
+       "item": "i-a20-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a20-1",
+     "kind": "section",
+     "title": "Study your energy",
+     "minutes": 9,
+     "idea": "Know your energy cycle.",
+     "lesson": "lesson-a20-1"
+    },
+    {
+     "id": "i-a20-2",
+     "kind": "section",
+     "title": "Question every requirement",
+     "minutes": 9,
+     "idea": "Know who set the rule; delete processes.",
+     "lesson": "lesson-a20-2"
+    },
+    {
+     "id": "i-a20-3",
+     "kind": "section",
+     "title": "Who gets your time",
+     "minutes": 9,
+     "idea": "Inventory your people; important before urgent.",
+     "lesson": "lesson-a20-3"
+    },
+    {
+     "id": "i-a20-4",
+     "kind": "section",
+     "title": "Friendly and accountable",
+     "minutes": 9,
+     "idea": "Draw the line early; use systems.",
+     "lesson": "lesson-a20-4"
+    },
+    {
+     "id": "i-a20-5",
+     "kind": "section",
+     "title": "Accountable for themselves",
+     "minutes": 9,
+     "idea": "Set goals with people.",
+     "lesson": "lesson-a20-5"
+    },
+    {
+     "id": "i-a20-w",
+     "kind": "workshop",
+     "title": "Workshop: My day and my team",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My ten morning steps and my peak hours.",
+      "The requirement I will question and the process I will delete.",
+      "The people I will give less time.",
+      "The line I draw with my team.",
+      "The goals my people set for themselves."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a21",
+   "title": "Choosing partners and knowing your limits",
+   "minutes": 65,
+   "week_from": 23,
+   "week_to": 23,
+   "items": [
+    {
+     "id": "i-a21-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you notice your patterns?",
+       "item": "i-a21-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you research a partner's track record?",
+       "item": "i-a21-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have your own revealing questions?",
+       "item": "i-a21-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you listen to your gut when you hire?",
+       "item": "i-a21-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what you can carry?",
+       "item": "i-a21-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a21-1",
+     "kind": "section",
+     "title": "What we repeat",
+     "minutes": 9,
+     "idea": "Notice your patterns; ask: is that really my belief?",
+     "lesson": "lesson-a21-1"
+    },
+    {
+     "id": "i-a21-2",
+     "kind": "section",
+     "title": "Research the person",
+     "minutes": 9,
+     "idea": "Research the track record; check words against actions.",
+     "lesson": "lesson-a21-2"
+    },
+    {
+     "id": "i-a21-3",
+     "kind": "section",
+     "title": "Questions that reveal",
+     "minutes": 9,
+     "idea": "Ask conversational, revealing questions.",
+     "lesson": "lesson-a21-3"
+    },
+    {
+     "id": "i-a21-4",
+     "kind": "section",
+     "title": "Trust your gut, check the habits",
+     "minutes": 9,
+     "idea": "Listen to your gut; check the habits.",
+     "lesson": "lesson-a21-4"
+    },
+    {
+     "id": "i-a21-5",
+     "kind": "section",
+     "title": "Can you carry the weight?",
+     "minutes": 9,
+     "idea": "Know what you can carry.",
+     "lesson": "lesson-a21-5"
+    },
+    {
+     "id": "i-a21-w",
+     "kind": "workshop",
+     "title": "Workshop: My partner checklist",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "A pattern I notice in myself.",
+      "The track record I will check.",
+      "Five questions I would ask.",
+      "What my gut and the habits tell me.",
+      "What I can carry, and what I cannot."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a22",
+   "title": "After the goal: purpose, triggers and public life",
+   "minutes": 56,
+   "week_from": 24,
+   "week_to": 24,
+   "items": [
+    {
+     "id": "i-a22-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you plan the goal after the goal?",
+       "item": "i-a22-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Where does your validation come from?",
+       "item": "i-a22-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your triggers?",
+       "item": "i-a22-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your public and private lives match?",
+       "item": "i-a22-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a22-1",
+     "kind": "section",
+     "title": "After the goal",
+     "minutes": 9,
+     "idea": "Set the next goal; reverse-engineer it.",
+     "lesson": "lesson-a22-1"
+    },
+    {
+     "id": "i-a22-2",
+     "kind": "section",
+     "title": "Internal or external?",
+     "minutes": 9,
+     "idea": "Know where your sense of success comes from.",
+     "lesson": "lesson-a22-2"
+    },
+    {
+     "id": "i-a22-3",
+     "kind": "section",
+     "title": "Know your triggers",
+     "minutes": 9,
+     "idea": "Be aware of your triggers.",
+     "lesson": "lesson-a22-3"
+    },
+    {
+     "id": "i-a22-4",
+     "kind": "section",
+     "title": "Public and private",
+     "minutes": 9,
+     "idea": "Keep public and private congruent.",
+     "lesson": "lesson-a22-4"
+    },
+    {
+     "id": "i-a22-w",
+     "kind": "workshop",
+     "title": "Workshop: After the goal",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "My next goal and the plan behind it.",
+      "Where my validation comes from.",
+      "One trigger and my sentence for it.",
+      "What my public and private lives say about me."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a23",
+   "title": "Public image and private pressure",
+   "minutes": 56,
+   "week_from": 25,
+   "week_to": 25,
+   "items": [
+    {
+     "id": "i-a23-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know who is in the room?",
+       "item": "i-a23-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you tell your own story?",
+       "item": "i-a23-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a sounding board?",
+       "item": "i-a23-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your questions for a dark mood?",
+       "item": "i-a23-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a23-1",
+     "kind": "section",
+     "title": "The map of the landmines",
+     "minutes": 9,
+     "idea": "Map the landmines before you speak.",
+     "lesson": "lesson-a23-1"
+    },
+    {
+     "id": "i-a23-2",
+     "kind": "section",
+     "title": "Tell your own story",
+     "minutes": 9,
+     "idea": "Tell your own story before one is assigned.",
+     "lesson": "lesson-a23-2"
+    },
+    {
+     "id": "i-a23-3",
+     "kind": "section",
+     "title": "Pressure and your house",
+     "minutes": 9,
+     "idea": "Keep a sounding board and your house in order.",
+     "lesson": "lesson-a23-3"
+    },
+    {
+     "id": "i-a23-4",
+     "kind": "section",
+     "title": "When did it start?",
+     "minutes": 9,
+     "idea": "Ask when it started; replace it.",
+     "lesson": "lesson-a23-4"
+    },
+    {
+     "id": "i-a23-w",
+     "kind": "workshop",
+     "title": "Workshop: My public face and my private pressure",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "My map of who is with me and who is not.",
+      "The story I tell about myself.",
+      "My sounding board.",
+      "The questions I ask when a mood arrives."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a24",
+   "title": "Your people and unfamiliar places",
+   "minutes": 56,
+   "week_from": 26,
+   "week_to": 26,
+   "items": [
+    {
+     "id": "i-a24-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know whom you can carry?",
+       "item": "i-a24-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "When did you last call an old contact?",
+       "item": "i-a24-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a local in places you don't know?",
+       "item": "i-a24-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you listen before you pitch?",
+       "item": "i-a24-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a24-1",
+     "kind": "section",
+     "title": "Stability around you",
+     "minutes": 9,
+     "idea": "Know how much weight you can carry.",
+     "lesson": "lesson-a24-1"
+    },
+    {
+     "id": "i-a24-2",
+     "kind": "section",
+     "title": "Keep your network warm",
+     "minutes": 9,
+     "idea": "Keep your network warm before you need it.",
+     "lesson": "lesson-a24-2"
+    },
+    {
+     "id": "i-a24-3",
+     "kind": "section",
+     "title": "Get with a local",
+     "minutes": 9,
+     "idea": "Get with a local and judge them well.",
+     "lesson": "lesson-a24-3"
+    },
+    {
+     "id": "i-a24-4",
+     "kind": "section",
+     "title": "Be a good guest",
+     "minutes": 9,
+     "idea": "Be humble, listen first, give.",
+     "lesson": "lesson-a24-4"
+    },
+    {
+     "id": "i-a24-w",
+     "kind": "workshop",
+     "title": "Workshop: My people and my places",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "Who brings me stability and who I carry.",
+      "Ten people I will call.",
+      "The local I will find for a new market.",
+      "How I will be a good guest."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a25",
+   "title": "Leading for momentum",
+   "minutes": 56,
+   "week_from": 27,
+   "week_to": 27,
+   "items": [
+    {
+     "id": "i-a25-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you teach people to find solutions?",
+       "item": "i-a25-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what their best looks like?",
+       "item": "i-a25-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your inputs match your goal?",
+       "item": "i-a25-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you give objectives, not instructions?",
+       "item": "i-a25-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a25-1",
+     "kind": "section",
+     "title": "What gives impact",
+     "minutes": 9,
+     "idea": "Notice what changes you; teach people to solve.",
+     "lesson": "lesson-a25-1"
+    },
+    {
+     "id": "i-a25-2",
+     "kind": "section",
+     "title": "Are they giving their best?",
+     "minutes": 9,
+     "idea": "Know what 100 percent looks like; decide.",
+     "lesson": "lesson-a25-2"
+    },
+    {
+     "id": "i-a25-3",
+     "kind": "section",
+     "title": "Motion is not traction",
+     "minutes": 9,
+     "idea": "Match inputs to goal; choose direction first.",
+     "lesson": "lesson-a25-3"
+    },
+    {
+     "id": "i-a25-4",
+     "kind": "section",
+     "title": "The objective, not the instructions",
+     "minutes": 9,
+     "idea": "Give the objective; delegate as you grow.",
+     "lesson": "lesson-a25-4"
+    },
+    {
+     "id": "i-a25-w",
+     "kind": "workshop",
+     "title": "Workshop: My leadership",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "What gives me impact.",
+      "My criteria for a team member's best.",
+      "My goal in numbers and my daily input.",
+      "The objective I will hand over and to whom."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a26",
+   "title": "Mission, direction and process",
+   "minutes": 56,
+   "week_from": 28,
+   "week_to": 28,
+   "items": [
+    {
+     "id": "i-a26-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you start the day with your mission?",
+       "item": "i-a26-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you keep one direction?",
+       "item": "i-a26-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask why of your own product?",
+       "item": "i-a26-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Does every client go through the same process?",
+       "item": "i-a26-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a26-1",
+     "kind": "section",
+     "title": "Start with the mission",
+     "minutes": 9,
+     "idea": "Start each day with the mission.",
+     "lesson": "lesson-a26-1"
+    },
+    {
+     "id": "i-a26-2",
+     "kind": "section",
+     "title": "Direction, power and speed",
+     "minutes": 9,
+     "idea": "Keep one direction; use model houses.",
+     "lesson": "lesson-a26-2"
+    },
+    {
+     "id": "i-a26-3",
+     "kind": "section",
+     "title": "Ask why",
+     "minutes": 9,
+     "idea": "Ask why until it is simple.",
+     "lesson": "lesson-a26-3"
+    },
+    {
+     "id": "i-a26-4",
+     "kind": "section",
+     "title": "The conveyor belt",
+     "minutes": 9,
+     "idea": "Put every client on the same belt.",
+     "lesson": "lesson-a26-4"
+    },
+    {
+     "id": "i-a26-w",
+     "kind": "workshop",
+     "title": "Workshop: My mission, my direction, my process",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "My mission and how I open the day with it.",
+      "My direction and the custom houses I will stop.",
+      "The 'why' I will ask of my product.",
+      "My conveyor belt in five steps."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a27",
+   "title": "Pivots, ownership and risk",
+   "minutes": 47,
+   "week_from": 29,
+   "week_to": 29,
+   "items": [
+    {
+     "id": "i-a27-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you map the effects of a big decision?",
+       "item": "i-a27-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your people own results?",
+       "item": "i-a27-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you move people for their mindset?",
+       "item": "i-a27-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a27-1",
+     "kind": "section",
+     "title": "Fifty bubbles",
+     "minutes": 9,
+     "idea": "See all the bubbles under a decision.",
+     "lesson": "lesson-a27-1"
+    },
+    {
+     "id": "i-a27-2",
+     "kind": "section",
+     "title": "Owning the result",
+     "minutes": 9,
+     "idea": "Judge on the result owned.",
+     "lesson": "lesson-a27-2"
+    },
+    {
+     "id": "i-a27-3",
+     "kind": "section",
+     "title": "Move people, encourage risk",
+     "minutes": 9,
+     "idea": "Move people for their mindset; encourage risk.",
+     "lesson": "lesson-a27-3"
+    },
+    {
+     "id": "i-a27-w",
+     "kind": "workshop",
+     "title": "Workshop: My decision and my people",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The decision I will map and its bubbles.",
+      "The result each person will own.",
+      "The role I will move someone to, and why."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a28",
+   "title": "Visualization, repetition and preparation",
+   "minutes": 56,
+   "week_from": 30,
+   "week_to": 30,
+   "items": [
+    {
+     "id": "i-a28-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you visualize a way out when you can't sleep?",
+       "item": "i-a28-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you rehearse in detail?",
+       "item": "i-a28-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you say 'why not?'",
+       "item": "i-a28-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you keep minutes and a journal?",
+       "item": "i-a28-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a28-1",
+     "kind": "section",
+     "title": "Visualizing the way out",
+     "minutes": 9,
+     "idea": "Visualize a specific way out.",
+     "lesson": "lesson-a28-1"
+    },
+    {
+     "id": "i-a28-2",
+     "kind": "section",
+     "title": "Make it familiar",
+     "minutes": 9,
+     "idea": "Rehearse in detail; break into steps; be precise.",
+     "lesson": "lesson-a28-2"
+    },
+    {
+     "id": "i-a28-3",
+     "kind": "section",
+     "title": "No language of limits",
+     "minutes": 9,
+     "idea": "Replace 'can't be done' with 'why not?'.",
+     "lesson": "lesson-a28-3"
+    },
+    {
+     "id": "i-a28-4",
+     "kind": "section",
+     "title": "Prepare and document",
+     "minutes": 9,
+     "idea": "Prepare until it is automatic; write it down.",
+     "lesson": "lesson-a28-4"
+    },
+    {
+     "id": "i-a28-w",
+     "kind": "workshop",
+     "title": "Workshop: My rehearsal",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "The problem I will visualize solving.",
+      "Ten daily steps and the ten I add tomorrow.",
+      "The limit I will turn into a question.",
+      "What I will write down today."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-builder",
+   "title": "How a Builder Thinks",
+   "minutes": 80,
+   "week_from": 31,
+   "week_to": 32,
+   "items": [
+    {
+     "id": "i-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "What does wealth mean to you?",
+       "item": "i-s1",
+       "options": [
+        "Money and things I can show",
+        "Not sure",
+        "What I don't spend, and time"
+       ]
+      },
+      {
+       "q": "Do you have a number, a date and a speed for your main goal?",
+       "item": "i-s2",
+       "options": [
+        "No",
+        "A number or a date",
+        "All three"
+       ]
+      },
+      {
+       "q": "What would you do with the next big win?",
+       "item": "i-s3",
+       "options": [
+        "Celebrate and rest",
+        "Not sure",
+        "Ask what is next"
+       ]
+      },
+      {
+       "q": "Can you say who made each rule you follow at work, and why?",
+       "item": "i-s4",
+       "options": [
+        "No, some I just follow",
+        "Most of them",
+        "All of them"
+       ]
+      },
+      {
+       "q": "How many fields could you explain to a friend?",
+       "item": "i-s5",
+       "options": [
+        "One",
+        "Two or three",
+        "Many"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-s1",
+     "kind": "section",
+     "title": "What is wealth?",
+     "minutes": 9,
+     "idea": "What is wealth? Jose: doing what you want, when you want, with who you want, as long as you want. Wealth is what you don't see. Are you enjoying a thing more than you worry about it?",
+     "lesson": "lesson-s1"
+    },
+    {
+     "id": "i-s2",
+     "kind": "section",
+     "title": "A speed-based goal",
+     "minutes": 9,
+     "idea": "A goal has a speed. \"I don't have enough time\" means \"I don't know how to manage my time\". Clarity of intent, broken into actions, makes you act.",
+     "lesson": "lesson-s2"
+    },
+    {
+     "id": "i-s3",
+     "kind": "section",
+     "title": "The hungry boxer",
+     "minutes": 9,
+     "idea": "Comfort and fear of loss breed complacency. Risk is an attitude and also character. The hungry boxer.",
+     "lesson": "lesson-first"
+    },
+    {
+     "id": "i-s4",
+     "kind": "section",
+     "title": "Who came up with that requirement?",
+     "minutes": 9,
+     "idea": "Cognitive entrenchment: getting stuck in how you were taught. Ask who came up with the rule. To challenge what you don't know, study how a person thinks.",
+     "lesson": "lesson-s4"
+    },
+    {
+     "id": "i-s5",
+     "kind": "section",
+     "title": "The range to walk into any business",
+     "minutes": 9,
+     "idea": "Compare unlike fields. Blend strategy and operations. A label can box you in; build the range to judge any business.",
+     "lesson": "lesson-s5"
+    },
+    {
+     "id": "i-j",
+     "kind": "journey",
+     "title": "Journey: a story from Jose",
+     "minutes": 10,
+     "idea": "Jose's own story of a map of phone calls and the second business hiding in it.",
+     "lesson": "lesson-journey"
+    },
+    {
+     "id": "i-w",
+     "kind": "workshop",
+     "title": "Workshop: My Builder Page",
+     "minutes": 20,
+     "idea": "One page, five lines. Your answers from the five sections.",
+     "steps": [
+      "My view of wealth, in one line (from What is wealth?).",
+      "One goal with a number, a date and a speed (from A speed-based goal).",
+      "One place where I am preserving instead of moving, and one small risk I could take (from The hungry boxer).",
+      "One rule I would question, and the question I would ask (from Who came up with that requirement?).",
+      "One skill from another field and one problem it could help me solve (from The range)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a30",
+   "title": "Catalysts, silos and analogies",
+   "minutes": 65,
+   "week_from": 33,
+   "week_to": 33,
+   "items": [
+    {
+     "id": "i-a30-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your best hour?",
+       "item": "i-a30-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask the simple question?",
+       "item": "i-a30-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you test your own bias?",
+       "item": "i-a30-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have silos in your company?",
+       "item": "i-a30-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you use analogies on your problems?",
+       "item": "i-a30-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a30-1",
+     "kind": "section",
+     "title": "Know your flow",
+     "minutes": 9,
+     "idea": "Know your rhythm; schedule your best hour.",
+     "lesson": "lesson-a30-1"
+    },
+    {
+     "id": "i-a30-2",
+     "kind": "section",
+     "title": "Catalysts, not experts",
+     "minutes": 9,
+     "idea": "Ask the question the experts don't.",
+     "lesson": "lesson-a30-2"
+    },
+    {
+     "id": "i-a30-3",
+     "kind": "section",
+     "title": "Rising above bias",
+     "minutes": 9,
+     "idea": "Test bias; notice the limits a teacher gave you.",
+     "lesson": "lesson-a30-3"
+    },
+    {
+     "id": "i-a30-4",
+     "kind": "section",
+     "title": "Out of the silo",
+     "minutes": 9,
+     "idea": "Question habits; teach the scaffolding.",
+     "lesson": "lesson-a30-4"
+    },
+    {
+     "id": "i-a30-5",
+     "kind": "section",
+     "title": "Analogies and metaphors",
+     "minutes": 9,
+     "idea": "Use analogies to see new patterns.",
+     "lesson": "lesson-a30-5"
+    },
+    {
+     "id": "i-a30-w",
+     "kind": "workshop",
+     "title": "Workshop: My best hour and my best question",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My best hour and what goes in it.",
+      "The simple question I will ask.",
+      "The bias I will test.",
+      "The silo I will break.",
+      "My problem as a metaphor."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a31",
+   "title": "Accountability, motivation and proof",
+   "minutes": 56,
+   "week_from": 34,
+   "week_to": 34,
+   "items": [
+    {
+     "id": "i-a31-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Have you done what you ask others to do?",
+       "item": "i-a31-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Are you accountable when nobody watches?",
+       "item": "i-a31-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what drives each person?",
+       "item": "i-a31-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you prove one unit first?",
+       "item": "i-a31-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a31-1",
+     "kind": "section",
+     "title": "How many have you installed?",
+     "minutes": 9,
+     "idea": "Do the work once yourself.",
+     "lesson": "lesson-a31-1"
+    },
+    {
+     "id": "i-a31-2",
+     "kind": "section",
+     "title": "Accountability without an audience",
+     "minutes": 9,
+     "idea": "Be accountable when nobody is watching.",
+     "lesson": "lesson-a31-2"
+    },
+    {
+     "id": "i-a31-3",
+     "kind": "section",
+     "title": "Intrinsic motivation",
+     "minutes": 9,
+     "idea": "Find each person's intrinsic motivation.",
+     "lesson": "lesson-a31-3"
+    },
+    {
+     "id": "i-a31-4",
+     "kind": "section",
+     "title": "One roof first",
+     "minutes": 9,
+     "idea": "Prove one unit first; gauge by decisions.",
+     "lesson": "lesson-a31-4"
+    },
+    {
+     "id": "i-a31-w",
+     "kind": "workshop",
+     "title": "Workshop: My dashboard",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "The task I will do myself once.",
+      "My leadership dashboard and the dial to turn.",
+      "What drives each person on my team.",
+      "My proof of concept and my manual."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a32",
+   "title": "Inner culture and companies that outlast the founder",
+   "minutes": 47,
+   "week_from": 35,
+   "week_to": 35,
+   "items": [
+    {
+     "id": "i-a32-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your habits of thought?",
+       "item": "i-a32-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a practice for changing a pattern?",
+       "item": "i-a32-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Would your company run without you?",
+       "item": "i-a32-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a32-1",
+     "kind": "section",
+     "title": "Your inner culture",
+     "minutes": 9,
+     "idea": "Your inner state becomes the culture.",
+     "lesson": "lesson-a32-1"
+    },
+    {
+     "id": "i-a32-2",
+     "kind": "section",
+     "title": "Awareness and rewiring",
+     "minutes": 9,
+     "idea": "Start with awareness; choose new thoughts.",
+     "lesson": "lesson-a32-2"
+    },
+    {
+     "id": "i-a32-3",
+     "kind": "section",
+     "title": "Systems that outlast the founder",
+     "minutes": 9,
+     "idea": "Build a company that runs without you.",
+     "lesson": "lesson-a32-3"
+    },
+    {
+     "id": "i-a32-w",
+     "kind": "workshop",
+     "title": "Workshop: My inner culture and my systems",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My habits of thought and the choice I have.",
+      "The practice I will use to change one pattern.",
+      "The process I will write so the company runs without me."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a33",
+   "title": "Partners that last",
+   "minutes": 56,
+   "week_from": 36,
+   "week_to": 36,
+   "items": [
+    {
+     "id": "i-a33-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know what makes your partnerships last?",
+       "item": "i-a33-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you listen for signs in the first meeting?",
+       "item": "i-a33-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you acknowledge everyone?",
+       "item": "i-a33-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know whether you lean soft or hard?",
+       "item": "i-a33-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a33-1",
+     "kind": "section",
+     "title": "What makes a partnership last",
+     "minutes": 9,
+     "idea": "Take the good; look for courage and the servant leader.",
+     "lesson": "lesson-a33-1"
+    },
+    {
+     "id": "i-a33-2",
+     "kind": "section",
+     "title": "Signs in the first meeting",
+     "minutes": 9,
+     "idea": "Listen for words against actions, blame, money and values.",
+     "lesson": "lesson-a33-2"
+    },
+    {
+     "id": "i-a33-3",
+     "kind": "section",
+     "title": "How they treat the waiter",
+     "minutes": 9,
+     "idea": "Notice how people treat those who can't help them.",
+     "lesson": "lesson-a33-3"
+    },
+    {
+     "id": "i-a33-4",
+     "kind": "section",
+     "title": "Too soft, too hard",
+     "minutes": 9,
+     "idea": "Know your lean; say your style out loud.",
+     "lesson": "lesson-a33-4"
+    },
+    {
+     "id": "i-a33-w",
+     "kind": "workshop",
+     "title": "Workshop: My partner checklist and my style",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "What made my longest partnership last.",
+      "My first-meeting signs.",
+      "How I treat people who can't help me.",
+      "My style in one sentence, and the weakness I will share."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a34",
+   "title": "Strategy, patterns and the bridge to operations",
+   "minutes": 65,
+   "week_from": 37,
+   "week_to": 37,
+   "items": [
+    {
+     "id": "i-a34-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you plan your turns?",
+       "item": "i-a34-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you state your strategy in one sentence?",
+       "item": "i-a34-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you treat symptoms or problems?",
+       "item": "i-a34-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Is there a bridge between your strategy and operations?",
+       "item": "i-a34-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Does your company listen and invest?",
+       "item": "i-a34-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a34-1",
+     "kind": "section",
+     "title": "Thirty turns",
+     "minutes": 9,
+     "idea": "Don't fear losing; plan your turns.",
+     "lesson": "lesson-a34-1"
+    },
+    {
+     "id": "i-a34-2",
+     "kind": "section",
+     "title": "Three parts of strategy",
+     "minutes": 9,
+     "idea": "Know the three parts; adapt.",
+     "lesson": "lesson-a34-2"
+    },
+    {
+     "id": "i-a34-3",
+     "kind": "section",
+     "title": "Problems have patterns",
+     "minutes": 9,
+     "idea": "Diagnose the problem; look for the pattern.",
+     "lesson": "lesson-a34-3"
+    },
+    {
+     "id": "i-a34-4",
+     "kind": "section",
+     "title": "A bridge from strategy to operations",
+     "minutes": 9,
+     "idea": "Bridge strategy and operations.",
+     "lesson": "lesson-a34-4"
+    },
+    {
+     "id": "i-a34-5",
+     "kind": "section",
+     "title": "Listen, then invest",
+     "minutes": 9,
+     "idea": "Position by what the market needs.",
+     "lesson": "lesson-a34-5"
+    },
+    {
+     "id": "i-a34-w",
+     "kind": "workshop",
+     "title": "Workshop: My strategy on one page",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My strategy in one sentence.",
+      "The pattern behind my recurring problem.",
+      "The bridge to operations and who is on it.",
+      "What the market needs, in its words.",
+      "What I will keep investing in."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a35",
+   "title": "Unintended use, listening and what we can't see",
+   "minutes": 47,
+   "week_from": 38,
+   "week_to": 38,
+   "items": [
+    {
+     "id": "i-a35-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you ask how your work could be used?",
+       "item": "i-a35-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you listen before you negotiate?",
+       "item": "i-a35-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you seek other perspectives?",
+       "item": "i-a35-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a35-1",
+     "kind": "section",
+     "title": "A good intention, an unintended use",
+     "minutes": 9,
+     "idea": "Think how what you provide could be used.",
+     "lesson": "lesson-a35-1"
+    },
+    {
+     "id": "i-a35-2",
+     "kind": "section",
+     "title": "Listen before you bring your agenda",
+     "minutes": 9,
+     "idea": "Listen before you bring your agenda.",
+     "lesson": "lesson-a35-2"
+    },
+    {
+     "id": "i-a35-3",
+     "kind": "section",
+     "title": "No one sees it all",
+     "minutes": 9,
+     "idea": "Seek other perspectives before you decide.",
+     "lesson": "lesson-a35-3"
+    },
+    {
+     "id": "i-a35-w",
+     "kind": "workshop",
+     "title": "Workshop: Use, listening and perspectives",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "How what I provide could be used, and my condition.",
+      "What I will listen for first.",
+      "Who can fill in what I cannot see."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a36",
+   "title": "Mentors, platforms and intentions",
+   "minutes": 47,
+   "week_from": 39,
+   "week_to": 39,
+   "items": [
+    {
+     "id": "i-a36-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know why your mentor helps you?",
+       "item": "i-a36-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where you stand on pipe or editor?",
+       "item": "i-a36-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you give people the choice?",
+       "item": "i-a36-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a36-1",
+     "kind": "section",
+     "title": "A mentor for the right reasons",
+     "minutes": 9,
+     "idea": "Pick mentors for values; follow the money.",
+     "lesson": "lesson-a36-1"
+    },
+    {
+     "id": "i-a36-2",
+     "kind": "section",
+     "title": "Pipe or editor?",
+     "minutes": 9,
+     "idea": "Tell confidential from censored; ask who measures.",
+     "lesson": "lesson-a36-2"
+    },
+    {
+     "id": "i-a36-3",
+     "kind": "section",
+     "title": "Intentions and outcomes",
+     "minutes": 9,
+     "idea": "Offer information and choice.",
+     "lesson": "lesson-a36-3"
+    },
+    {
+     "id": "i-a36-w",
+     "kind": "workshop",
+     "title": "Workshop: My mentor, my line, my choice",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The mentor I choose and the values I check.",
+      "Where I stand on pipe or editor, and why.",
+      "The choice I will hand back to someone."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a37",
+   "title": "Who decides, your rules and data without opinion",
+   "minutes": 47,
+   "week_from": 40,
+   "week_to": 40,
+   "items": [
+    {
+     "id": "i-a37-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your own line?",
+       "item": "i-a37-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the rules you set?",
+       "item": "i-a37-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you decide for the whole or the part?",
+       "item": "i-a37-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a37-1",
+     "kind": "section",
+     "title": "Who decides what is harmful?",
+     "minutes": 9,
+     "idea": "Ask who decides, and by what right.",
+     "lesson": "lesson-a37-1"
+    },
+    {
+     "id": "i-a37-2",
+     "kind": "section",
+     "title": "Your own rules",
+     "minutes": 9,
+     "idea": "Take a position; be honest about your rules.",
+     "lesson": "lesson-a37-2"
+    },
+    {
+     "id": "i-a37-3",
+     "kind": "section",
+     "title": "Data without opinion",
+     "minutes": 9,
+     "idea": "Consider a data-only channel; decide for the whole.",
+     "lesson": "lesson-a37-3"
+    },
+    {
+     "id": "i-a37-w",
+     "kind": "workshop",
+     "title": "Workshop: My line and my rules",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The line I draw and who decides.",
+      "The rules I set for my team and my position on them.",
+      "One decision I will make for the whole, not the part."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a38",
+   "title": "Boards, control and recurring revenue",
+   "minutes": 65,
+   "week_from": 41,
+   "week_to": 41,
+   "items": [
+    {
+     "id": "i-a38-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you have advisors who challenge you?",
+       "item": "i-a38-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you share control?",
+       "item": "i-a38-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know who controls your company?",
+       "item": "i-a38-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the short-term numbers you answer to?",
+       "item": "i-a38-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know which of your revenue repeats?",
+       "item": "i-a38-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a38-1",
+     "kind": "section",
+     "title": "Build a balanced board",
+     "minutes": 9,
+     "idea": "Build a balanced board or advisors.",
+     "lesson": "lesson-a38-1"
+    },
+    {
+     "id": "i-a38-2",
+     "kind": "section",
+     "title": "Share control",
+     "minutes": 9,
+     "idea": "Know where you won't share control.",
+     "lesson": "lesson-a38-2"
+    },
+    {
+     "id": "i-a38-3",
+     "kind": "section",
+     "title": "Three ways to take control",
+     "minutes": 9,
+     "idea": "Know how control of a company can change.",
+     "lesson": "lesson-a38-3"
+    },
+    {
+     "id": "i-a38-4",
+     "kind": "section",
+     "title": "Private or public?",
+     "minutes": 9,
+     "idea": "Notice the short-term pressure.",
+     "lesson": "lesson-a38-4"
+    },
+    {
+     "id": "i-a38-5",
+     "kind": "section",
+     "title": "Recurring revenue",
+     "minutes": 9,
+     "idea": "Know what repeats.",
+     "lesson": "lesson-a38-5"
+    },
+    {
+     "id": "i-a38-w",
+     "kind": "workshop",
+     "title": "Workshop: My board and my revenue",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "My advisors and what each challenges.",
+      "Where I will share control.",
+      "Who controls my company, and how that could change.",
+      "The short-term pressure I answer to.",
+      "The revenue that repeats and the revenue I must win again."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a39",
+   "title": "Learning, perspective and your own analysis",
+   "minutes": 56,
+   "week_from": 42,
+   "week_to": 42,
+   "items": [
+    {
+     "id": "i-a39-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you read widely?",
+       "item": "i-a39-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where your help comes from?",
+       "item": "i-a39-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask experts for their reasoning?",
+       "item": "i-a39-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Does your revenue model fit your mission?",
+       "item": "i-a39-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a39-1",
+     "kind": "section",
+     "title": "Walking along the beach",
+     "minutes": 9,
+     "idea": "Learn without obligation.",
+     "lesson": "lesson-a39-1"
+    },
+    {
+     "id": "i-a39-2",
+     "kind": "section",
+     "title": "Perspective scales",
+     "minutes": 9,
+     "idea": "Keep your perspective; know when your help is for you.",
+     "lesson": "lesson-a39-2"
+    },
+    {
+     "id": "i-a39-3",
+     "kind": "section",
+     "title": "Show me how you got the answer",
+     "minutes": 9,
+     "idea": "Ask experts how they got there.",
+     "lesson": "lesson-a39-3"
+    },
+    {
+     "id": "i-a39-4",
+     "kind": "section",
+     "title": "A model that fits the mission",
+     "minutes": 9,
+     "idea": "Make your revenue model fit your mission.",
+     "lesson": "lesson-a39-4"
+    },
+    {
+     "id": "i-a39-w",
+     "kind": "workshop",
+     "title": "Workshop: What I read, what I decide, what I earn",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "The nuggets I carry from my reading.",
+      "My stakes and my risk tolerance.",
+      "The decision I will analyze myself.",
+      "How my revenue model fits my mission."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a40",
+   "title": "Pressure, decisions and standards",
+   "minutes": 56,
+   "week_from": 43,
+   "week_to": 43,
+   "items": [
+    {
+     "id": "i-a40-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Four quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your best pressure level?",
+       "item": "i-a40-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you make decisions quickly enough?",
+       "item": "i-a40-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you written your standards?",
+       "item": "i-a40-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you question your rituals?",
+       "item": "i-a40-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a40-1",
+     "kind": "section",
+     "title": "Your pressure threshold",
+     "minutes": 9,
+     "idea": "Know your threshold and your patterns.",
+     "lesson": "lesson-a40-1"
+    },
+    {
+     "id": "i-a40-2",
+     "kind": "section",
+     "title": "Decisions are a skill",
+     "minutes": 9,
+     "idea": "Make more decisions; not deciding is a decision.",
+     "lesson": "lesson-a40-2"
+    },
+    {
+     "id": "i-a40-3",
+     "kind": "section",
+     "title": "Standards, not expectations",
+     "minutes": 9,
+     "idea": "Set standards; write them down.",
+     "lesson": "lesson-a40-3"
+    },
+    {
+     "id": "i-a40-4",
+     "kind": "section",
+     "title": "Challenge the rituals",
+     "minutes": 9,
+     "idea": "Question the rituals; balance logic and emotion.",
+     "lesson": "lesson-a40-4"
+    },
+    {
+     "id": "i-a40-w",
+     "kind": "workshop",
+     "title": "Workshop: My threshold, my decisions, my standards",
+     "minutes": 15,
+     "idea": "One page, four lines.",
+     "steps": [
+      "My best pressure level and my pattern that works.",
+      "The decision I will make today.",
+      "My standards in black and white.",
+      "The ritual I will drop."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a41",
+   "title": "Inside, outside and ownership",
+   "minutes": 47,
+   "week_from": 44,
+   "week_to": 44,
+   "items": [
+    {
+     "id": "i-a41-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know what drives you from inside?",
+       "item": "i-a41-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you own your results?",
+       "item": "i-a41-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you tell excuses from limits?",
+       "item": "i-a41-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a41-1",
+     "kind": "section",
+     "title": "Internal and external",
+     "minutes": 9,
+     "idea": "Know your inside and your outside.",
+     "lesson": "lesson-a41-1"
+    },
+    {
+     "id": "i-a41-2",
+     "kind": "section",
+     "title": "Extreme ownership",
+     "minutes": 9,
+     "idea": "Look inside before you blame outside.",
+     "lesson": "lesson-a41-2"
+    },
+    {
+     "id": "i-a41-3",
+     "kind": "section",
+     "title": "No external excuses",
+     "minutes": 9,
+     "idea": "Hear internal limits; find your balance.",
+     "lesson": "lesson-a41-3"
+    },
+    {
+     "id": "i-a41-w",
+     "kind": "workshop",
+     "title": "Workshop: Inside, ownership and excuses",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "What drives me from inside, and the culture I run.",
+      "What I own, and what I will change inside.",
+      "How I will tell an excuse from a limit."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a42",
+   "title": "Auditing, hiring and leading change",
+   "minutes": 65,
+   "week_from": 45,
+   "week_to": 45,
+   "items": [
+    {
+     "id": "i-a42-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Five quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know who is really working?",
+       "item": "i-a42-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know why your best people stay?",
+       "item": "i-a42-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know how people respond to change?",
+       "item": "i-a42-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you interview for how people think?",
+       "item": "i-a42-4",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you earned trust before asking for change?",
+       "item": "i-a42-5",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a42-1",
+     "kind": "section",
+     "title": "Who is really working?",
+     "minutes": 9,
+     "idea": "Use KPIs, time audits and a granular manual.",
+     "lesson": "lesson-a42-1"
+    },
+    {
+     "id": "i-a42-2",
+     "kind": "section",
+     "title": "Will they stay?",
+     "minutes": 9,
+     "idea": "Know your key people and why they stay.",
+     "lesson": "lesson-a42-2"
+    },
+    {
+     "id": "i-a42-3",
+     "kind": "section",
+     "title": "Walking into an established way",
+     "minutes": 9,
+     "idea": "Expect resistance; know what spark is lost.",
+     "lesson": "lesson-a42-3"
+    },
+    {
+     "id": "i-a42-4",
+     "kind": "section",
+     "title": "Interview for the mission",
+     "minutes": 9,
+     "idea": "Interview for how people think.",
+     "lesson": "lesson-a42-4"
+    },
+    {
+     "id": "i-a42-5",
+     "kind": "section",
+     "title": "Trust before change",
+     "minutes": 9,
+     "idea": "Earn trust before you ask for change.",
+     "lesson": "lesson-a42-5"
+    },
+    {
+     "id": "i-a42-w",
+     "kind": "workshop",
+     "title": "Workshop: My team audit",
+     "minutes": 15,
+     "idea": "One page, five lines.",
+     "steps": [
+      "Each person's KPIs.",
+      "My key people and why they stay.",
+      "What my team will resist, and my first day.",
+      "My interview question and my ad line.",
+      "How I build trust before I ask for change."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a43",
+   "title": "Team players, trust and small signs",
+   "minutes": 47,
+   "week_from": 46,
+   "week_to": 46,
+   "items": [
+    {
+     "id": "i-a43-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you listen for we and I?",
+       "item": "i-a43-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you judge leaders by their track record?",
+       "item": "i-a43-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you catch small signs?",
+       "item": "i-a43-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a43-1",
+     "kind": "section",
+     "title": "We, not I",
+     "minutes": 9,
+     "idea": "Listen for we and I.",
+     "lesson": "lesson-a43-1"
+    },
+    {
+     "id": "i-a43-2",
+     "kind": "section",
+     "title": "When to back a decision",
+     "minutes": 9,
+     "idea": "Judge by pattern and evidence.",
+     "lesson": "lesson-a43-2"
+    },
+    {
+     "id": "i-a43-3",
+     "kind": "section",
+     "title": "The one little thing",
+     "minutes": 9,
+     "idea": "Catch the one little thing; mitigate the risk.",
+     "lesson": "lesson-a43-3"
+    },
+    {
+     "id": "i-a43-w",
+     "kind": "workshop",
+     "title": "Workshop: My signs and my evidence",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The signs of a team player I look for.",
+      "The evidence I use to back a leader's decision.",
+      "The one little thing I will not let pass."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a44",
+   "title": "The last word, trust and questions",
+   "minutes": 47,
+   "week_from": 47,
+   "week_to": 47,
+   "items": [
+    {
+     "id": "i-a44-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you pass your own decisions to a committee?",
+       "item": "i-a44-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a filter for people you can't assess?",
+       "item": "i-a44-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your questioning style?",
+       "item": "i-a44-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a44-1",
+     "kind": "section",
+     "title": "The weight of the last word",
+     "minutes": 9,
+     "idea": "A committee does not remove the weight.",
+     "lesson": "lesson-a44-1"
+    },
+    {
+     "id": "i-a44-2",
+     "kind": "section",
+     "title": "Can you be trusted?",
+     "minutes": 9,
+     "idea": "Ask intense questions; limit access.",
+     "lesson": "lesson-a44-2"
+    },
+    {
+     "id": "i-a44-3",
+     "kind": "section",
+     "title": "Interview or interrogation?",
+     "minutes": 9,
+     "idea": "Balance free-flowing and interrogative.",
+     "lesson": "lesson-a44-3"
+    },
+    {
+     "id": "i-a44-w",
+     "kind": "workshop",
+     "title": "Workshop: My last word and my questions",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The decision that is really mine.",
+      "The question I ask to learn candour.",
+      "My questioning style and how I will balance it."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a45",
+   "title": "Crisis patterns, fear and values",
+   "minutes": 47,
+   "week_from": 48,
+   "week_to": 48,
+   "items": [
+    {
+     "id": "i-a45-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your crisis pattern?",
+       "item": "i-a45-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you notice where fear points you?",
+       "item": "i-a45-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what you won't do for money?",
+       "item": "i-a45-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a45-1",
+     "kind": "section",
+     "title": "Your crisis pattern",
+     "minutes": 9,
+     "idea": "Know your pattern; turn it into skills.",
+     "lesson": "lesson-a45-1"
+    },
+    {
+     "id": "i-a45-2",
+     "kind": "section",
+     "title": "Fear shapes your attention",
+     "minutes": 9,
+     "idea": "Notice where fear puts your attention.",
+     "lesson": "lesson-a45-2"
+    },
+    {
+     "id": "i-a45-3",
+     "kind": "section",
+     "title": "A line you draw for the first time",
+     "minutes": 9,
+     "idea": "Know the values you won't trade.",
+     "lesson": "lesson-a45-3"
+    },
+    {
+     "id": "i-a45-w",
+     "kind": "workshop",
+     "title": "Workshop: My pattern and my line",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My crisis pattern and the skills in it.",
+      "Where fear points my attention, and what I will do before I decide.",
+      "The line I will not cross for money."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a46",
+   "title": "Hard questions: lines, other sides and discernment",
+   "minutes": 47,
+   "week_from": 49,
+   "week_to": 49,
+   "items": [
+    {
+     "id": "i-a46-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know who you would trust to draw a hard line?",
+       "item": "i-a46-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you test your view against its opposite?",
+       "item": "i-a46-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you check before you believe?",
+       "item": "i-a46-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a46-1",
+     "kind": "section",
+     "title": "Who draws the line?",
+     "minutes": 9,
+     "idea": "Hard lines need a decider; own your line.",
+     "lesson": "lesson-a46-1"
+    },
+    {
+     "id": "i-a46-2",
+     "kind": "section",
+     "title": "Argue the other side",
+     "minutes": 9,
+     "idea": "Argue the other side on purpose.",
+     "lesson": "lesson-a46-2"
+    },
+    {
+     "id": "i-a46-3",
+     "kind": "section",
+     "title": "Discernment and standing behind it",
+     "minutes": 9,
+     "idea": "Learn to check; stand behind your word.",
+     "lesson": "lesson-a46-3"
+    },
+    {
+     "id": "i-a46-w",
+     "kind": "workshop",
+     "title": "Workshop: My line and my test",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "A hard question and where I stand.",
+      "The strongest argument against my view.",
+      "A call I will stand behind."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a47",
+   "title": "Fixing a business in trouble",
+   "minutes": 47,
+   "week_from": 50,
+   "week_to": 50,
+   "items": [
+    {
+     "id": "i-a47-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you ask what assets you have before you act?",
+       "item": "i-a47-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know who your income pulls you toward?",
+       "item": "i-a47-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you set direction before you go fast?",
+       "item": "i-a47-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a47-1",
+     "kind": "section",
+     "title": "Four questions for a business in trouble",
+     "minutes": 9,
+     "idea": "Assets, past assets, strengths, a unique offer.",
+     "lesson": "lesson-a47-1"
+    },
+    {
+     "id": "i-a47-2",
+     "kind": "section",
+     "title": "When the payer pulls the other way",
+     "minutes": 9,
+     "idea": "Know who pays, and build a second source.",
+     "lesson": "lesson-a47-2"
+    },
+    {
+     "id": "i-a47-3",
+     "kind": "section",
+     "title": "Direction before speed",
+     "minutes": 9,
+     "idea": "Stay true to your mission; direction first.",
+     "lesson": "lesson-a47-3"
+    },
+    {
+     "id": "i-a47-w",
+     "kind": "workshop",
+     "title": "Workshop: Four answers and a direction",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My four answers: assets, past assets, strengths, a unique offer.",
+      "Who pays me and where it pulls me.",
+      "My mission and my direction before speed."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a48",
+   "title": "Filters, belief and expectation",
+   "minutes": 47,
+   "week_from": 51,
+   "week_to": 51,
+   "items": [
+    {
+     "id": "i-a48-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you test who really wants in?",
+       "item": "i-a48-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you hire for belief or for the job description?",
+       "item": "i-a48-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do your expectations build people up?",
+       "item": "i-a48-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a48-1",
+     "kind": "section",
+     "title": "A filter and a choice",
+     "minutes": 9,
+     "idea": "A filter shows who is in; a choice moves the weight.",
+     "lesson": "lesson-a48-1"
+    },
+    {
+     "id": "i-a48-2",
+     "kind": "section",
+     "title": "Hire for belief",
+     "minutes": 9,
+     "idea": "Belief in yourself first; train skills.",
+     "lesson": "lesson-a48-2"
+    },
+    {
+     "id": "i-a48-3",
+     "kind": "section",
+     "title": "Expectation builds confidence",
+     "minutes": 9,
+     "idea": "State expectations that build confidence.",
+     "lesson": "lesson-a48-3"
+    },
+    {
+     "id": "i-a48-w",
+     "kind": "workshop",
+     "title": "Workshop: My filter, my belief, my expectation",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "A filter and a choice I could use.",
+      "The belief that carries me.",
+      "An expectation that builds confidence."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a49",
+   "title": "Listening, information and your voice",
+   "minutes": 47,
+   "week_from": 52,
+   "week_to": 52,
+   "items": [
+    {
+     "id": "i-a49-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you listen to understand?",
+       "item": "i-a49-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you choose what information you let in?",
+       "item": "i-a49-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what your voice becomes in others?",
+       "item": "i-a49-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a49-1",
+     "kind": "section",
+     "title": "Listening without prejudice",
+     "minutes": 9,
+     "idea": "Listen to understand; put your frame down.",
+     "lesson": "lesson-a49-1"
+    },
+    {
+     "id": "i-a49-2",
+     "kind": "section",
+     "title": "Choose what you let in",
+     "minutes": 9,
+     "idea": "Choose information, know your bias.",
+     "lesson": "lesson-a49-2"
+    },
+    {
+     "id": "i-a49-3",
+     "kind": "section",
+     "title": "Your voice becomes their voice",
+     "minutes": 9,
+     "idea": "Speak so it becomes their inner voice.",
+     "lesson": "lesson-a49-3"
+    },
+    {
+     "id": "i-a49-w",
+     "kind": "workshop",
+     "title": "Workshop: How I listen and what I let in",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "How I will listen to someone hard to hear.",
+      "What I let in and what I keep out.",
+      "What I want my voice to become in others."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-a50",
+   "title": "Systems, the first dollar and conviction",
+   "minutes": 56,
+   "week_from": 53,
+   "week_to": 53,
+   "items": [
+    {
+     "id": "i-a50-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you build the system before you hire?",
+       "item": "i-a50-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know when your first dollar comes?",
+       "item": "i-a50-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you question your own convictions?",
+       "item": "i-a50-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-a50-1",
+     "kind": "section",
+     "title": "Systems first",
+     "minutes": 9,
+     "idea": "Build the blueprint first.",
+     "lesson": "lesson-a50-1"
+    },
+    {
+     "id": "i-a50-2",
+     "kind": "section",
+     "title": "The first dollar",
+     "minutes": 9,
+     "idea": "Find the first dollar; stop tinkering.",
+     "lesson": "lesson-a50-2"
+    },
+    {
+     "id": "i-a50-3",
+     "kind": "section",
+     "title": "Opinion, belief, conviction",
+     "minutes": 9,
+     "idea": "Question opinions until they are convictions.",
+     "lesson": "lesson-a50-3"
+    },
+    {
+     "id": "i-a50-4",
+     "kind": "section",
+     "title": "Teachable, and what the class took away",
+     "minutes": 9,
+     "idea": "Stay teachable; act.",
+     "lesson": "lesson-a50-4"
+    },
+    {
+     "id": "i-a50-w",
+     "kind": "workshop",
+     "title": "Workshop: Blueprint, first dollar, conviction",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My blueprint in five steps.",
+      "My first dollar and when it comes.",
+      "One conviction I will question, and who may question it."
+     ]
+    }
+   ]
+  }
+ ],
+ "slots": [],
+ "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+}

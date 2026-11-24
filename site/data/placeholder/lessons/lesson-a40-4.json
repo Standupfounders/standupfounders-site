@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a40-4",
+ "title": "Challenge the rituals",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which ritual do you follow only because everyone does?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Logic and emotion",
+   "lines": [
+    {
+     "text": "Jose said: I think that his values and beliefs, if you distill them into his decision process, he sticks to logic and doesn't allow prejudice. He doesn't let anybody go into the emotional world of: I feel like this. He sticks to: this is what needs to get done. He doesn't allow that emotional clutter in his organizations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: he pushes people to see the black and white, and then he operates within the gray area to an extent. Jose said: I do see him getting emotional triggers too. What emotions trigger him to be productive?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked: how do you balance logic with emotion, and how are you driving people to excel?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Challenge the rituals",
+   "lines": [
+    {
+     "text": "Jose said: we in society are contaminated by rituals, and that is one of the things I love about him: he challenges rituals. A ritual is, I work from nine to five. That is defined by society, not by a mission or a standard. I'm off at five on Friday and I don't answer my phone until Monday.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He doesn't adhere to those rituals, Jose said, and they don't affect his judgment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: raising the standard is a good practice, in business and in personal life. If something isn't living up to your standards, don't be involved with it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What would you stop doing tomorrow if you looked at your rituals?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your working rituals: hours, meetings, routines.",
+   "Write which ones come from a mission and which from habit.",
+   "Write the logic and emotion balance in your decisions.",
+   "Write the emotional clutter you would remove.",
+   "Write one ritual you will drop for a month."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a ritual is?",
+   "choices": [
+    "Something society defines, such as working nine to five",
+    "A mission",
+    "A standard"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask about leaders?",
+   "choices": [
+    "How much do you balance logic with emotion?",
+    "How much do you earn?",
+    "How early do you wake?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to do if something isn't living up to your standards?",
+   "choices": [
+    "Don't be involved with it",
+    "Complain",
+    "Wait"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Question the rituals you follow. Balance logic and emotion on purpose.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

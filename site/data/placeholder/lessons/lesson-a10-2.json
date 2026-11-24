@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a10-2",
+ "title": "Kinds of investors",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which kind of investor fits your business, and how do you know?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Kinds of investors",
+   "lines": [
+    {
+     "text": "Jose said he had read a book on the different types of investors. Angels are high net worth individuals who sometimes want to buy themselves a job as chairman. They want to be relevant, to share their knowledge, and they have a different energy about them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Formal venture capital firms look for the unicorn deal, he said. They are stricter and more financial. Some focus on coaching and mission-driven businesses and tell you in ten minutes whether they like it. Some do only education, health, or telecom and internet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Look at the founders of the fund, he said. Were they mission-driven, or more corporate, looking for extremely safe investments where you already have ten million in sales and are going from ten to fifty?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ninety percent is research",
+   "lines": [
+    {
+     "text": "I think ninety percent of the job of raising money is doing the research on the people you want to invite into your business, Jose said. They have industry knowledge, and you align with certain values.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Research them on LinkedIn and other platforms: their value systems, what they have done successfully, how many partnerships they have had.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Every time I made a mistake with partnerships, he said, it was because I didn't listen to my intuition. I told myself: this man has never had a partner. He has always worked for himself and had one company. So why would he want a partnership now? That's not going to happen.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What does your research say about the investor you want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write which type of investor fits your stage.",
+   "Write what they invest in and what they don't.",
+   "Write what you can find out about the founders of their fund.",
+   "Write what a past partnership taught you about your intuition.",
+   "Write the list of values you want them to share."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say angels are?",
+   "choices": [
+    "High net worth individuals",
+    "Banks",
+    "Governments"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How much of raising money did Jose say is research?",
+   "choices": [
+    "About ninety percent",
+    "About ten percent",
+    "None"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say caused his partnership mistakes?",
+   "choices": [
+    "Not listening to his intuition",
+    "Too much research",
+    "Too little money"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the kinds of investors. Do the research before you ask.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a27-3",
+ "title": "Move people, encourage risk",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who in your company could you move to a different job, because of how they think?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Move people across",
+   "lines": [
+    {
+     "text": "Jose said that the person will grab one person from one company and put them in another. That is called cross-functional cooperation, he said, but he does it between two totally different companies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What does one person at the first company know about the second? Nothing about the process. But he relies on the person's mindset of analysis and problem solving. He is agnostic to specific problems. He is creating a culture of a mindset.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: those workers will remember and say, what is the best way we can do this? Not: can we get it done this way?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Encouraging risk",
+   "lines": [
+    {
+     "text": "I've never read about a management style where he encourages risk, Jose said. I don't want to go by the rules. We are the rules. Most people fear that risk, and he pushes them to take initiative, to innovate, to calculate the risk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When somebody says: I can't do that, these are the rules, they shift responsibility to something else. I washed my hands of it. You are going back to doing the activity, not owning the result of the activity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Normally you have a standard operating procedure, a little job description, rinse and repeat. This is a completely different culture. I say: I want you to do four million this month. How are you going to get there? I don't know. Innovate, take a risk, we can talk about it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The surge",
+   "lines": [
+    {
+     "text": "He calls it the surge, Jose said, when he goes on a mission with a hyper-mode deadline that is impossible, and everybody has to be on it, working around the clock. A student said it is constant start-up culture: you have to perform under pressure consistently, and you don't get out of work mode.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is always keeping people on their toes, Jose said, excited and not comfortable, because he knows comfort is the enemy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would a surge look like for your team, and how long could it last?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who you could move to another role for their mindset.",
+   "Write what rule your people hide behind.",
+   "Write the risk you want them to calculate and take.",
+   "Write what a surge would be for you and when it stops.",
+   "Write the cost of a surge on people."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call moving people between teams?",
+   "choices": [
+    "Cross-functional cooperation",
+    "Layoffs",
+    "Rotation of stock"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say people do when they say 'those are the rules'?",
+   "choices": [
+    "Shift responsibility to something else",
+    "Take ownership",
+    "Work harder"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the person knows is the enemy?",
+   "choices": [
+    "Comfort",
+    "Money",
+    "Time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Move people for their mindset. Encourage calculated risk. Use a surge with care.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

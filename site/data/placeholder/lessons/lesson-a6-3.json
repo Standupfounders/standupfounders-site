@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-a6-3",
+ "title": "Managing relationships and ego",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When your confidence is at its highest, who are you least likely to hear?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ego and confidence",
+   "lines": [
+    {
+     "text": "The lesson here in this chapter is managing relationships, Jose said. You have to dig deep and not let ego get in the way. All of us get caught in it, because the nature of entrepreneurs is that we need undying, unlimited confidence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That confidence is what it takes in high-risk situations. And the same thing can be the enemy when we are talking to people we feel are obstacles, people who don't get it. We can often become insensitive, and that can hurt our company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Both ways",
+   "lines": [
+    {
+     "text": "It works the other way too, he said. People who are concrete, sequential, list-makers and administrative also have to say: the whole reason I am in this office is because a visionary came up with this technology. It's give and take.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A board and a translator",
+   "lines": [
+    {
+     "text": "Jose said a board of advisors nurtures the founder. One of his strengths, he said, is creating an environment where founders thrive: meet their mission-driven needs, agree a strategy, and frame the conversations so the founder can do what they do best, which is innovate.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A founder's fear is that a CEO limits their vision, he said, so you cannot threaten that. It is like walking on glass. You would need a leader on the board to talk to the founder and ask: what are you thinking? You would need a translator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is the translator between you and the people you lead?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a time your confidence made you deaf to someone.",
+   "Write what that person was trying to tell you.",
+   "Write what the operational people in your life make possible.",
+   "Write who could be your translator.",
+   "Write the one conversation you will have differently."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the lesson of the chapter?",
+   "choices": [
+    "Managing relationships and not letting ego get in the way",
+    "Raising money",
+    "Writing a plan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What can unlimited confidence become?",
+   "choices": [
+    "The enemy when talking to people you see as obstacles",
+    "Always helpful",
+    "Irrelevant"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Who did Jose say you may need between a founder and others?",
+   "choices": [
+    "A translator",
+    "A lawyer",
+    "A banker"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep confidence from becoming ego. Find a translator.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

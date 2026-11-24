@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b23-3",
+ "title": "Success is a lot of tiny little decisions",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What were the moments that defined who you are?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What was the turning point?",
+   "lines": [
+    {
+     "text": "A student asked: what was the biggest move that accelerated him? Jose said: I met a man who talked about six or seven moments that defined his life. Those moments, he capitalized on. They triggered his emotions, which became actions, which became decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If we scan the book for the defining moments, Jose said: the four-year-old taken to boarding school, abandonment issues, a negative moment that taught him to be independent. Being bullied taught him to defend himself, which became: I'm going to fight against the government and the monopolies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another: I don't have to rebel, I can turn into the good student. Another: working with his father's crew on billboards, the hard work. Then being a salesman, and realizing his action in selling triggered an entire operation. He learned to systemize a business, and to replicate the success of one company in a failing one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Success is a lot of tiny little decisions",
+   "lines": [
+    {
+     "text": "What I learn from people like this, Jose said, is that I'm always paying attention to what they say, but more importantly, what decisions they make. When I meet somebody I'm always trying to find the critical decisions they made in their life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But what about the little decisions they make day to day? You don't fail because you made one bad decision. You fail because you consistently made bad decisions day in and day out. Same with success. Success is a lot of tiny little decisions that you made every single day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I'm always looking at people's habits, he said. Do they get up in the morning? Do they work out? Is their house neat? Is their car neat? Are they structured? Are they always waking up with a positive mindset? If I see a lot of bad decisions during their day, consistently, that scares me.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Same with relationships, he said. If you are not working at a relationship every single day, it goes into neglect. Same with being a father or a mother.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are the tiny decisions you make every day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three defining moments of your life.",
+   "Write the emotion, the action and the decision each one led to.",
+   "Write your tiny daily decisions: morning, work, relationships.",
+   "Write the one that scares you.",
+   "Write one tiny decision you will repeat every day this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say success and failure are made of?",
+   "choices": [
+    "A lot of tiny decisions made every day",
+    "One big decision",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say defining moments trigger?",
+   "choices": [
+    "Emotions that become actions that become decisions",
+    "Nothing",
+    "Money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he looks at in people?",
+   "choices": [
+    "Their habits and the decisions they make",
+    "Their titles",
+    "Their age"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look at the tiny decisions, because success and failure are made of them.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

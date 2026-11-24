@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "lesson-b2-3",
+ "title": "They get diluted",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you ever bought something big with money you did not have yet?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He's getting deeper and deeper, and leveraging",
+   "lines": [
+    {
+     "text": "Jose said he would prepare the class to read the chapter, because it is very dense, with a lot of business decisions the author is making.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells it, the author wants to diversify. He realizes the billboard business is under threat. He wants a television station.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Now it is not just putting an ad on a billboard, Jose said. There are all these moving parts: the antenna, the content, selling the advertising. You can see the complexity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is burning money, Jose said. Some of the radio stations are losing money. He is getting deeper and deeper, and leveraging.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Leveraging, Jose said, is when you use an asset to acquire another asset, using debt or equity. Normally that is what they call it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "They get diluted, like adding water to orange juice",
+   "lines": [
+    {
+     "text": "Jose gave a short lesson on shares. Imagine two founders who split a company, fifty each. An investor asks what it is worth. A million dollars. The investor wants ten percent, for a hundred thousand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then there is a word, dilution. They get diluted, like adding water to orange juice. You don't have as much stock of the company anymore, because you sold stock to take cash in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked: I thought diluting meant printing more shares. Jose said: not necessarily. Even if you print more shares, it is all based on the valuation. You go down in your value because you are selling part of the company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "As Jose retells the chapter, the author's ownership dropped below half, but he kept the voting stock.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So be very careful as entrepreneurs, Jose said. Are you selling the company too quickly, before you build value in it? And are you losing control of the voting shares?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you be willing to sell, and what would you never give up?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you own or control now: a skill, money, a project, a client list.",
+   "Write what you would borrow or sell to grow it.",
+   "If you sold ten percent of your project, what would you give up?",
+   "Write who you would let hold a vote, and who you would not.",
+   "Write the one thing you would never give up."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose describe leveraging?",
+   "choices": [
+    "Using an asset to acquire another asset, using debt or equity",
+    "Saving more than you spend",
+    "Selling everything at once"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say diluting is like?",
+   "choices": [
+    "Adding water to orange juice",
+    "Pouring oil on a fire",
+    "Cutting a cake in half"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which two cautions did Jose give entrepreneurs?",
+   "choices": [
+    "Selling too quickly before building value, and losing control of the voting shares",
+    "Spending too much on ads, and hiring too slowly",
+    "Starting too early, and working too hard"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know what you give up when you borrow or sell. Don't sell too soon, and keep control.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

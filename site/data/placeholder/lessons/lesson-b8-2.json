@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": "lesson-b8-2",
+ "title": "I was struggling to do three things",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are the three things you are trying to do well at the same time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I was struggling to do three things",
+   "lines": [
+    {
+     "text": "A student said the sport was changing, with sponsorships, and he wanted to do more of the news channel. He said he had to pick two of the three, and he couldn't not choose his family, and he was having fun, so sailing went on the back burner.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose read a line from the author about the pressure.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I'd been stressed before. but this was the 1st that I realized I was pushing myself to the brink.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "What a statement, Jose said. He realized he was struggling to do three things: build a business, race boats, and raise a family.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "My criteria for judging success",
+   "lines": [
+    {
+     "text": "When I look at a mentor, a leader, Jose said, I have a criteria for judging success. You have your financial success. You have your success with your family. You have your success in your professional life. And for some, how the business helped a lot of people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Being conscious of the day to day, he said, the time you sink into those different things, is where an enormous amount of discipline comes into play.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is very easy, he said, to become unaware of other people's needs, because we are so focused on our business, personal or financial goals. As entrepreneurs we get an obsession with building the business, and it is easy to neglect the rest.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: what would the author say to you? A student said: go and do it, give yourself a mountain to climb. Another said: push it harder and keep the focus on the goal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Are you aware of the choices you're making?",
+   "lines": [
+    {
+     "text": "I use a metaphor, Jose said. Are you going twenty miles an hour? Eighty? A hundred and fifty? What is your pace? Pace is about the habits every day. Are you getting up at five and working out, or giving yourself excuses?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Your pace is proportional to your intrinsic motivation, he said. It is not about pleasing somebody else. Be at peace with the pace you are going at, the goals you are achieving, the day-to-day habits, and balancing the family.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Being aware of those things is giving yourself the choice, he said. That is the magic word. Are you aware of the choices you are making?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Are you aware of the choices you are making?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the three things you are trying to do at once: business, family, health, a sport.",
+   "Write which one you give the least to.",
+   "Write your own criteria for success: money, family, work, helping people.",
+   "Write your pace, and whether it comes from inside you or from a boss.",
+   "Write one choice you will make on purpose this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What three things did the author say he was struggling to do?",
+   "choices": [
+    "Build a business, race boats, and raise a family",
+    "Sell, buy and travel",
+    "Write, read and sail"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is the magic word?",
+   "choices": [
+    "Giving yourself the choice",
+    "Faster",
+    "Profit"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say your pace is proportional to?",
+   "choices": [
+    "Your intrinsic motivation",
+    "Your salary",
+    "Your age"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be aware of the choices you make about your pace and your three things.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

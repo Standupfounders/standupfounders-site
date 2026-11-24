@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-d2-1",
+ "title": "The messenger and the uniform",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you the messenger or the message?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The messenger",
+   "lines": [
+    {
+     "text": "A student said: the book sets up that we want to be an authority in our space, to be the messenger and not necessarily the message. I like that they address social media, because it is a way to build authority in this age.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that reading these books empowers us because we learn words that carry deep concepts. He said that the two concepts he heard most from the author when they met were mission-driven authority and being a servant leader.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Roles and uniforms",
+   "lines": [
+    {
+     "text": "Jose said that the company is every person and the roles and responsibilities they play, and that in each contact there is a standard of how they speak and carry themselves. He said that is why people wear uniforms: a uniform changes your mindset to I am in that role.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that without a uniform you are more likely to fall out of the role, and that our lives are filled with uniforms and roles.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your uniform, even if it is not cloth?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what message you carry.",
+   "Write what makes you its messenger.",
+   "Write the role you play when you are at your best.",
+   "Write what your uniform is.",
+   "Write how you will keep to the standard when no one is looking."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say we want to be?",
+   "choices": [
+    "The messenger",
+    "The message",
+    "The audience"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a uniform changes?",
+   "choices": [
+    "Your mindset",
+    "Your salary",
+    "Your age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What two concepts did Jose say the author talks about most?",
+   "choices": [
+    "Mission-driven authority and servant leadership",
+    "Cost and price",
+    "Speed and size"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be the messenger. Play your role to its standard.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

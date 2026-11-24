@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-b13-1",
+ "title": "Where did my process break down?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When something goes wrong, what is your first question: who, or where?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He doesn't blame anybody",
+   "lines": [
+    {
+     "text": "Jose said the group would get a guest to teach them to read the balance sheet of a publicly traded company. It is valuable, he said, to understand how a company is structured, how its assets are, how much debt it has. In the book, the author uses his balance sheet and his stock to buy other assets, and there are dangers in over-leveraging.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose noticed something. Do you notice, he asked, that he doesn't blame anybody? He doesn't victimize himself. He doesn't blame circumstances. He is very accountable for his own actions, and that is a real big sign of a leader.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where did my process break down?",
+   "lines": [
+    {
+     "text": "We need to self-reflect, he said. Any time you are repeatedly blaming outside circumstances, you have an internal problem. I honestly believe that. The real question strong leaders ask is: where did my process break down? That is a very different question than: who's at fault?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People who go right to the process immediately start auditing. Where did this go wrong? A student gave an example of the author looking back on a deal he had to partly undo, and saying it was best for the growth of both companies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you start blaming, Jose said, you are taking the power away from yourself. A student said: it feels good in the moment because you're putting it out externally, but all it does is put you in a weaker mindset to get over things in the future.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A culture of accountability",
+   "lines": [
+    {
+     "text": "How do we create a culture of accountability in a little company, Jose asked? A student said: it starts from the top. The leader takes accountability, then everyone does, and you have systems in place. Did you meet this metric? No? How do you make it better?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: you focus on the problem. How can I fix this? What are my options? When have I been in this situation before? Use the resources you have available. Even for an internal problem, like I'm not motivated, get help: books, or even a psychologist to talk things through. Ask who is the best person to implement this solution.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A culture of accountability, he said, is about achieving the right results, rather than just completing tasks without thinking about what the right results are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where did your process break down the last time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write something that went wrong recently.",
+   "Write who you were tempted to blame.",
+   "Rewrite it as: where did my process break down?",
+   "Write the metric or check you would add.",
+   "Write one resource you will use: a book, a person, a coach."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say repeated blaming of outside circumstances means?",
+   "choices": [
+    "You have an internal problem",
+    "The world is unfair",
+    "You need more staff"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which question did Jose say strong leaders ask?",
+   "choices": [
+    "Where did my process break down?",
+    "Who is at fault?",
+    "Why me?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a culture of accountability is about?",
+   "choices": [
+    "Achieving the right results, not just completing tasks",
+    "Punishing mistakes",
+    "Working longer hours"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Don't blame. Ask where your process broke down, and build accountability.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

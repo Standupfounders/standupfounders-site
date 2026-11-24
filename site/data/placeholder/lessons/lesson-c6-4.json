@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c6-4",
+ "title": "Gratitude and meaningful coincidence",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would shift if you started each day by saying what you are grateful for?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Gratitude changes the day",
+   "lines": [
+    {
+     "text": "A student tied it to the second law, make it attractive: if you keep going back to I am grateful for this opportunity, you focus on the positive when the negative things come up, which is just life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student gave a perspective example: late to a meeting because of a delay on the road, but seeing that someone else is having a far worse day, so that being late is not so bad. This is the student's account, with the details left out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said that every morning with your coffee you could say ten things you are grateful for, and at first you think about it but then it becomes automatic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A choice of reality",
+   "lines": [
+    {
+     "text": "Jose said that we have the ability to choose our bundle, and to say: that is a fabricated reality that I do not accept, I am creating my own reality. I have a choice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that gratitude, values and priorities, stated openly, set you up for awareness in yourself and in others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Meaningful coincidences",
+   "lines": [
+    {
+     "text": "Jose described synchronicity as the coincidental occurrence of an event that has meaning, such as meeting someone and feeling a connection. He said that when you are grateful and clear about your intention, you meet people who share it, and meaningful coincidences follow. He said he does not mean it in a religious or hippie way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are you grateful for today, and what would you notice if you looked for it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write ten things you are grateful for.",
+   "Write what you will anchor it to each morning.",
+   "Write a time a coincidence helped you.",
+   "Write who you are meeting that shares your intention.",
+   "Write what you choose not to accept from the fabricated world."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to say each morning with coffee?",
+   "choices": [
+    "Ten things you are grateful for",
+    "Your to-do list",
+    "The weather"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we have the ability to choose?",
+   "choices": [
+    "Our bundle",
+    "The weather",
+    "Our age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say synchronicity is?",
+   "choices": [
+    "A coincidence that has meaning",
+    "A bank term",
+    "A machine"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start the day with gratitude. Choose your reality. Look for coincidences.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

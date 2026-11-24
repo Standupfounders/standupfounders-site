@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a39-4",
+ "title": "A model that fits the mission",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Does the way you earn fit what you say you are for?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Remodelling a house",
+   "lines": [
+    {
+     "text": "Jose said it is the first time the person is grabbing a company that he had no part in building. It is like remodelling a house, not building one from scratch. He is going outside his comfort zone into a company whose process and data he doesn't understand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Does he have the skill set intellectually, academically, to build it into a powerhouse? Jose said he is very enthusiastic to follow the learning curve of what he will do with the company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The revenue model",
+   "lines": [
+    {
+     "text": "A student said that there are paid membership tiers at three prices: it is how they are siphoning out valid accounts. Jose said: I thought it was straight advertising.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the person bought the platform wanting an objective news source. We have learned in the past, with a famous magazine and newspaper companies, that advertising can contaminate objective journalism. That is a conflict for him philosophically: advertisers kind of skewing the news.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So I think he is going to look for other revenue models that are not advertising, he said. That will be very interesting. It is his personal opinion.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Integrity and money",
+   "lines": [
+    {
+     "text": "Will he develop a news outlet where the advertising money will not contaminate the integrity of the journalism? That is the philosophical question, Jose said. It is like being in the stands and watching a person on a racetrack that has never been run before.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: advertising runs everything. Jose said: we are living in very exciting times to watch him and see how he evolves it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your business model, and what would it do to your mission?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you earn your money.",
+   "Write the mission you say you serve.",
+   "Write where the two conflict.",
+   "Write one other way to earn that would fit the mission better.",
+   "Write what you would never accept money from."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say buying an existing company is like?",
+   "choices": [
+    "Remodelling a house, not building one from scratch",
+    "Starting a new house",
+    "Selling a house"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say can contaminate objective journalism?",
+   "choices": [
+    "Advertising",
+    "Reading",
+    "Writing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the philosophical question is?",
+   "choices": [
+    "Whether a news outlet can avoid the contamination of the journalism's integrity by advertising money",
+    "Which colour to use",
+    "How many staff"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make sure your revenue model fits your mission. Know what money could skew your integrity.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

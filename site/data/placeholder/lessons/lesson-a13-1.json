@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a13-1",
+ "title": "Missionaries, not mercenaries",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you in this for the mission, or for the money?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Missionaries and mercenaries",
+   "lines": [
+    {
+     "text": "Jose said the book describes the two rocket founders as setting out on space endeavors as missionaries, not mercenaries. Jose read the phrase.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "missionaries rather than mercenaries",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "A mercenary, he said, is somebody who wants to make money for the sake of making money. They are not thinking about making money. They are totally on another planet, no pun intended.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Same mission, two approaches",
+   "lines": [
+    {
+     "text": "They have similar missions and common denominators, like the reusable rocket, Jose said. What is the difference in their approach? Like the two computer founders, one closed system and one open.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: they don't have the same level of priority. One of them takes massive risks, does things in a more complicated way to get them done correctly and faster, and has a sense of urgency.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the author writes that one focused on creating the sensors and software to guide a rocket to a soft landing, which is his comfort zone: logistics and software. The other focused obsessively on the physics problem. They come from different strengths.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They both understand that reducing weight is very important, he said. Lighter rockets get to orbit faster, and colder fuel lets you fit more fuel and get more power.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Physics first",
+   "lines": [
+    {
+     "text": "A student said: if you are doing anything with rockets you have to understand physics first. You are dealing with physical rockets, not a software update. That is where I see a lot of the divergence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your strength, and what is the problem that needs the other one?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether you are a missionary or a mercenary in your work, honestly.",
+   "Write the common goal you share with a competitor.",
+   "Write how your approach differs from theirs.",
+   "Write your strength and the problem it does not solve.",
+   "Write what you would need to learn first, like the physics before the software."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose describe a mercenary?",
+   "choices": [
+    "Someone who wants to make money for the sake of making money",
+    "Someone who builds rockets",
+    "Someone who teaches"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the two founders had in common?",
+   "choices": [
+    "A similar mission, such as the reusable rocket",
+    "The same strengths",
+    "The same investors"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you must understand first with rockets?",
+   "choices": [
+    "Physics",
+    "Software",
+    "Marketing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be clear whether you are a missionary or a mercenary. Learn the physics first.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

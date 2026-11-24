@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a5-1",
+ "title": "Your first partners",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who around you pays for the way you work?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The people around the entrepreneur",
+   "lines": [
+    {
+     "text": "This chapter is not so much about business, Jose said. It is about relationships. There are lessons in what we have talked about before: the collateral damage that entrepreneurs cause, by the nature of what they do, to the people around them who suffer from the obsessive nature of the entrepreneur.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person in the book says the real payoff is the sense of satisfaction of having created a company. That is his drive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We have to be careful, Jose said. Even if we say: I don't want to live the way my parents did, we have a tendency to go back to the familiar. You have multi-generational conflicts that come back to haunt you. Oh my God, I just sounded like my father.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your first partners",
+   "lines": [
+    {
+     "text": "As entrepreneurs, he said, your first partner is your wife or husband, or your girlfriend or boyfriend, and the people around you. They are the first people to give you opinions. Even behind closed doors, they become our support system.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I cannot tell you how many times my wife has told me: you're making the wrong decision, he said. I say: no, I'm sticking to this decision. Three months later I come back and say: you were right, I was wrong. She is a lot more intuitive. She sees things I don't see.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Is she a support system? Is she intuitive with me? Can she understand my limitations as a person? Those qualities of the people around you are very important, he said, because they are going to suffer. When you wake at two in the morning they say: go back to sleep, it will be okay.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People like that need to be empathetic, analytical and disciplined to handle the stress that an entrepreneur inflicts, he said. And he used the word inflicts on purpose. A lot of times we judge people without the patience to say: I know where this is coming from.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The team around the founder",
+   "lines": [
+    {
+     "text": "The intuitive, creative person and the administrative person come into conflict in companies a lot of the time, Jose said. If you are the intuitive founder, you have to surround yourself with administrative people, because they do the day-to-day operations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you're the founder, you had better work out very quickly the team you need around you, he said. If you don't, things get messy real fast.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who do you rely on at two in the morning, and do they know it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who your first partners are.",
+   "Write what each of them gives you and what each of them pays.",
+   "Write one familiar pattern from your parents that you catch in yourself.",
+   "Write what you want the people around you to hear from you at two in the morning.",
+   "Write the administrative skills you lack and who could cover them."
+  ]
+ },
+ "check": [
+  {
+   "q": "Who did Jose say your first partners are?",
+   "choices": [
+    "The people closest to you, like a spouse or partner",
+    "Investors",
+    "Customers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we have a tendency to go back to?",
+   "choices": [
+    "The familiar",
+    "The new",
+    "The easy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What should an intuitive founder do?",
+   "choices": [
+    "Surround themselves with administrative people",
+    "Do everything alone",
+    "Avoid a team"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look after your first partners. Build a team that covers what you don't.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

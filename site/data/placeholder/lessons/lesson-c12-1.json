@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-c12-1",
+ "title": "Two jars and a calendar",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you learn about yourself if you counted something every day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The two jars",
+   "lines": [
+    {
+     "text": "Jose retold a story from the book: a salesman put a set number of paperclips in one jar, and each time he made a call he moved one to another jar. The visual helped him make the calls and keep a record. Jose said the chapter is all about recording.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that by using the habit the salesman grew his income and later landed a bigger job. He said there is a lot to be said for a habit tracker.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What you measure",
+   "lines": [
+    {
+     "text": "A student said: it is good to measure and track things, but make sure the measurement is not the driver of behavior. When we strive only to hit the measurement, the measurement becomes ineffective, as with teaching to the test.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: I put my workout on my calendar at work each day, as the first thing when I get there. It is a great way to track progress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is one thing you could count every day for a month?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one habit you want to track.",
+   "Write what you will count and how you will see it.",
+   "Write where the record will live.",
+   "Write what you will do if the number becomes the goal.",
+   "Write what you will review each week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the salesman in the story move between jars?",
+   "choices": [
+    "Paperclips",
+    "Coins",
+    "Cards"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the chapter is all about?",
+   "choices": [
+    "Recording",
+    "Rewards",
+    "Rest"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about measurements?",
+   "choices": [
+    "Do not let them drive the behavior",
+    "Always chase them",
+    "Ignore them"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Track what you want to build. Do not let the number replace the aim.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "id": "lesson-b5-3",
+ "title": "Are you congruent?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do every day that points at what you say you want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You can't just have a floating goal",
+   "lines": [
+    {
+     "text": "A student told of a conversation with a friend on a long drive. I asked him: define what success looks like to you. When you wake up in the morning, what do you see around you? Then we can reverse engineer it into a plan.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "He said he would like to travel around the world, surfing and playing music. I asked what that requires. About a hundred thousand dollars a year of passive income, he said. So what are you doing right now to get that? He froze.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "To get to that goal, the student said, you can't just have a floating goal. Hoping your life will intersect with it, some people get lucky. It is one in a billion, like winning the lottery.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "99% of the time, the student said, what people do every day is incongruent with the goal. Which means a 99% chance they won't achieve it, unless they hit the lottery.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Are you congruent?",
+   "lines": [
+    {
+     "text": "And I think that is the word, Jose said. Congruence. Are you congruent with your financial goals and your personal goals? Are you in the realm of reality, making it happen?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said: I see commitments get made, and for a day or two or three you stay congruent. Then it falls off. The biggest thing I try to figure out as a leader is how to help people be consistent and congruent day to day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "It comes down to consistency, Jose said. It comes down to habits. It comes down to little tiny things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Failure is not one catastrophic event, he said. It is a lot of tiny little bad decisions that you made consistently that led you to the failure. Success is the same. It is a lot of little decisions that you make consistently well.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Getting up in the morning, going to the gym, not eating junk food: all those little things contribute to success and failure, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he is infamous for looking into people's cars. A messy car, he says, is a sample of what is inside your brain. A messy house, a messy room: the clutter is relevant.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The more focused you are during your day, keeping your eye on daily objectives that lead you to the long term, the better, he said. A lot of us make a decision one day: today I'm going to be a world champion. Then two months go by, and you forgot about that decision. You didn't train hard every day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Is what you do every day congruent with your goal?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what success looks like for you: what you see when you wake up.",
+   "Write what that requires: money, time, people.",
+   "Write what you do every day that points at it, and what does not.",
+   "Write one tiny daily decision you will make consistently this week.",
+   "Write one thing to clear up: a car, a desk, a room."
+  ]
+ },
+ "check": [
+  {
+   "q": "What word did Jose use for matching your daily actions to your goal?",
+   "choices": [
+    "Congruence",
+    "Luck",
+    "Speed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say success and failure are made of?",
+   "choices": [
+    "A lot of tiny decisions made consistently",
+    "One big event",
+    "Talent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a messy car is a sample of?",
+   "choices": [
+    "What is inside your brain",
+    "How rich you are",
+    "Where you live"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Success and failure are made of tiny daily decisions. Be congruent with your goal.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

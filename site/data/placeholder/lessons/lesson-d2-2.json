@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d2-2",
+ "title": "The parts of trust",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How much do you trust yourself?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Attack your own record",
+   "lines": [
+    {
+     "text": "Jose said that it is a good exercise to ask: if I ran for office, where would they attack me? Attacking your character, confidence, intent, track record or results would be traumatic, and the exercise shows what to improve in leadership and in being a servant leader.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the first category is self-trust: is my behavior matching my commitment and my values? You can lie to others, but when you lie to yourself there is always that little voice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The parts of trust",
+   "lines": [
+    {
+     "text": "Jose summed up what he looks for: self-trust, integrity, intent, capabilities and the results you get. Capability plus results is competence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that the results give you a positive reputation, and that reputation introduces you before people meet you. He said that matching your capabilities with theirs shows where you can work on weaknesses together.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that he asks these questions in a journal about any leader: is there trust, what capabilities, what results, what integrity under cross-examination? He said that the more abstract someone speaks, the more it scares him, and the more detail oriented, the more likely to deliver.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of the five parts is weakest in you today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how well your behavior matches your commitments.",
+   "Write where you are weakest: self-trust, integrity, intent, capability or results.",
+   "Write the evidence for each.",
+   "Write the first thing you will fix.",
+   "Write how you will keep a journal of it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the first category of trust?",
+   "choices": [
+    "Self-trust",
+    "Price",
+    "Speed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say capability plus results is?",
+   "choices": [
+    "Competence",
+    "Luck",
+    "Fame"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about leaders who speak abstractly?",
+   "choices": [
+    "It scares him",
+    "It impresses him",
+    "He ignores it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Trust has parts. Test yourself on each.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

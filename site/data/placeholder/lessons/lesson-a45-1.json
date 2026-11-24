@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a45-1",
+ "title": "Your crisis pattern",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do when you are out of money or out of time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Crisis patterns",
+   "lines": [
+    {
+     "text": "Jose said that he always asks: what are the nuggets of wisdom from how the person deals with crisis? Those like Ted Turner and Warren Buffett, as he put it, thrive in crisis. I want to get to the bottom of why, and I think it is because he has a survival pattern.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A lot of us develop survival patterns. If you are out of money and your company is going under, you go into survival mode, and you have patterns. You could get depressed, go to your room, not talk to anybody and go down. Or you could do the opposite: become super productive, not sleep, make decisions, call people and use all your resources, creativity and strength.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Do we lean on the past? Do we lean on the future and use imagination to create an emotional crutch: in my future it will be different? Or do we stay in the present, and when we stay in the present, are we making the most sound decisions because we are not letting any negative belief systems affect us?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The skills in the pattern",
+   "lines": [
+    {
+     "text": "Jose said that what he has absorbed is that these survival patterns are skills. When he gets into stress mode and does the surge, what skill set does he use? A student said: he knows what to prioritize and how to use his resources, mostly his staff.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that is a very specific skill. He listed more: he uses his imagination to fuel his reality. He goes to the big picture and puts it into perspective. He focuses on the here and now. He establishes a date. And he makes habits, and habits are the gasoline of our survival patterns.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added: he puts a lot of meaning on it: this is for the good of society, if we don't do this things won't turn out well.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "If your survival pattern gives you bad habits and negative belief systems, he said, you will not come out of the crisis. Survival patterns can become skills, and to develop the skills we need to be aware of what they are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your pattern when you are out of money or time, and which skill is in it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you do when a crisis hits: withdraw or become productive.",
+   "Write the skills you use when you are under pressure.",
+   "Write the meaning you give a crisis.",
+   "Write the habits your pattern depends on.",
+   "Write who you could talk to if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call habits in a survival pattern?",
+   "choices": [
+    "The gasoline",
+    "The brakes",
+    "The map"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say survival patterns can become?",
+   "choices": [
+    "Skills",
+    "Burdens",
+    "Secrets"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say the person knows how to do in a crisis?",
+   "choices": [
+    "Prioritize and use his resources",
+    "Hide",
+    "Wait"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your crisis pattern. Turn it into skills. Build the habits it depends on.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

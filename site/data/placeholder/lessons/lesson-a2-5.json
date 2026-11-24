@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": "lesson-a2-5",
+ "title": "Pick one and finish it",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What did you start and leave because something better came along?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Finish the deal",
+   "lines": [
+    {
+     "text": "A student said that what stands out on a resume is how many opportunities people have jumped to in a short time. Five jobs in two years shows they don't have that resilience.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Even when something better comes along, the student said, getting to the finish and exiting on a good note, with your relationships intact, should be the utmost focus. People jump like a leapfrog to the next lily pad. They never get the knowledge from going deep and they never build the self-confidence that they can get it done, because they never cross the finish line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "So pick one deal, the student said, and find a way to get to the end and exit successfully. Each time you jump, that conviction and energy is harder to achieve, because of a limiting belief you have created. Never leave without an achievement.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Pick one",
+   "lines": [
+    {
+     "text": "Jose went back to childhood and parenting. The biggest lessons he learned were in sports, he said. He was a competitive swimmer from the age of six to college: four hours a day, two in the morning and two at night, following a black line up and down.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In order to become good at something you can't do three or four sports, he said. You've got to do one. Do you let a child dabble for ten or fifteen years, or do you say: you pick one, your choice, not the parents' choice, then you excel at it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Once you taste success, you learn the structure of how you got there, he said: the discipline, the methodology, visualization, goals, process. Even if you leave that field, you already have the roadmap.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose told what he did when his children were little and doing jiujitsu. Sons, he said, you've got to make a decision. You can be a normal child, go to class one hour a day, and that's fine. Or you can become world champions. They said they wanted to be world champions, so they went from one hour of training a day to three.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Other parents said this was abusive, he said, and there was damage with parents. But when each of his children won a first world championship, the parents asked why their own child was not doing that. He said they made four other world champions after that, who joined the program and trained the same way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Two of them then said: I want to be a surfer. As a parent, he said, they already had the roadmap of what it takes: the structure, the dedication and the time invested to get to that level.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "'I don't have time'",
+   "lines": [
+    {
+     "text": "If somebody tells you I don't have time, Jose said, what I hear is: I don't know how to manage my time, I don't know how to delegate, I don't know how to create a structure or processes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There are famous founders who have twenty businesses and no limit on the number, he said. Take a business to one of them and in five minutes they tell you whether they like it, because their criteria are so advanced. That is the fluency that comes from experience and inputs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What one thing will you pick and finish?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you started and left unfinished.",
+   "Write what finishing it would have taught you.",
+   "Write the one thing you will pick for the next year.",
+   "Write what you will say no to so you can finish it.",
+   "Write one place where 'I don't have time' really means 'I haven't built a structure'."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say never crossing the finish line does?",
+   "choices": [
+    "Stops you building self-confidence that you can get it done",
+    "Saves time",
+    "Makes you faster"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you can't do to get good at something?",
+   "choices": [
+    "Three or four sports at once",
+    "Practice",
+    "Rest"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he hears when someone says 'I don't have time'?",
+   "choices": [
+    "I don't know how to manage my time",
+    "I'm very busy",
+    "I'm tired"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pick one thing and finish it. Build the structure so you do have time.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

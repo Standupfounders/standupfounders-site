@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-a16-5",
+ "title": "Know your numbers",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If an investor asked your burn rate right now, could you answer?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Founders know the numbers",
+   "lines": [
+    {
+     "text": "A student said the questions an investor asks are: what is your burn rate, what is your cost of acquisition, what are your margins? Jose said: if you blank out on one of those, the meeting's over. A student said: founders always have to know the numbers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The person in the book didn't have this fluency at the beginning, Jose said. He is getting it from the merry-go-round of starting a business, and another, and another. As we read the book we should get on that merry-go-round: I've been here before, I can see the margins, I can see the barriers to entry.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As you get fluent it doesn't matter what business comes in front of you. The fundamental questions are the same.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The fantasy world",
+   "lines": [
+    {
+     "text": "I know a lot of people who live in the fantasy world, he said. They say: I've got massive margins. What is massive? A student said eighty percent is unusual and outlandish.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said some clothing distributors he knows work on margins of two or three hundred percent gross. It is a stable business but super competitive. A student said: people always want clothes, but it is highly competitive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You also have to look at the industry and ask whether it has growth, he said. Is the market share getting bigger or smaller? He said logistics, warehouses and shipping are growing, while department stores are closing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ask like an owner",
+   "lines": [
+    {
+     "text": "If you go to a client as a graphic designer and consider nothing else, it is very different than asking: what are your margins, what will you spend on advertising, what are your barriers to entry, who are your competitors?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The person will see you in a different light, he said. They will think: this person is interested in the financial well-being of my company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When I am doing joint ventures, he said, the first thing I do is go to the balance sheet and read the financials: what are their margins, where are their growth opportunities? Then I call the CEO and say: I admire how you are chasing these opportunities. Somebody will pick up the phone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you don't get used to looking at the financials, you're driving blind, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which three numbers would you read first on someone else's balance sheet?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your burn rate, cost to acquire a customer and margin.",
+   "Write the three numbers you don't know yet.",
+   "Write the growth of your industry, and its source.",
+   "Write the questions you would ask a client as an owner would.",
+   "Write the company whose balance sheet you will read before your next call."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens if you blank out on a key number in front of an investor?",
+   "choices": [
+    "The meeting's over",
+    "They try again",
+    "They give you time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to read before calling a possible partner?",
+   "choices": [
+    "The balance sheet and financials",
+    "Their blog",
+    "Their biography"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you are if you don't read the financials?",
+   "choices": [
+    "Driving blind",
+    "Careful",
+    "Free"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your numbers. Read theirs before you call. Ask like an owner.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

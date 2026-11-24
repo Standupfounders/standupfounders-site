@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c7-1",
+ "title": "Praise the process",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you praise someone, what do you praise?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The father and the chess",
+   "lines": [
+    {
+     "text": "Jose started with the book's chess example: a father who rejected innate talent and held that a genius is not born but educated and trained. He asked what that implies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: he is making it possible for anybody to put forth the work and effort necessary to become a genius.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Praise effort, not the person",
+   "lines": [
+    {
+     "text": "Jose said: the father praised effort and process, not the person. If you say, you are really good at that, you give an abstract idea of being born good. If you say, I am proud of you, you consistently make the effort and have a process, then you are in control of why you became good.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: constant praise could cap their potential; if you keep saying we have not seen greatness yet, people keep growing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another student said: praising the process by which someone got a deal done removes the idea of favoritism. Others feel empowered that they can model the process, rather than think someone has the gift of gab.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Remove the personality",
+   "lines": [
+    {
+     "text": "Jose said that you are studying the intentionality of a person and the way they order it, and removing the personality. He called it third-order intentionality, which is his term and needs a person to check it. He said that wanting to be just like a famous person is nebulous and unachievable, but breaking down what they do is achievable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: celebrate the winning process, not the winning person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is a process you could praise this week, instead of a person?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last thing you praised someone for.",
+   "Write it again as praise for the effort or process.",
+   "Write a process on your team worth modeling.",
+   "Write how you will name it in front of the team.",
+   "Write what you will stop saying that praises talent."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the father praised?",
+   "choices": [
+    "Effort and process",
+    "Talent",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say praising process removes?",
+   "choices": [
+    "The idea of favoritism",
+    "The deadline",
+    "The goal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to celebrate?",
+   "choices": [
+    "The winning process, not the winning person",
+    "The winner",
+    "The prize"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Praise the effort and the process, not the person.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

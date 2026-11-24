@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-c6-3",
+ "title": "Three things each morning",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are your top three things to remember each morning?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Three morning strategies",
+   "lines": [
+    {
+     "text": "Jose asked what three things you would think about each morning so that you do not fall for the wrong temptation, such as the wrong client. A student answered: start with gratitude, stick to your values by setting goals that align with them, and set priorities, the actionable items for today.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that he asks: are these my values? He said he would rather read a good book and spend time with close friends, and that this makes him more careful. He said he was not saying one set of values is better than another.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that being present and grateful stops you getting contaminated by the fabricated world of I need this and I need that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Temptation bundling",
+   "lines": [
+    {
+     "text": "A student asked how to use temptation bundling, in which the book says you pair something you want with something you need, to associate something with gratitude. Another said: you are just setting anchors.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student offered: bundle a cup of coffee with journaling what you are grateful for. If you anchor it to pleasure often enough, it becomes unconscious, and eventually the journaling stays associated with the pleasure.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked how gratitude could be bundled with a goal such as growing a business. A student said: if you are grateful for the relationships and systems you have, you will be more conscious of ways to improve them, instead of thinking you need more capital.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What will you bundle with something you already enjoy?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three things you are grateful for.",
+   "Write the goal that fits your values.",
+   "Write today's top three priorities.",
+   "Write something you enjoy that you will bundle with a need.",
+   "Write how you will check that it is your value, not a fabricated one."
+  ]
+ },
+ "check": [
+  {
+   "q": "What was the first morning thing a student chose?",
+   "choices": [
+    "Gratitude",
+    "Email",
+    "Exercise"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about bundling coffee with journaling?",
+   "choices": [
+    "It can become unconscious",
+    "It never works",
+    "It needs a coach"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say being grateful stops?",
+   "choices": [
+    "Getting contaminated by the fabricated world",
+    "Getting sleepy",
+    "Getting paid"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start with gratitude, values and priorities. Bundle the good.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

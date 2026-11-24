@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a6-2",
+ "title": "Close the gap between strategy and operation",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last learn another department's language?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Closing the gap",
+   "lines": [
+    {
+     "text": "Jose asked: does anybody have experience of this chasm between the operation and the strategy? How did you close that gap?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student told their own story. They had found it surprising that the person in the book did the same: he mixed the engineering team with the operations team. In their own work at an oil field they had to give project updates to engineers, and they weren't savvy with the language engineers use.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "So they brought the best engineers into their meetings. People started to understand when the work was behind schedule, the meetings became more productive, and the engineers and the operational team eventually worked together in the office. It is important to bring expertise from other departments for a particular project or goal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is brilliant, and it could entirely change the end result of a massive company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Start from the user",
+   "lines": [
+    {
+     "text": "One famous founder, Jose said, focused on the user experience and backed into the engineering. You can go the other way, super high engineering and forget the user experience. That happens a lot in business: a fantasy world made of engineering.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person in the book has a lot of sensitivity to the user experience too: we don't need this, you don't need to fill this out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I always look at forms, he said. I count how many seconds it takes to fill one out. When I script sales calls I count the syllables, and I know my average handling time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How long does your form take to fill in, and who could you bring into the room?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the two teams in your work that do not understand each other.",
+   "Write who could sit in the other's meetings.",
+   "Write what you will count: the seconds a customer spends.",
+   "Write one thing you would cut from your form or process.",
+   "Write what the customer would say about the experience today."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the student do to close the gap with the engineers?",
+   "choices": [
+    "Brought the best engineers into their meetings",
+    "Sent more emails",
+    "Hired a consultant"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Jose say he counts when he writes a sales script?",
+   "choices": [
+    "The syllables",
+    "The pages",
+    "The adjectives"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say forgets the user experience?",
+   "choices": [
+    "Super high engineering",
+    "Good design",
+    "Marketing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Bring the other team into the room. Start from the user.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-d3-4",
+ "title": "Questions that reveal and develop",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you define success, and can you say it out loud?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Questions that reveal",
+   "lines": [
+    {
+     "text": "A student said: a question I ask a lot on my podcast is, how do you define success? You get an understanding of the person's motives, and many hesitate because they do not know what they are chasing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that goes to the core of the person, and a person without an answer has a challenge, because a good leader has a mission and understands the impact they will have.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Jose's questions",
+   "lines": [
+    {
+     "text": "Jose said that he asks himself daily: why do I want to change? What is my plan, a specific and measurable one? What are the reasons? Why is it important to me? What am I going to do about it? If you do not have a reason, you have leaves but no roots.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said an epiphany is a sudden revelation, and that you can have one in a moment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How people should feel",
+   "lines": [
+    {
+     "text": "Jose said that he wants the people around him engaged, interested, cooperative and open to communication, empowered, hopeful, safe and respected, and that people like to be listened to and feel connected.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that you have to have a strong ego in entrepreneurship, because you will meet failure and doubt, and that having internal fortitude is healthy. He said that talking yourself up can be talking to your future self before a challenge.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a lot of our leadership traits come from childhood, and that when parents make statements for the child such as put on your coat, they take responsibility away. As leaders we want to create a positive self-concept in everyone around us.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What question will you ask yourself every morning?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you define success.",
+   "Write why you want to change.",
+   "Write your measurable plan.",
+   "Write how you want people around you to feel.",
+   "Write what a strong ego means for you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What question did a student say reveals motives?",
+   "choices": [
+    "How do you define success",
+    "What is your age",
+    "Where do you live"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have without reasons?",
+   "choices": [
+    "Leaves but no roots",
+    "Roots but no leaves",
+    "A big tree"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a leader wants people to feel?",
+   "choices": [
+    "Engaged, safe and respected",
+    "Afraid",
+    "Rushed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask the questions that reveal. Make people feel safe and respected.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

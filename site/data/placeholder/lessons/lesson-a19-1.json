@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a19-1",
+ "title": "Regulators are behind the innovator",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What happens to a new idea when the law has no category for it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Regulators are behind",
+   "lines": [
+    {
+     "text": "Jose said that in an industry like the telecom one, a heavily regulated environment is a business risk. When you innovate and do things for the first time, government-regulated entities are generally behind the eight ball on innovation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: governments just move slowly, generally.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose used the example he knows best. When voice over the internet first came out, the regulators didn't know how to categorize it. It wasn't data, and it wasn't a traditional phone call. They said: it's long distance, so it's illegal, because there is a monopoly.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he argued that he was using his computer to make a phone call over an internet account he was already paying for. They said it was illegal anyway, and that you could go to jail for seven years for it. That sounds absurd today, he said, but it was the law then.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The same again",
+   "lines": [
+    {
+     "text": "The same is happening with cryptocurrency, he said. It is a very gray area, because there is little regulation, and they are trying to work out how to regulate it. We see a lot of chaos in the industry.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So sooner or later you will deal with the government, and they will say: this is legal, or this is illegal, or you need this licence. Understand how to lobby, how to gain leverage, how to work with a team of lawyers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What rule might apply to your idea that nobody has written yet?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the rule or licence that may apply to your idea.",
+   "Write who decides how it is categorized.",
+   "Write what could happen if the rule is unclear.",
+   "Write who you would ask: a lawyer, an industry body.",
+   "Write what you will do while the rule is unwritten."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about regulators and innovation?",
+   "choices": [
+    "They are generally behind the eight ball",
+    "They lead innovation",
+    "They never act"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about governments?",
+   "choices": [
+    "They move slowly, generally",
+    "They are fast",
+    "They are absent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you will need?",
+   "choices": [
+    "A team of lawyers, and to understand leverage",
+    "A bigger budget only",
+    "Silence"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Expect the rules to lag. Plan how you will deal with them early.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

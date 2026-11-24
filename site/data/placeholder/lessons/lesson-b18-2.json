@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-b18-2",
+ "title": "It's the structure of strategy",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the strategy behind your deals, and could you draw it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "There's something much bigger and simpler",
+   "lines": [
+    {
+     "text": "What is the wisdom we are getting from this kind of strategic thinking, Jose asked? Students answered: keep evolving; think like chess, five years ahead; make moves that maybe don't make sense financially but are crucial to get to the next level; do the right move at the right time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: all of that is important, but you are not at the heart yet. There is something much bigger and simpler. When he goes to a negotiation, is it win-lose? A student said: no, it's win-win.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Never, Jose said. He never does a win-lose. All he has done is make people money. He comes from values. He empowers people. He makes people enthusiastic to work for him. Every single negotiation is a win-win for him. That is number one in strategic thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is the one sentence that is a growth statement?",
+   "lines": [
+    {
+     "text": "Number two, Jose said: what is the common denominator in all his deals? A student said: they are going to make money too. Jose said: they are going to grow. He offers growth. He offers autonomy. You will have your freedom, you will be empowered. He creates that environment of trust because it is a win-win to begin with.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked a student: when you call that marketing company, what is the one sentence you will say that is a win-win and a growth statement? The student said: we are looking for long-term partners, we both want to grow. Jose offered another: we are pursuing the same market and the same type of clients, and I want to see how we can develop a growth strategy to capture the market share we are both looking for.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "It's the structure of strategy",
+   "lines": [
+    {
+     "text": "If something is working, Jose said, don't change it. Repeat the formula. Every time we go into a business, we are solving a problem. The author solved the problem of chasing the channel to find what you want to watch: an all-movie channel, a news channel, a cartoon channel.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is the structure of strategy, he said. It's like scaffolding. You have to have a foundation, and checks and balances. Do they win? Do I win? What market are we going after? Are we going after the same market? How are they growing? How are we growing? What problem are we solving? What is the market potential? How are we going to market? How are both companies going to work together?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We can get better and better at strategy, he said, by doing diagrams and decision trees, by understanding win-win, how we both grab market share, how we fix a problem millions of people have. You understand strategy by understanding a value proposition.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose added that the author made mistakes too, and the main one was rushing into deals without thinking them through. The relentless work ethic and drive was his enemy, in the end, sometimes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your value proposition in one sentence?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the problem your business solves for millions or for a few.",
+   "Write your growth statement for your next partner, in one sentence.",
+   "Answer Jose's checks: do they win, do I win, what market, how are we growing?",
+   "Draw a simple diagram or decision tree of your next deal.",
+   "Write the mistake you are most likely to make by rushing."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the heart of the author's strategic thinking?",
+   "choices": [
+    "Win-win",
+    "Speed",
+    "Secrecy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author offers his partners?",
+   "choices": [
+    "Growth, autonomy and trust",
+    "Cash only",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say was the author's main mistake?",
+   "choices": [
+    "Rushing in to deals without thinking them through",
+    "Doing nothing",
+    "Hiring too many"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Win-win, growth for the other side, and the structure of strategy.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

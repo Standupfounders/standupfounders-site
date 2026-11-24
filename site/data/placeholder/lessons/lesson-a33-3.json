@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "id": "lesson-a33-3",
+ "title": "How they treat the waiter",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you treat people who can't help you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The tell",
+   "lines": [
+    {
+     "text": "A student said: if I walk into a big dinner you are hosting, and I see you are respectful to the waiter and the staff, focused on the guests and the conversation, that is a big tell. It is the way people treat people who aren't superior to them or who aren't their boss.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "In an interview or partnership meeting everyone is on their best behaviour, the student said, but how do they treat their everyday interactions?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he has seen leaders who have that magic, like an aura. They get out of a car at a hotel and say hello to everybody on their way to reception. They engage them and look in their eyes. People think: that is an important person, just because they acknowledge everyone around them at all times.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "These great leaders' common denominator is the ability to connect with people in seconds. People think: there's something special. I feel I could sit down and talk to this person, Jose said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who greets everyone in your office, and who doesn't?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you greet the person at reception.",
+   "Write how you treat people who cannot help you.",
+   "Write a leader you know who acknowledges everyone.",
+   "Write what you could do differently tomorrow.",
+   "Write how you will notice it in a partner."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say is a big tell?",
+   "choices": [
+    "How a person treats people who aren't their superior",
+    "How they dress",
+    "How they drive"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the great leaders do in seconds?",
+   "choices": [
+    "Connect with people",
+    "Close deals",
+    "Give orders"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the aura comes from?",
+   "choices": [
+    "Acknowledging everyone around them",
+    "Speaking loudly",
+    "Wearing a suit"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice how people treat those who can't help them. Acknowledge everyone.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

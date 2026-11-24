@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a39-3",
+ "title": "Show me how you got the answer",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you hire an expert, do you ask for their recommendation, or for their reasoning?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Bring in the resources",
+   "lines": [
+    {
+     "text": "Jose said that the person in the book makes an impulsive decision that is legally binding. The lawyers say: if you back out of the deal, we are going to get sued. So he had represented enough statements that he needed to go through with the transaction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: what a great lesson, bring in the resources to analyze the deal. He called an adviser who had said he could call if he needed help, and he put together his team, going into the valuation and the capital structure.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Questions, not recommendations",
+   "lines": [
+    {
+     "text": "An investment banker said, as Jose retold it: most clients are given three or four options and ask the banker what we recommend. He instead asked detailed questions about each option, but did not ask for a recommendation. He liked to make his own decision.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: I found that very revealing and powerful. How many of us lean a little too much on the analyst, or the person in their profession, and cop out and say: what do you think I should do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I think he does it for validation. People who have done a lot of acquisitions already have the ability to come to the conclusion, and ask the questions to validate that they have done their homework. But it is always important to hear the recommendations too.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Show me how you got the answer",
+   "lines": [
+    {
+     "text": "Jose said that when there is a subject he is not an expert in, he tends to lean far too much on: what do you think I should do? What I have learned is: don't do that. Be committed to understanding the process: how did that person arrive at that conclusion?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In algebra, he said, the teacher always wanted to know how you got to the answer, not just the answer. Give me your line of thinking, ask questions, and commit to understanding the process instead of relying on: what do you think I should do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: with a big decision, surround yourself with experts you trust, but the bigger the decision, the less you rely on them. Have them get you there, but ultimately make the decision, and extract the information from them. Take all the input and then decide.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he is at about a three out of ten on that scale, because he is a people person who relies on his judgment of who can decide for him. He said he is now going through every single detail of a digital strategy, as granular as possible, instead of saying: the marketing manager will handle it, they are experts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What did you last decide because an expert told you to, without asking how they got there?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a decision where you asked an expert what to do.",
+   "Write what you could have asked instead.",
+   "Write the options and a question for each.",
+   "Write the part of your work where you rely on someone else's judgment too much.",
+   "Write the detail you will go through yourself this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the banker say the person asked about the options?",
+   "choices": [
+    "Detailed questions, but no recommendation",
+    "Only for a recommendation",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the algebra teacher wanted to know?",
+   "choices": [
+    "How you got to the answer",
+    "How fast you were",
+    "Who helped you"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about big decisions?",
+   "choices": [
+    "Rely less on experts and ultimately make the decision yourself",
+    "Always follow the expert",
+    "Never ask experts"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask experts how they got there, not only what to do. The bigger the decision, the more you own it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

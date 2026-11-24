@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a17-5",
+ "title": "The magazine rack",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you had ten seconds at a magazine rack, which one would you pick?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Synthesizing",
+   "lines": [
+    {
+     "text": "Jose said that learning can never have limitations. We want to be the tennis player who tries many things and then chooses to excel. Even hobbies like gardening or horses will be relevant sooner or later, because you will be able to synthesize different things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that is what the person in the book does: he synthesizes systems and looks at academic subjects in an agnostic way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In an earlier story he told how, as a literature teacher in the mid-nineties, he took bored students outside to read under a tree. He asked them to notice how they breathe when they talk: that is where the comma goes, and where the full stop goes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The university of life",
+   "lines": [
+    {
+     "text": "A student told of exporting coffee from different countries. They learned from farmers who learned mechanics because they ran old trucks as if they were new, and learned about animals and people. The farmers call it the university of life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student added: the person in the book knew where he wanted to go, so he looked at schools differently. Not the best location or sports or party life, but what would complement his ideology and goals. That is how we should look at schools.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The magazine rack",
+   "lines": [
+    {
+     "text": "When young people say: I don't know what I want to study, Jose said, I take them to a bookstore, to the magazine rack. I give them ten seconds to pick one magazine. They pick the one they love. See how you picked that? You like cars.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is how you don't lie to yourself, he said. It is that non-compromising, relentless intuition that draws you to something again and again because you enjoy it. The mistake is asking: what should I be reading? instead of: what do I want to read?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would your magazine be?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Pick, in ten seconds, a magazine you would pick, and write it down.",
+   "Write why you picked it.",
+   "Write what you know from a hobby that might be useful in your work.",
+   "Write how you would choose a school or course by what complements your goals.",
+   "Write what you want to read, not what you should."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask young people to do at the magazine rack?",
+   "choices": [
+    "Pick one magazine in ten seconds",
+    "Read all of them",
+    "Buy two"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say farmers call what they learn from life?",
+   "choices": [
+    "The university of life",
+    "The farm school",
+    "The old way"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is the mistake?",
+   "choices": [
+    "Asking what you should read instead of what you want to read",
+    "Reading too much",
+    "Reading too little"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Follow what you pick when you aren't lying to yourself. Choose learning that complements your goals.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

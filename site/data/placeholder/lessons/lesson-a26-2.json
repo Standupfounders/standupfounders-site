@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a26-2",
+ "title": "Direction, power and speed",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you start a new project, is it the same road or a new one each time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Direction",
+   "lines": [
+    {
+     "text": "Jose said that if the person gets out of the direction of colonizing Mars, he won't get to his mission, and his momentum will slow. You are reinventing another process. That is where the danger is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is like construction, he said. I have three friends who lost millions of dollars because they did developments and allowed the architects to do custom houses. Every house is different, and even if you charge more per square metre you lose, because you are reinventing the foundations and the roof and the pool. You always miscalculate.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is why developers say: here are three model houses. Construction teams have one team for foundations, one for electricity, one for plumbing, with specific processes and timelines.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Power, direction, speed",
+   "lines": [
+    {
+     "text": "When you change direction and do something different from your process, you lose focus, and then you lose the power and the speed, he said. By power I mean the power of habits, the power of process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you have a different process every time and you are doing ten different businesses with different processes, you are in trouble, because you are going in different directions, starting and stopping.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I am very conscious of the power, the direction and speed of our actions, he said. Am I going the right direction? Am I getting momentum or stopping? Am I sticking to a process, or building custom houses and starting all over again?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of your projects is a custom house?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your direction in one sentence.",
+   "Write the processes you repeat and those you reinvent each time.",
+   "Write which project is a custom house.",
+   "Write how you could turn it into a model house.",
+   "Write the three questions you will ask each week: direction, power, speed."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens when you reinvent a process each time?",
+   "choices": [
+    "You miscalculate and can lose money",
+    "You always win",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose mean by power?",
+   "choices": [
+    "The power of habits and process",
+    "Money",
+    "Size"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens if you start and stop in different directions?",
+   "choices": [
+    "You lose momentum",
+    "You gain speed",
+    "You save time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep one direction. Use model houses, not custom ones. Check power, direction and speed.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

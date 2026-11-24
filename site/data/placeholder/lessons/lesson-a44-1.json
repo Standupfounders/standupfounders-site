@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-a44-1",
+ "title": "The weight of the last word",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When a decision comes down to you alone, how heavy is it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A council that doesn't start",
+   "lines": [
+    {
+     "text": "A student said: I think it is interesting to see the flip in mindset on monitoring content. Jose said: here is a person who criticized the big content companies about censorship, and all of a sudden he is on the other side of the fence, dealing with the issue.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose read a line from the book about falsehoods on social media.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "travel halfway around the world while the truth is still putting on its shoes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Jose said: disinformation was a problem, as were scams, fraud and hate speech, and there is a big economic conflict of interest, because advertisers don't want to be in a toxic space. Then he comes up with the idea of a content moderation council, and it doesn't get off the ground.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why not?",
+   "lines": [
+    {
+     "text": "I think he realized: how am I going to create a council with such diversity? And that will turn into a war itself. Even though at the beginning he said he would make no decisions about reinstating anyone until the council was up and running, he made an attempt to make it democratic, but he realized he would have to make the ultimate calls anyway.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: at some point you have to decide what is more important, open discourse or free speech, because they don't always go hand in hand. And he realized there might not be a need for the board, because it comes down to him anyway.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: it is cleaner, because you don't have people on a board ganging up and hiding their intent behind decisions. But it is a lot more responsibility, being the sole decision maker.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Think about the impact of making the ultimate calls on this global medium, Jose said, and of that kind of power to say: you can say what you want, you can't say what you want.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What decision do you keep passing to a committee that is really yours?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a decision you share with a committee.",
+   "Write whether it is really yours in the end.",
+   "Write what the committee adds and what it costs.",
+   "Write what you gain and lose by deciding alone.",
+   "Write how you will carry the responsibility."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens to the council?",
+   "choices": [
+    "It doesn't get off the ground",
+    "It succeeds at once",
+    "It is made permanent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is cleaner about deciding alone?",
+   "choices": [
+    "No people on a board ganging up and hiding their intent",
+    "It's faster",
+    "It's cheaper"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is more about being the sole decision maker?",
+   "choices": [
+    "Responsibility",
+    "Freedom",
+    "Time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the weight of the last word. A committee does not remove it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

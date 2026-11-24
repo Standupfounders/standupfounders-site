@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-b4-2",
+ "title": "If a rule doesn't let me do something that's so logical, it must be a bad rule",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you ever followed a rule you could not explain, and wondered if it was a bad rule?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "If a rule doesn't let me do something that's so logical, it must be a bad rule",
+   "lines": [
+    {
+     "text": "Jose said that in this chapter the author is not only going up against monopolies. For the first time he is going to go up against the government as well.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose tells it, the author asks himself a question: if a rule doesn't let me do something that is so logical, it must be a bad rule.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that, in his view, big monopolies make up rules to favor themselves and use agencies to support their monopolies, because of the money they give.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave a modern picture. Think of YouTube, he said. It is a distribution channel. You can open a channel and get millions of viewers, and YouTube makes money on the advertising, and shares it with you. Look at the author as no different than a YouTube channel. He is a content provider.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ten cents per subscriber per month",
+   "lines": [
+    {
+     "text": "Jose read a line about the money the author expected.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I've spoken to enough cable operators to know that a great many would buy Channel 17, and the fee we had discussed was 10 cents per subscriber per month.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Jose pointed out what that is: a subscription business model, a very common term now. Just ten cents per subscriber.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is not saying they won't make money, Jose said. He is willing to pay the ten cents. But he is not willing to let them bulldoze him and not make any money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "When you get big enough",
+   "lines": [
+    {
+     "text": "A student said the local channels want to keep their market share and have no competition. Jose agreed. They go to their local authorities and make it illegal, he said. It is a legislative momentum. Everybody is protected, everybody has marked out their territory, and nobody can do anything else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "When you get big enough, Jose said, unfortunately, the government comes after you. The competitors come after you. You don't think you will just sit there and make a ton of money and nobody will come after you. It just doesn't happen.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the rule you follow that never made sense?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one rule in your field that makes no sense to you.",
+   "Write who benefits from it.",
+   "Write the question you would ask, like the author: if it stops something logical, is it a bad rule?",
+   "Write what you would do if the rule were gone.",
+   "Write what you would do if you got big enough for rivals or regulators to notice."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call a business model of a small fee per subscriber each month?",
+   "choices": [
+    "A subscription business model",
+    "A franchise",
+    "A loan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens when you get big enough?",
+   "choices": [
+    "The government and your competitors come after you",
+    "Everyone helps you",
+    "Nothing changes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose compare the author to?",
+   "choices": [
+    "A YouTube channel, a content provider",
+    "A bank",
+    "A school"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask why a rule exists. Expect the big players to push back when you grow.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

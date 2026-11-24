@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-a40-2",
+ "title": "Decisions are a skill",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How many decisions did you make last week, and which did you avoid?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Decisions are a skill",
+   "lines": [
+    {
+     "text": "Jose said: I'm learning from this the amount of decisions that he makes. It's like any skill: the more you do it the better you get. So the fact that he is making so many decisions, he is fine-tuning how he makes them. When we don't make decisions we don't get better, we probably get worse.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is a numbers game in the end, he said. Out of ten decisions I'm at the point now where three or four are really good ones and six are bad ones. Now I can work on making six good ones and three or four bad ones. The frequency of decisions is something I'm amazed at.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The crossroads",
+   "lines": [
+    {
+     "text": "Jose said: not making a decision is a decision. What are the decisions in our lives in the past that determined our destiny? Where was the crossroad where we made the decision, and what was our process? And where didn't we make a decision that could have completely changed our circumstances?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Is there a pattern of decisions that are destructive for us, where we let circumstances come before our decisions instead of the other way round? He doesn't allow circumstances to come first. He is ahead of the curve with decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What decision are you putting off that is already a decision?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write ten decisions you made recently.",
+   "Write how many went well and how many did not.",
+   "Write one decision you have not made, and what not deciding is costing.",
+   "Write one crossroad that shaped your life.",
+   "Write the next decision you will make today."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens to a skill the more you do it?",
+   "choices": [
+    "You get better",
+    "You get tired",
+    "It stays the same"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say not making a decision is?",
+   "choices": [
+    "A decision",
+    "Safe",
+    "Neutral"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about circumstances and decisions?",
+   "choices": [
+    "Decisions should come before circumstances",
+    "Circumstances come first",
+    "They don't matter"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make more decisions and learn from them. Not deciding is a decision.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

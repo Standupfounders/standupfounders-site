@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a17-1",
+ "title": "Specialist or generalist?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Were you taught what to think, or how to think?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What to think, or how",
+   "lines": [
+    {
+     "text": "Jose said he was enthusiastic about this chapter because of an academic subject: education and parenting, the common denominator that helps people be successful in their field, with two different lines of thought. He had been told before: that is preposterous.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "One of the things he is philosophically against is so much specialization in schools that they teach you what to think instead of how to think.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student who graduated from high school in 1970 said that back then, specializing wasn't such a key promoter of advancement. High school was wide open: history, science, arts. So I agree.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The Renaissance idea",
+   "lines": [
+    {
+     "text": "Jose remembered that in college you had what they called university requirements: a number of hours in the arts, some in sciences, math courses. The goal was to be a well-rounded individual, a thinker who could see the world as a whole.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That comes from the Renaissance, he said, when the great figures combined math and science and art in their thought patterns and their creations, and understood the world through different disciplines.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person in the book, when he broadens the vision of his company, goes from specialized to generalized. The cousins in the last chapter were narrower thinkers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The two extremes",
+   "lines": [
+    {
+     "text": "There are two arguments, Jose said: you need to specialize to be successful, or, in the other, probably archaic, view, you are more generalized in your thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In one, you track your children into engineering from high school, they get out highly specialized, and get the very high starting salary. In the other, you want your child to explore different bodies of knowledge: art, creative writing, science, as well rounded as possible.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of the two did you get, and which do you want to give?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether your schooling taught you what to think or how to think.",
+   "Write which subjects you were required to take that you use now.",
+   "Write which of the two extremes your education was.",
+   "Write which one you want for the people you raise or lead.",
+   "Write one subject outside your field you will touch this month."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say he is philosophically against?",
+   "choices": [
+    "So much specialization that schools teach what to think instead of how to think",
+    "Schools in general",
+    "Exams"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What was the goal of university requirements, as Jose remembered?",
+   "choices": [
+    "To be a well-rounded individual",
+    "To pass quickly",
+    "To find a job"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What are the two extremes Jose described?",
+   "choices": [
+    "Tracking a child into one field, or letting them explore many",
+    "Private and public school",
+    "Day and night classes"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask whether you were taught what to think or how. Choose breadth on purpose.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

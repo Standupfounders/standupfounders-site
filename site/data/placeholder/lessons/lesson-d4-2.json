@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d4-2",
+ "title": "Who, why, how",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who are you, why do you matter, and how do people benefit?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Branding is an image",
+   "lines": [
+    {
+     "text": "Jose said that the book's simple words are: branding is creating an image in the mind of your audience. He asked a student: what is your brand?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student described a business brand about growth, luxury and design quality, and a different personal brand that is easygoing and not about luxury. She separates them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said she outlined three things: who you are, why you matter to people, and how people benefit from you. Another student described entrepreneurship, doing it ethically, and still living an enjoyable life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Working to gain time",
+   "lines": [
+    {
+     "text": "Jose said that you can work to gain time: organizing your time, delegating, and changing your mindset from running a business to owning one. He said that it has to be a daily thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that if he challenged someone to work just one hour in the week, they would go into maximum efficiency in that hour, and that is the discipline of gaining freedom of time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Write your three: who you are, why you matter, how people benefit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who you are in one sentence.",
+   "Write why you matter to the people you serve.",
+   "Write how they benefit.",
+   "Write what your personal brand adds that your business brand does not.",
+   "Write what you will delegate to gain time."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose define branding?",
+   "choices": [
+    "Creating an image in the mind of your audience",
+    "A logo",
+    "A price list"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What three things did Jose say the student outlined?",
+   "choices": [
+    "Who you are, why you matter, how people benefit",
+    "Name, age, address",
+    "Price, place, product"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about changing mindset?",
+   "choices": [
+    "From running a business to owning one",
+    "From owning to running",
+    "From selling to buying"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Brand is an image. Say who, why and how.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

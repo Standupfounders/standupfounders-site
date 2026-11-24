@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a33-4",
+ "title": "Too soft, too hard",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you too soft or too hard, and what do you do to compensate?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two sides",
+   "lines": [
+    {
+     "text": "A student said: since he is at a high level and has a lot of options, he is very quick to replace people. Not everybody has that opportunity. Jose said: I'll play devil's advocate. If you are too tolerant you start carrying people, and they become complacent. Leadership is about balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: start with the awareness of yourself, which side of the spectrum you are on. I tend to be the opposite side, more passive, so I counterbalance the weaknesses that come from that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: where is the breaking point when someone has no accountability and it is not good for the organization? Are they going to contaminate your culture? And a lot of us know we are soft inside, so we compensate and become more aggressive, then go overboard.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Awareness, then transparency",
+   "lines": [
+    {
+     "text": "A student said: it all comes down to awareness. If you are conscious of the limitations of your way of thinking, you can prevent the collateral damage. Analyze which way you lean, passive or cold, and what weaknesses come with that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: on the giving side, the compensation, the lashing out, is your indicator. But often you don't get the indication until everything is falling apart, because you've given so much ahead of time that you have nothing left for the organization.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: transparency is important in leadership. You can say: I have a tendency to be very giving, don't take it for granted. I will give you instructions and trust that in a month you'll get it done. I won't remind you. I'm just going to trust you, and you will be accountable for results, not obstacles. That is a big ask, and talking about it gives you an idea of the other person's commitment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you have to know your values and communicate them: I respect you, I will trust you and not micromanage, and in exchange for that trust you deliver. It also decides who we want to work with as clients: is there a reason they've been through five vendors in five months?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Strength in being open",
+   "lines": [
+    {
+     "text": "People are afraid that recognizing other people's value makes you vulnerable as a leader, Jose said. I think it is the opposite: it is a strength. And exposing your weaknesses as a leader is a strength, even in parenting. I ask my children for advice, and that empowers them with responsibility.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: they know you are vulnerable as a father, they see another side of you, and it gets them to think from your shoes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Which of your weaknesses could you say to your team?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write which side you lean to: too soft or too hard.",
+   "Write how you compensate.",
+   "Write the sentence that describes your style to your team.",
+   "Write the values you will state up front.",
+   "Write one weakness you will share with your team."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to start with when balancing your leadership?",
+   "choices": [
+    "Awareness of which side you lean",
+    "A new title",
+    "A bonus"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say recognizing people's value is?",
+   "choices": [
+    "A strength",
+    "A weakness",
+    "A cost"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about transparency?",
+   "choices": [
+    "Tell people your style and what you expect",
+    "Keep your style secret",
+    "Change style daily"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know whether you lean soft or hard. Say your style out loud. Share your weaknesses.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

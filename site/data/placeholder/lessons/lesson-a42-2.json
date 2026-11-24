@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a42-2",
+ "title": "Will they stay?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why would your best people stay for you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Keep the key people",
+   "lines": [
+    {
+     "text": "A student said: it is also important to understand who the key persons are, who can do a specific job that so many others cannot. And it is crucial that those people buy in to this particular phase of the company, that they want to stay.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: we are narrowing to a set of individuals very good at their expertise, but will they stay because of who they want to work for, or the purpose of the new leader? It is not only the KPIs, it is their state of mind.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: job security and stabilizing the company is a big deal. Otherwise you create a culture that is very dark and not very motivating, because it is fear everywhere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The culture people already have",
+   "lines": [
+    {
+     "text": "Jose said: that is the culture of the company. Do I like the culture? If an established culture meets a completely different one, people say: I'm not ready to completely change my work environment. I would say the majority would not be willing to adapt.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that you would probably be curious why a person left the company, and would ask: why did you quit, what was the problem?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would make your best person stay, and what would make them leave?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who the key people are in your company.",
+   "Write what each of them could do that others cannot.",
+   "Write why each would stay.",
+   "Write what in your culture could make them leave.",
+   "Write one conversation you will have this week with the best of them."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say is crucial about key people?",
+   "choices": [
+    "That they buy in and want to stay",
+    "That they are cheap",
+    "That they are young"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a culture of fear is?",
+   "choices": [
+    "Dark and not motivating",
+    "Efficient",
+    "Safe"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the majority of people would not be willing to do?",
+   "choices": [
+    "Completely change their work environment",
+    "Take a day off",
+    "Learn names"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your key people and why they would stay. Don't let fear be the culture.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

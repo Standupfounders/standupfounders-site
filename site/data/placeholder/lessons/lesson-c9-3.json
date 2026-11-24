@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-c9-3",
+ "title": "Discipline at work and at home",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where are you disciplined, and where not?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two sides of one life",
+   "lines": [
+    {
+     "text": "A student said: I am extremely disciplined and process-oriented in my business life, but in my personal life there are hard wires I need to clip so I do not fall into the same negative thought patterns.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that the same structure in your emotional being brings you to the resourceful state. In business you create the resources and organizational processes, and you can apply the same to emotions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Work as an escape",
+   "lines": [
+    {
+     "text": "The student said: I use work as an escape in an area where I have more control, to compensate for what I do not feel I have in my personal life. I could apply the same disciplines to my personal life and be better off mentally, physically and spiritually.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student added: in your personal life you can get thrust into roles in the family, and when you try to break away you are the bad guy. Tell yourself you are not the bad guy; your health and well-being should be a priority.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "One essence",
+   "lines": [
+    {
+     "text": "Jose said that these calls are about exposing our vulnerabilities, because that is where we learn most. He said that what we do at work, with family and with friends is an expression of our essence: there are no two lives, only different roles.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where could the discipline you have at work help you at home?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write where you are most disciplined.",
+   "Write where you are least.",
+   "Write what you use work to escape, if anything.",
+   "Write one process from work you could use at home.",
+   "Write who you could talk to about the roles you are given."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about work and personal life?",
+   "choices": [
+    "Discipline at work could help personally",
+    "They should be kept apart",
+    "Work is worse"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say these calls are about?",
+   "choices": [
+    "Exposing our vulnerabilities",
+    "Selling",
+    "Winning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say there are not?",
+   "choices": [
+    "Two lives",
+    "Any roles",
+    "Any habits"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Use work discipline at home. Expose a vulnerability to learn.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

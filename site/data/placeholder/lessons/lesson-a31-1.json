@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a31-1",
+ "title": "How many have you installed?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you done, with your own hands, the work you give to others?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What triggered the surge",
+   "lines": [
+    {
+     "text": "A student said: a lot of repeating themes from the last chapter. You get to see the culture in action: a person drives six hours, misses his flight, the founder tells him to change everything, and he responds enthusiastically: yes. You can see the type of personnel and their buying into the culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: what triggered the surge? For people who don't know, the surge is where he sets impossible deadlines and creates momentum in the company to do the impossible.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it came from pressure to prove the doubters wrong about a business purchase, which then eased on the engineers at the end of the chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How many have you installed?",
+   "lines": [
+    {
+     "text": "One thing that stood out, Jose said, is that he is adamant about engineers who don't understand the practicality of something. He questions every requirement, and he says: we need engineers out here to see how hard this is to install.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The engineer made the mistake of sounding both assured and condescending: I've got twenty years of experience in the roof business. The founder asked: how many roofs have you installed? He said: I've never installed one. He went ballistic: you're the engineer and you leave this problem to somebody else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That really sets him off, Jose said. He is in tune with the process and the design and manufacturing, the A to Z, making sure there is nothing inefficient and not allowing any assumptions to take over.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What have you not tried yourself that you ask your team to do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one task you ask others to do that you have never done.",
+   "Write what you would learn by doing it once.",
+   "Write a requirement you could question.",
+   "Write an assumption in your process.",
+   "Write when you will do it yourself."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the founder ask the engineer who sounded assured?",
+   "choices": [
+    "How many roofs have you installed?",
+    "How much do you earn?",
+    "Who hired you?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the person doesn't allow in a process?",
+   "choices": [
+    "Assumptions taking over",
+    "Questions",
+    "Notes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you can see in the chapter?",
+   "choices": [
+    "The culture in action",
+    "The accounts",
+    "The weather"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Do the work once yourself. Question the requirements. Don't let assumptions run the process.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

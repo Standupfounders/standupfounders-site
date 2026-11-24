@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a30-1",
+ "title": "Know your flow",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When is your peak, and what do you do with it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Know your flow",
+   "lines": [
+    {
+     "text": "Jose asked a student: when do you think you peak? The student said: my day is over by eleven. If I get up at six, my peak is eight to ten. When I get up at five and start working, I literally do a day's work in two or three hours, and the rest of the day is a win.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: I get up every day at four. Four to eight your productivity is incredible, before anybody bothers you. If you work four to eight on all your thinking, writing and planning, then eight to ten you delegate, talk to people, adjust your processes. Then external things occur from ten to twelve. After lunch people don't do much.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The sweet spot for my meetings is nine to eleven, he said, so I leave the very important calls for that time. I won't do a meeting at three or four.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your own rhythm",
+   "lines": [
+    {
+     "text": "A student said: your circadian rhythms change at different points in your life, and some people will never be early risers no matter how hard they try. It is knowing your own flow, getting regular sleep, and scheduling accordingly.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student described a morning routine from a book they know: twenty minutes of exercise, twenty of something spiritual, whatever that means to you, and twenty of professional development, done before six, so email and phone don't interrupt.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose added that fathers go through a cycle: when children are little you get up early in the morning before they do, and that changes your sleeping patterns.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When is your best hour, and what are you doing in it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write when your energy peaks.",
+   "Write what you do in that hour.",
+   "Write what you could move into it.",
+   "Write what sleep pattern you want.",
+   "Write one routine you will try for a week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about circadian rhythms?",
+   "choices": [
+    "They change at different points in life",
+    "They never change",
+    "They are the same for everyone"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say his sweet spot for meetings is?",
+   "choices": [
+    "Nine to eleven",
+    "Three to four",
+    "Midnight"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say knowing your flow means?",
+   "choices": [
+    "Scheduling according to it",
+    "Ignoring it",
+    "Copying others"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your own rhythm and schedule your best hour on purpose.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

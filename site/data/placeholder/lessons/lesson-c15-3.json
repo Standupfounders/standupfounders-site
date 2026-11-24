@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c15-3",
+ "title": "Staying with the hard part",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which hard thing have you stuck with long enough to become excited by?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Through the boredom",
+   "lines": [
+    {
+     "text": "Jose said that if you do not develop the skill set, you never reach the extraordinary level where you play at a higher level. Your identity changes because of the rewards of playing there, but you got there by thousands of hours of work and boredom, and then it became exciting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that parents often let a child try different sports, and when it gets hard they quit and switch. His view is that you can try, but then you stick to one, go through the work, the habits and the structure.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that, for the child, it matters that the child committed and the parent does not commit for them. As adults: I signed up for this pain and this risk, and I am the master of my destiny.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Own the interpretation",
+   "lines": [
+    {
+     "text": "Jose said that the question is whether your interpretation of what is happening gives you control. He said we are always evolving: a habit that served you at one stage can stagnate at another.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: what works when you lead a company with a million in revenue does not work at ten million. A good habit at one time may need to change.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What are you giving up on because it got hard?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write something you quit when it got hard.",
+   "Write the skill you would have reached.",
+   "Write the one thing you will stick with.",
+   "Write the pain you signed up for.",
+   "Write which habit has outgrown its stage."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say it takes to reach the extraordinary level?",
+   "choices": [
+    "Work and boredom over a long time",
+    "Luck",
+    "A new tool"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a child needs to do?",
+   "choices": [
+    "Commit for themself",
+    "Be told what to do",
+    "Quit often"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about habits and growth?",
+   "choices": [
+    "A good habit may need to change",
+    "Habits never change",
+    "Only new habits matter"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Stay through the boredom. Own the commitment. Update the habit.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

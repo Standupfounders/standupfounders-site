@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a17-2",
+ "title": "Cross-training",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What did you learn from another field that you used in your own?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two athletes, two upbringings",
+   "lines": [
+    {
+     "text": "Jose said that what is making the person in the book successful, apart from his process-oriented thinking, is another factor with massive consequences. He compared two famous athletes, a golfer and a tennis player, and said he knew the story.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When the tennis player was a small child, Jose said, the parents took him to every sport he wanted: soccer, baseball. He experimented for a few years, then chose tennis and developed a love of it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The parents also told him not to make tennis the only thing he learned about in sports. He learned from other athletes, extracting methods and structures from different sports to get better at his own.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The orchestra",
+   "lines": [
+    {
+     "text": "Think of an orchestra, Jose said. One person plays only the violin all their life and knows their part. The composer or conductor knows what every instrument has to do, and integrates them to create the masterpiece.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: dip your feet in many verticals early on, get a lot of exposure, then specialize. Another said it is like having a board of directors in your head.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said: his knowledge base is so broad that he can see patterns between two different things that others can't, because his base is larger. Jose said: you did it better than me, that is the statement I wasn't getting to.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Cross-training",
+   "lines": [
+    {
+     "text": "As a former swimmer, Jose said, the coaches in the early nineties and eighties said you had to swim twenty kilometres a day. Then they realized it is about the heart rate, not the distance. Then the myth that lifting weights would make you slow and bulky turned out to be false.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A freestyler gets better by swimming butterfly, he said, because it builds other muscles. They realized the strength of cross-training. You don't get better at one stroke unless you integrate a lot of other things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The more narrow your perspective, the fewer advantages you have, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your butterfly, the thing outside your main stroke that would improve it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your main stroke, the one thing you do best.",
+   "Write the other strokes that could build it.",
+   "Write what you learned from a field outside yours.",
+   "Write who plays the conductor in your work.",
+   "Write how narrow your perspective is and how you will widen it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the tennis player's parents did?",
+   "choices": [
+    "Took him to every sport he wanted before he chose",
+    "Chose tennis for him",
+    "Stopped sports"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is the advantage of a broad knowledge base?",
+   "choices": [
+    "You see patterns between different things others can't",
+    "You earn more",
+    "You learn faster"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about narrow perspective?",
+   "choices": [
+    "The more narrow, the fewer advantages",
+    "It is always best",
+    "It does not matter"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Learn from other fields. Cross-train your thinking.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

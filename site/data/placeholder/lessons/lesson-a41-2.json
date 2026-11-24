@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-a41-2",
+ "title": "Extreme ownership",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why don't you have what you say you want, and where is the answer: inside or outside?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A hundred million dollars",
+   "lines": [
+    {
+     "text": "Jose said: if I say to you: why don't you have a hundred million dollars in your bank account, assuming you want it? A student answered: I found ten thousand ways not to make a light bulb, and I'm coming up on the one way to make it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: you made a connection between your progress internally and how you are affecting your external. Is it something I am creating internally in my personality that is creating my circumstance?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Extreme ownership",
+   "lines": [
+    {
+     "text": "He would say, Jose said: I don't have a hundred million dollars because I'm not in control of my external circumstances, so I must have something internally wrong that I haven't achieved. A student said: he is taking extreme ownership and responsibility for everything.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Nothing externally is at fault for my circumstances, Jose said. That is one way to look at things. I don't have the money I should have in my bank account because I am doing something wrong. That is extreme ownership.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Excuses",
+   "lines": [
+    {
+     "text": "A student said that if a culture gives people excuses, it is reinforcing a lack of responsibility in individual decision-making. In an effort to empower people it is actually disempowering them, by making everything else's fault.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: they have given them a thousand excuses, the psychology and the empathy and the mental health, a thousand excuses for how they can't control their environment. A student said: how they can't work hard, and can't accomplish anything.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you say to yourself if the answer was only inside?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one thing you want that you don't have.",
+   "Write what you would change inside to get it.",
+   "Write the excuses you give most.",
+   "Write what ownership of it would look like.",
+   "Write one external fact that is true and still not an excuse."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student call the approach of blaming nothing external?",
+   "choices": [
+    "Extreme ownership",
+    "Excuse making",
+    "Teamwork"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about a culture that gives people excuses?",
+   "choices": [
+    "It disempowers them by making everything else's fault",
+    "It empowers them",
+    "It saves them time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about finding ten thousand ways?",
+   "choices": [
+    "They are coming up on the one way that works",
+    "They gave up",
+    "They quit"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look at what you do inside before you blame what is outside. Own the result.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

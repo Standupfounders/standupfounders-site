@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a7-1",
+ "title": "A new sense of purpose",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you chase if money were out of the way?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A new sense of purpose",
+   "lines": [
+    {
+     "text": "A student said the person in the book finds a new sense of purpose in this chapter. Jose said he has friends who made a ton of money and then their sense of purpose changed, not in a negative way. They have a little more luxury, because the money is out of the way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They no longer have to compromise with their purpose or the way they do things, he said. If you put yourself in their shoes, you can now entertain a higher purpose, because you are at that stage of your life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it's also looking for a much larger problem to solve. Once you accomplish the money piece, it never really goes away, but you still need something bigger to chase to get you up every day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Unwavering certainty",
+   "lines": [
+    {
+     "text": "Jose said one phrase from the chapter was etched into his brain, and he would put it on a wall.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "unwavering certainty in the face of challenge.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "That is what he is, Jose said: absolutely unwavering. When we look at the people around us, who gives us that sense of motivation, focus and ambition, and that kind of relentless discovery?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What bigger problem would get you up every day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you would work on if money were out of the way.",
+   "Write the larger problem it would solve.",
+   "Write what keeps you certain when you face a challenge.",
+   "Write who around you gives you that certainty.",
+   "Write where you compromise your purpose today."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say people look for once the money is accomplished?",
+   "choices": [
+    "A much larger problem to solve",
+    "A longer vacation",
+    "A bigger house"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What phrase did Jose say he would put on a wall?",
+   "choices": [
+    "Unwavering certainty in the face of challenge",
+    "Never quit",
+    "Be first"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Jose say changes for people who made a lot of money?",
+   "choices": [
+    "Their sense of purpose",
+    "Their name",
+    "Their country"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look for the larger problem. Hold your certainty when things get hard.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

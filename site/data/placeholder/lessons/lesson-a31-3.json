@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a31-3",
+ "title": "Intrinsic motivation",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does each person on your team really want, and do you know?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Intrinsic or extrinsic",
+   "lines": [
+    {
+     "text": "Jose said that with children we are drawn to give extrinsic motivation: if you do this, you get a cookie, a hundred dollars for good grades. We are constantly bribing our kids. As adults we are surrounded by extrinsic motivation: if you do this you will make more money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is different with these entrepreneurs, he said, is that they are motivated by intrinsic things. That is why they are mission-oriented. That is where the passion and the innovation come from. Money is a byproduct to them, a consequence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As a leader, he said, you want to read everything you can about intrinsic motivation. If a person hasn't grown up with it in childhood, you will be teaching it from the ground up. Extrinsic is just a band-aid.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You've already won",
+   "lines": [
+    {
+     "text": "Jose told how, when his children competed and were little, they would be on the plane flying to compete, and he would say: you are already champions. You've already won because you had the discipline and trained for six months. Anything that happens after this is irrelevant.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: as a leader you have to figure out what motivates people. A lot of people think it is money. It motivates many people for different reasons: recognition, a job well done, extra days off, time on a project. If you tap into each person's motivation you bring out the intrinsic motivation, the most effective there is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The waiter",
+   "lines": [
+    {
+     "text": "Extrinsic doesn't mean it doesn't help, Jose said. When I take a big group to a restaurant, I immediately approach the waiter: these people are very important to me and I want to make it a remarkable night. We are going to be a team. In two or three minutes I have established a little trust.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Encouragement is a big part of this, he said. He called the person in the book a fear-driven leader, who doesn't know encouragement because he did not grow up with it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if he uses fear, that will work for some people but it is generally not effective. In your example with the waiter you say: I know you will do a great job, we are a team. That puts you on his level or elevates him to yours, and he won't want to let you down.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What would you say to the waiter in your team?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what motivates each person on your team.",
+   "Write which of those is extrinsic and which intrinsic.",
+   "Write one thing you could say to show faith in someone.",
+   "Write how you would begin a first meeting as a team.",
+   "Write what you praise: the result or the discipline behind it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call extrinsic motivation?",
+   "choices": [
+    "A band-aid",
+    "A cure",
+    "A secret"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about what motivates people?",
+   "choices": [
+    "Different things for different people",
+    "Only money",
+    "Only fear"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose do at the restaurant?",
+   "choices": [
+    "Established trust with the waiter in two or three minutes",
+    "Complained",
+    "Tipped in advance"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find each person's intrinsic motivation. Show faith in them. Extrinsic rewards alone are a band-aid.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

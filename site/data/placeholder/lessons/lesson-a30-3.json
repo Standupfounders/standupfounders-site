@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a30-3",
+ "title": "Rising above bias",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last choose a mechanic, a doctor or an advisor without knowing their field?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Rising above bias",
+   "lines": [
+    {
+     "text": "Jose said: the common denominator of these people is that they are trying to rise above people's individual biases. He asked: does this guy have a bias? A student said: and he does that through challenging them. Jose said: that's exactly what he's doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose gave an example. When I go to the mechanic, he said, I am immediately on alert, because he will lift the hood and quickly realize I know nothing. How do I protect myself? He says: this is two thousand dollars. I'll ask questions to see if he is lying, and use a totally different knowledge base to judge whether I am choosing the right mechanic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is the essence of how these people can run multiple businesses, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Packages of knowledge",
+   "lines": [
+    {
+     "text": "Jose said that educational systems package knowledge into little packages, engineering 101, 102, and give you five years of engineering. It becomes meaningful and easy to remember and creates a structure for you. What happens to that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the teacher ends up passing on any limiting beliefs around those packages to the students. Another clarified later: it isn't the packaging that causes it. Any teacher will pass on their framework of thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he can go on tangents and throw things on a wall and the students have to synthesize. Schools want you to leave with a knowledge base, so they organize it in chunks. Some schools go the opposite way and leave it open.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where did a teacher's framework become yours without you noticing?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one field where you know nothing and depend on someone else.",
+   "Write three questions you would ask to test them.",
+   "Write what you have taken from a teacher as a limit.",
+   "Write how you could test whether it is true.",
+   "Write whose bias you most need to rise above."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say these leaders try to rise above?",
+   "choices": [
+    "Individual biases",
+    "Rivals",
+    "Rules"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Jose protect himself with a mechanic?",
+   "choices": [
+    "He asked questions and used another knowledge base",
+    "He paid at once",
+    "He left"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say teachers pass on?",
+   "choices": [
+    "Their framework of thinking, including limiting beliefs",
+    "Only facts",
+    "Nothing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Rise above bias by testing it. Notice the limits a teacher handed you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

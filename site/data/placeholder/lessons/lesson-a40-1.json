@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a40-1",
+ "title": "Your pressure threshold",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How much pressure is the right amount for you, and how do you know?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your pressure threshold",
+   "lines": [
+    {
+     "text": "A student said: he is very aware that there is an optimal amount of pressure at which everybody performs, and it is different for each individual. It happens to be a lot higher for him. But he is also aware that when things go too well, I get suspicious when too many things start going right back to back to back, because it doesn't normally happen like that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: a lot of people are so used to the grind that when things go well they get suspicious. And after a level of accomplishment, they also lose their sense of purpose, because now there is nothing else to fight for. Once you've won the battle, what do you do now?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said: some people have a higher pressure threshold, a higher floor for pressure, and a higher maximum. There are people around him who can't handle it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Is there a point when you're doing too much?",
+   "lines": [
+    {
+     "text": "Jose said: one of the lessons is: is there a point when you're doing too much? Is there a point when you say: this is becoming invasive, I should scale down? Is there a point when the cup overflows and he drops an egg?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is a possibility with anyone. You can't predict the future. He's trying his best and probably setting things up so it doesn't happen, but that point exists for everyone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: the first thing I try to analyze is: what have I done repeatedly in my life that always works? What are the patterns that consistently work? Because he has developed these patterns, can he replicate them, systemize them, automate them and lower the risk, and so take on more?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: pattern recognition is very strong with him. Part of the excitement for him is not knowing how it will work when he tries it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your pattern that always works?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the amount of pressure you perform best at.",
+   "Write what you do when things go too well.",
+   "Write what you do after an accomplishment so you don't lose purpose.",
+   "Write the pattern in your life that always works.",
+   "Write the point where you would scale down."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say is different for each individual?",
+   "choices": [
+    "The optimal amount of pressure",
+    "The salary",
+    "The hours"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask about what always works?",
+   "choices": [
+    "What patterns consistently work, and can you systemize them?",
+    "What is cheapest?",
+    "What is fastest?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say happens after a level of accomplishment?",
+   "choices": [
+    "People lose their sense of purpose",
+    "They rest",
+    "They retire"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your pressure threshold. Know your patterns. Know when to scale down.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

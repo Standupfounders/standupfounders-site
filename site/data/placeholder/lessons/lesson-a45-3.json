@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a45-3",
+ "title": "A line you draw for the first time",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What have you kept doing that cost you money because you believe in it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A value against revenue",
+   "lines": [
+    {
+     "text": "A student said: an underlying theme that resonated with me: he did not compromise his values or beliefs to appease the advertisers or make more money. He stayed grounded in his belief in free speech even at the consequence of revenue for the company, which I thought was pretty admirable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: I don't think he totally defined what he believes. I think it is very nebulous to him. All of a sudden he says: hate speech doesn't belong here. We can appreciate the complexity of our own ethical system, what is right and wrong, how we judge it. It is not black and white.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Drawing a line for the first time",
+   "lines": [
+    {
+     "text": "He is drawing lines for the very first time, Jose said. Imagine the emotional landscape of people with thousands of ethical systems and variations of them. That is not his comfort zone. He is entering a business so far from what he has done in the past, which was concrete and sequential.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It shows the versatility, the courage and the relentlessness and adaptation, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Decisions under stress",
+   "lines": [
+    {
+     "text": "A student said: we could have a whole discussion about decision-making in times of stress against other times, because a lot of times it causes desperation and alters your perspective and outlook.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: it ties into values and belief systems. You see people who get desperate and compromise their morals, or make decisions they wouldn't ordinarily make because their backs are against the wall, running out of money, and they do things that go against what they ordinarily believe.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that this is why he likes biographies: it is a live version, not a theory, not a self-help book telling you what they think is right. These are the decisions he is making, good or bad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you not do for money, even when your back is against the wall?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a value you have kept at the cost of revenue.",
+   "Write what you have not yet defined about what you believe.",
+   "Write the line you would draw for the first time.",
+   "Write what you would not do for money under pressure.",
+   "Write how you would know you were making a desperate decision."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student admire about the person?",
+   "choices": [
+    "He did not compromise his values for advertisers' money",
+    "He raised prices",
+    "He changed his name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the person's ethical line?",
+   "choices": [
+    "It is nebulous, not black and white",
+    "It is clear",
+    "It never changes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a biography is?",
+   "choices": [
+    "A live version, not a theory",
+    "A self-help book",
+    "A diary"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the values you will not trade for revenue. Watch for desperate decisions.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

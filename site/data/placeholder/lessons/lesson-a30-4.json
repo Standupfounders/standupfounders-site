@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a30-4",
+ "title": "Out of the silo",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which habit do you keep even though the evidence says it isn't working?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Cognitive entrenchment",
+   "lines": [
+    {
+     "text": "There is a concept called cognitive entrenchment, Jose said: you are used to thinking a particular way, and even when you get new evidence that it is not efficient, you keep doing it anyway. Why do I keep doing the same thing? Why do I have this resistance to change?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: his power here is that he doesn't have that, so he has to rely on them to test the limitations in real time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that people like these have experiential flexibility, an incredible flexibility.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Getting out of the day to day",
+   "lines": [
+    {
+     "text": "Jose described a scene from the chapter: the founder asks an engineer a question that has nothing to do with the engineer's day: how many photons were collected by the satellite's panels against how many could usefully be shot down to earth? He said it is irrelevant to the man's day to day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: he is getting him out of that specialization and that narrow focus and telling him to step back and see the bigger picture. A student said: it is another potential win, completely off his radar.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is teaching them how to build the scaffolding, not the building, Jose said. A student said: he is teaching him the why behind his thoughts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Silos",
+   "lines": [
+    {
+     "text": "Jose said that in the old telecom days everybody was separated into different units: video, data switching, local networks. They are very sensitive to companies getting into trenches, or silos, because then you aren't looking at the big picture and can't use resources within your own company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You end up with a gap between strategy and operation because you can't synthesize it on your own. That is why he says: I want design and manufacture to be one. A student said: that is pivotal. Jose said we want broad, diverse experiences so that we can develop range.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where in your company is there a wall between two teams?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit you keep despite evidence.",
+   "Write what the evidence says.",
+   "Write a question that would take your team out of its day to day.",
+   "Write the silos in your company.",
+   "Write who could bring two silos together."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call keeping a way of thinking despite new evidence?",
+   "choices": [
+    "Cognitive entrenchment",
+    "Good habit",
+    "Strategy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you teach people: the scaffolding or the building?",
+   "choices": [
+    "The scaffolding",
+    "The building",
+    "Neither"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say silos cause?",
+   "choices": [
+    "A gap between strategy and operation",
+    "More profit",
+    "Faster work"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Question the habits you keep despite evidence. Teach the scaffolding. Break the silos.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

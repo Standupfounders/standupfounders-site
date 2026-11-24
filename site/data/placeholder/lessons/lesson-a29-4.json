@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a29-4",
+ "title": "Anxiety, faith and imagination",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What anxiety has taught you something you could not have learned otherwise?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Three stages",
+   "lines": [
+    {
+     "text": "Jose said he gave a student books by a philosopher who is one of his favourites and who is a little more positive than the three. They were more black and white. This one was all about the gray area.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He separated man into three stages, Jose said: the aesthetic, the ethical and the religious. The aesthetic is the appreciation of beauty and art, part of growing up. But you can stay in it, and it will eventually affect your ethical stage, what is right and what is wrong. The last stage is the religious: faith.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Faith in faith itself",
+   "lines": [
+    {
+     "text": "Jose said that on your deathbed, as the pessimists see it, my life is meaningless, there is no afterlife. This philosopher would say: I'm going into a beautiful alternative reality. Having that faith, that ambition, is drawn from the aesthetic stage.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said faith can lead you to define love, to believe in beauty and truth. Faith is the glue that creates relationships among people, and a common ground to say: look at that beautiful window, that beautiful flower.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Few images that open the rest of our life",
+   "lines": [
+    {
+     "text": "A student told of conversations in their last years of high school about perception: what if this chocolate tastes to you as strawberries taste to me? That led down a rabbit hole about the vastness of the universe, which caused some anxiety for a while, and then a period of acceptance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that there are such few books, conversations and experiences with our fathers and mothers in childhood that define the rest of our life. It is almost like somebody takes a picture of us and it is frozen, but becomes thematic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said this philosopher believed that anxiety is a necessary thing for human existence, to understand free will, the will to make a decision. Anxiety drives us.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that the person in the book sorts out his anxiety by using science fiction to create reality through technology, to push the boundaries of reality. That is how he soothes it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the picture that has stayed frozen for you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write which stage you spend most of your time in: the aesthetic, the ethical or the religious.",
+   "Write what you have faith in, in the widest sense.",
+   "Write the picture from childhood that has stayed with you.",
+   "Write what your anxiety asks you to decide.",
+   "Write who you could talk to if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What three stages did Jose name?",
+   "choices": [
+    "The aesthetic, the ethical and the religious",
+    "The young, the middle and the old",
+    "The first, the second and the third"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say anxiety is, in the philosopher's view?",
+   "choices": [
+    "A necessary thing that drives us",
+    "A disease only",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say faith is?",
+   "choices": [
+    "The glue that creates relationships",
+    "A rule",
+    "A habit"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know which stage you live in. Notice the pictures that define you. Seek help if it is heavy.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

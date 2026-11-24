@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a12-1",
+ "title": "Businesses on the way to somewhere",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What have you started that you cannot yet explain to anyone?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Businesses on the way to somewhere",
+   "lines": [
+    {
+     "text": "Jose said it is amazing that the person ended up with a satellite internet business as a consequence of the overall mission of colonizing another planet. Sometimes you find businesses on the way to somewhere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said his old partners say: that's how he does things. He has a crazy idea, and then he figures out how to back-fill it as a legitimate business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that people who are mission-driven don't care about losing money for three or four years, because they know it will come out in the end.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A friend's islands",
+   "lines": [
+    {
+     "text": "He told of a friend who took him to the window of his office and pointed at the middle of the ocean. A hundred or two hundred metres out, he said, I'm going to do a landfill, the first man-made islands in this hemisphere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He had no marketing study and no consultants, Jose said. He did sixty acres of man-made islands and a marina between them. It was a total success after two or three years of hardship, and now I drive on the islands and think: I know this guy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Stick to your guns",
+   "lines": [
+    {
+     "text": "A student said: if you can get punched in the mouth every day for two or three years and then accept the payoff, that is how I would put it. I've got this thing I can't explain why it's gonna work, but I know it will. We might lose every dime for two years.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said you have to stick to your guns. Investors normally want a return in three to five years, he said, which rules out a lot of businesses. Even a restaurant needs twelve to fourteen months to stabilize.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are you building that needs more time than an investor wants to give?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the mission behind what you do.",
+   "Write the business you may find on the way.",
+   "Write how long you can go without profit.",
+   "Write what an investor who wants a return in three to five years would ask.",
+   "Write what you would say to yourself in year two."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about mission-driven people and losses?",
+   "choices": [
+    "They don't care about losing money for a few years",
+    "They quit early",
+    "They avoid risk"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about the person's way of working?",
+   "choices": [
+    "He has a crazy idea and back-fills a business",
+    "He starts with a spreadsheet",
+    "He copies others"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How long did Jose say a restaurant needs to stabilize?",
+   "choices": [
+    "Twelve to fourteen months",
+    "Two weeks",
+    "Ten years"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep to the mission. Businesses may be found on the way. Know how long you can wait.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

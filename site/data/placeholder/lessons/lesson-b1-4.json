@@ -1,0 +1,179 @@
+{
+ "schema": 1,
+ "id": "lesson-b1-4",
+ "title": "You can't be the dreamer without a process",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you ever had a big plan and no steps to reach it? What happened?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You've got to be creative",
+   "lines": [
+    {
+     "text": "When you are in the heat, Jose said, when you are in that pressure, when you have to make big payments, when you are in financial difficulty, you have to be creative. You have to find a way to do it, and you have to do it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the author kicked it into high gear. That is what he does, Jose said. It shows his resilience.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose pointed to creative deal structures. We are going to see time and time again that he does this, he said. It is a major pattern in how he becomes a successful entrepreneur.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He creates the deal structures, Jose said, and then he has a great operation and a great team. He has to be in the reality of the sales projections, because that is how he is going to pay off the debt.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Either I generate the sales to pay all this off, or the company folds. Jose said that had to be a major consideration in everything he was doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You can't be the dreamer without a process",
+   "lines": [
+    {
+     "text": "His accountant said: take the deal. But he didn't, Jose said. He is a major risk taker and he has this intuition. He says: I just felt it was the wrong deal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But I don't think he is making just an intuitive decision, Jose said, without being grounded in what he believed his organization could do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You can't be the dreamer without having a process, he said. Goals, and being very specific about what you are going to do day to day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he is going through this himself. We are growing a company from scratch, he said, so we have to pay attention to the pipeline, so we can project the cash flow and get out of the danger zone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is our purpose? What is our legacy?",
+   "lines": [
+    {
+     "text": "A student said it shows his resilience. Even when he is down, he is still competitive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose agreed. Everything he does is consistent with competing, showing up, and not letting challenges slow you down. He disciplines his mind to think of the positive and of the way out. He doesn't dwell on the negative.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "a lesson that would stick with me throughout my career when the chips are down and the pressures on. It's amazing to see how creative people can be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Jose called that a very powerful statement. It is really at the core of who he is, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the author turns a negative into a positive: the best thing I could have done was to make him proud, even though he is not here. That is a major driving force, the legacy of what his father did.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is our purpose? What is our legacy? What do we want to leave behind? What do we represent?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one big plan you have.",
+   "Write the specific thing you will do day to day to move it forward.",
+   "Write what the pipeline or the next three steps look like.",
+   "Write the danger zone you want to get out of.",
+   "Write your purpose in one sentence: what you want to leave behind."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you can't be without a process?",
+   "choices": [
+    "The dreamer",
+    "The boss",
+    "The customer"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say stands behind the author's 'I just felt it was the wrong deal'?",
+   "choices": [
+    "A coin toss",
+    "A decision grounded in what his organization could do",
+    "An accountant's rule"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What questions did Jose end with?",
+   "choices": [
+    "What is our purpose, our legacy, what do we leave behind?",
+    "How much did we earn?",
+    "Who is our rival?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "A dreamer needs a process. Ask what purpose and legacy you are building for.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

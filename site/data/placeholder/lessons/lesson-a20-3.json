@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a20-3",
+ "title": "Who gets your time",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who takes your time without bringing you anything?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The buoy",
+   "lines": [
+    {
+     "text": "There are people who bring no value to our business life, Jose said, and sometimes we lose a lot of time with them. It's okay to love someone and enjoy relaxing with them, but do an inventory of the people in your life and what they bring, and how you prioritize them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We are like buoys, he said. We carry people we love and want to help, but a buoy will stop floating if too much weight is on top. Can I carry this? Do I have the time to help this person? A student said: that they are doing something to help themselves in the area they ask for help in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a young man he has known for years who said: I want to learn and work with you. He lasted two months, was distracted a lot, and Jose had to sit down with him and tell him the truth. He said he cannot help someone who is not making the decision.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Urgent against important",
+   "lines": [
+    {
+     "text": "A student said it happens when the urgent is prioritized over the important. As a leader you have to discern what is important. Important is what we do to accomplish the goals we set. Urgent is the new thing that popped up today because somebody else said it should be done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: study the patterns of people who always come to you with urgency. After a while you may find it is a pattern, an inability to use critical thinking to deal with a problem themselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Fear, a double-edged sword",
+   "lines": [
+    {
+     "text": "It is a double-edged sword, he said, with the way the person in the book manages people. People fear him, and the fear drives intensity: I've got to stay focused. But people are afraid to make decisions, so they don't take risks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I always say to people: I want you to make a mistake, he said. Be comfortable making mistakes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who are you carrying, and what would happen if you carried less?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people in your life and what each brings.",
+   "Write who you can carry and who you can't.",
+   "Write a recent urgent thing that was not important.",
+   "Write what pattern you see in people who bring you urgency.",
+   "Write one mistake you want your team to be free to make."
+  ]
+ },
+ "check": [
+  {
+   "q": "What image did Jose use for carrying people?",
+   "choices": [
+    "A buoy that sinks if it carries too much weight",
+    "A bridge",
+    "A bus"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say important means?",
+   "choices": [
+    "What we do to accomplish our goals",
+    "What is loud",
+    "What is quick"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about fear in a team?",
+   "choices": [
+    "It drives intensity but people avoid risks",
+    "It always helps",
+    "It never works"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Take an inventory of who gets your time. Put the important before the urgent. Let people make mistakes.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

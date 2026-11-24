@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-b17-3",
+ "title": "Look for the familiar",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When something goes wrong in a contest, what do you tell yourself or your children?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I would stick to the intrinsic, internal process",
+   "lines": [
+    {
+     "text": "Jose said that, as parents, we make mistakes. At my kids' competition, he said, it was painful to hear a parent say: that wasn't fair, you won that. With no rationality. What they teach the child is an excuse for why they lost, not to self-reflect on how they can get better.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Even when my kids would have the fight stolen from them in the finals, I would never go down the route of: that was unfair. I would say: incredible job. You reached your goals. I would stick to the intrinsic, internal process and not pay attention to anything external.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that the author doesn't give it time or space to even consider he can't do it. We can't control anything else, only ourselves and how we react.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose agreed. He only sees the possibility. His belief system is so strong that nothing clouds his judgment about what he is capable of.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Victimizing language",
+   "lines": [
+    {
+     "text": "Jose asked: on a scale of one to ten, how important is a positive belief system like the author's, in business? A student said: crucial.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Can you recognize somebody who is engaged only in possibility thinking, Jose asked, and doesn't dwell on the challenges and barriers? A student said: it is easy to see in someone's language.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You have to be aware of victimizing language, he said, internally and with people. If you get contaminated by people who use it, it is going to drag you down. So create an environment where everybody is an overachiever.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Look for the familiar",
+   "lines": [
+    {
+     "text": "Here is a slightly uncomfortable secret, Jose said. If you grew up with somebody talking down to you, belittling you, giving you guilt trips, as an adult you look for that, because it is familiar. The unfamiliar is a beautiful relationship where people make you feel good.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is the same with money, he said. If scarcity is familiar, then even when you get money you sabotage yourself and lose it, because you're not used to wealth. That is a massive challenge for all of us.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The lesson, he said: look in the mirror and ask: am I inspired every single day? Am I doing extraordinary things? A student said that inspired is a better word than amazing, because waking up and having to be the best every day can be kind of toxic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is familiar to you that you should unlearn?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you tell yourself or others when you lose.",
+   "Rewrite it as: what can I do to get better?",
+   "Write the victimizing language you hear around you.",
+   "Write the familiar pattern you repeat, in relationships or in money.",
+   "Write what 'inspired' looks like for you tomorrow."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to stick to when his children lost a fight unfairly?",
+   "choices": [
+    "The intrinsic, internal process",
+    "The referee's mistake",
+    "The result"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens if you get contaminated by victimizing language?",
+   "choices": [
+    "It drags you down",
+    "Nothing",
+    "It makes you stronger"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we look for as adults?",
+   "choices": [
+    "What is familiar",
+    "What is new",
+    "What is easy"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Stick to the internal process, avoid victimizing language, and unlearn what is only familiar.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a17-3",
+ "title": "A personal needs assessment",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If your education made you very specialized, what do you do about it now?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Out in the real world",
+   "lines": [
+    {
+     "text": "Jose said to a student: just as an exercise, I'm assuming, you were given the courses you needed in four years, and off you go, a graphic designer. In the real world you may say: I'm so specialized that I fit a corporate mould in a cubicle. What if I don't want that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you are already at that point, you have to continue your education, not necessarily going back to school, but continue learning and diversifying yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said we have doctors who study one organ. Everyone told us: focus, focus, get more specialized. He said a specialist who did not study habits may not tell you about your habits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A personal needs assessment",
+   "lines": [
+    {
+     "text": "He asked a student who is a coach what advice they give. The student said: use the mastermind principle, with people around you who are better or smarter in certain areas. I also read, research online, and have a plan of how to progress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How do you come up with that plan? Jose asked. The student said: have a focus. If you find a deficit in one area, read a few books, try a few things to implement the new ideas, test them, and keep adjusting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: so you do a personal needs assessment. You diagnose the areas you want to work on, and then you build the curriculum around those areas.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student described a progression from unconscious competence, to some competence, to confidence, even to a courageous level of understanding.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the deficit you will diagnose first?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write where your education left a gap.",
+   "Write the three areas you want to improve.",
+   "Write who could be in your mastermind.",
+   "Write a book or experiment for each area.",
+   "Write how you will test and adjust."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to do if you are already specialized?",
+   "choices": [
+    "Continue learning and diversifying",
+    "Go back to school",
+    "Stay the same"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call the student's method of diagnosing deficits?",
+   "choices": [
+    "A personal needs assessment",
+    "A test",
+    "A diet"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student say the mastermind principle is?",
+   "choices": [
+    "Having people around you who are better or smarter in certain areas",
+    "Working alone",
+    "Reading only"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Diagnose your own gaps. Build your curriculum around them.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b17-2",
+ "title": "Why do I believe that?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where does the voice in your head that says you can't come from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why do I believe that?",
+   "lines": [
+    {
+     "text": "Say you have a negative belief system, Jose said. You tell yourself: you're never going to be a multimillionaire in the next twenty-four months. That's impossible. All money is very difficult to get. You can think of a thousand excuses. What is the first question you ask yourself to analyze that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: how am I going to do that? Jose said: I would ask: why do I believe that? Where did that belief come from? Generally it comes from somebody or something. Your father, whose disapproval you lived with. Your mother. A coach who traumatized you and told you you were no good.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who gave it to me, he asked? Why is it repetitive? Why am I still believing it years later? A student said: that's because that's what you're looking for. You've trained yourself to see only that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "It's a domino effect",
+   "lines": [
+    {
+     "text": "What you believe becomes your manifestation, Jose said. If you believe you are not going to make money, it starts to manifest itself. Your imagination becomes your reality. What you tell your mind becomes your emotion becomes your action. It is a domino effect.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "With the author, he said, we are not learning anything from this book unless we analyze the foundation of what made this man extraordinary as an entrepreneur. We could focus on the negative things: the husband, the father. But why not focus on the positive things, because those are what are going to be important to us? We can go to another mentor to learn about a great father.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student described how they used to talk meanly to themselves, and said they had done a lot of work not to. When I hear: you're a failure, nobody thinks you can do this, I make a note of it and say: nope, that's not true. Those same crazy ideas are what led me to my success. If I don't have enough sleep, or I'm stressed, it creeps back and I can feel it in my stomach.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that's great that you identified it, and you're able to stop it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the repeated sentence you tell yourself, and where did it come from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the negative sentence you repeat to yourself.",
+   "Write why you believe it, and where it came from.",
+   "Write who gave it to you.",
+   "Write why it keeps repeating.",
+   "Write the true sentence you will say instead, and the first action it points to."
+  ]
+ },
+ "check": [
+  {
+   "q": "What question did Jose say he would ask himself about a negative belief?",
+   "choices": [
+    "Why do I believe that, and where did it come from?",
+    "How can I hide it?",
+    "Who agrees?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the domino effect is?",
+   "choices": [
+    "What you tell your mind becomes your emotion becomes your action",
+    "Money leads to success",
+    "Friends lead to jobs"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to focus on when learning from the author?",
+   "choices": [
+    "The positive things that are important to us",
+    "His failures",
+    "His wealth"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask why you believe it. What you tell your mind becomes your emotion and then your action.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

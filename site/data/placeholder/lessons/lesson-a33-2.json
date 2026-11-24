@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a33-2",
+ "title": "Signs in the first meeting",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which of your last three partners would you choose again, and what did you see in the first meeting?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Words and actions",
+   "lines": [
+    {
+     "text": "Jose asked: what are the signs that a relationship isn't going to be good? A student said: when people talk about themselves. And even if they ask about you, if their actions and following sentences don't address your needs. They may ask the right questions, but their words or actions don't follow up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: are they consistent in keeping commitments to themselves? That is a big one, because it is hard to make commitments to ourselves. It gets into the accountability issue.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Baggage and blame",
+   "lines": [
+    {
+     "text": "A student said: if in the first conversation people bring up negative past experiences with people they've hired or partnered with, that is usually a bad sign. Everyone who started the first meeting talking about traumas from the past, those same traumas happened in our relationship too. It is a precursor: here is the baggage I brought into the last relationship, how are you going to handle it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: be really careful when people victimize themselves. This person described ten different circumstances in which they were the victim. Are they really the victim, or the perpetrator?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student offered a different view: with prospective clients you want to get to the pain points, so it is natural they bring up negative experiences. But if everything is the other guy's fault and you are the fifth company they have had in, the issue may be with them. And if the client says: I own you, I'm paying, do what I say, that is not a collaboration.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Money, values, integrity",
+   "lines": [
+    {
+     "text": "Jose said: I go into how they see money. Is it first and foremost, or a consequence of a great relationship? How do they see material things? Are they honest with people? Do they walk the talk? Are they clear on their values, and do they have the courage to stand up for them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You can have goals, direction and focus, he said, but what are they actually committed to? I think integrity is a big one. Do they change their behaviour to match their commitments, or lower their values to match their behaviour? Do they admit their mistakes? Do they see learning as infinite or finite?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: pay attention to why something was said, not just what. Read between the lines of the language patterns. And look at how long someone stays in each job: six months, then another six, signals a difficulty in getting through adversity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What would you listen for in the first ten minutes?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last partner you chose and what you saw in the first meeting.",
+   "Write five signs you will listen for.",
+   "Write the question you will ask about their past partners.",
+   "Write what you will do when someone only blames others.",
+   "Write the values you will state first."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about people who start by talking about past traumas with others?",
+   "choices": [
+    "The same often happens in your relationship",
+    "They are always honest",
+    "They are always right"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a big one in a person's commitments?",
+   "choices": [
+    "Consistency in keeping commitments to themselves",
+    "Speed",
+    "Salary"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about job tenure?",
+   "choices": [
+    "Frequent short stays can signal difficulty with adversity",
+    "Short stays mean skill",
+    "Tenure never matters"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Listen for words against actions, blame, money, values and integrity in the first meeting.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

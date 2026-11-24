@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-d1-1",
+ "title": "A book to build authority",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you write a book about, if you had to prove your authority?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The book and the idea",
+   "lines": [
+    {
+     "text": "Jose introduced the book to those who had not yet got it. He said the author is a publisher who works with entrepreneurs and business people, and that what the firm is about is basically personal branding: magnifying your presence in the business world and leaving a legacy by writing a book about what you have done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a person who wrote a book about a field becomes an authority in that space, and then markets the book through interviews and outlets worldwide.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is an easy read, and that it is interesting to think about what you can do with the authority you create: once it is set up, you can continue down a path and become more and more successful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Action items",
+   "lines": [
+    {
+     "text": "Jose said there will be a lot of action items, things we need to act on and get done, because if you do not do it you will not take advantage of what you are learning. A student said: there are action items and takeaways in each chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do with authority if you had it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the field you want to be known in.",
+   "Write what a book from you would be about.",
+   "Write who it would help.",
+   "Write one action you will take from each chapter.",
+   "Write what you would do with the authority."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the author's firm is basically about?",
+   "choices": [
+    "Personal branding",
+    "Cooking",
+    "Sports"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about the book?",
+   "choices": [
+    "It is an easy read",
+    "It is impossible",
+    "It is only for experts"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say there will be in the calls?",
+   "choices": [
+    "Action items",
+    "Only theory",
+    "Only stories"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "A book builds authority. Choose your field. Act on each chapter.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

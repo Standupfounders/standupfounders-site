@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-c1-5",
+ "title": "Replace, don't just remove",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you stop a bad habit, or give its energy a new place?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Replace, don't just remove",
+   "lines": [
+    {
+     "text": "A student asked: negative habits are hard to just stop, for example getting a text while working and wasting five minutes on the phone. Do you cut them out or replace them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he likes replacing them: when you have energy in one direction, keep going with the energy, but channel it somewhere else. Recognizing what is triggering it is key.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he plays classical music as a trigger to be productive and to sit at his desk, not listen to the phone. Pick something powerful that insulates you from negative triggers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The pathway",
+   "lines": [
+    {
+     "text": "A student described it as a pathway: work is anchored to stress, stress is anchored to picking up the phone, and picking up the phone is anchored to relief. The more you use a pathway the deeper it gets.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: with awareness of the pathway and the discipline to replace the trigger with something productive, repetition replaces the pathway until, when stress comes, the impulse is to meditate.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: you just change the dopamine source. A student noted that the book goes into cue, craving and response later.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the trigger for the habit you want to replace, and what is the new response?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one habit you want to replace.",
+   "Write its trigger.",
+   "Write what you feel after it.",
+   "Write a new response that gives the same relief.",
+   "Write what you will do the first time the trigger fires."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose prefer to do with a negative habit?",
+   "choices": [
+    "Replace it",
+    "Ignore it",
+    "Hide it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is key?",
+   "choices": [
+    "Recognizing what is triggering it",
+    "Willpower alone",
+    "Buying a tool"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose use as a trigger to be productive?",
+   "choices": [
+    "Classical music",
+    "A phone alarm",
+    "A coffee run"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find the trigger. Replace the response. Repeat.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

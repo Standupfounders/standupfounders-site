@@ -1,0 +1,161 @@
+{
+ "schema": 1,
+ "id": "lesson-a18-4",
+ "title": "Givers and takers",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who pays when the bill comes, and who waits?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Determination",
+   "lines": [
+    {
+     "text": "A student said a determined person is committed to completing one task. Jose said: where in their life have they shown a long-term goal that they achieved? That is a big one for me.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a man he swam with in high school whose only goal since he was a little boy was a gold medal in one event. That is a person whose entire life was the discipline of getting to that race, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the ability to overcome, and being proactive. You can wait until everybody starts a task to do yours, or you can be proactive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Long term or short term",
+   "lines": [
+    {
+     "text": "Are you a long-term or short-term thinker? Jose asked. Some people tell you what you want to hear, but they really want to take care of themselves right now. That is a bad sign.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another sign: you are about to do business with somebody, and when the bill comes they don't even look at it. They wait for you to pick up the bill, every time. A student said: people who want to pay will fight you for the check.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Givers and takers, he said. It's not about how much money you have. Sometimes people with a lot of money are even worse. Do you ask your partner: what can I do for you to improve? What can I do for the company?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Are you really an entrepreneur?",
+   "lines": [
+    {
+     "text": "You should have fifty or sixty things that screen people, Jose said. Also think about your messaging: are you ready for the sacrifice, the pain, the threshold of risk?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it has become a popular trend. Jose said: so many people tell us they are entrepreneurs, and a month later: no, I just need a salary.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you are a co-founder, help me build it. If I have to pay you full price, why am I giving you equity? Jose said: that is the long-term thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Somebody who spends three hours talking about the mission, Jose said, versus somebody who asks: how much are you paying? A student said: how well do they perform under pressure, and for how long?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Give me proof, he said: you can make it, and you have the habits and the makeup. They are not going to learn this on the job.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What proof would you ask for, and what proof can you give?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a long-term goal you have achieved and how long it took.",
+   "Write who on your team is a giver and who is a taker.",
+   "Write how you would test a person under pressure.",
+   "Write the sign you look for when the bill comes.",
+   "Write what proof you can give that you can make it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask about a person's life?",
+   "choices": [
+    "Where have they shown a long-term goal they achieved?",
+    "Where did they study?",
+    "How old are they?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the bill?",
+   "choices": [
+    "Notice whether they look at it or wait for you to pay every time",
+    "Always split",
+    "Always pay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you should be asked for?",
+   "choices": [
+    "Proof that you can make it",
+    "A reference",
+    "A fee"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look for long-term goals achieved. Notice givers and takers. Ask for proof, and give it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

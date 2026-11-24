@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a38-5",
+ "title": "Recurring revenue",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do your customers pay for every month, and how sure are you of it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The model",
+   "lines": [
+    {
+     "text": "Jose said that the person in the book plans, as Jose understands it, to make money from user subscriptions and data licensing, and to build a platform that verifies people's identity, so he can sell it to content creators. What do you think? You may not know these business models, but we should be able to analyze them and make assumptions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: in theory the model is pretty good. You might run into push-back and lose credibility as a brand when you take a platform that has been free for years and turn it into a subscription. Selling users' data is a behind-the-scenes deal, but if you are public about it you might lose users' trust. In theory, recurring revenue and licences are good streams, but you have to be cognizant of your users.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Why subscriptions",
+   "lines": [
+    {
+     "text": "Jose asked: why is he attracted to the subscription model? Where has he seen it before? A student said: in satellite internet, and a subscription on cars too.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student in the telecom business said: it is residual income, predictable income, which is good for running a company. You know what is coming in, at least at a minimum. It shows customers have some loyalty, because they are willing to pay for it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student in business finance said: lenders really look for some sort of residual income, because they are trying to predict future receivables. Having it on the books is like money in the bank.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he has seen valuations where a company's subscription base gets a number: four million subscribers, and each subscriber is worth a dollar, two or three. People feel comfortable valuing a company using subscribers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which part of your revenue repeats, and which part do you have to win again each time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the part of your revenue that repeats.",
+   "Write what you could turn into a subscription.",
+   "Write what it would do to your customers' trust.",
+   "Write how a lender would value the repeating part.",
+   "Write the number of subscribers you would need."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student in telecom say a subscription gives you?",
+   "choices": [
+    "Predictable income",
+    "A bigger logo",
+    "Fewer customers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about turning a free platform into a subscription?",
+   "choices": [
+    "You may lose credibility and trust",
+    "It always works",
+    "It is illegal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about valuing companies?",
+   "choices": [
+    "Some are valued by subscribers",
+    "None are",
+    "Only by logo"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know what repeats. Weigh the trust a subscription can cost you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

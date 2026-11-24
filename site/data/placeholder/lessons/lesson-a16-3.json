@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a16-3",
+ "title": "Product first, margins always",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you sell a product people love, or sell a product you hope they will buy?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Sales or product?",
+   "lines": [
+    {
+     "text": "Jose said the person asked his cousins: are you a sales organization, or are you focused on the product? In his head, the product comes first.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The cousins were proud that they were out selling, but it isn't sustainable unless you have a really good product, Jose said. There are two types of people: salespeople and product people. The clients will come if you have a good product. If you're selling without one, you get into danger.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A bottle that won a prize",
+   "lines": [
+    {
+     "text": "Jose told of an uncle who had a water-bottling plant. He won a prize in Europe for the best bottle, a hybrid between round and square. The water came from a family farm and was beautiful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But when he went to distribute it to restaurants, he ran into a problem. A large soft-drink company has its own water brand and delivers twelve products on established trucks. A restaurant can't carry his water without asking the big company to take theirs out, and they won't.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Margins and volume",
+   "lines": [
+    {
+     "text": "A student said the person in the book is always thinking about the product and how to enhance it. Jose said: he is also thinking about the margins. One of the first things I ask about a business is: what are the margins?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "His brother-in-law owned fast food franchises, which work on a five percent margin, he said. If you don't do something right, you're losing money. They work on volume. A bigger margin is a more forgiving business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Sometimes you have a massive market share and low margins. Other times a small niche and a very high margin. In a business where the margin is small, you could be underwater by spending two or three hundred dollars more a month.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your margin, and what would break it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether you are a product person or a sales person.",
+   "Write who covers the other.",
+   "Write your margin on one product.",
+   "Write the volume you need at that margin.",
+   "Write what stands between your product and your customer, like the trucks."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about a product and sales?",
+   "choices": [
+    "The clients will come if you have a good product",
+    "Sales matter most",
+    "The product doesn't matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What problem did the uncle's water have?",
+   "choices": [
+    "Distribution, because a big company had the trucks",
+    "The taste",
+    "The price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a more forgiving business?",
+   "choices": [
+    "One with a bigger margin",
+    "One with a smaller margin",
+    "One with no margin"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Put the product first. Know your margin and your path to the customer.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

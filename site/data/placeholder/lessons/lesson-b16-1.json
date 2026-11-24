@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-b16-1",
+ "title": "If it works here, it's gonna work here",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If something worked for you once, where else could it work?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "It's the same battle",
+   "lines": [
+    {
+     "text": "Jose said the chapter starts with the author's goal. Jose read it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I wanted to own as much programming as possible and to air that product on the networks we owned and controlled",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "It's the same battle, Jose said. He is still battling the networks that control access to the market. A student said they didn't see how that stunts his growth, because he has other channels. Jose said: the others have the cable, the infrastructure that goes to people's homes, so they can limit the content going in, and they charge fees.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose set homework: research why it is such a big deal for him to own one of those networks. It is a very strategic exercise.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "If it works here, it's gonna work here",
+   "lines": [
+    {
+     "text": "He decides he will build on what he knows works, Jose said. So he goes after content companies. He went from a twenty-four-hour news channel to a twenty-four-hour cartoon channel. What do you think of that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it's smart, nobody else was doing it. Another said: and a different age demographic. Jose said: that is strategy at its best.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When he did the news channel, everybody was against him. They said it's too expensive. He made it less expensive, with reruns, assuming people want news at all hours. Now he assumes little kids would want cartoons at all hours. So what a brilliant way to think: if it works here, it's gonna work here. He replicates that strategy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said they liked who he aligns with: a company that knew how to be successful on limited resources, and that mindset was something he valued. Jose said: he has an incredible ability to connect with people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of your wins could be repeated for a different audience?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one thing that worked for you.",
+   "Write three other audiences or markets where it could work.",
+   "Write what would be the same and what would change.",
+   "Write one company or person who works well on limited resources.",
+   "Write the first small test you will run."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about the author's cartoon channel idea?",
+   "choices": [
+    "If a strategy worked for news, apply it to another content area",
+    "It was a mistake",
+    "It was copied"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author is still battling?",
+   "choices": [
+    "The networks that control access to the market",
+    "His own staff",
+    "His customers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What homework did Jose set?",
+   "choices": [
+    "Research why owning one of those networks matters",
+    "Write a business plan",
+    "Watch the channel"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Repeat what works in a new area, with what you already know.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

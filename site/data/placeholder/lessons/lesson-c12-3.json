@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c12-3",
+ "title": "Habits that pay interest",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is the habit you are building paying you interest or costing you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Habits that pay interest",
+   "lines": [
+    {
+     "text": "Jose said you need good spending habits and good investment habits, just like exercising: if you work out hard and then eat junk, the investment was not good. Do your money habits pay you interest?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to break it down like the paperclip salesman: of your income, how much went on things you did not reinvest, how much on the business, how much invested? He said he heard of a rule of keeping most income invested, which is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two kinds of loans",
+   "lines": [
+    {
+     "text": "Jose said that spending beyond your means is seductive, and he separates loans for investing from loans for your lifestyle. A student said that a loan for a property needs maintenance, and a domino effect can follow if you are not disciplined.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that being smart and behaving smartly with money are two different things. You can be an average person whose money habits are so good that over time the behavior pays dividends.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Know your cues",
+   "lines": [
+    {
+     "text": "A student said: casinos give free drinks because people who drink tend to spend more. Put yourself in a situation where you only bring cash, or leave your credit card behind.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: it is not always linear. If you get in the habit of saving a good amount, then when things change you have a cushion instead of debt.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: set a goal for something you want, and pay with cash after you accomplish the steps, and use it as a motivator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What cue makes you spend more than you plan?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. This is not financial advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how your last month's income was split.",
+   "Write which part paid you back.",
+   "Write the loans you have that are for lifestyle.",
+   "Write a cue that makes you spend and how to avoid it.",
+   "Write the cushion you want."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask about money habits?",
+   "choices": [
+    "Do they pay you interest",
+    "Are they fast",
+    "Are they secret"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say casinos know?",
+   "choices": [
+    "People who drink tend to spend more",
+    "People never spend",
+    "Drinks cost nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a savings habit gives?",
+   "choices": [
+    "A cushion instead of debt",
+    "A new job",
+    "A bigger loan"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make habits that pay interest. Know your spending cues. Keep a cushion.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

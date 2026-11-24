@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c9-4",
+ "title": "Memory management",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Could the worst thing that happened to you become your strength?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "From negative to empowering",
+   "lines": [
+    {
+     "text": "Jose asked: could every negative thing that has happened to you empower you? A student said: you can learn from it, and the example of someone who sees a harmful home life and decides not to repeat it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that some people come from very negative backgrounds and it empowers them: they break the generational cycle. He said the habit did not start with the physical act, it started with the mental act, so how do we catch it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you also have to take yourself out of negative environments, and control your path. You do take with you some of the ingrained upbringing, and you are a work in progress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Memory management",
+   "lines": [
+    {
+     "text": "Jose said that you have to manage your memories: am I remembering this in a way that is productive to me today? He said the productive way to keep a painful memory is to understand why the person acted as they did. Otherwise the memory becomes an anchor and a trigger.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I have worked for bad managers. I look at what they did wrong and run a mental scenario of how I would have handled it, so I learn from other people's mistakes and from how those mistakes affected me.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What memory could you keep in a more useful way?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a hard thing that happened to you.",
+   "Write what it taught you.",
+   "Write the memory you want to keep in a more useful way.",
+   "Write what you learned from a bad manager or example.",
+   "Write who you could talk to if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you have to manage?",
+   "choices": [
+    "Your memories",
+    "Your calendar only",
+    "Your emails"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you also have to do with negative environments?",
+   "choices": [
+    "Take yourself out of them",
+    "Stay in them",
+    "Ignore them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What can an unmanaged memory become, according to Jose?",
+   "choices": [
+    "An anchor and a trigger",
+    "A prize",
+    "A map"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Learn from the negative. Manage your memories. Take yourself out of harmful places.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

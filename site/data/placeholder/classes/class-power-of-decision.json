@@ -1,0 +1,278 @@
+{
+  "schema": 1,
+  "id": "class-power-of-decision",
+  "slug": "power-of-decision",
+  "title": "Power of Decision",
+  "outcome": "A tester class that follows Module 1, Decide: use a simple rule and a log to make decisions on purpose. Written by us, for Jose to read.",
+  "kind": "foundations",
+  "order": 1,
+  "status": "draft",
+  "teacher": "Jose",
+  "source_note": "Jose's own teaching and our examples. No book text. Lesson titles are working titles from file names in Jose's planning folder.",
+  "cover_image": "img/shot9.jpg",
+  "cover_image_ai": true,
+  "lessons": [
+    {
+      "id": "class-power-of-decision-l0",
+      "order": 0,
+      "title": "Preview: small daily decisions",
+      "summary": "A preview lesson built from nine impasto paintings. No video in this copy.",
+      "kind": "video",
+      "format": "lesson",
+      "media": null,
+      "poster": "img/shot1.jpg",
+      "duration_s": 58,
+      "captions": "burned_in",
+      "transcript": null,
+      "counts": false,
+      "script_note": "Placeholder: where the script lives. Not shown to learners.",
+      "quiz": {
+        "pass_mark": 1,
+        "questions": [
+          {
+            "id": "q1",
+            "text": "Placeholder question?",
+            "choices": [
+              "Choice A",
+              "Choice B",
+              "Choice C"
+            ],
+            "answer": 1,
+            "why": "Placeholder: one sentence on why."
+          }
+        ]
+      },
+      "handout": null,
+      "ai": {
+        "narration": false,
+        "images": [
+          "ml-0001",
+          "ml-0002",
+          "ml-0003",
+          "ml-0004",
+          "ml-0005",
+          "ml-0006",
+          "ml-0007",
+          "ml-0008",
+          "ml-0009"
+        ]
+      },
+      "reviewed": {
+        "accuracy_by": null,
+        "accuracy_on": null,
+        "rights_by": null,
+        "rights_on": null
+      }
+    },
+    {
+      "id": "class-power-of-decision-l1",
+      "order": 1,
+      "title": "Lesson 1: Not deciding is deciding (working title)",
+      "summary": "Placeholder: one or two sentences.",
+      "kind": "video",
+      "format": "lesson",
+      "media": null,
+      "poster": "img/shot1.jpg",
+      "duration_s": null,
+      "captions": null,
+      "transcript": null,
+      "counts": true,
+      "script_note": "Placeholder: where the script lives. Not shown to learners.",
+      "quiz": {
+        "pass_mark": 1,
+        "questions": [
+          {
+            "id": "q1",
+            "text": "Placeholder question?",
+            "choices": [
+              "Choice A",
+              "Choice B",
+              "Choice C"
+            ],
+            "answer": 1,
+            "why": "Placeholder: one sentence on why."
+          }
+        ]
+      },
+      "handout": null,
+      "ai": {
+        "narration": false,
+        "images": []
+      },
+      "reviewed": {
+        "accuracy_by": null,
+        "accuracy_on": null,
+        "rights_by": null,
+        "rights_on": null
+      }
+    },
+    {
+      "id": "class-power-of-decision-l2",
+      "order": 2,
+      "title": "Lesson 2: Decisions are a skill (working title)",
+      "summary": "Placeholder: one or two sentences.",
+      "kind": "video",
+      "format": "lesson",
+      "media": null,
+      "poster": "img/shot1.jpg",
+      "duration_s": null,
+      "captions": null,
+      "transcript": null,
+      "counts": true,
+      "script_note": "Placeholder: where the script lives. Not shown to learners.",
+      "quiz": {
+        "pass_mark": 1,
+        "questions": [
+          {
+            "id": "q1",
+            "text": "Placeholder question?",
+            "choices": [
+              "Choice A",
+              "Choice B",
+              "Choice C"
+            ],
+            "answer": 1,
+            "why": "Placeholder: one sentence on why."
+          }
+        ]
+      },
+      "handout": null,
+      "ai": {
+        "narration": false,
+        "images": []
+      },
+      "reviewed": {
+        "accuracy_by": null,
+        "accuracy_on": null,
+        "rights_by": null,
+        "rights_on": null
+      }
+    },
+    {
+      "id": "class-power-of-decision-l3",
+      "order": 3,
+      "title": "Lesson 3: Your seven decisions (working title)",
+      "summary": "Placeholder: one or two sentences.",
+      "kind": "video",
+      "format": "lesson",
+      "media": null,
+      "poster": "img/shot1.jpg",
+      "duration_s": null,
+      "captions": null,
+      "transcript": null,
+      "counts": true,
+      "script_note": "Placeholder: where the script lives. Not shown to learners.",
+      "quiz": {
+        "pass_mark": 1,
+        "questions": [
+          {
+            "id": "q1",
+            "text": "Placeholder question?",
+            "choices": [
+              "Choice A",
+              "Choice B",
+              "Choice C"
+            ],
+            "answer": 1,
+            "why": "Placeholder: one sentence on why."
+          }
+        ]
+      },
+      "handout": null,
+      "ai": {
+        "narration": false,
+        "images": []
+      },
+      "reviewed": {
+        "accuracy_by": null,
+        "accuracy_on": null,
+        "rights_by": null,
+        "rights_on": null
+      }
+    },
+    {
+      "id": "class-power-of-decision-l4",
+      "order": 4,
+      "title": "Lesson 4: Decision, result, confidence (working title)",
+      "summary": "Placeholder: one or two sentences.",
+      "kind": "video",
+      "format": "lesson",
+      "media": null,
+      "poster": "img/shot1.jpg",
+      "duration_s": null,
+      "captions": null,
+      "transcript": null,
+      "counts": true,
+      "script_note": "Placeholder: where the script lives. Not shown to learners.",
+      "quiz": {
+        "pass_mark": 1,
+        "questions": [
+          {
+            "id": "q1",
+            "text": "Placeholder question?",
+            "choices": [
+              "Choice A",
+              "Choice B",
+              "Choice C"
+            ],
+            "answer": 1,
+            "why": "Placeholder: one sentence on why."
+          }
+        ]
+      },
+      "handout": null,
+      "ai": {
+        "narration": false,
+        "images": []
+      },
+      "reviewed": {
+        "accuracy_by": null,
+        "accuracy_on": null,
+        "rights_by": null,
+        "rights_on": null
+      }
+    },
+    {
+      "id": "class-power-of-decision-l5",
+      "order": 6,
+      "title": "Checkpoint: my decision rule (working title)",
+      "summary": "Placeholder: one or two sentences.",
+      "kind": "video",
+      "format": "reflection",
+      "media": null,
+      "poster": "img/shot1.jpg",
+      "duration_s": null,
+      "captions": null,
+      "transcript": null,
+      "counts": true,
+      "script_note": "Placeholder: where the script lives. Not shown to learners.",
+      "quiz": {
+        "pass_mark": 1,
+        "questions": [
+          {
+            "id": "q1",
+            "text": "Placeholder question?",
+            "choices": [
+              "Choice A",
+              "Choice B",
+              "Choice C"
+            ],
+            "answer": 1,
+            "why": "Placeholder: one sentence on why."
+          }
+        ]
+      },
+      "handout": null,
+      "ai": {
+        "narration": false,
+        "images": []
+      },
+      "reviewed": {
+        "accuracy_by": null,
+        "accuracy_on": null,
+        "rights_by": null,
+        "rights_on": null
+      }
+    }
+  ]
+}

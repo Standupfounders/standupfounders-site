@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a20-4",
+ "title": "Friendly and accountable",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Can you be a friend and still hold someone to account?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Camaraderie",
+   "lines": [
+    {
+     "text": "Jose read another point: camaraderie is dangerous. It makes it hard for people to challenge each other's work, and there is a tendency not to want to throw colleagues under the bus. What do you think?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I have been guilty of getting too friendly in the workplace, and then it is hard to hold people accountable once you let that boundary be crossed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: how do you be the friendly, approachable person, so people take risks, and at the same time not tolerate mediocrity?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Boundaries and requirements",
+   "lines": [
+    {
+     "text": "A student said: first, setting clear expectations. Second, not letting things slide, with accountability immediately. Once you have drawn that line, you can be friendlier. If you lead with happy-go-lucky, in my experience you get taken advantage of.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: I have requirements, not expectations. The only thing I can control is my involvement in a situation. If the requirements aren't met, I subtract myself or I subtract what isn't being met. If we have known each other long enough, we should be able to respect that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: you are talking about a specific personality that is extremely hard to find, one in a million. In a work environment it is a lot to ask for. How do you counter that with people you don't know?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student answered: more business at first, friendly, but task-oriented. Give deadlines in a project system, and when something is past due, they hold themselves accountable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Where is the line you draw, and do your people know it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a time friendship made accountability hard.",
+   "Write the expectations you would set on day one.",
+   "Write the requirements you hold, as distinct from expectations.",
+   "Write how you would show someone that something is overdue.",
+   "Write the line you will draw first."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about leading with happy-go-lucky?",
+   "choices": [
+    "It leads to being taken advantage of",
+    "It always works",
+    "It is the best"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did one student prefer to hold instead of expectations?",
+   "choices": [
+    "Requirements",
+    "Wishes",
+    "Plans"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to do with deadlines?",
+   "choices": [
+    "Put them in a project system so people hold themselves accountable",
+    "Keep them secret",
+    "Change them often"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Draw the line early. Be friendly after that. Use systems so people hold themselves accountable.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

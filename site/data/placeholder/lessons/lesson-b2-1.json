@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": "lesson-b2-1",
+ "title": "Who are we in moments of crisis?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Think of a time everything went wrong at once. Did you find out who you really were?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What do we learn in this chapter?",
+   "lines": [
+    {
+     "text": "Jose asked the class: what do we learn about him in this chapter? A student said: he loves to sail, and he makes it work with very little.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells the chapter, the author took a boat much bigger than anything he had sailed, on a long trip with an older crew. There was almost a disaster.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So big risk taker, Jose said. He takes a massive risk, all those bad things happen, and then he has a small victory. He tastes it and says: oh my god, I can do this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You couldn't tell how strong a crew was",
+   "lines": [
+    {
+     "text": "Jose read a line from the author about what he learned.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I realized that when the conditions were good you couldn't tell how strong a crew was. It's only when the tough gets going that you know who you you have on your side",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "So metaphorically, Jose said, business and sailing were the same thing for him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The skipper, he said, is like the quarterback. He calls the shots quickly, looks ahead and makes strategic decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then he asked the class: when in our life have we been in a crisis? How did we act?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it goes against their personality, but in crisis mode they do surprisingly well. When things are going well, that is when they freak out for no reason.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "We have to learn how we act in crisis",
+   "lines": [
+    {
+     "text": "That is the main thing, Jose said. We have to learn how we act in crisis. It could be a physical crisis. It could be a financial crisis. As entrepreneurs we are taking massive financial risks, so you have to know what type of personality you are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the author likes the thrill. Jose agreed. He thrives from adapting. He thrives from the crisis and the risk taking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Can we go overboard with risk taking, he asked? One hundred percent. I can tell you stories of people who lost millions because they pushed the envelope so much that they came outside of reality. The line between what is real and what is not is very thin.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added that people like this have extreme lows too. The pendulum swings equally on both sides.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Who are we in a moment of crisis?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a time you were in a crisis. What did you do in the first hour?",
+   "Write whether you do better when things go well or when they go badly.",
+   "Write what type of crisis you handle best: physical, financial, emotional.",
+   "Write one risk you are taking now. Could you go overboard with it?",
+   "Write who you would want next to you in a crisis, and why."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the author learn about a crew when the conditions are good?",
+   "choices": [
+    "That it is strong",
+    "You can't tell how strong it is",
+    "That it is lazy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Jose say we have to learn?",
+   "choices": [
+    "How we act in crisis",
+    "How to avoid all risk",
+    "How to sail"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about going overboard with risk?",
+   "choices": [
+    "It cannot happen",
+    "One hundred percent, we can go overboard",
+    "Only large companies do"
+   ],
+   "answer": 1
+  }
+ ],
+ "recap": "You only find out who you and your crew are when the going gets tough.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a42-1",
+ "title": "Who is really working?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you had to find out who is really doing the work, how would you do it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who is working?",
+   "lines": [
+    {
+     "text": "Jose said that in this chapter the person feels people are hiding in what they do, that there is a lot of inefficiency, and that there is no real pragmatism or direction in how features get developed. He compares the number of reports in his other companies with the new one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked: if you had two thousand engineers and the owner says you don't need that many, fire them and go down to a hundred and fifty, what are the dangers? How would you do it? How do you sift through two thousand positions and find out who is doing good work and who isn't?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is a very challenging component, but it has to be done. I like the idea of not firing everybody, and looking at the individual level but also at the team level, and keeping some groups.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "KPIs and paper shufflers",
+   "lines": [
+    {
+     "text": "Another student said: the first thing I would do is establish KPIs for those individuals. If you hit the metrics, does that help the company? If you don't, does it hurt? You could whittle two thousand to a thousand right off the bat, because there is overlap: three people doing the job of one and a half or two.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: when you go through people's job descriptions they should be very aware of their KPIs and hitting them, and you do audits of what they do day to day, hour to hour. Otherwise people will hide. I call them paper shufflers. They talk in abstractions, not in numbers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are you doing from eight to nine, nine to ten, ten to eleven? I would sit with them and do an audit of their time, he said. You find out very quickly who is hiding.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Screening and credit takers",
+   "lines": [
+    {
+     "text": "A student said: for a pool that large, you can set up an initial screening with five to seven questions, so you aren't starting from scratch in your meetings.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: another thing I see a lot is experts at getting other people to do their jobs, taking credit from somebody else. They structure themselves so they are held accountable for something they don't do. A manual of operations in a very granular way, going into specific tasks, makes me comfortable. Job descriptions that don't go into specifics are a problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the numbers don't lie. If I start hearing excuses, that is a reason to look back at the numbers. Don't take anyone's word for it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "How would you audit your own week?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write each person on your team and their KPIs.",
+   "Write what each does hour by hour.",
+   "Write the abstractions you hear and the numbers you would ask for.",
+   "Write the screening questions you would ask everyone.",
+   "Write what your manual of operations says about one role."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call people who talk in abstractions, not numbers?",
+   "choices": [
+    "Paper shufflers",
+    "Leaders",
+    "Founders"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to establish first?",
+   "choices": [
+    "KPIs for the individuals",
+    "A new logo",
+    "More meetings"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a granular manual of operations does?",
+   "choices": [
+    "Makes him comfortable",
+    "Slows people down",
+    "Hides problems"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know who is really working. Use KPIs, time audits and a granular manual of operations.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

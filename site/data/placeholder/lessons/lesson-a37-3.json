@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-a37-3",
+ "title": "Data without opinion",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Would you trust a platform that shows only data?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A community app that works",
+   "lines": [
+    {
+     "text": "A student shared an example of a community-based platform that works: a driving app where users report police, a breakdown or fog. After enough data gets in, it starts to recognize it as really there. If the police is not there anymore, it asks you: is it still there? You click no.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: I think the reason it works is that there doesn't seem to be any ulterior motivation by people for their own gain, or a political or personal platform they are trying to stand by. It is not just one person's view.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "No room for interpretation",
+   "lines": [
+    {
+     "text": "Jose said: that is fascinating. You are saying that you should have a communication channel that only presents data. There is no room for opinions. Maybe you could also get people to vote, just using the data, to indicate whether somebody is doing a good job or a bad job.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I don't hate that. An opinion-free platform. Jose said: the minute you throw in opinions, that is where it gets political and you get an interpretation. A platform that doesn't have room for interpretation, that is completely data-driven, is a very interesting concept.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The greater good, whole not part",
+   "lines": [
+    {
+     "text": "Jose said that he likes to think the well-being of anybody is equally valuable, whatever the culture or the country. You cannot compare the well-being of one group of people with another. Whatever you do has to be equally valuable to everybody: the whole, not the part.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I think a lot of the causes of wars is when we get into these people against these people, he said. That is not acting for the greater good, it is acting on specific criteria segregated by religion and race.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would a data-only version of your own communication look like?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a place in your work where data alone could replace opinion.",
+   "Write who would vote on it.",
+   "Write what would be lost without opinion.",
+   "Write whether the well-being of everyone you serve is equal in your decisions.",
+   "Write one decision where you chose the part over the whole."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the student say makes the driving app work?",
+   "choices": [
+    "Users report data, with no personal or political platform",
+    "It is expensive",
+    "It is secret"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens when you add opinions?",
+   "choices": [
+    "It gets political and interpretation comes in",
+    "It gets clearer",
+    "It gets shorter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say anything you do has to be?",
+   "choices": [
+    "Equally valuable to everybody: the whole, not the part",
+    "Valuable to your team",
+    "Valuable to you"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Consider a data-only channel. Decide for the whole, not the part.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

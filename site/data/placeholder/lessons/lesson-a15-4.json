@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a15-4",
+ "title": "From intention to process",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the sentence you repeat until it becomes real?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "From intention to reality",
+   "lines": [
+    {
+     "text": "Jose said that in this chapter we are learning how the person's intention becomes reality. He declares the focus, clarifies it to the people around him, removes obstacles, and does not want to hear them. He repeats the same thing: the power of repetition.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student recalled the line he started the meetings with: why can't this car drive itself? Jose said that is driving the statement from the conscious to the subconscious of everyone around him. It is almost a mantra, and then he sees the process on the way to the outcome.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you are so aware of the problems, what have you done to overcome them? Problems exist for everyone. The world was not designed to be fair. What are you doing to overcome them? That is what reiteration helps with.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Manifesting unhappiness",
+   "lines": [
+    {
+     "text": "One question I love to ask, he said, is a bit obnoxious: tell me about times you've manifested unhappiness. People stop dead in their tracks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I used to, a lot. I realized that negative things would happen and what I was doing. I consciously made the change. It was about realizing I was even doing it, then catching it: that's not me, I choose that not to be me.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why not twenty?",
+   "lines": [
+    {
+     "text": "Jose asked: our goal is five million, why can't it be twenty, or thirty, or forty? What stops us? A student answered: our own personal limitations, that's the only thing. Perception is reality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What we want to understand in this chapter, Jose said, is the structure of how he grabs intention and makes it reality. He makes a statement, and then immediately goes into process-oriented thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you have a weakness in process-oriented thinking, he said, you will be the person who says: I don't have time, I'm so busy. That is the biggest step beyond visualization and manifestation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your statement, and what is the first step of the process?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your intention as a statement.",
+   "Write the sentence you will repeat to your team.",
+   "Write the steps of the process behind it.",
+   "Write a time you manifested unhappiness, and how you caught it.",
+   "Write why your goal isn't ten times bigger."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the person does with a statement of focus?",
+   "choices": [
+    "Repeats it, like a mantra",
+    "Hides it",
+    "Changes it daily"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is the only thing stopping a bigger goal?",
+   "choices": [
+    "Our own personal limitations",
+    "The market",
+    "The law"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a weakness in process-oriented thinking sounds like?",
+   "choices": [
+    "I don't have time",
+    "I have a plan",
+    "I'm done"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Repeat the intention. Build the process. Catch the thoughts that limit you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

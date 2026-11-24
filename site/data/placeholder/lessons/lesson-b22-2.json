@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-b22-2",
+ "title": "What's the evidence that they care?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the evidence that the people around you care about you, not just the company?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What's the evidence that they care?",
+   "lines": [
+    {
+     "text": "Write these questions down, Jose said. What is the evidence that the people on my board care for me and for the company? Those are two separate things. How do I identify somebody who puts their selfish interests before the company? Somebody who is not collaborative and only listens to themselves?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a friend in a relationship. I asked: how much does she ask how you feel? He was stunned by the question. He said: Jose, never. It was a scary revelation: I'm giving, giving, giving and I don't get anything in return.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In a corporate setting too, he said: do people care about your opinions? Do they genuinely listen? You can argue and struggle for decisions. But in the end our choices are about creating value for the company, because we have a responsibility for the company and everybody in it. It's not about just us.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Study a little bit of psychology",
+   "lines": [
+    {
+     "text": "A student asked: what are some signs that someone cares about power and status in the company? Jose said: one of the things everybody should do, no matter what you do, is study a little bit of psychology. Study psychological profiles. Very intelligent people can hide a profile. They can act like they care.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But generally you will get hints, he said, in their family life, the way they treat their children and their partner, what they did in philanthropy. Do they genuinely care about other people? Is the person thankful for life? If you meet a person who isn't grateful, who has resentment built up, you have to be careful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the evidence that they care for you, he asked, not just that they say, I care for you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Time is more valuable than money",
+   "lines": [
+    {
+     "text": "A student said they would give one to three percent of the revenue of their projects to a kitchen that feeds people, and give their time as well. Jose said: you are going to attract people who see the value in what you do. I'd rather give you the business than somebody who only cares about profit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You can learn business, you can advance, he said, but meanwhile be a giver. It also gives you perspective in life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said they like to give time, to be involved in the process, rather than just giving money. Jose said: time is more valuable than money. It is a sign that you are committed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you give, besides money?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write someone you work with or live with.",
+   "Write the evidence that they care about you, not just words.",
+   "Write the evidence that they care about the company or project.",
+   "Write one thing you will give: time, a percent of revenue, skills.",
+   "Write the sign of gratitude you look for in a partner."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say everybody should study a little of?",
+   "choices": [
+    "Psychology",
+    "Law",
+    "Medicine"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is more valuable than money?",
+   "choices": [
+    "Time",
+    "Land",
+    "Fame"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to look for as evidence of care?",
+   "choices": [
+    "What they do, not just what they say",
+    "What they own",
+    "What they earn"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look for evidence of care, study people, and give your time.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "id": "lesson-b9-j",
+ "title": "You got to fight",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "This is a story, not a lesson. Read it and think about something you would not let go of.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I'm gonna tell a little anecdote",
+   "lines": [
+    {
+     "text": "Jose said he did not ask permission, but he would tell a little anecdote. When we started the company, we realized something unfortunate was going on. His ex-partners were trying to steal, and they stole, a very big client base of jobs that belonged to the company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There were two ways to go about it, he said. The company was counting an enormous amount of money. I won't get into the details.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I told my partner, as a friend and a mentor: you have to fight. You cannot sit with your arms crossed and say, oh, I got screwed. It's a principles thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You don't give up",
+   "lines": [
+    {
+     "text": "So we sued them, he said, and so far we have won the lawsuit. Eventually there is a very big check coming.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But you don't give up, he said. That is what we are learning from the author right now.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you fight for on principle?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write something that was taken from you or your business.",
+   "Write why you did or did not fight for it.",
+   "Write what principle is at stake."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose tell his partner to do?",
+   "choices": [
+    "Fight",
+    "Sit with arms crossed",
+    "Settle quietly"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say it was?",
+   "choices": [
+    "A principles thing",
+    "A money thing",
+    "A quick thing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about giving up?",
+   "choices": [
+    "You don't give up",
+    "Sometimes you should",
+    "Never fight"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Fight on principle. You don't give up.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

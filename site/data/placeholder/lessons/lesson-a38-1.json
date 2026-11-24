@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a38-1",
+ "title": "Build a balanced board",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who sits around the table when your company's biggest decisions are made?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why a board",
+   "lines": [
+    {
+     "text": "Jose said that, as entrepreneurs and in a company, the formation of a board of directors is necessary, because it is very scary for investors not to have a board set up. You want a balanced board. A typical board is five to seven members, always an uneven number, so that when you vote you don't get gridlocked between two groups.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: a board member has to make unbiased decisions, but also has to be good politically.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A balanced board",
+   "lines": [
+    {
+     "text": "Jose said: people have to see that you are surrounded by people who have experience in the industry. You want a managing director responsible for overseeing the whole business, executive directors who manage finance, sales and operations, and maybe a non-executive director.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The non-executive director might be someone who has been successful in the industry and gives strategic advice, he said. You generally also want a person who audits the financials and gives an opinion on financial reporting and internal processes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student who served on an industry group's board said: the important thing I took away is the diversity of opinions, thoughts, backgrounds and experience. What you don't want is a rubber-stamp board, people who accept a seat but aren't willing to challenge the chief executive or make the tough calls. The strength of the board determines the strength of the company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Start with advisors",
+   "lines": [
+    {
+     "text": "Whenever I see a young entrepreneur starting a business, Jose said, the first thing they need is a board of advisors, who help them look at the right fundamentals. Board of advisors can be seen as mentors. Not having one is a bad sign.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Typically venture capital firms create the boards for the entrepreneur, he said, and it gets into the bylaws and the shareholders. The bylaws can be a hundred pages long or much shorter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who are your first three advisors, and what would each challenge in you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people who advise you now.",
+   "Write what each would challenge.",
+   "Write the board you would build: managing director, executives, one outsider, one who audits.",
+   "Write the odd number you would choose.",
+   "Write the first advisor you will ask."
+  ]
+ },
+ "check": [
+  {
+   "q": "Why did Jose say a board has an uneven number of members?",
+   "choices": [
+    "To avoid a gridlocked vote",
+    "To save money",
+    "Because it is the law everywhere"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you don't want?",
+   "choices": [
+    "A rubber-stamp board",
+    "A big board",
+    "A young board"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a young entrepreneur needs first?",
+   "choices": [
+    "A board of advisors",
+    "A big office",
+    "A logo"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build a balanced board, or at least a board of advisors who will challenge you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

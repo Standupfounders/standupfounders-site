@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d4-3",
+ "title": "Many hats, one message at a time",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which hat are you wearing in this room?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Many hats",
+   "lines": [
+    {
+     "text": "A student said that Jose's brand is many-sided: involved in multiple ventures, from schools to design, and leaning on his past as a builder and teacher. Another said he is also a father and family man.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that you can have multiple brands and multiple messages, and that he tries to adapt and change hats depending on his audience. He said that he gave a talk to a group of children of very different ages and had to deliver the message in ten minutes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that one of the things we can do is study the different identities we can develop.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Scaling a message",
+   "lines": [
+    {
+     "text": "A student said: in design there are a handful of people everyone looks up to. I follow how they gained authority. Once you build authority, you can monetize your time much better.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: you take your personality, perspective and message, and you scale it. That is what this book is about.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which hat do you need to wear for your next audience?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the hats you wear.",
+   "Write the audience for each.",
+   "Write the one message for each.",
+   "Write who you follow to learn how they gained authority.",
+   "Write how you could scale one message."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you can have?",
+   "choices": [
+    "Multiple brands and messages",
+    "Only one brand",
+    "No brand"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he adapts to?",
+   "choices": [
+    "His audience",
+    "The weather",
+    "The calendar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the book is about?",
+   "choices": [
+    "How you scale your message",
+    "How you save money",
+    "How you hire"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Wear the right hat for the audience. Scale one message.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

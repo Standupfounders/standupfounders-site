@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a12-2",
+ "title": "Identify the anchor",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What pattern from childhood shows up when you are under pressure?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Anchors",
+   "lines": [
+    {
+     "text": "There is a saying I have said before on the calls, Jose said: show me a successful adult and I'll show you a successful child. We have anchors in our life, emotional, physical or verbal, events that define who we are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: do we ever escape the traumas we had from our childhood and the things that define us as adults? What strategies do we have?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Tame the chaos",
+   "lines": [
+    {
+     "text": "A student said: I wouldn't say there is a direct strategy. If you identify things from your childhood that you don't like, like chaos, and I've never known what stability is, then it's a foreign concept, and kind of a myth. Stability is not stability if anyone else can shake it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "If your idea of stability is a steady paycheck every two weeks, the student said, entrepreneurship might not be for you. You have to learn how to tame the chaos.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Identify it, stop it",
+   "lines": [
+    {
+     "text": "I have read good books on this, Jose said. Neurolinguistic programming is about recognizing negative anchors and positive anchors. The first thing is identification: that's not me, that's my father coming out on me, or that's a traumatic event.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a business man who snapped at him, yelling, and then stopped himself: I'm sorry, that was out of place. I went bankrupt over this issue, fighting with partners. It gave me an allergy. Moments like that come up from the subconscious, Jose said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We have to be aware of those negative anchors because they will get us, he said. Identify it, stop it, and say: that's not me, that's not my choice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is also a discipline to wake up every day inspired, he said: I'm grateful I'm alive, I'm working. Nobody wants to see the leader who is up and down in deep depressions or a bad mood. Everybody wants the leader who is inspired and looking for positive outcomes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the anchor you catch in yourself, and what do you say to stop it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one habit you picked up in childhood that shows up under stress.",
+   "Write what triggers it.",
+   "Write the sentence you will say to yourself: that's not me.",
+   "Write your idea of stability.",
+   "Write how you start the morning so you can lead."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call events that define who we are?",
+   "choices": [
+    "Anchors",
+    "Chains",
+    "Rules"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is the first thing, according to Jose, in dealing with a negative anchor?",
+   "choices": [
+    "Identification",
+    "Avoidance",
+    "Argument"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about stability?",
+   "choices": [
+    "It is not stability if anyone else can shake it",
+    "It never changes",
+    "It is a job"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Identify your anchors. Say: that's not me. Tame the chaos.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

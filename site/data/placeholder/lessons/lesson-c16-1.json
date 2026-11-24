@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "id": "lesson-c16-1",
+ "title": "Awareness before desire",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you notice if you stopped wanting for ten minutes?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Awareness before desire",
+   "lines": [
+    {
+     "text": "Jose said the last chapter says awareness comes before desire: when you assign a meaning to a cue, your brain constructs an emotional feeling, so a craving can only occur after you have noticed an opportunity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it was interesting: it is about the cues.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Happiness without desire",
+   "lines": [
+    {
+     "text": "Jose said that the book says happiness is the absence of desire. He said happiness is an abstraction that each of us defines differently, and gave the example of a friend whose daily walk is a state in which there is no desire to change.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the habits define the abstraction: the person is not chasing pleasure, is not seeking something, and is already there. He found it peaceful and reassuring at the end of the book, being in the moment without looking for the next thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your own definition",
+   "lines": [
+    {
+     "text": "Write what happiness is for you, and the daily habit that already gives it to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the cue that starts a craving for you.",
+   "Write what you notice just before it.",
+   "Write what happiness is for you.",
+   "Write the daily habit that already gives it.",
+   "Write how you would keep it without wanting more."
+  ]
+ },
+ "check": [
+  {
+   "q": "What does the book say comes before desire, as Jose read it?",
+   "choices": [
+    "Awareness",
+    "Money",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the book says happiness is?",
+   "choices": [
+    "The absence of desire",
+    "A prize",
+    "A purchase"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about happiness?",
+   "choices": [
+    "Each of us defines it differently",
+    "Everyone defines it the same",
+    "It cannot be defined"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice before you want. Define your own happiness.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

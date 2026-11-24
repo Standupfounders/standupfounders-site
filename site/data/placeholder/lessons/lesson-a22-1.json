@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a22-1",
+ "title": "After the goal",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do the day after you reach a big goal?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What happens after success",
+   "lines": [
+    {
+     "text": "Jose said the chapter summarizes what the person has accomplished: many successful launches, reusable boosters, more payload than any other company or country. If he had been the type of person who could pause and savor success, he would have noticed that he had brought the world into several new eras. Instead, he goes into a tailspin.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the sense of no longer having a direct purpose or a clear path forward. Highly successful people generally have a period of pause and freak-out, because your identity was so wrapped up in the last project.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: the establishment of new goals gives you more purpose. I've already reached these goals: what are my new ones?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A framework for the next goal",
+   "lines": [
+    {
+     "text": "Jose asked a student: what goal have you reached that you are very proud of and that defines who you are? The student said: starting the company, which took a lot of sacrifice and lifestyle changes. It is not a complete success story yet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the process you go through to set a new goal? The student said: I have a framework. You visualize the details of the goal, where you want to be and in what time horizon. Then you reverse-engineer it into a plan: what to do daily, monthly, yearly.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Because you have never gone down that path, the student said, the plan is typically 70 to 80 percent of what is actually required. Then you have to execute it. If you plan a hundred calls a day and do fifty, you will probably get fifty percent or less of your goal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "When you execute, you encounter adversity, and you just find a way over it: make a decision, analyze the situation, get over it, the student said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the next goal, and what is your plan for it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the goal you are proudest of.",
+   "Write who you were after you reached it.",
+   "Write your next goal and the time horizon.",
+   "Reverse-engineer it into daily, monthly and yearly steps.",
+   "Write the adversity you expect and what you will do."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say happens to successful people after a project ends?",
+   "choices": [
+    "A period of pause, because their identity was wrapped up in it",
+    "They relax",
+    "They retire"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say gives you more purpose after a goal is reached?",
+   "choices": [
+    "New goals",
+    "A holiday",
+    "A prize"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student say the plan is typically?",
+   "choices": [
+    "70 to 80 percent of what is actually required",
+    "100 percent",
+    "30 percent"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Set the next goal before the last one ends. Reverse-engineer it. Expect the plan to be incomplete.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

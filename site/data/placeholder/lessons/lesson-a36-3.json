@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a36-3",
+ "title": "Intentions and outcomes",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you decide for other people, how do you know it is for their good?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Good intentions",
+   "lines": [
+    {
+     "text": "Jose said: maybe an authority had good intentions and wanted to save society from a sickness. But do they have the right? If I have good intentions of giving you something that will protect you, and I say you must take it, do I have the right?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: intention is all good, but you can't measure it, so it doesn't really matter. If I weighed all the information and made the wrong decision, that responsibility would be on me, rather than on someone above making the decision for me. I'm not willing to put that responsibility in someone else's hands.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: so your theory is that someone should present you the negative and the positive and give you a choice. The student said: yes, all things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The greatest good",
+   "lines": [
+    {
+     "text": "Jose said that he got a minor in ethics in college. One theory is utilitarianism, which decides what is right and wrong by the outcome. Does it produce the greatest good for the greatest number of people? It is like consequentialism: what is the consequence of my decisions and actions?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that is the ethical framework governments tend to work from. It isn't about choice and giving you the choice. I'm in a position of authority, so I have a responsibility to choose the greater good for the greatest number. He gave examples of decisions made on that basis.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: those examples show that system going terribly wrong, because they were decisions made outside the people's choice. I can see where you're going, but my philosophy differs from the utilitarian leaders, and I would argue that my route would be a better one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A complex, eternal question",
+   "lines": [
+    {
+     "text": "Jose said: I did want to play devil's advocate, and I lean to number one, the neutral platform. But it is a very complex, eternal discussion of where the line is. It is very difficult to define, and it is a long job.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: one thing that pushes me toward the other option is what I've learned about your environment creating your reality. If you removed all the negative information, it would reflect in a more positive society. But then, who determines the ethics of what is positive and what is negative?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What decision are you making for others that you could give back to them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a decision you make for others.",
+   "Write whether you could give them the information and the choice.",
+   "Write what the greatest good would mean in your company.",
+   "Write who would measure whether your intention was good.",
+   "Write one choice you will hand back this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about intention?",
+   "choices": [
+    "You can't measure it",
+    "It is all that matters",
+    "It is irrelevant"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say utilitarianism asks?",
+   "choices": [
+    "Does it produce the greatest good for the greatest number?",
+    "Is it legal?",
+    "Is it cheap?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the question of where the line is?",
+   "choices": [
+    "It is complex and eternal and hard to define",
+    "It is simple",
+    "It is solved"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask whether you would give people the information and the choice. Remember that intention can't be measured.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

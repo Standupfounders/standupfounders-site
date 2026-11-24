@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c7-4",
+ "title": "When the team misses the goal",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do when the team misses by five percent?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The question",
+   "lines": [
+    {
+     "text": "A student asked: if you set a team goal and get ninety-five percent of the way there because one or two people fall short, how do you keep them from becoming the reason you lost? How do you keep that from turning into negative thoughts about them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that it is at the heart of creating a culture that thrives: how do we incentivize everybody to thrive, and when people do not make their goals, bring them back to the standard of the group?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Answers from the group",
+   "lines": [
+    {
+     "text": "A student answered: I would not punish the rest or single out the others. I would have a conversation with them: we want to keep the momentum, and there was maybe twenty percent more that could have been done. Can I plan on you for the next quarter? It is a moment for reflection.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another asked: are they still trying and good individuals, or are they not trying and not good for the team?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student who asked had an idea: individual goals alongside the team goal, so that people who hit theirs still get something.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Jose's answer",
+   "lines": [
+    {
+     "text": "Jose said that he would decentralize leadership: give roles to everyone, such as one person making sure another comes up, another that someone gets enough water. This gives them a support system. He used a group trek as the example. The biggest challenge is trust.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to ask: do they think the desired behavior is normal? Are they isolated from the group? Is it an isolated incident or a pattern? Do they recognize that it is not normal behavior for this group?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you say to the person who let the group down, and what role would you give them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a team goal you set.",
+   "Write what you would do if the team reached ninety-five percent.",
+   "Write the conversation you would have with the person who fell short.",
+   "Write a role that would bring them back into the group.",
+   "Write an individual goal that sits alongside the team goal."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say not to do to the rest of the team?",
+   "choices": [
+    "Punish them",
+    "Thank them",
+    "Ask them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he would do with leadership?",
+   "choices": [
+    "Decentralize it",
+    "Keep it all",
+    "Sell it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is the biggest challenge?",
+   "choices": [
+    "Trust",
+    "Budget",
+    "Time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Do not isolate people who fall short. Give roles. Build trust.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

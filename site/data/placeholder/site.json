@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "data_set": "placeholder",
+  "site_name": "Stand Up",
+  "tagline": "Placeholder tagline.",
+  "classes": [
+    "class-power-of-decision"
+  ],
+  "class_slots": 2,
+  "stories": [
+    "story-small-decisions",
+    "story-how-badly",
+    "story-get-up",
+    "story-principle",
+    "story-big-questions",
+    "story-student-journey",
+    "story-panama"
+  ],
+  "home": {
+    "featured_class": "class-power-of-decision",
+    "featured_story": "story-small-decisions"
+  },
+  "topics": [
+    "decisions",
+    "beliefs"
+  ],
+  "daily_call": {
+    "time_label": "Placeholder time, with time zone",
+    "link": null,
+    "digest": "Placeholder: a two-sentence digest of today's call."
+  },
+  "legal": {
+    "recorded_notice": "Placeholder: classes are recorded and may be used in Stand Up videos and promotion.",
+    "ai_narration_label": "Narration is an AI voice made from recordings of Jose, with his agreement.",
+    "ai_image_label": "AI image.",
+    "private_voice_note": ""
+  },
+  "courses": [
+    "course-book-1",
+    "course-book-2",
+    "course-book-3",
+    "course-book-4"
+  ],
+  "videos": [
+    {
+      "title": "How a lesson works",
+      "src": "media/standup-video1-how-a-lesson-works-16x9-narrated-v3.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Good morning. This is Stand Up. Here is how a lesson works. One idea. One sitting. About nine minutes. That's it. Then you write. Five minutes. It's saved only in this browser. Three questions. A study aid, not a test. Look again at the ones you missed. Done? Mark it done. Not ready? Skip it, come back. No hurry. Stand Up. Education, not advice."
+    },
+    {
+      "title": "Pick up where you left off",
+      "src": "media/standup-video2-pick-up-where-you-left-off-16x9-narrated-v4.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Close the tab. Life happens. Right? Come back, and the page remembers where you were. Saved in this browser. One click. Straight back to your lesson. Stand Up. Get up. Pick it up again."
+    },
+    {
+      "title": "Your own pace",
+      "src": "media/standup-video3-your-own-pace-16x9-narrated-v3.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Your start date. Your pace. Pick a day, or start today. Every date counts from there. Twelve weeks is a suggestion. Nothing locks. There are no deadlines. Ahead. On track. A bit behind. No deadlines. Your pace. Nothing locks. Stand Up."
+    },
+    {
+      "title": "Out of ten, I failed nine",
+      "src": "media/standup-video4-failed-nine-16x9-narrated-v2.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "In his own count, Jose has failed at nine of the ten things he's tried. In his twenties he started a digital advertising agency. He thought it would do very well. It didn't work out. But he never told himself he'd never use it again. Even when it fails, he said, it becomes part of your skill set. Years later, he ran a fishing tourism business. Digital advertising was how he got his clients to come. So here's the question. What did one of your failures give you that you still use?"
+    },
+    {
+      "title": "It’s just a feeling",
+      "src": "media/standup-video5-just-a-feeling-16x9-narrated-v2.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Jose once asked his class to stop and answer one question. How do you define love? When he was in high school, he visited his grandparents. One read the paper on one side of the room, the other on the other side. Day after day, for years. One day he asked them how they define love. They laughed. It's just a feeling, they said. They felt each other's presence. That was all. They weren't overly loving people, he said. They came from the Great Depression. So how much of that shapes us? How would you answer your grandparents' question?"
+    }
+  ]
+}

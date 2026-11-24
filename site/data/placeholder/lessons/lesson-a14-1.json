@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a14-1",
+ "title": "Who is accountable?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you search the same thing as a friend, do you both get the same answer?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who is accountable?",
+   "lines": [
+    {
+     "text": "Jose said that this goes with the ethical dangers the person in the book talks about, when artificial intelligence can be decoupled from human will. Who is going to be accountable? When an automated car crashes because of a default somewhere, who is responsible: the buyer, the maker, the engineers?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It's not just cars, he said. Think of medical devices. It gets into a whole array of ethical criteria and frameworks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Data bias",
+   "lines": [
+    {
+     "text": "One of the biggest things that is critical, Jose said, is data bias. AI systems are as good as their developers. A student said: it's the information they are based on. Jose asked: who gives them that information?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I'm positive that if all of us go to a search engine right now we're going to get different results, he said. He asked everyone to search the same topic and look at what appears first: that is an example of bias. Who selects the top stories?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the order should be by most recent. Jose said the algorithms change all the time. A student said there is one major update a quarter and smaller ones more often.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The eight hundred pound gorilla",
+   "lines": [
+    {
+     "text": "This is the eight hundred pound gorilla in the room that nobody is talking about, Jose said: the impact AI is going to have on the entire world. I want us to keep an open mind and ask: what are the fundamental changes, and what are the ethical issues?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So even in a conversation with somebody, he said, we can be aware, with a criteria. And as an entrepreneur: what is my responsible stance with AI in my business?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would your criteria be?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Search the same topic as a colleague and compare the first results.",
+   "Write who selected what you saw first.",
+   "Write who is accountable if your product's automation causes harm.",
+   "Write what data your tools are based on.",
+   "Write your responsible stance on AI in one sentence."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is critical about AI systems?",
+   "choices": [
+    "Data bias",
+    "Colour",
+    "Speed only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we would all get if we searched the same topic?",
+   "choices": [
+    "Different results",
+    "The same results",
+    "No results"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question did Jose ask entrepreneurs?",
+   "choices": [
+    "What is my responsible stance with AI in my business?",
+    "How much can I save?",
+    "Who is my rival?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask who is accountable. Check for bias. Build a responsible stance.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

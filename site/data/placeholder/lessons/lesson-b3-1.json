@@ -1,0 +1,179 @@
+{
+ "schema": 1,
+ "id": "lesson-b3-1",
+ "title": "The power of having faith in your ability to learn something new",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is there something you have told yourself you are not good at? Who told you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The power of having faith in your ability to learn something new",
+   "lines": [
+    {
+     "text": "An epiphany, Jose said, is a sudden revelation: the power of having faith in your ability to learn something new.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some people say: I'm an engineer, I'm a lawyer, I'm a doctor. They identify with a specific role, because society categorizes us. Then they say: I'm not really a business guy, I'm a doctor, so I'll rely on a money manager.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The older we get, he said, the more temptation we have to say: I'm not good at that, I'll just have somebody else do it. And you shut down when it comes to learning a new skill set.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells the book, the author's father asked him what he would do with a classics degree. Jose said he identifies with that. He studied literature, and his own father said he had wasted his tuition money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "All I had left, he said, was: do I have the ability to absorb another body of knowledge? For me the answer was yes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What's inspiring about his life",
+   "lines": [
+    {
+     "text": "A student read a line the author wrote about learning a business he did not know.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I talked to anyone that I thought had any knowledge on it",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "What is inspiring, Jose said: number one, he doesn't give up. Number two, he follows his passions. He is obsessed. Number three, he pushes against what everybody thinks is reality: we need a radio, let's go to shore, let's give up. And his thing is: no, we're going to learn, we're going to get a bigger boat, we can go through the storm.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He's not crazy, Jose said. He's not illogical. He's calculating: I may lose money for three years. Most people would say no, let's go to shore.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Here is a big lesson, he said, for everybody as an entrepreneur. It doesn't matter the storm around you. You have to stick to your convictions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I stuck to my guns",
+   "lines": [
+    {
+     "text": "Jose told his own story. He had a little business, nothing close to what the author is doing, and it lost money for three years. His wife was like: shut it down. He said: no, it's going to turn.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It was my first retail business, he said. In three years it turned around and it made money for ten years.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I never let that distract me from the fundamentals of the business, he said. You have cost. You have margins. You have profit. So the author is showing massive risk taking, but calculated risk taking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose recalled a student who used to say: I'm a graphic designer. He would answer: you're not just a graphic designer, you're a business person. And now, he said, you learned it, and you're doing it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What role have you been telling yourself you are?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the role you identify with: engineer, designer, owner, parent.",
+   "Write one thing you tell yourself you are not good at.",
+   "Write one new skill you could learn this year.",
+   "Write who has knowledge of it that you could ask.",
+   "Write the first step you will take this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say an epiphany is?",
+   "choices": [
+    "A sudden revelation, like having faith in your ability to learn something new",
+    "A long plan",
+    "A lucky guess"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which was one of the three things Jose found inspiring?",
+   "choices": [
+    "He doesn't give up",
+    "He avoids every storm",
+    "He lets others decide"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What happened to Jose's first retail business?",
+   "choices": [
+    "It lost money for three years, then turned and made money for ten years",
+    "It made money at once",
+    "He closed it in a year"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Have faith in your ability to learn something new. Stick to your convictions, and watch the fundamentals.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c9-1",
+ "title": "The two-minute rule",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the first two minutes of the habit you keep avoiding?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The entrance ramp",
+   "lines": [
+    {
+     "text": "Jose said he loved the book's metaphor that habits are like the entrance ramp to a highway: they lead you down a path, and before you know it you are speeding toward the next behavior. He said that is why it is so important to enjoy every single day of your life, because life is fleeting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the two-minute rule is like building momentum, anchors or rituals, getting into a flow toward a direction. Jose said: once you start doing the right thing, it is easier to continue.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that every day a handful of moments deliver an outsized impact, which the book calls decisive moments, tiny catalysts for the behavior.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The two-minute rule",
+   "lines": [
+    {
+     "text": "Jose said that to start a new habit, make sure it does not take much time. He took the gloves and wraps out and left them next to his heavy bag, and did not hit it. The secret is to stay below the point where it feels like work.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that someone who runs marathons probably puts out the shoes, shorts and shirt the night before as a ritual that triggers the next day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The thought habit",
+   "lines": [
+    {
+     "text": "Jose said he separated physical habits and thought habits. A student said: even the physical comes down to the thought; it is a mental discipline leading to a physical discipline.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that we give ourselves gigantic tasks, such as I need to make two or three million this year, and overwhelm ourselves, breaking the two-minute rule. He said there is a saying that the ancestor of every action is a thought.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the two-minute version of your thought habit, and the object you can set out tonight?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit you avoid.",
+   "Write its two-minute version.",
+   "Write the object you will set out tonight.",
+   "Write the thought habit that goes before it.",
+   "Write the huge task you will break into two-minute starts."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say habits are like?",
+   "choices": [
+    "The entrance ramp to a highway",
+    "A locked door",
+    "A river"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the secret of the two-minute rule is?",
+   "choices": [
+    "Stay below the point where it feels like work",
+    "Do it for an hour",
+    "Do it only on weekends"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about physical habits?",
+   "choices": [
+    "They come down to the thought",
+    "They have nothing to do with thought",
+    "They are random"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start with two minutes. Set the object out. Start with the thought.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

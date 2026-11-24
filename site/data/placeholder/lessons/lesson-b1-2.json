@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": "lesson-b1-2",
+ "title": "What is my balance?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last stop and ask yourself what balance you want, instead of just working?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Be conscious of the balance",
+   "lines": [
+    {
+     "text": "The message, Jose said, is to be conscious of the balance. Do you want a family? Do you want to be a husband? Do you want to be a good father?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If all you want to do is work, he said, then don't have kids and don't get married, because you are not really making a conscious choice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Being a good father starts from the moment the child is born.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose spoke of anchors. The anchors we drag, he said, we might not be conscious of at a certain moment in our life, but they will come back without a doubt.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The way you speak to your children",
+   "lines": [
+    {
+     "text": "He said he asks his own kids all the time: how can I be a better father?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The way you speak to your children, he said, is the way they speak to themselves when they are adults. It becomes their inner voice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is not what you say, it is how you feel when you say it. They get the feeling.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Sometimes he has caught himself and said: I apologize. I'm irritated. It's not coming from anything you did. It's my issues, my anxiety.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is my balance?",
+   "lines": [
+    {
+     "text": "If you keep thinking of long-term goals and you are not focused on the process and the day-to-day celebration, he said, you can get lost in those goals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You have a job to do to take that voice out of your head. Go back to gratefulness. Go back to breathing. I'm healthy, I'm alive, I'm smart, I can do this. Especially in times of excruciating stress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some of us as entrepreneurs are born with a little chip, he said. There is a lot of collateral damage. You thrive from risk. You thrive from the anxiety.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is my balance, he asked: emotionally, intellectually, and with the people around me? The people around you probably suffer more, so your relationships are very important to pay attention to.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is the magic of reading these kinds of books, he said. You see how other people make choices. Either I choose to be a good father or an absent father. Either a good husband or not.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your balance today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the areas of your life you want in balance: work, family, health, friends.",
+   "Write which one you are giving the least to right now.",
+   "Write who around you pays the price when you are all work.",
+   "Write one thing you will change this week.",
+   "Write three words you will tell yourself when the stress is high: for example, healthy, alive, can do this."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens to the way you speak to your children?",
+   "choices": [
+    "They forget it",
+    "It becomes their inner voice",
+    "It makes them quiet"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Jose say entrepreneurs often thrive on?",
+   "choices": [
+    "Rest",
+    "Risk and anxiety",
+    "Praise"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Jose say to do when a harsh voice is in your head?",
+   "choices": [
+    "Work harder",
+    "Go back to gratefulness and breathing",
+    "Ignore it"
+   ],
+   "answer": 1
+  }
+ ],
+ "recap": "Be conscious of your balance. Your relationships pay for your choices too.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

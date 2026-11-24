@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a3-3",
+ "title": "See what is in front of you",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is right in front of you that you have not looked at?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Inattentional blindness",
+   "lines": [
+    {
+     "text": "We have what he called inattentional blindness, Jose said. It is right in front of your eyes, but you are preoccupied with something else, so you don't focus on it, and you don't get a chance to be in the right place at the right time and meet the right person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that someone they met the day before talked about playing hockey: you put yourself in the position to receive the puck, because if you don't have the puck, you can't score the goal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Look at the fascination, Jose said, of the person in the book at the airport, looking at the luggage going round on the belt. We look at a belt and think: I'm just looking for my bag. He saw something totally different: somebody should solve that problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Seeing what others don't",
+   "lines": [
+    {
+     "text": "He gave another example: a famous founder who took a calligraphy class and saw something different from every other student. He saw the round edges, the perfection, and visualized how a computer should look. Design is everywhere around you, Jose said. Develop that awareness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added a line from the airport story: that there was too much automation, the system was too complex, and the same thing would later happen with his car company. They said some things still need the human component.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Hardware and software",
+   "lines": [
+    {
+     "text": "He liked hardware as well as software, Jose said. Back then, one famous computer maker built a closed computer: you could not go in and change the parts. Another company made software and didn't care if you put it in fifty thousand different computers. There was a closed system and an open system, and open-source developers believed everything should be shared.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Generally you have hardware people or software people, but you don't have both. He had both abilities, Jose said, like the left and the right brain. He decides on the internet, sustainable energy and space travel.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you notice if you looked at the everyday thing in front of you as a problem?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write something you pass every day without looking at it.",
+   "Write the problem hidden in it.",
+   "Write where you were so busy you missed a chance in front of you.",
+   "Write what would put you in a position to receive the puck.",
+   "Write one skill you have that most people in your field do not combine."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say inattentional blindness is?",
+   "choices": [
+    "It is right in front of your eyes but you are preoccupied with something else",
+    "Not being able to see",
+    "A kind of tiredness"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the person in the book see at the airport?",
+   "choices": [
+    "A problem to solve with the luggage belt",
+    "A good restaurant",
+    "A shortcut"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about people who have both hardware and software skills?",
+   "choices": [
+    "Generally you don't have both",
+    "Everybody has both",
+    "Nobody needs both"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look up from what you are busy with. See the problem in front of you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

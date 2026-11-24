@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a50-4",
+ "title": "Teachable, and what the class took away",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who could you learn from today, if you were open to it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Be teachable",
+   "lines": [
+    {
+     "text": "Jose said: I can learn from a fourteen or fifteen year old. It is not just being a mentor, it is also being a mentoree. Be teachable, because otherwise you will not attract people who can teach you. You have to have that aura of being open and ready to learn.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that he tells his children he is one percent of a mentor, because he wants them to be hunters of excellence, seeking people who can help with their beliefs, values and strategies. He creates an attitude of positive expectancy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said you can learn from absolutely anybody, and when you look at people as resources, people catch on right away. It could be a catalyst for change, if you have that readiness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What not to do",
+   "lines": [
+    {
+     "text": "Jose said that the first thing he learned not to do is impulsive decisions, and that he suffers from it too. A partner of his has a response: let me think about it, I will tell you tomorrow.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is a balance: if you get stuck listening to everyone else, that is a problem, and if you go with your convictions and do not listen to anyone, that is a problem again. At least having awareness of both sides helps you decide.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he wants convictions to come from an immense positive belief system, where the opinions of others do not affect you. It is okay to feel vulnerable. A student said: vulnerability in itself is a strength.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The class's takeaways",
+   "lines": [
+    {
+     "text": "A student said: the surge leads to collateral damage, but the damage from speed and action is not nearly as bad as the damage and problems from inaction. Another: it is only failure if you did not try.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another student: when you have had success for too long, you lose the desire to take risks. Another: set deadlines to create urgency, remove what is not necessary, and think unconventionally.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another: be good to people sometimes means pushing them to grow, not the candy-coated package that society presents.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is one thing you will do differently on Monday?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who you could learn from this week, including someone younger.",
+   "Write one impulsive decision you could sleep on.",
+   "Write where you are vulnerable and what you can do about it.",
+   "Write your biggest takeaway from the book as a class.",
+   "Write what you will do differently on Monday."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you must be to attract people who can teach you?",
+   "choices": [
+    "Teachable",
+    "Rich",
+    "Famous"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is worse than collateral damage from action?",
+   "choices": [
+    "Damage from inaction",
+    "Damage from speed",
+    "Damage from advice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What phrase did Jose give to slow an impulsive decision?",
+   "choices": [
+    "Let me think about it, I will tell you tomorrow",
+    "Yes right now",
+    "Not today"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Stay teachable. Sleep on impulsive calls. Act, because inaction costs more.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

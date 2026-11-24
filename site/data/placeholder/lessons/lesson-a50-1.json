@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a50-1",
+ "title": "Systems first",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you start something new, do you hire first or build the system first?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Systems first",
+   "lines": [
+    {
+     "text": "Jose said that people tell you: you are doing too many things at once, you should not diversify, stick to what you know. He called those rules crap. The instruction should be: if you start a new business, what system have you already created that you can replicate?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is a chicken and egg question: you want the system to be there before you flood it with people, but you often figure out the system by having people there. He said the best way is to understand it yourself in the trenches, figure out the system, then delegate it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that there are two styles, people first and systems first. For years he was people first, and over the years he has become systems first.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Draw the blueprint first",
+   "lines": [
+    {
+     "text": "Jose said that a system is agnostic to the business: the content is different but the form is pretty much the same. If you bring somebody in early without a defined system and strategy, you run into chaos, because they cannot see what you imagine.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: he draws the blueprint before bringing anybody in. Jose said: like building a house in your head, then asking who does the foundation, the doors, the windows, the roof.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that when he reads a business plan he looks for a granular system, and a general plan with big ideas and big budgets scares him, because no one has thought out every step and everything will hit us by surprise.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What system do you already have that a second business could use?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a system you already run well.",
+   "Write how it could be used for something new.",
+   "Write the blueprint of a new idea in five steps.",
+   "Write which people you need and for which step.",
+   "Write where a general plan needs more granular steps."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the instruction should be for starting a new business?",
+   "choices": [
+    "Replicate a system you already have",
+    "Hire first",
+    "Wait a year"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens if you bring somebody in early without a defined system?",
+   "choices": [
+    "Chaos",
+    "Success",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about a general business plan with only big ideas?",
+   "choices": [
+    "It scares him",
+    "He loves it",
+    "It is enough"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build the blueprint first. Reuse systems. Then bring in people.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

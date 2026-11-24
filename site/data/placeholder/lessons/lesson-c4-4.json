@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c4-4",
+ "title": "Clear the clutter for your team",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would change in your team if you cleared the clutter?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Affecting an organization's habits",
+   "lines": [
+    {
+     "text": "Jose said that in a company you are creating repetition, and that repetition needs presence first. You cannot have people's attention and concentration until you have presence, because of all the clutter and the cues around them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: one statement, one word injected into someone's consciousness that was absent before, could cause a chain reaction that changes their entire life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: some people may call you a control freak, but controlling the environment while I work is important to me, so I will be controlling about it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Roots, not just rules",
+   "lines": [
+    {
+     "text": "Jose said that when you assemble a team you take them through presence, a positive belief system and cues. Documentation is only ten percent. The other ninety percent is for them to understand the significance of what they are doing. You want the subconscious level rooted in the belief that they have the power to do something good.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As a leader, he said, you want to be aware of the obstacles.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Words and a plan",
+   "lines": [
+    {
+     "text": "Jose said that a speechwriter once told him that in life it is about the verb: start, begin, go, explore, discover, understand. He said to use words with the power to create the change when you speak to people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He suggested that a leader might take the sales team to a cabin, phones away, so that the team is present. A student said: making the plan comes before the execution. Jose said: if you are not writing it down, you will not get it done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is one verb you will use with your team this week?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the clutter your team lives with.",
+   "Write one thing you could remove.",
+   "Write what you want them to understand about why they do the work.",
+   "Write three verbs you will use.",
+   "Write the plan on paper."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you need before attention and concentration?",
+   "choices": [
+    "Presence",
+    "Money",
+    "A bigger office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How much did Jose say documentation is?",
+   "choices": [
+    "Ten percent",
+    "Ninety percent",
+    "All of it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about a plan?",
+   "choices": [
+    "If you do not write it down, you will not get it done",
+    "Keep it in your head",
+    "Make it later"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Create presence first. Give the why. Use verbs. Write the plan.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

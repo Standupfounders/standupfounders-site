@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c5-4",
+ "title": "The greatest day of your life",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why is today the greatest day of your life?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The exercise",
+   "lines": [
+    {
+     "text": "Jose asked a student: why is this the greatest day of your life? The student answered: for the opportunity to continually improve and work at something I am passionate about. Another said: it is the discipline of living in the moment, not getting stuck in anticipation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the book talks a lot about dopamine hits. Jose said: super normal stimuli, heightened versions of reality. If you are constantly in a heightened version of reality, people see you at a higher energy, driven by that stimulus.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "After the habit I need",
+   "lines": [
+    {
+     "text": "Jose said that the book ends with: after the habit I need, I will think and act as the person I want to be; after the habit I need, I will do the habit that I want.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: would a successful writer be screwing off during the day and not sit down for two hours? You have to chip away.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: say I am a person who exercises regularly. When you feel tired in the morning, say it, and it starts to permeate your decisions and reinforce itself when you start getting results.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Actions show what you want",
+   "lines": [
+    {
+     "text": "A student said: your actions will display how much you actually want something. If your behavior does not show it, then what do you actually want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that as a leader, if people are pumped when you are around and flat after you leave the room, you are not being a good leader. You are a good leader when it is transformative and they stay pumped up after you leave. He added that it is key to pick the right people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would make today the greatest day of your life, and will your actions show it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write why today could be the greatest day of your life.",
+   "Write the character you play today.",
+   "Write your sentence: I am a person who...",
+   "Write what your actions would show you want.",
+   "Write what stays after you leave the room."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask the group to say about today?",
+   "choices": [
+    "Why it is the greatest day of your life",
+    "Why it is boring",
+    "Why it is cold"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say your actions display?",
+   "choices": [
+    "How much you actually want something",
+    "Your mood",
+    "Your age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a good leader leaves behind?",
+   "choices": [
+    "People who stay pumped up",
+    "A to-do list",
+    "Silence"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make today your greatest day. Say who you are. Let actions show it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

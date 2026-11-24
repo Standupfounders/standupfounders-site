@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a2-4",
+ "title": "When people don't see what you see",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do when you see something and nobody else does?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You wake up with an idea",
+   "lines": [
+    {
+     "text": "You wake up in the middle of the night, Jose said: oh my God, I've got this idea, this is amazing. You put it through your test. The next day you give the idea to a partner or a boss and they say: what are you talking about, I don't see it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You are talking two different languages, he said, and you get frustrated. That is a sign of an entrepreneur: someone who sees it, who is running a hundred miles an hour, and who is going to find barriers. Who is going to believe someone is going to build a ship to colonize another planet?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What do you do about it?",
+   "lines": [
+    {
+     "text": "A student said it is part of the game: people haven't been receptive, and in the beginning it is thrown back in your face. There are three things. One, get feedback and change your messaging. Two, maybe you have the wrong audience. Three, energy and confidence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "When you keep persisting and keep coming back, the student said, someone will see the passion and the confidence, and that makes them trust you. At first people thought they were not serious because they had only been doing it for a month. Six months later a little more trust. A year, more. By year four and a half, people said: this one is here to stay.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Credibility, then process",
+   "lines": [
+    {
+     "text": "Jose said time builds credibility, and so do the tone and your energy and what he called your obsession for what you are doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a friend who was on a panel that gave a payment company its first cheque. One member voted no, because the founder seemed a little ethereal, up in the air. The others said: no, this guy has laser focus. If people see that in you, they trust you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then the next thing, he said, is how people judge: how are you going to do it? There are all the dreamers in the world. Do you have a process-oriented mind, to put step one, two, three and put it all together?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave an example from a program they are in. The first thing he asked a student was to show how they install. The student wrote a forty-four page step-by-step manual, and they documented everything. It is like taking three steps back to take one big leap forward, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Think how your credibility changes with an investor, he said. Now you have total visibility and transparency of how you are going to be successful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step-by-step page?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an idea you had that someone could not see.",
+   "Write how you would change your message, and who the right audience is.",
+   "Write how long you have been at it, and what trust you have built over time.",
+   "Write the first three steps of how you would do it.",
+   "Write what you would put in a step-by-step manual to show an investor."
+  ]
+ },
+ "check": [
+  {
+   "q": "What was a student's first step when people are not receptive?",
+   "choices": [
+    "Get feedback and change your messaging",
+    "Give up",
+    "Raise your voice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say builds credibility?",
+   "choices": [
+    "Time, tone, energy and obsession",
+    "Luck",
+    "A big office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say people ask after they see your laser focus?",
+   "choices": [
+    "How are you going to do it?",
+    "Where did you study?",
+    "How old are you?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Change the message, find the audience, keep persisting. Then show your process.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

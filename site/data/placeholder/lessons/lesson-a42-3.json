@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a42-3",
+ "title": "Walking into an established way",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you been in a company when new owners arrived? What did your team do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Walking into an established way",
+   "lines": [
+    {
+     "text": "Jose said: that is a much more hostile situation, going into a company that is already established. This is how we do things around here, don't tell us what to do. There will be immense resistance to change.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked: is that why, when a company changes owners, almost the whole company leaves, and a brand-new team is hired?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Start-up and thousands",
+   "lines": [
+    {
+     "text": "A student in telecom said: I have been through this many times. In the start-up mentality you have a dozen or twenty-five people committed, with meaningful stock options. You have a very different level of motivation when you get to thousands of employees. The people who were there from the beginning may have lost that spark.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: it was also very tribal. As soon as a vice president from one company came to another, you knew they were bringing their people and looking to clean things out. You either got in with them in a good way, or started polishing your resume.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that in the telecom sector, he saw people go into boardrooms with a machine gun, as a manner of speaking: everybody is gone out of here.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do in your first week if you arrived as the new owner?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what a new owner would find in your company.",
+   "Write what people would resist.",
+   "Write what the people who were there at the start have lost, if anything.",
+   "Write what you would do on the first day to reduce fear.",
+   "Write what you would keep."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you face in an established company?",
+   "choices": [
+    "Immense resistance to change",
+    "No resistance",
+    "A welcome"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is different with thousands of employees?",
+   "choices": [
+    "A different level of motivation than in a start-up",
+    "The same motivation",
+    "No motivation"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student say about a new vice president?",
+   "choices": [
+    "He brings his own people",
+    "He keeps everyone",
+    "He leaves"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Expect resistance when you arrive. Know what start-up spark has been lost.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

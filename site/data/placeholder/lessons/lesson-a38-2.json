@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-a38-2",
+ "title": "Share control",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Can you share control, or do you need to hold it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Sharing control",
+   "lines": [
+    {
+     "text": "Jose said that the brother told the person in the book: you don't know how to be on the board of a company. What I took from it is that he doesn't think he can share control. He's not the kind of person who shares control easily.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that if you want to put a board of directors together, it is a very complex situation but very necessary. He told of a famous founder who had a board, and it ended up not fitting his strategy, and he was fired by his own board, because at twenty-five he did not know how to get along with people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The dictator's risk",
+   "lines": [
+    {
+     "text": "A student said: you're unable to take other people's opinions into consideration, so you rule like a dictator: my way or the highway. There is also a risk of bias if you don't have a board. I don't really like a board of directors, but I like a board of advisors in an early start-up, for when you are drinking the Kool-Aid.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: it is very important that people see you are surrounded by people with experience in the industry.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where do you refuse to share control, and what does that cost you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write where you won't share control.",
+   "Write what it has cost you.",
+   "Write the advice you have ignored.",
+   "Write who could tell you what you don't want to hear.",
+   "Write one decision you will share this month."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose take from the brother's remark?",
+   "choices": [
+    "The person doesn't share control easily",
+    "The person loves boards",
+    "The person is shy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about not taking others' opinions?",
+   "choices": [
+    "You rule like a dictator and risk bias",
+    "You win faster",
+    "You save time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student prefer in an early start-up?",
+   "choices": [
+    "A board of advisors",
+    "A board of directors",
+    "No board"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know where you won't share control. Keep advisors who can tell you the truth.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

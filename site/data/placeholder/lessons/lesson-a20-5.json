@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a20-5",
+ "title": "Accountable for themselves",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are your people accountable to: you, or their own goals?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two hats",
+   "lines": [
+    {
+     "text": "What I strongly believe, Jose said, is that you help people to be accountable for themselves. I say: you're my friend, and I have to take this hat off and put my boss hat on. What you told me you wanted to strive for, I don't see how you're helping yourself be accountable for those goals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it's not that you don't meet the requirements and you're out. It's: you told me you wanted to do this. Are you lying to me, or to yourself? I can't control if you're lying to you, but I don't need to tolerate lying to me. I want to help you achieve your goals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "This is a big paradigm shift in management, Jose said: help people be accountable for themselves instead of having people be accountable to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Goals set by the person",
+   "lines": [
+    {
+     "text": "A student said: we told new salespeople we don't have sales goals we set for you. We establish the goals with you, and hold you accountable to the goals you set. We figure out what they want in life and reverse-engineer it into input numbers. If they want to make a quarter of a million a year, you need this many calls a day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that is an accountability management style, and that it appeals to intrinsic against extrinsic motivation. Extrinsic is money. Intrinsic is the feeling of accomplishment. Fear is extrinsic. There is a balance between them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Core people",
+   "lines": [
+    {
+     "text": "A student asked how the visionary balances goals set for people and goals they set themselves. Jose said: you need a lot of sensitivity, person by person. Some people don't push themselves, so you find the balance and say: I think you could push yourself a little further.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What the person in the book does at the start of a company, Jose said, is create a base of three, four or five people who are in long-term and have evidence of that commitment. When it grows to a hundred or two hundred, not everyone will be into the mission. You have to know the difference.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A person who works for a famous company, he said, doesn't even need to tell you. Their identity becomes part of that brand's DNA. It may not be intrinsic for those people, it may be extrinsic: everyone says, wow, you work there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said expectations should be real: make sure people know it is real and that you are not asking for something unreasonable, with encouragement.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What goals have your people set for themselves?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whose goals your people are working towards.",
+   "Write what each of them wants in life.",
+   "Write the daily inputs that reach those goals.",
+   "Write when you would take your friend hat off.",
+   "Write who your base of long-term people is."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call the paradigm shift in management?",
+   "choices": [
+    "Helping people be accountable for themselves",
+    "Making rules stricter",
+    "Paying more"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student's team do with sales goals?",
+   "choices": [
+    "Set them with the person and held them to what they set",
+    "Imposed them",
+    "Ignored them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say fear is?",
+   "choices": [
+    "Extrinsic motivation",
+    "Intrinsic motivation",
+    "No motivation"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Help people be accountable for themselves. Set goals with them. Build a base of long-term people.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

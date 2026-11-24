@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a5-5",
+ "title": "Home run or first base?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What kind of risk-taker is the person funding you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "When to merge",
+   "lines": [
+    {
+     "text": "A student asked: at what point do you decide your competitor is someone you should merge with, instead of competing against? The book said it would be a race to see who loses all their money first.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose put it in the context of the time: the internet boom was over and the venture money had dried up. People had overvalued stock, and there were nightmares of raising millions without getting a business off the ground. The new internet industry sobered up. There was fear in general at that particular time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two kinds of risk-taker",
+   "lines": [
+    {
+     "text": "He said the person in the book did not want to do the deal at the beginning, and gave up on it right away. But his partner saw his talent, and understood the predicament of dealing with a person like that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: one of them is a risk-taker, but in very different ways. Another said: one cares about the numbers, the other cares about the ideas.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "In baseball, Jose said, one wants to hit a home run that breaks the lights in the stadium. He would rather go home than bat without a chance of that. The other doesn't mind getting to first base and getting a check. One wants to mitigate risk, the other to amplify it so much that he burns every boat around him so he can never retreat from the mission.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is the difference, he said: it's not a match made in heaven. You have to understand how your investors think when you present ideas to them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Does your investor want a home run or first base, and which do you want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether you want a home run or first base.",
+   "Write what your investor, partner or lender wants.",
+   "Write where the two of you differ.",
+   "Write how you would present your idea to someone who cares about numbers.",
+   "Write what would make you merge instead of compete."
+  ]
+ },
+ "check": [
+  {
+   "q": "What was the difference between the two risk-takers, as a student put it?",
+   "choices": [
+    "One cares about numbers, the other about ideas",
+    "One is older",
+    "One is richer"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have to understand when you present ideas to investors?",
+   "choices": [
+    "How they think",
+    "Their address",
+    "Their age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What had happened to the venture money at the time of the merger?",
+   "choices": [
+    "It had dried up after the boom",
+    "It doubled",
+    "It was never there"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Understand how your investors think, and how you differ.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

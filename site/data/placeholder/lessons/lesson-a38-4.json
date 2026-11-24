@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a38-4",
+ "title": "Private or public?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who do you answer to every three months?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why go private",
+   "lines": [
+    {
+     "text": "Jose asked: why does he want to take it private? A student said: as a general comment, one of the advantages of going private is that executives at public companies talk about having to manage to the street, making short-term decisions at the expense of long-term ones so as not to miss quarterly goals and take a hit on the stock price.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said: the argument is that when you are private you are not worried about running quarter to quarter. You are running year to year and five-year plans, and it allows better strategic decisions, even if they have a short-term impact.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Culture changes",
+   "lines": [
+    {
+     "text": "It is amazing, Jose said, the way a whole company culture changes, and I've seen it when companies go private and then public, where the focus becomes: what is our stock price?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A famous investor doesn't worry about the stock price, he said. He worries about the fundamentals of the business and the long-term strategy. Being a public company can be very distracting for a long-term view.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added: we all know he cuts a lot of expenses. Jose said: then he has to develop a business model so it can make money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do differently if nobody watched your numbers every quarter?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the short-term numbers you answer to.",
+   "Write the long-term decisions they push you away from.",
+   "Write what would change if you answered only yearly.",
+   "Write the fundamentals of your business.",
+   "Write what you would measure instead of the stock price or its equivalent."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say public executives must do?",
+   "choices": [
+    "Manage to the street, with short-term decisions",
+    "Plan for fifty years",
+    "Ignore investors"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say changes when a company goes public?",
+   "choices": [
+    "The whole culture: the focus becomes the stock price",
+    "The logo",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a famous investor worries about?",
+   "choices": [
+    "The fundamentals and the long-term strategy",
+    "The daily stock price",
+    "The press"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice the short-term pressure you answer to. Keep your eye on the fundamentals.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

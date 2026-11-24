@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a29-5",
+ "title": "The books that shaped you",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which novel would you put in the hands of the person you love?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The books that shaped us",
+   "lines": [
+    {
+     "text": "Jose asked: what are the books that have influenced you most in your life? What are the moments, the things that defined us in our adulthood, that came from our childhood?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that one of the greatest books for him in his entire life, which he has read twenty or thirty times and taught, is a famous American novel. It is about a man who creates an ideal woman that doesn't really exist, and the purpose of his whole life is to become her dream.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is driven on desire, on ambition, on approval of society, he said. That novel is very relevant to me because it talks about the danger of desire.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Study the pattern",
+   "lines": [
+    {
+     "text": "Here in his life, Jose said, we can study the patterns and decisions and the books he read that were influential. What is the repetitive theme of something you read or an experience you had at seven or eight that created your perception?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said they were not much of a reader when younger, but could think of conversations that had that effect.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the repeated theme in the books and conversations that formed you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the book you would reread twenty times.",
+   "Write what it says about desire.",
+   "Write the theme that repeats across what formed you.",
+   "Write one conversation that shaped you.",
+   "Write the book you will give away this month."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask about books?",
+   "choices": [
+    "Which have influenced you most?",
+    "Which are the longest?",
+    "Which are the newest?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What danger did Jose say the novel he loves talks about?",
+   "choices": [
+    "The danger of desire",
+    "The danger of travel",
+    "The danger of silence"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say shaped them besides books?",
+   "choices": [
+    "Conversations",
+    "Television",
+    "Sports"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find the books and conversations that formed you. Look for the repeated theme.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

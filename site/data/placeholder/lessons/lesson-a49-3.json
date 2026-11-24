@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-a49-3",
+ "title": "Your voice becomes their voice",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does the way you speak become in someone else?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your voice becomes their voice",
+   "lines": [
+    {
+     "text": "Jose said that one of his favorite sayings with education and children is that the way you speak to your children becomes their inner voice. He is careful about it because he wants them to have belief in themselves and take the risk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the same thing applies in our communication style: empowering people, listening to people, agreeing with people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Listening to each person",
+   "lines": [
+    {
+     "text": "Jose said that if you are a manager, listening, observation and documentation are key, because they give you the needs assessment of each person. Attention to each person's limitation is like a teacher who is not so worried about the curriculum that she misses the student.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: great people help others overcome their negativity. I feel even more empowered when I turn somebody around, not by beating them up, but through my actions of being positive and showing them another perspective.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Ego and opinion",
+   "lines": [
+    {
+     "text": "A student said: it is beneficial to go into every conversation wanting to be swayed, with curiosity and openness. So many people identify with their opinions, and that is very dangerous. If you wrap your ego into your opinions, you cut yourself off from truth.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that refusing to let people discuss something at all is the most dangerous form of limiting speech, because the listener will take the message as they want anyway. Jose agreed: this starts with us, and with being a good listener without prejudice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who in your life needs you to listen before you speak?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you speak to the people who look to you.",
+   "Write what you want them to hear in their inner voice.",
+   "Write one person whose needs you have not assessed.",
+   "Write an opinion you have wrapped your ego in.",
+   "Write a conversation you will enter wanting to be swayed."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say becomes a child's inner voice?",
+   "choices": [
+    "The way you speak to them",
+    "The toys they have",
+    "The school"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about ego and opinions?",
+   "choices": [
+    "Wrapping them together cuts you off from truth",
+    "They are the same",
+    "Ego is helpful"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say great people do?",
+   "choices": [
+    "Help others overcome negativity",
+    "Avoid negative people",
+    "Win arguments"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Your voice becomes theirs. Assess each person. Hold opinions lightly.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

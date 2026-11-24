@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "id": "story-panama",
+  "title": "Panama",
+  "topic": null,
+  "tags": [
+    "panama"
+  ],
+  "summary": "The Panama layer waits for his own words. What exists so far is business talk, not where he is from.",
+  "excerpt": "Line from Jose goes here.",
+  "speaker": {
+    "role": "teacher",
+    "display_name": "Jose",
+    "is_learner": false
+  },
+  "source": {
+    "kind": "daily_call",
+    "ref": "call-ref-0007",
+    "note": "Reference id kept on file."
+  },
+  "consent_state": "pending",
+  "basis": null,
+  "notice_version": null,
+  "consent_ref": null,
+  "under_18_possible": false,
+  "sensitive": false,
+  "status": "draft",
+  "image": null,
+  "image_ai": false,
+  "image_media_log_id": null
+}

@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a33-1",
+ "title": "What makes a partnership last",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who has been in your life or work the longest, and why?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Lasting partnerships",
+   "lines": [
+    {
+     "text": "Jose said that the only thing that jumped out at him in this short chapter was a man who lasted fifteen or twenty years with the person in the book, which is a long time for anybody. He said that the leadership style isn't conducive to long-term relationships, because it doesn't build fulfilment and intrinsic motivation. It is a little transactional.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That led him to think about us as entrepreneurs. How do we identify good partners? What are our longest partnerships? Why do some work and others don't? How do we build them? What are the components of lasting partnerships?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Take the good",
+   "lines": [
+    {
+     "text": "A student said: what I would summarize as a good partner, he doesn't have the qualities I'd look for. Jose said: that is what this is all about, taking the good and leaving the bad. You're not going to learn a hundred percent from one person. You can learn five percent, and that five percent makes you incredibly successful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that you need a pretty big ego to do what he is doing, but that ego can be your own worst enemy, especially in building relationships. You have to have the humility, as a sign of great leadership, because humility gives you the ability to relate to people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Is it about what is right, or being right? Is it about your idea, or about embracing other people's ideas and arriving at truth through collaborative learning?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Courage and the servant leader",
+   "lines": [
+    {
+     "text": "A student challenged: it might also be his biggest strength, because he isn't easily swayed. Jose said: it is a double-edged sword. Where is that line? Where can you reach incredible achievements without jeopardizing the recognition of value in others?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The one word that sticks out for me is courage, Jose said: the courage to do the right thing and to build those relationships, to recognize the value in people. It is not going to be a negative thing, it is going to be a positive one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I look for courage and for people who recognize the value in others, he said. An egocentric person in a meeting says I a million times. The servant-leader mentality asks: what do you want out of the partnership? They build the relationship, the trust and integrity first, and talk about prosperity as a byproduct.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whom do you know who recognizes the value in others?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your longest partnership and why it lasted.",
+   "Write the five percent you would take from someone you disagree with.",
+   "Write where your ego helps you and where it hurts.",
+   "Write a time you chose what was right over being right.",
+   "Write whom you would trust as a servant leader."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you can learn from a person you only partly admire?",
+   "choices": [
+    "Five percent that can make you incredibly successful",
+    "Everything",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What word sticks out for Jose in partnerships?",
+   "choices": [
+    "Courage",
+    "Speed",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the servant-leader builds first?",
+   "choices": [
+    "The relationship, trust and integrity",
+    "The contract",
+    "The profit"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Take the good from each person. Look for courage and the servant leader. Keep humility.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

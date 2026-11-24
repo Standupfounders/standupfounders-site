@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a15-5",
+ "title": "A culture of discipline",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What kind of culture does your way of leading create?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Negative language spreads",
+   "lines": [
+    {
+     "text": "Jose said that once a small team is contaminated with negative language, negative belief and victimization, you have to cut off the whole limb. He has seen it in construction: one person says it isn't fair, another jumps on, and soon they are all victims.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is their perception of the world, and that it comes from another person who did the same. Jose said: it is coming from somewhere, but you can break the generational cycle of victimization.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A culture of discipline",
+   "lines": [
+    {
+     "text": "Jose said the person in the book won't allow someone to say something negative. He is identifying negative belief systems. He wants possibility thinkers. He is building a culture, using fear, and Jose asked what other instruments he has.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is building a culture around discipline rather than motivation. Jose said: it's discipline, it's relentlessness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the tug of war, the tension, is how he thrives, and the same was said of other famous entrepreneurs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where on the spectrum?",
+   "lines": [
+    {
+     "text": "A student said: you have to compromise with yourself, whether you value empathy or high achievement more. Which way will you lean? A five might not be anything significant, a seven might be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said you have to decide where you want to be on the spectrum and be honest with yourself. He says people ask him; he tells them: if you are not reaching your goals, there is a reason, and it is a negative pattern in something you are doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is all internal. What are you doing to yourself to eliminate yourself from that possibility?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that what he likes is the message: there are no limits. A leader who won't accept a limit gets turnover, and it is self-perpetuating. He said you would have to choose whether that leadership suits you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What culture do you want, and what will it cost?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the culture you want your team to feel.",
+   "Write the language you will not allow, and why.",
+   "Write where you are on the spectrum between empathy and high performance.",
+   "Write what you will do when someone says they have a limit.",
+   "Write what your style costs in turnover and what it gains."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say the culture is built around?",
+   "choices": [
+    "Discipline rather than motivation",
+    "Fear only",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about a victim mindset in a team?",
+   "choices": [
+    "It spreads, so you may need to cut off the whole limb",
+    "It is harmless",
+    "It helps"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you must be about where you stand?",
+   "choices": [
+    "Honest with yourself",
+    "Silent",
+    "Harsh"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose your culture on purpose. Be honest about your place on the spectrum.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

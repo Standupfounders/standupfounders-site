@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a45-2",
+ "title": "Fear shapes your attention",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the fear that decides where you look?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Fear shapes attention",
+   "lines": [
+    {
+     "text": "Jose said: let's say we have a childhood trauma. We were criticized as a child, and now we are very self-conscious. I may get criticized here, so I don't want to take this risk, because I'll be ridiculed. That negative belief system becomes our inability to take action.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Our fear can sometimes shape where we put our attention, he said. Imagine you have billions invested in a company and its value has fallen and one message is decimating its sales. Fear can shape what you pay attention to, and you can make decisions from a place of fear.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The way you perceive things becomes your reality, he said, and that reality becomes your belief system, and the belief system reinforces the survival pattern.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Don't decide from fear",
+   "lines": [
+    {
+     "text": "We have to be careful in moments of crisis, Jose said. We need a structure to deal with it, a makeup of who we are, because the amount of risk we take is huge. You can't make decisions from fear. You can't make decisions when you are in a negative survival pattern, or when you are stuck in a childhood traumatizing event.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the presence effect, too. People will not approach someone to bring up sensitive subjects when family is there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said: the difference between paying attention and concentration. Jose said: yes, a deep ability to concentrate, to switch everything else off.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Awareness and habits",
+   "lines": [
+    {
+     "text": "Jose said: the point is being aware of our survival patterns and our limitations, and how they become habits. Saying to yourself: this is a totally irrational habit I have that could be self-destructive, and I don't need it. I can drop that and create something positive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do with your attention if you were not afraid?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you were criticized for as a child, if you want to.",
+   "Write the risk it stops you taking.",
+   "Write where fear puts your attention in a crisis.",
+   "Write what you will do before you decide when you are afraid.",
+   "Write the irrational habit you could drop."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say fear can shape?",
+   "choices": [
+    "Where we put our attention",
+    "The weather",
+    "The price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you can't do from fear?",
+   "choices": [
+    "Make good decisions",
+    "Run",
+    "Sleep"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is the difference between concentration and what?",
+   "choices": [
+    "Paying attention",
+    "Doing nothing",
+    "Resting"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice where fear puts your attention. Don't decide from fear. Drop an irrational habit.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

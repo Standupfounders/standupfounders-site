@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-b8-3",
+ "title": "I'm 1% of a mentor",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Whose advice would you take only 1% of?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I'm 1% of a mentor",
+   "lines": [
+    {
+     "text": "A student said the author said that when he was home he tried to put time with his kids to good use. Jose said: he's going to paint it like that a little bit. But I think there were sacrifices. We can't judge, he said. We don't know.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked: think about the time you spend with your kids without your phone, without distractions. You can justify it, he said. But are you really having in-depth conversations?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Learning about different people in their lives, he said, you go: I want this, but I don't want that. I want ten percent from this mentor and I'll leave out the other ninety. I tell my kids: I am one percent of a mentor. Go and get the ninety-nine. But that one percent is a big deal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Keep your promises to yourself",
+   "lines": [
+    {
+     "text": "A student said a telltale sign of how you see your family is what you do without them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said a common denominator among his friends and business partners is an effort to be good fathers. A friend of his told his kids: we're going on a trip, you are welcome to come if you like. He said he learned a lesson from it, because he used to make it mandatory.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Are we around people in this culture where we are all go-getters, he asked, obsessed with the job, developing good habits, going a hundred and fifty miles an hour as an organization, or going twenty?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The reports tell us who is showing up and who is not, he said. Those checks and balances are necessary, and they make sure you keep your promises to yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You can't say: I'd like to make a couple of million dollars in twenty-four months, but you're not making the calls. Then you're not in the possibility game. So as a team we need accountability.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the one percent you will take from each mentor?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write two mentors or people you learn from.",
+   "Write the ten percent you will take from each, and the ninety you will leave.",
+   "Write how much undistracted time you give the people who matter most.",
+   "Write one promise to yourself, and who will check it.",
+   "Write one number you can report on weekly."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say he is to his kids?",
+   "choices": [
+    "One percent of a mentor",
+    "Their only mentor",
+    "Their boss"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the reports and checks and balances help you do?",
+   "choices": [
+    "Keep your promises to yourself",
+    "Hide mistakes",
+    "Win praise"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about time with your kids?",
+   "choices": [
+    "Think about the time without your phone or distractions",
+    "Spend more money",
+    "Take them to work"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Take the one percent that matters from each mentor, and keep your promises to yourself.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

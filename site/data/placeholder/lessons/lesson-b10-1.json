@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-b10-1",
+ "title": "They can see from the outside what people on the inside can't see",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is there something about your business that you cannot see because you are inside it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "They can see from the outside what people on the inside can't see",
+   "lines": [
+    {
+     "text": "Venture capital people have such great intuition, Jose said, about whether a company has processes in place. If I go to any company, I'm not trying to sound arrogant, I can in two weeks do a survey and say: I can help with this. Not everything, a tiny piece of what is not working.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is why the business of consultancy grew so fast, he said. Billions are devoted to consultants, because they can see from the outside what people on the inside can't see.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told how an outsider walked into a company with thousands of clients and saw in ten minutes that it had no way to track the leads of each salesperson. They didn't have a system. They relied on the offices to say: yeah, I'm doing sales. There was no accountability and no way to track it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "We have the system, they have the people",
+   "lines": [
+    {
+     "text": "We have the system and we don't have the people, he said, and they have the people and don't have the system. When people are accountable, he said, number one, turnover: some get let go, because it is the first time anyone can see if they are doing their job. Number two, now they are accountable, so they go to the meetings.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We have total visibility, he said. We know how many calls. We know how many inspections.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But there are what I call CRM jockeys, he said. All they do is ride the horse with a CRM. They never get off the horse and mingle with anybody. All they do is reporting, reporting, reporting, and they don't sell. You need a combination of both.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What's your exit strategy?",
+   "lines": [
+    {
+     "text": "Very few companies make it to ten million dollars in revenue, Jose said, and once you do, the bigger companies eat the little ones. That is why my strategy is always: sell the company. Be aware of the typical lifespan of a company. It could be that the technology gets obsolete, or there is no barrier to entry.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your exit strategy, he asked? Do you want to be doing this for the rest of your life? Eventually, he said, you will do it for yourself. Automate everything and have an operation that doesn't depend on me. I own the business, and I go on vacation, and I just check my bank account on my phone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But you have to be such a stickler with operations, he said. People think those people don't pay attention to details.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the author is a pro at this. You don't make billions buying failing businesses without knowing process and how to turn a company around. People said he was just a crazy salesman. But his dad taught him: you can't just be the crazy sales guy. You have to understand the math, the finances, the growth and the risks you're taking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are you too close to see?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one process in your business that you cannot see clearly.",
+   "Write who could look at it from the outside.",
+   "Write what you could track that you do not track now.",
+   "Write your exit strategy: what you build, to what size, then what.",
+   "Write the operational detail you are a stickler about."
+  ]
+ },
+ "check": [
+  {
+   "q": "Why did Jose say consultancy grew so fast?",
+   "choices": [
+    "They can see from the outside what people on the inside can't",
+    "They are cheap",
+    "They work fast"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call people who only report in the CRM and never mingle?",
+   "choices": [
+    "CRM jockeys",
+    "Analysts",
+    "Managers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question did Jose say to ask a company once you gain confidence with them?",
+   "choices": [
+    "What's your exit strategy?",
+    "What's your logo?",
+    "What's your budget?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "See your business from the outside. Build the system and the people, and have an exit strategy.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-b12-2",
+ "title": "At the top of the funnel is your gross revenue",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you know the difference between what comes in and what you keep?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "At the top of the funnel is your gross revenue",
+   "lines": [
+    {
+     "text": "Jose explained revenue. Gross revenue doesn't mean profit, he said. It is the total money you are making. Imagine a funnel. At the top is your gross revenue. At the bottom is what you keep after expenses and taxes: your net profit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells the chapter, the author's company had revenue of about two hundred and eighty million dollars, while the network he wanted to buy had about five billion. So he had to go and raise money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A multiple",
+   "lines": [
+    {
+     "text": "He explained multiples. Say a design studio nets a hundred thousand dollars a year. You look at what people have paid for design studios. There is generally a standard for that industry. It may get three times the net, so three hundred thousand dollars for the value of the business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said a company that is publicly traded normally gets higher multiples. As Jose tells it, the author's stock was trading at high multiples, so his company's market value was several hundred million dollars.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your business worth, in net profit times a multiple?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your gross revenue, if you have one.",
+   "Write what is left after expenses: your net profit.",
+   "Write the multiple businesses like yours sell for, if you can find it.",
+   "Multiply: write the value that gives you.",
+   "Write one thing you could do to grow the net, not just the top."
+  ]
+ },
+ "check": [
+  {
+   "q": "What is at the top of Jose's funnel?",
+   "choices": [
+    "Gross revenue",
+    "Net profit",
+    "Debt"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is at the bottom of Jose's funnel?",
+   "choices": [
+    "Net profit, what you keep after expenses",
+    "Total sales",
+    "Taxes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a multiple is used for?",
+   "choices": [
+    "Valuing a business as a number of times its net",
+    "Counting employees",
+    "Setting prices"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the difference between revenue and profit, and what a multiple means.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

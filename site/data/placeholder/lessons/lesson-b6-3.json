@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-b6-3",
+ "title": "It's a very lonely world when you have a conviction",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When everyone around you says it can't be done, how do you find out if it can?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Go and see a similar business model",
+   "lines": [
+    {
+     "text": "As Jose retells it, the author said everyone told him it was impossible to produce news for less than the networks do. So he went to a small company that supplied video news stories to independent stations at low cost.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He goes into possibility thinking, Jose said. When everybody told him it was impossible, he didn't listen. He wanted to find out firsthand from somebody who is doing it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The moral of the story, Jose said: if you have a hunch about something, a conviction, go out and see a similar business model. If not that same business, somebody doing something like it, and doing it right. Then you are in the possibility of replicating the model.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "It's a very lonely world when you have a conviction",
+   "lines": [
+    {
+     "text": "It is a very lonely world as an entrepreneur, he said, when you have a conviction. Get ready, because you may not have any believers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But you have to seek the evidence, he said. You need that relentlessness about inquiry. Who is doing it? Why not?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When an entrepreneur comes to me and says I am going to do this, Jose said, I keep bringing up objections. If they hesitate or lose confidence, I know they are not cut out for this psychologically. An entrepreneur doesn't hesitate when he has the convictions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The author is not crazy, he said. He is putting a business model together. He is thinking about the fifteen cents, about scalability. He is selling another company for twenty million because he knows he needs cash. He is doing projections. Massive risks, but calculated.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Shake them off",
+   "lines": [
+    {
+     "text": "If we have negative anchors in our life, people who told us we couldn't do it, he said, we have to shake them off. There is a negative little voice that says it's not possible. Or you hear your mom and dad: honey, go get a job. What you're doing is very unstable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You be like the author, he said. I'm going to get the evidence. I'm going to follow my convictions. I'm going to do the research and get the data.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You don't have to be at a hundred and fifty miles an hour like he is, Jose said. But how do we reach that status where we say: I'm really going above and beyond? For some people it is a seven. For some it is a three. And there is the balance of things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whom do you have to shake off, and what evidence will you gather?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one idea people say is impossible.",
+   "Write who is doing something similar, and how.",
+   "Write one objection you hear, and your answer.",
+   "Write the voice that says it is not possible, and how you answer it.",
+   "Write the number on the scale of one to ten that you want to reach in what you do."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to do if you have a hunch or a conviction?",
+   "choices": [
+    "Go out and see a similar business model",
+    "Wait for permission",
+    "Ask the competition to join"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the world of an entrepreneur with a conviction?",
+   "choices": [
+    "It is lonely, and you may have no believers",
+    "It is crowded",
+    "It is easy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author is?",
+   "choices": [
+    "Not crazy, he puts a business model together and takes calculated risks",
+    "A gambler",
+    "A beginner"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Seek the evidence, even when the world says it can't be done.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": "lesson-b1-1",
+ "title": "Getting lost in the goal",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you ever reached a goal and felt almost nothing? Where did the feeling go?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What do you guys think of that statement?",
+   "lines": [
+    {
+     "text": "Jose read what the author's father once told him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "you set your goals so high that you can't possibly accomplish them in one lifetime that way you'll always have something ahead of you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "The father added that he himself had set his goals too low, and now found it hard to come up with new ones.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked the class: what do you think of that statement? Let's analyze it a little bit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the father's goals had been too low. Once he had everything he wanted, he asked: now what?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said no, he set the wrong goals. He focused too much on money. Jose said: you're getting warm.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A third said it is good advice. If your goal is far ahead, you take more steps and move further. And that it was not the achievement that was fulfilling, it was the process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Getting lost in the goal",
+   "lines": [
+    {
+     "text": "Jose said there is something hiding in this quote, a deeper problem, and nobody had mentioned it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I don't think it has got to do with goals at all, he said. We know he set other goals. He was buying companies. It wasn't good enough for him. He never had self-acceptance, and we learn that for the first time here.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He was being chased by those ghosts, Jose said. He wasn't saying: I'm proud of who I am, I'm proud of what I've done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I call it getting lost in the goal. Getting lost in the goal means you don't celebrate the little things. You say: oh, I don't have ten million dollars yet. You can beat yourself up all day long.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "And once you start achieving, you are still in: I could do this better. You are not even aware of all the things you are accomplishing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So it doesn't matter if you set the goal too high, he said, if you are not celebrating day to day, and not patting yourself on the back. Then no goal is going to be good enough.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A question for you",
+   "lines": [
+    {
+     "text": "What did you do this week that counted, and did you notice?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one goal you are chasing.",
+   "Write three small things you did this week toward it.",
+   "Write one thing you will celebrate today, even if it is small.",
+   "Write what 'good enough' would look like for that goal.",
+   "Write what you would say to yourself if you were not lost in the goal."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call not celebrating the little things?",
+   "choices": [
+    "Getting lost in the goal",
+    "Setting a low goal",
+    "Losing focus"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say was the deeper problem, not the height of the goals?",
+   "choices": [
+    "The goals were too easy",
+    "A lack of self-acceptance",
+    "Not enough money"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did Jose say happens if you never celebrate day to day?",
+   "choices": [
+    "You reach the goal faster",
+    "No goal is going to be good enough",
+    "You lose your team"
+   ],
+   "answer": 1
+  }
+ ],
+ "recap": "Do not get lost in the goal. Celebrate the little things as you go.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

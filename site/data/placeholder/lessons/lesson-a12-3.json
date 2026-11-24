@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a12-3",
+ "title": "Control the process",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which part of your process do you hand to someone else, and what does it cost you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Control the process",
+   "lines": [
+    {
+     "text": "Jose said the person in the book kept tight control of the manufacturing process, even when many companies sent their factories abroad. That is quality control.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a friend, a partner and mentor, who had a fishing-reel business. A well-known reel maker moved all its manufacturing abroad, and the friend said: the reels will never be the same, so get all the old ones you can. The quality control wasn't there, Jose said, and a competitor took the market.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the person in the book and a famous founder of a computer company differ: one had little interest in manufacturing, the other cared about it more than the product.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A closed system, and the factory as the product",
+   "lines": [
+    {
+     "text": "Jose said the famous founder criticized the software-only company because anyone could install its software on thousands of computers, whose hardware could be terrible. I believe in a closed system, he said: nobody can install software on my computer, and I have a tight control over the end result and the user interface.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The person in the book takes it another step: not only a closed system, but I'm going to design the factory that makes the products. He said the brain strain of designing the car is tiny compared to designing the factory.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He leaves no room for error, Jose said. He has ultimate control of all the process. I have never seen an entrepreneur with this level of control. A student added: engineering and the design team are one, and so are design and manufacturing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where do you want to keep control, and where can you let go?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the parts of your process that decide quality.",
+   "Write which of them you control and which you hand off.",
+   "Write what happened last time you handed one off.",
+   "Write what a closed system would mean for you.",
+   "Write the process behind your product, not only the product."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the person kept control of?",
+   "choices": [
+    "The manufacturing process",
+    "The logo",
+    "The prices only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happened to the reel maker's quality after it moved?",
+   "choices": [
+    "The quality control wasn't there",
+    "It improved",
+    "It stayed the same"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is tiny compared to designing the factory?",
+   "choices": [
+    "Designing the car",
+    "Naming it",
+    "Selling it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Control the process that decides your quality. Design the factory, not only the product.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

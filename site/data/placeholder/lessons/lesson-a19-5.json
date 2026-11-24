@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a19-5",
+ "title": "Bring the endorsement",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Whose endorsement would make an official say: they already approved it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Bring the endorsement",
+   "lines": [
+    {
+     "text": "A student said: tap into bigger organizations that have resources, such as world development bodies. If you identify a potential problem that will affect thousands of lives, you start raising awareness and get those people engaged. That is where the money starts flowing, and the people you need.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student added: bring it to the senator as: I have started raising awareness with these institutions, they understand the problem and how many lives could be at risk, and they are willing to put resources into studies and prevention programmes. You haven't mentioned a penny of money yet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: big point. What senator wants to reinvent the wheel? They want organizations already facing similar problems, with systems and money in place. What a bigger endorsement than a development bank or a United Nations body?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he is going through the process now in one country, meeting environmental committees to understand the history of erosion control, what is allowed, and who he needs buy-in from before going to the government.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then you have a memorandum of understanding, a letter of intent, he said. With a cohesive plan and the paperwork in place, then you can sit with the senator. A student said: always make it non-financial.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Media, timing, and everyone invited",
+   "lines": [
+    {
+     "text": "Something not to overlook: your public relations. Get the press and television on your side when you are ready. If you do it too early you can get yourself in a lot of trouble. Timing is everything, and have a media strategy to present to the senator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Other people are involved too, he said: insurance companies, the federal emergency agency. Talk to everybody. A student said: everybody wants an invite to the party, and the one who goes against you hardest will be the one you forgot to invite.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Nobody does this alone",
+   "lines": [
+    {
+     "text": "The lesson, Jose said, is that nobody does this alone. Everybody goes in teams. You want powerful people in the industry aligned with you, and your leverage with big companies is: I will do the political work, all I need is your support and your list of needs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said this was an outline, very broad, and that in another book he could get into political systems, trade agreements and lobbying in detail. He said he can post books on lobbying in the chat. A student said most of it was new to them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whose endorsement would you look for first?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the organizations that already work on your problem.",
+   "Write what they could endorse, in writing.",
+   "Write the letter of intent you would ask for.",
+   "Write the media plan and when it should start.",
+   "Write who you might forget to invite."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to start with before approaching a senator?",
+   "choices": [
+    "Raise awareness with bigger organizations that already work on the problem",
+    "Ask for money",
+    "Hire a lawyer"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about media timing?",
+   "choices": [
+    "If you do it too early you can get in trouble",
+    "Always start first",
+    "Never use media"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is the lesson?",
+   "choices": [
+    "Nobody does this alone; everybody goes in teams",
+    "Do it alone",
+    "Avoid politics"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Bring the endorsement and the paperwork first. Time the media. Invite everyone.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

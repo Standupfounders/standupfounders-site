@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a16-1",
+ "title": "The cost to acquire a customer",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does it really cost you to win one customer?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "No upfront cost",
+   "lines": [
+    {
+     "text": "Jose said the person in the book told his cousins he wanted a business that could help humanity and address climate change. He did not say: I want to make money. The advice was: get into the solar industry.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the problem with the business model was that they put panels in for customers with no upfront cost. You have a capital expense to buy and install them, and no upfront fee, so you use a lot of cash to acquire customers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you run out of cash quickly, because every time you get a new customer it is a negative incentive for the company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The cost to acquire a customer",
+   "lines": [
+    {
+     "text": "That is one of the things I talk about a lot, Jose said: what is your cost to acquire a customer? A lot of people don't know it. The person who walks into a store and pulls something off the shelf cost you a ton of money you may not be aware of: the rent, the people, the ads.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "His own rough example, he said: I spend a hundred thousand dollars a year on advertising to bring people to a tourism website. If twenty percent of the visitors book a trip, I divide the hundred thousand by the number who came. That is a very rough estimate of my cost to acquire a customer just on the advertising side.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If nobody knows your brand, he said, your cost will be higher. If you have a new technology nobody has heard of, it will be higher still. You have to be very realistic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Losing money on purpose",
+   "lines": [
+    {
+     "text": "He said a large social network lost money for over ten years, funded by its stock price on the promise of advertising. Management were all about grabbing market share. The finance people divided what it cost to acquire the users and projected the return. That is great if you have a lot of cash to wait. If you don't, you have a big problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would it cost you to win one more customer, and can you wait for it to pay back?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you spent on getting customers last year.",
+   "Write how many customers you won.",
+   "Divide: write your cost to acquire one customer.",
+   "Write whether you can afford to wait for payback.",
+   "Write what would lower it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a lot of people do not know?",
+   "choices": [
+    "Their cost to acquire a customer",
+    "Their address",
+    "Their competitors' names"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about a new customer with no upfront fee?",
+   "choices": [
+    "It is a negative incentive and you run out of cash",
+    "It is free",
+    "It is always profitable"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about a brand nobody knows?",
+   "choices": [
+    "The cost will be higher",
+    "The cost will be lower",
+    "The cost is zero"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the real cost of winning a customer. Be honest about how long you can wait for payback.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

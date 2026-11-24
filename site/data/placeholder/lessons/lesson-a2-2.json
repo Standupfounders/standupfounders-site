@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a2-2",
+ "title": "Choose a mentor who is a facilitator",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who could you call, just to ask a question?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A game that opened a door",
+   "lines": [
+    {
+     "text": "Jose said the two brothers got into a routine: pick a person out of the newspaper and cold-call them for fun. The one who was more introverted did not want to call, so his brother did.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They lowered the perception of the risk, he said, by making it almost like prank calls. It is a big deal and a big initiative, and he chases this mentor, cold calling him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "One of those calls reached an executive who opened the door to them, and even offered them a job at the bank. A successful mentor will open the door, Jose said, because they know how hard it was to get there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A facilitator, not a source",
+   "lines": [
+    {
+     "text": "As you choose mentors, he said, you never want one who says: you depend on me, or who has an inflated ego and says: I'm the source of this information. You want a mentor who is a facilitator and a servant leader: I can help you as much as you are able to absorb from me, and as much as I am able to give.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "All of us have limitations, he said. So take a little of what you want from a mentor and go on and find another one. If anybody tells you: you need me, you need me to do this, run as fast as you can the other way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is the same with parents, he said. He is afraid of a father or mother who makes their child dependent on them. You want to teach your child to be independent. Making a child dependent is basically being selfish.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There is a saying he loves and repeats: it is not what you do for your children, but what you have taught them to do for themselves that will make them successful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Someone in your space",
+   "lines": [
+    {
+     "text": "That is why you get a mentor, Jose said: it shortens the time it takes to find out whether something has value. And not just any mentor: someone with knowledge in your space. Pick the ideal mentor for you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that calling people up just for fun shows an entrepreneurial spirit, and that the mother believing in him mattered.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Who is your ideal mentor, and what will you ask first?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the kind of person who would be your ideal mentor.",
+   "Write three questions you would ask them.",
+   "Write one way you could lower the risk of the first call.",
+   "Write one sign that a mentor wants you dependent on them.",
+   "Write one thing you are teaching someone to do for themselves."
+  ]
+ },
+ "check": [
+  {
+   "q": "What kind of mentor did Jose say you want?",
+   "choices": [
+    "A facilitator and servant leader",
+    "A boss who decides for you",
+    "A famous name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do if someone says: you need me?",
+   "choices": [
+    "Run the other way",
+    "Pay them",
+    "Sign up"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of mentor did Jose say to pick?",
+   "choices": [
+    "Someone with knowledge in your space",
+    "Anyone available",
+    "Someone older"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose a facilitator who has knowledge in your space. Teach independence.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

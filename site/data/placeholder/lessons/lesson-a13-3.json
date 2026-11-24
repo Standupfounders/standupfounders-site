@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a13-3",
+ "title": "The medium can become the danger",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you no longer do for yourself because a tool does it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The medium can become the danger",
+   "lines": [
+    {
+     "text": "A student said: at a certain point you start developing a dependency on the ease with which you retain information because of how it is processed for you. It makes remedial tasks seem menial, and you get zero pleasure out of doing them, because you know AI can just do them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the danger is that you are naturally going to be more and more dependent. Who doesn't use a navigation app to get somewhere now? Who doesn't go to a search engine to research information?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So the medium, he said, could become the danger, because it kind of has a consciousness of its own. These people see a massive responsibility.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pull the cord",
+   "lines": [
+    {
+     "text": "As a little kid, Jose said, my parents would pull the power cord out of the TV and say: enough TV, go outside and play. They believed children were glued to the TV.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some of you in this generation have grown up with an overwhelming speed of information. It is a massive responsibility to guide people to good information and to be careful with it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "It will influence every business",
+   "lines": [
+    {
+     "text": "AI is going to influence all our businesses one way or the other, Jose said. It is like getting another reading and writing. AI is going to be a must in the school curriculum for children growing up now.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you look at it as a tool, it's another piece of software. There is no consciousness to it. We won't ever have a computer that can outpace a human mind in real-world decisions in a physical environment. Jose said: one of the two men disagrees.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you stop doing yourself, and what would you keep?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one task you stopped doing because a tool does it.",
+   "Write what you lost, honestly, and what you gained.",
+   "Write one task you will keep doing yourself.",
+   "Write how you will teach the people you lead to check information.",
+   "Write how AI could change your business in the next year."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about tools doing the menial tasks?",
+   "choices": [
+    "You get zero pleasure from doing them yourself",
+    "They are always better",
+    "They are always worse"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say could become the danger?",
+   "choices": [
+    "The medium",
+    "The user",
+    "The price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say AI is like for this generation?",
+   "choices": [
+    "Like another reading and writing",
+    "Like a toy",
+    "Like a fashion"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice what you hand to the tool. Guide others to good information.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

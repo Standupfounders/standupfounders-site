@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a18-1",
+ "title": "Start today",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What problem do you wish someone would just start fixing today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Start today",
+   "lines": [
+    {
+     "text": "Jose asked: does anybody know why he calls it the boring company? A student said it could be the boring of boring a hole. Jose said: I can't believe I missed that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How does he decide to start a brand-new company? Jose said: traffic is driving me nuts. It's a problem, and I'm not the only one who has it. So he asks: does everybody else have this problem? And then he says: let's get it going.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Very action-oriented, Jose said. We have talked a lot about people who say: I don't have the time. Imagine this man's time, with several companies already. And all of a sudden he says: let's start another business. Buy two machines. How does he do that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Leverage the network",
+   "lines": [
+    {
+     "text": "A student said: he is able to jump on these things right away and find the right people. Now that he has built up a network of people interested in it, he can leverage it and get to work.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that was a key thing you just said. One of the challenges we know is how to build the team. I don't know where to get these people, and not everybody is built to be an entrepreneur.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How is he finding people? A student said: through his network and referrals, and he has created messaging that filters the people who come to him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is in your network that you could call today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a problem you have, and who else has it.",
+   "Write what you could do today, not next month.",
+   "Write who is in your network that could help.",
+   "Write the message that would filter the right people to you.",
+   "Write what you will do before the day is out."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose say the person decides to start a new company?",
+   "choices": [
+    "He sees a problem and asks whether everybody else has it",
+    "He makes a spreadsheet",
+    "He asks a bank"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say lets him start at once?",
+   "choices": [
+    "His network of people interested in it",
+    "His money",
+    "His age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say filters the people who come to him?",
+   "choices": [
+    "His messaging",
+    "His office",
+    "His price"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "See the problem. Check whether others have it. Start today with your network.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

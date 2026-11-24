@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a50-3",
+ "title": "Opinion, belief, conviction",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the difference between an opinion and a conviction?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The table",
+   "lines": [
+    {
+     "text": "Jose used a metaphor: an opinion is a table with about two legs, a belief has three and a conviction has four. As the legs stabilize, our emotional commitment grows from an opinion to a belief to a conviction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student summarized: what escalates it from one level to the next is questioning it, internally, analyzing and studying it. An opinion is something you heard on the way here. A belief is something you have heard repeatedly. Once it is a conviction, you do not allow anybody else's opinion to cloud your judgment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Questioning a conviction",
+   "lines": [
+    {
+     "text": "Jose said: I do not think we should fear somebody changing our belief. When you get to convictions, I do not think you should be afraid of somebody questioning them. People should earn the right to question your conviction with intelligence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: welcome people questioning your convictions if they do it in a respectful, genuine manner, because it is easy to get entrenched, and as circumstances change you adapt.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose agreed but said it must not slow your decisions. There is a danger of paralysis by analysis. If you have a conviction, go with it until proven otherwise, but assume full responsibility and keep the pace.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of your opinions have you questioned enough to call a conviction?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an opinion you hold.",
+   "Write what you have done to question it.",
+   "Write a conviction you hold.",
+   "Write who you would let question it.",
+   "Write how you will keep pace while you question."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a conviction has in his table metaphor?",
+   "choices": [
+    "Four legs",
+    "One leg",
+    "No legs"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say escalates an opinion to a conviction?",
+   "choices": [
+    "Questioning it",
+    "Repeating it louder",
+    "Ignoring it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you must not do while you analyze?",
+   "choices": [
+    "Slow your decisions to paralysis",
+    "Ask questions",
+    "Take notes"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Question your opinions until they are convictions. Do not freeze while you do.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

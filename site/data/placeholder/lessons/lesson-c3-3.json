@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c3-3",
+ "title": "Picture it, tag its value",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How vividly can you picture what you want to do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Imagination creates the reality",
+   "lines": [
+    {
+     "text": "Jose said that elevating emotion sets an anchor, whether the event is imagined or not. He gave the example of a child who hears gossip that a best friend spoke badly of them, gets upset, summons the courage to confront the friend, and learns it was not true. The imagined event was as emotional as a real one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked why that works. Jose answered with a visualization: picture yourself thirsty, opening the refrigerator, grabbing a jar of water. What color is the jar, which hand? Your imagination created that reality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that the more emotionally engaging it is, the more likely you are to commit to the intention.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Value tagging",
+   "lines": [
+    {
+     "text": "Jose said it is called value tagging: you determine the importance of some information. If something is important, such as a big deal, your emotional engagement is high, so your focus, visualization and imagination are high.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the more you think about it, the more you create paths and decision trees to the outcome. Another said: if you visualize the logo before you start working on it, then all you have to do is execute.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is one thing you could picture in detail before you start it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one task you will do this week.",
+   "Write it as a film: where, with what, how it looks.",
+   "Write why it matters to you.",
+   "Write the decision tree: if this happens, then that.",
+   "Write what you will see when it is finished."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call determining the importance of information?",
+   "choices": [
+    "Value tagging",
+    "Filing",
+    "Rounding"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens as emotional engagement rises?",
+   "choices": [
+    "The intention gets stronger",
+    "You forget it",
+    "It costs more"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about visualizing a logo first?",
+   "choices": [
+    "Then you only have to execute",
+    "It wastes time",
+    "You never finish"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Picture it vividly. Know why it matters.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

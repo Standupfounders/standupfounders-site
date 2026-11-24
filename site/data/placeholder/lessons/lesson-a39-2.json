@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a39-2",
+ "title": "Perspective scales",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you feel the pressure, whose scale are you measuring it on?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Perspective scales",
+   "lines": [
+    {
+     "text": "A student said: it is encouraging. It puts the level of our day-to-day problems back into perspective, the size of it. It is not such a huge burden in comparison. But at that level, obviously things change, the severity is different, and it all seeps into each other. You can get a perspective on how to or how not to handle it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: perspective is a key word. You could have a person who spent his last thousand dollars on a venture, and one who spent his last two hundred million. It scales, but it is the same thing: your risk tolerance. The amount of money is almost irrelevant. It is all your perspective of it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is all proportional to your stakes. Jose said: that's right. The person who gambles the whole thousand and says: I believe in my conviction is just as powerful as the one doing it with two hundred million. It is about their belief systems, convictions and work ethic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How much can you help?",
+   "lines": [
+    {
+     "text": "Jose said that he found himself thinking philosophically: what is our role with our parents? Do we have an obligation for their well-being? And not just parents: what about your brothers and sisters, your family?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Imagine a person with that much money and the people who come to him saying: I need help. How much can you help? Have you helped too much and are now underwater? Some of us have that need to be the saviour of people, because it makes us feel good, and maybe we have a childhood trauma that puts us in that position. What we are really doing, he said, is healing ourselves from somebody who didn't help us when we were seven years old.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do if the help you give is really for the child in you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the biggest stake you have put into something.",
+   "Write what it says about your risk tolerance.",
+   "Write what you owe your family, in your own terms.",
+   "Write where you help more than you can.",
+   "Write who you could talk to if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is almost irrelevant to risk tolerance?",
+   "choices": [
+    "The amount of money",
+    "The conviction",
+    "The work ethic"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a problem looks like compared with larger ones?",
+   "choices": [
+    "Smaller, back in perspective",
+    "Bigger",
+    "The same"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask about parents?",
+   "choices": [
+    "Do we have an obligation for their well-being?",
+    "Do they pay?",
+    "Do they visit?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep your perspective: stakes scale, risk tolerance doesn't. Know when your help is for you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

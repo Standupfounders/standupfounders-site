@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-d4-5",
+ "title": "Your story and what you say no to",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Can you tell your story in a way that is simple, relevant and repeatable?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your story",
+   "lines": [
+    {
+     "text": "Jose said: ask what in your story indicates success, why they need you and what you will do in the customer's life. He said every story has good and evil and a hero, and that in your story you are the one who will fix the problem and empower the person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave exercises: write your story; analyze each of your social media and summarize your image; write a paragraph about who you are now in front of people and who you want to be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Simple, relevant, repeatable",
+   "lines": [
+    {
+     "text": "Jose said that one of his rules is three things about your messaging: simplicity, relevance and repeatability. It must be simple, relevant and repeatable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that one example from a student of an online butcher's videos shows how appealing to the senses and the anticipation of the taste carried the message. The student said he would be cautious: he may like the person's story but not his model or behavior.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What you say no to",
+   "lines": [
+    {
+     "text": "A student said: branding is also what you do not do. Jose said that is an important part, and that the ability to say no gives you the freedom to choose who you want to be, though he still struggles with it. He said there is a thin line between no, that is not what I do, and yes, I need to adapt and take risks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the one sentence about you that people will repeat?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your story in one paragraph.",
+   "Write where you are the hero for the customer.",
+   "Write your message in one simple, relevant, repeatable line.",
+   "Write what you say no to.",
+   "Write your social media image in a paragraph."
+  ]
+ },
+ "check": [
+  {
+   "q": "What three words did Jose give for messaging?",
+   "choices": [
+    "Simple, relevant, repeatable",
+    "Loud, long, late",
+    "Fast, free, fun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say branding is also about?",
+   "choices": [
+    "What you do not do",
+    "What you buy",
+    "What you wear"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say saying no gives you?",
+   "choices": [
+    "The freedom to choose who you want to be",
+    "Less work only",
+    "More clients"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Tell your story simply. Know what you say no to.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

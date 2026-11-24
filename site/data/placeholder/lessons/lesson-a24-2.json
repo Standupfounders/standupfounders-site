@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a24-2",
+ "title": "Keep your network warm",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last call someone from school just to say hello?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Keep people in check",
+   "lines": [
+    {
+     "text": "A student said it is a very short chapter but it tells you that sometimes we meet people along the way who can't immediately help us pursue a goal, but if you keep those people in check, some time later down the road they could be of huge help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "So always maintain crucial relationships with those who could be a support or a key individual who could help you tackle your company's problems, the student said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A group that stays in touch",
+   "lines": [
+    {
+     "text": "Jose said: how much effort did we put into maintaining relationships with people from high school? I just had my reunion. We chat every day: twenty of the thirty-six who graduated with us are active in the chat. We know what we're doing every day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We all went to boarding school together, he said. When we are in a city where one of the guys lives, we meet for dinner. It is the same with my fraternity brothers. A very tight group. I have done multiple businesses with them and I always go back to them for resources.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How much nurturing do we do of our network of contacts and friends? he asked. People we went to school with had trust before there was money, before people came with only economic interests, with the innocence we have at school.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who in your network have you not called, and what could you offer them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write ten people you have lost touch with.",
+   "Write what you could offer each.",
+   "Write the group you could rebuild.",
+   "Write who from your past you would call first for a problem.",
+   "Write when you will call the first one."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about people who can't help you right away?",
+   "choices": [
+    "Keep them in check; later they could be of huge help",
+    "Forget them",
+    "Ask them for money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about his high school group?",
+   "choices": [
+    "They chat every day and meet when they are in the same city",
+    "They never speak",
+    "They only meet yearly"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say schoolmates have that others lack?",
+   "choices": [
+    "Trust from before there was money",
+    "Better jobs",
+    "More free time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep your network warm before you need it. Offer before you ask.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

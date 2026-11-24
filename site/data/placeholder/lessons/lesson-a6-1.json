@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-a6-1",
+ "title": "Two sides of the page",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you the person who sees the future, or the person who gets today's tasks done?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two sides of the page",
+   "lines": [
+    {
+     "text": "A student said what the person learned from a conflict with a partner: being a hardcore boss isn't always the best way to get things done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Imagine you draw a line down the middle of a page, Jose said. On one side is the mad scientist: visionary, intuitive, goal-oriented, seeing the future. On the other side are the operational people who help you get there. There will always be that division.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He used the personality test: intuitive people and sensors. Sensors are in the here and now. A person with fifty things to do today gets great anxiety from someone who only talks about the future of banking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We have to learn to balance that, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Nuggets of gold",
+   "lines": [
+    {
+     "text": "He gets on a mission, Jose said, and on the way he finds little nuggets of gold. You have a vision for a business and on the road you find an opportunity: oh my God, I didn't see this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "His example: a payment system built on email that became the core business, and a company that wanted to colonize another planet found itself with a satellite business. The road takes you off the road, he said, to a destination where you say: I just found something.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it's impossible for one person to have the balance, and that's why working as a team is good. If nobody is taking risks and thinking like a visionary, there won't be big next tasks. And the other way around.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he has seen what happens to a company when the innovation leaves and only corporate people doing daily tasks are left.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which side of the page are you on, and who is on the other?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write which side of the page you are on: visionary or operational.",
+   "Write who is on the other side in your work.",
+   "Write the one thing each of you finds hard about the other.",
+   "Write a nugget of gold you found on the way to something else.",
+   "Write how you will share the balance."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose describe the visionary side?",
+   "choices": [
+    "Mad scientist, intuitive, goal-oriented, seeing the future",
+    "Careful and slow",
+    "Always on time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about balance?",
+   "choices": [
+    "It's impossible for one person; that's why teams are good",
+    "One person can do it all",
+    "Balance doesn't matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call the opportunities found along the way to a mission?",
+   "choices": [
+    "Nuggets of gold",
+    "Mistakes",
+    "Detours to avoid"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your side of the page. Build a team that covers the other.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

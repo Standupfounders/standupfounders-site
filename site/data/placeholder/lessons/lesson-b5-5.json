@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "id": "lesson-b5-5",
+ "title": "Where does loyalty come from?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Think of the moment you met someone who became important in your life. What did you feel?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "That intuition that you had when you first met him",
+   "lines": [
+    {
+     "text": "Jose asked: think of a time you met somebody and felt, I'm going to be good friends with this person, or I'm going to have a long relationship with this person. Go to the first few seconds that you met them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that, in the beginning, they were probably looking at the wrong things: material wealth. They thought, this is someone who has made it. Now they value intrinsic things like happiness more.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "You can move from the outside to the inside, Jose said. The more you are centered, the more you notice people who are close to your essence: your values, your integrity, the way they live. Someone more on the outside may have one or two qualities you like, but they are not close to the core of who you want to be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is why different mentors give you different things, he said, while you are building who you really are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a close friend from high school who disappeared from everyone's lives for twenty-five years. Then he came back and said: I lost twenty-five years of something that was really important to me, my friends from high school. They talk every day now.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where does loyalty come from?",
+   "lines": [
+    {
+     "text": "The biggest lesson I learned from this chapter is loyalty, Jose said. Where does loyalty come from? Even though the author is brash, he is mission oriented. He values people. He cares about people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose read a line about the people the author first recruited.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "over the years I had built. This loyalty of the 11 people that I first recruited. 7 came back to me immediately to sale with me.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "When you create that loyalty, Jose said, it is because you genuinely care about the other person. If you don't genuinely care about people, you've got another problem. You have to analyze what is missing in your life that you don't have the ability to have empathy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He looked around his own life. I've had employees who lasted more than twelve years each, he said. I've been with one partner for over twenty years, and others for twenty-two and twenty-five. We've never even argued. We have lost money together. But we have always been loyal to each other. What creates that? Genuinely caring about each other.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Even in a big company, he said, you still have that magic: does my direct boss care for me? Do they really care? Or is it a cold organization? I don't believe a company will succeed like that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is loyal to you, and what did you do to earn it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the moment you met someone who became important. What did you notice in the first seconds?",
+   "Write what you were looking at then, and what you look at now.",
+   "Write who is loyal to you.",
+   "Write how you show that you care about them.",
+   "Write one person you will reach out to this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say loyalty comes from?",
+   "choices": [
+    "Genuinely caring about the other person",
+    "Paying well",
+    "Working long hours"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say they looked at too much when meeting someone early on?",
+   "choices": [
+    "Material wealth",
+    "Age",
+    "Education"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about his own long partnerships?",
+   "choices": [
+    "They lasted because they genuinely care about each other",
+    "They were never tested",
+    "They were short"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Loyalty comes from genuinely caring. Look for the core, not the outside.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": "lesson-b3-3",
+ "title": "You can have the most beautiful telephone in the world",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If your telephone never rings, does it matter how beautiful it is?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You can have the most beautiful telephone in the world",
+   "lines": [
+    {
+     "text": "As Jose retells the chapter, the author is doing three things: getting people to sign up for a frequency they don't have, creating enough strong content to build viewers, and getting advertisers to fund it all.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that is a separate business each time: signing people up, creating the content, and getting the advertisers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You can have the most beautiful telephone in the world, he said, but if it doesn't ring you get no business. You can have the most beautiful website, and social media, and Instagram. They are equivalent to what he was doing back in the day: developing communication and distribution platforms for content. It's the same thing, just a different technology.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A very creative deal",
+   "lines": [
+    {
+     "text": "A student noted that the author sold the seller on future returns. The student read what the author wrote.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Look, I'll buy the team, but I can't afford to pay cash. How about I give you a million dollars down and you give me 9. Rest of interest.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Very creative, Jose said. But I'm always amazed at the amount of risk this guy takes. How hard is it to start a business? It is super hard.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you start a business, he said, there are inherent risks. Is the market there? How am I going to get traction? How am I going to get the first money in? And he is buying losing businesses. You are in negative numbers, and you are changing the whole culture and the people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They say it is easier to start a new house than to tear down an old one, he said, because you don't know the problems it has.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How am I going to fuel the growth through sales?",
+   "lines": [
+    {
+     "text": "Most people do value investing, Jose said. That is the typical lower-risk scenario: a business with good fundamentals, making cash, growing by good acquisitions. But how many companies do you know that buy losing businesses? Not a lot.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is very sales oriented, Jose said, and he got that from his dad, selling billboard space.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He applied it to someone he teaches: you are highly technical, you are heavy on operations. So how are you going to fuel the growth through sales? How are you going to do what he's doing, with your little business in perspective?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "To do what he's doing, Jose said, he can't just sit on a high-level strategy. He must have an operation that is reaching its daily revenue goals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells it, the author sometimes slept in his office so he would not lose time driving. I can't afford the time to drive to my office, Jose said, imagine that mentality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How are you going to fuel your growth through sales?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the platforms you use to reach people: a phone, a website, social media.",
+   "Write what makes people actually 'ring': the content, the offer.",
+   "Write how you will fuel your growth through sales this month.",
+   "Write one daily revenue or sales goal.",
+   "Write one thing you could stop doing to save time."
+  ]
+ },
+ "check": [
+  {
+   "q": "What happens if you have the most beautiful telephone and it never rings?",
+   "choices": [
+    "You get no business",
+    "You win customers",
+    "You save money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which saying did Jose use about buying a losing business?",
+   "choices": [
+    "It is easier to start a new house than to tear down an old one",
+    "Measure twice, cut once",
+    "Better late than never"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which question did Jose put to the person he teaches?",
+   "choices": [
+    "How am I going to fuel the growth through sales?",
+    "How big is your office?",
+    "How many staff do you have?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "A beautiful platform is not enough. Fuel your growth through sales.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

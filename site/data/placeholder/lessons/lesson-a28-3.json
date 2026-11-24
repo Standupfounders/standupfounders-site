@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a28-3",
+ "title": "No language of limits",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you have the language of limits in your head?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Repetition",
+   "lines": [
+    {
+     "text": "Jose said: are you in a constant state of repetition, with positive emotion, to create the possibilities you want? Are you making that success familiar? Are you creating momentum every day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: when you don't have the repetition, it is incongruence. You don't line up your actions with what you want to happen. Jose said: you don't go into the details.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person has a structure for repetition and for using the imagination to say: we can get it done. That is his leadership style. He goes into a surge, and pushes people to the limits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "No language of limits",
+   "lines": [
+    {
+     "text": "What one of the things I am learning from this book, Jose said, is that he has the ability to shut everything off around him and focus. Think of him staring at a little toy car and asking: why can't we do a single die-cast for the whole underbody of the car?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People said: because there is no casting machine that big. And he said: well, why not? He is relentless about: why can't we get it done?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Does he even have that language, Jose asked: oh, no, that can't be done? He doesn't. He said that is what he is extracting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The summary",
+   "lines": [
+    {
+     "text": "Jose said that a person faced with a company going bankrupt, with an enormous amount of stress, would panic and go into action mode. But he goes into a thought process: analyzes the problem, uses visualization, keeps a positive emotion about the possibilities, and uses repetition to transcend limiting beliefs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If I asked you how you are going to make a million in six months, it is not familiar, so it feels like a threat. If I asked after you visualized for six months, you would have all the confidence in the world, because you have thought about it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We haven't developed the habits to think about how we want to be successful, he said. We need thought habits with specific, measurable goals, and to be relentless. That is how we see opportunity everywhere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What limit do you say out loud that you could replace with a question?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a goal and repeat it every day this week.",
+   "Write what you do not line up with it.",
+   "Write a limit you say often.",
+   "Write the question you will ask instead: why not?",
+   "Write a specific, measurable goal."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say a lack of repetition is?",
+   "choices": [
+    "Incongruence",
+    "Rest",
+    "Strategy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the person asks about limits?",
+   "choices": [
+    "Why not?",
+    "Who said so?",
+    "How much?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we need to see opportunity everywhere?",
+   "choices": [
+    "Thought habits with specific, measurable goals",
+    "A bigger office",
+    "More meetings"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Repeat the goal in detail. Replace 'that can't be done' with 'why not?'.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

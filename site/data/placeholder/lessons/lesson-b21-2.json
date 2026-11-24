@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-b21-2",
+ "title": "Stock doesn't necessarily mean the value of a company",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When a stock is flying, what do you check?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why did they not see what was going on?",
+   "lines": [
+    {
+     "text": "Jose read a line from the author about the merger.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I was feeling awful, and even though I had my doubts about the merger, I reluctantly supported it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "A student asked: if he didn't like the idea, why did he agree and sign? Why didn't he see the red flags? Jose said: it is amazing that very smart people, billionaires, didn't see what was going on.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose's explanation for the author: number one, he's on the board with no power anymore. Number two, he is going through a divorce, and I think his mind wasn't totally there. And the most obvious thing: nobody understood how to value the internet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Stock doesn't necessarily mean the value of a company",
+   "lines": [
+    {
+     "text": "The author says he never understood how an internet access company had such a market cap, because it was mainly dial-up accounts, Jose said. He believed that in time they would use the cable for broadband.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose explained how it became almost like a hostile takeover. In a huge merger there are teams, investment banks, lawyers. They valued the company on its market cap and the current stock, but the stock was inflated. Multiplied by the outstanding shares, the valuation said they were worth more than the older company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Stock doesn't necessarily mean the value of a company, he said. It is an indication of the perception of the market. Generally the net revenue and the health of the company, the balance sheet, reflect the stock price, but not necessarily.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So when you look at a stock and it's really flying, you have to breathe, calm down and go to the balance sheet. How much debt do they have? How much are sales increasing? What's their overhead? The fundamentals of the health of a company should indicate the stock price, but not necessarily.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the number behind the price you are looking at?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write something you are tempted to buy or invest in because its price is rising.",
+   "Look at its fundamentals: debt, sales growth, overhead.",
+   "Write whether the price reflects the health of the business.",
+   "Write who you could ask to read the balance sheet with you.",
+   "Write the date you will check again."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say stock is an indication of?",
+   "choices": [
+    "The perception of the market",
+    "The exact value of the company",
+    "The company's age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do when a stock is really flying?",
+   "choices": [
+    "Breathe, calm down and go to the balance sheet",
+    "Buy more",
+    "Sell at once"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say nobody understood at the time?",
+   "choices": [
+    "How to value the internet",
+    "How to read",
+    "How to sail"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "A stock price is a perception. Check the balance sheet and the fundamentals.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

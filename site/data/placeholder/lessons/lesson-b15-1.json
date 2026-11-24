@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-b15-1",
+ "title": "War starts when people stop talking",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you stop talking to someone, what starts?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Do whatever you need to do to get it done",
+   "lines": [
+    {
+     "text": "Jose said this chapter has two or three major lessons for him. One is how strategic and visionary the author is, how he takes risks and thinks outside the box.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells it, the author told the reporter covering a war: do whatever you need to do to get it done, I don't care about the budget. The cost could have been anywhere between two and thirty-five million dollars. Jose said he was amazed it got through the board.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the biggest thing was that when the other news channels were covering the channel itself, it set them apart and took them to a completely different level.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: everybody else is behind a desk, and here is this man negotiating with government officials to cover the war on both sides. He is creating cultural bridges between two countries at war.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "It's a world report",
+   "lines": [
+    {
+     "text": "Jose said he loves one of the author's lines. A student read it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "War starts when people stop talking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Now he is reaching another level of foreign politics and sensitivity, Jose said. We have talked about being unbiased and unprejudiced and the privileges it brings.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How brilliant is it, Jose said, that he calls the program a world report. It is not American journalism. It is world report. He makes it inclusive to all the countries. He is changing the image of the channel again.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you change about the name of what you do, to make it inclusive?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a conversation you stopped having.",
+   "Write what has grown in its place.",
+   "Write one thing you could say to restart it.",
+   "Write the name or promise of what you do, and who it leaves out.",
+   "Write one way to make it more inclusive."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the student read as the author's line?",
+   "choices": [
+    "War starts when people stop talking",
+    "War ends when people win",
+    "Talk is cheap"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the name 'world report'?",
+   "choices": [
+    "It makes it inclusive to all the countries",
+    "It is too long",
+    "It is local"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the other news channels were doing while the author negotiated?",
+   "choices": [
+    "Sitting behind a desk",
+    "Covering the war on site",
+    "Closing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep talking. Name what you do so that it is inclusive.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

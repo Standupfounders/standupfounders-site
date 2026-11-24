@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a25-2",
+ "title": "Are they giving their best?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you know when your people are giving you their best?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Draw, lead, gauge",
+   "lines": [
+    {
+     "text": "A student said: when they looked into designing the truck, he draws from past inspiration and other ideas. Jose said: but he is creating something totally new, so he has no reference. Think how difficult that is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the process for obtaining the results he promotes, he does himself. He leads by example. Jose said: but he can't do it all. He has to rely on other people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: he has a good indicator of whether somebody is giving 100 percent of their effort, and he doesn't tolerate not getting it. Jose said: write down the criteria: are the people giving me their best? Are they making excuses? Do they make a decision?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Momentum",
+   "lines": [
+    {
+     "text": "Jose said: it doesn't matter whether you are right or wrong. The inability to make a decision will stall you at some point. You have to make a decision.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: who knows what momentum is? Mass times velocity. It is a bit of a metaphor, he said. In combat sports like jiu-jitsu it is all about momentum: starting and stopping, timing, when to move and when to stall.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How do you know when you don't have momentum in a company? A student said: when you are not producing anything. Jose said: you could have no outcomes because you have a problem. Another said: when the outcomes you don't want outweigh the outcomes you do want.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you look at today to see if your team has momentum?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your criteria for a team member giving their best.",
+   "Write how you gauge effort without guessing.",
+   "Write one decision you have been avoiding.",
+   "Write whether your company has momentum, and how you know.",
+   "Write the outcomes you don't want that outweigh the ones you do."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about the person's way of leading?",
+   "choices": [
+    "He leads by example",
+    "He delegates everything",
+    "He never checks"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say stalls you at some point?",
+   "choices": [
+    "The inability to make a decision",
+    "Too many decisions",
+    "Too much success"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Jose define momentum?",
+   "choices": [
+    "Mass times velocity",
+    "Speed alone",
+    "Size alone"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know what 100 percent effort looks like. Decide. Check your momentum.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

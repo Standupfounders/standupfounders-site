@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a8-2",
+ "title": "Price against cost",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Would you pay three times what something costs to make?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The idiot index in real estate",
+   "lines": [
+    {
+     "text": "Jose said investors told him over lunch about incredible investments by developers in one city. He was already pessimistic. He asked: what is the final price per square metre of these units?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They said four thousand five hundred a square metre. Jose said he knew for a fact that banks there were financing construction costs to developers at about twelve hundred. Construction companies in competitive markets make thirty-five to forty percent margins. So add thirty-five or fifty percent to the cost and you see the retail buyers are paying about three times what they should.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is the idiot index, he said. Why would I ever pay literally three times the cost of something? That is market speculation on the part of a developer.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Discover value before anybody else",
+   "lines": [
+    {
+     "text": "A student said it is easy to go down the rabbit hole and get lost in an idea. If you are not thinking big picture about what is actually valuable, it could become the demise of the business and the person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "There are many wisdom sayings, Jose said. One is: making money is discovering value before anybody else does. You can look at a run-down building and see that it needs an architect and a construction company, and that the units could be split, in a great area.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Do the economic study of the comparables, he said: the rents, whether it has parking. Somebody else could be driving past and just see a run-down building.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Data over a gut feeling",
+   "lines": [
+    {
+     "text": "Some people have such high business intuition that they don't even do the spreadsheets. Their feeling is based on years of experience. They pull the gun out of the holster and shoot, Jose said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Even if you have that intuition, I would go to the data and the evidence, he said. The person in the book does the research and goes for the evidence, reading all the time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When a broker says it is a great investment because of who the developer was, he says: who cares? Maybe it is overpriced. Look at a hundred transactions within five miles. Look at the rents.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the price against the cost, and what do a hundred comparables say?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an investment someone has pitched you.",
+   "Write the price and the real cost behind it.",
+   "Write the comparables you would look at.",
+   "Write the intuition you have and the data that would test it.",
+   "Write one thing you could buy at its cost and sell at its value."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask the investors about the units?",
+   "choices": [
+    "The final price per square metre",
+    "The colour",
+    "The developer's name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say making money is?",
+   "choices": [
+    "Discovering value before anybody else does",
+    "Spending less",
+    "Waiting"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What would Jose do even with a strong intuition?",
+   "choices": [
+    "Go to the data and the evidence",
+    "Ask a broker",
+    "Wait a year"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Compare price to cost. Back your intuition with data.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

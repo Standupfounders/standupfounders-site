@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a22-4",
+ "title": "Public and private",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where does your private life show up in your public one?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Public and private",
+   "lines": [
+    {
+     "text": "Jose said that a public company's chief executive cannot announce something that people can interpret in a way that costs them millions of dollars. There are a lot of rules with publicly traded companies about misrepresentation. He said the person in the book was not even aware, and now his private life was getting into his public life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: there should be an attempt at separating it, but if you accomplish your goals, it is more than likely your private life will seep out into the public domain, especially if you build a personal brand around yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A congruent brand",
+   "lines": [
+    {
+     "text": "Jose said we know a lot about the movie stars, because everybody focuses on them. Many are very conscious of how they develop their public brand, and some develop their private brand too.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave an example of a well-known actor with a humble, very private persona. The photographers respect it. He has created a brand of the private and humble, so that you only hear good news about him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Be aware of how to create your personal persona, Jose said, and make sure it is congruent with your public, personal and private life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "It depends where you are",
+   "lines": [
+    {
+     "text": "A student said: depending on the culture, people judge you on your personal life. In a small community, if you have a convenience store and your child gets into fights at school, people say: don't go to that store. It can damage your business and your image. It depends on where you are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: one hundred percent.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would a customer learn about you from your private life, and does it match?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what a customer could find out about you.",
+   "Write whether it matches what you say about yourself.",
+   "Write what you want to keep private, and how.",
+   "Write what the rules are for statements in your industry.",
+   "Write who you will ask before announcing something."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about statements by the head of a public company?",
+   "choices": [
+    "They can cost people millions if misread",
+    "They are always safe",
+    "They are private"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say will probably happen to your private life if you succeed?",
+   "choices": [
+    "It will seep into the public domain",
+    "It will stay hidden",
+    "It will disappear"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say your persona should be?",
+   "choices": [
+    "Congruent across public, personal and private",
+    "Different in each place",
+    "Secret"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep your public and private life congruent. Know the rules for what you announce.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

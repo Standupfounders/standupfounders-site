@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a13-4",
+ "title": "Take a stance",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which side are you on, and have you thought about it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What do we lose?",
+   "lines": [
+    {
+     "text": "A student in the banking industry said they are aggressively looking to streamline efficiencies with AI, especially in customer service. When people call a company they sometimes really want to speak to a human being, because they feel more understood.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said we will lose a lot of that: you will see fewer human beings on the phone. What we lose is sympathy, the ability to understand what a customer is feeling.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Take a stance",
+   "lines": [
+    {
+     "text": "Jose said it is interesting where these two men draw the line philosophically, because it prompts us as business people and as thinking human beings: are we on one side or the other?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is something we cannot avoid, he said. We are going to have to take a stance, and the awareness of that decision, and where we stand, is very important. A lot of people won't think about these questions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: can I keep agreeing to the terms and conditions without reading them? Jose said: yes, and there is a revolutionary impact in what these people are doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some of them say: we have a massive responsibility to humanity. Others say: I'm just going to profit from it and offer the technology, Jose said. He added that he is not trying to make a judgment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to look up these companies and see what they are doing in real life, and to see whether it is consistent with the way the author writes the story.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where do you draw your line, and what would you do if you had to defend it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what a customer loses when a machine answers.",
+   "Write where you want a human to answer.",
+   "Write where you draw your line on technology and why.",
+   "Write a company you will look up to see whether it matches its story.",
+   "Write how you will tell your team where you stand."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say customers sometimes really want?",
+   "choices": [
+    "To speak with a human being",
+    "A faster machine",
+    "A longer menu"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we are going to have to do?",
+   "choices": [
+    "Take a stance",
+    "Avoid the topic",
+    "Wait for others"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do about what an author writes?",
+   "choices": [
+    "Look up the companies and see if it's consistent",
+    "Believe it all",
+    "Ignore it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the cost of automating. Take a stance and defend it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

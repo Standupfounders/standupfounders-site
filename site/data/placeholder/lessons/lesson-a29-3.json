@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a29-3",
+ "title": "Desire and being satisfied",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you want so much that its absence makes you unhappy?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Desire and boredom",
+   "lines": [
+    {
+     "text": "Jose said the third philosopher is famous for saying, as Jose puts it, that people suffer either because their desires are not fulfilled, or from boredom when the desires are satisfied. He believed desire was the cause of misery, and pessimism.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he doesn't think that idea comes from that philosopher. He thinks it comes from Taoism, which is much older.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Four things in Taoism",
+   "lines": [
+    {
+     "text": "He summarized Taoism as four things: embracing the simplicity of life, embracing the primitive things like eating and sleeping, reducing selfishness, and the most important and relevant, not having desire.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You might think that is impossible, Jose said, and people would argue that it is. Taoism says you shouldn't pursue desire: you should allow things to unfold naturally, because if we desire love in our relationships and don't get it, we get disappointed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: so it is more like being satisfied in the present. Jose said: yes, a lot of it is about being satisfied in the present.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where in your life would you let things unfold?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one desire you hold that you might drop.",
+   "Write the disappointment it has caused.",
+   "Write what satisfied in the present would look like for you.",
+   "Write one simple thing you could embrace today.",
+   "Write who could check Jose's summary of these ideas."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say Taoism says about desire?",
+   "choices": [
+    "Don't pursue it; let things unfold naturally",
+    "Pursue it fully",
+    "Hide it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say Taoism sounds like?",
+   "choices": [
+    "Being satisfied in the present",
+    "Always planning",
+    "Competing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say causes disappointment?",
+   "choices": [
+    "Desiring something and not getting it",
+    "Resting",
+    "Reading"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice the desires that disappoint you. Practise being satisfied in the present.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

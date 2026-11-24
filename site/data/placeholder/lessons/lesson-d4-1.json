@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "id": "lesson-d4-1",
+ "title": "The image in their mind",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What image do people have of you before they meet you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "First impressions",
+   "lines": [
+    {
+     "text": "A student summarized chapter 4: making a first impression before you have even met the person, because of social media. The chapter uses a famous chef as an example.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he found the choice interesting, because that chef separated himself from other chefs by being an aggressive, unfiltered leader, when chefs before had acted aristocratic. He said it is a great example of branding.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: your reputation is integral to being a leader, and the book compares different leaders, so you can stand out in your authority.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What do people picture when they hear your name?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what people see online before they meet you.",
+   "Write the image you want.",
+   "Write one gap between them.",
+   "Write the first thing you will change.",
+   "Write who could tell you honestly."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say a first impression can happen through?",
+   "choices": [
+    "Social media before you meet",
+    "Only meeting in person",
+    "Only a letter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the chef did?",
+   "choices": [
+    "Separated himself from other chefs",
+    "Copied other chefs",
+    "Left the field"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is integral to being a leader?",
+   "choices": [
+    "Your reputation",
+    "Your age",
+    "Your office"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "People form an image before they meet you. Choose it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

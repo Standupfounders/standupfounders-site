@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-a21-5",
+ "title": "Can you carry the weight?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Whom do you carry, and what would you have to give up to carry them well?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Picking up strays",
+   "lines": [
+    {
+     "text": "Jose said that as a teacher he is the classic one who picks up strays. His wife says: who is this sleeping on the couch now? He says: he'll stay a couple of weeks and I'll help him. And she will tell him: he's not going to make it, or he is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "One of the big questions, he said, is: do I have the time, the energy, the resources to carry this weight? A lot of us who take these roles fix the external and neglect the internal. We neglect our own homes and families.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Quality time with your children",
+   "lines": [
+    {
+     "text": "Being parents is a massive commitment, Jose said, but you have to be very disciplined. I'm going to spend five or six real hours with my child, not on the phone, not doing business. It's a luxury to be able to do that, so you plan your whole life around it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "For ten or twelve years, he said, I couldn't take meetings after three in the afternoon, because I was taking my children to their jiu-jitsu training. A five-hour deal every day for twelve years. You have to be specific about your commitment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "When it is never enough",
+   "lines": [
+    {
+     "text": "When you take on a person with personality problems or psychological issues, he said, what is my time commitment? What can I give? I have had people who got angry and resentful that I couldn't spend more time with them. They absorb more and more, and when you take it away, you become the enemy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In relationships where they are takers, because they have massive levels of anxiety, you will not help them by giving and giving. It will never be enough. If you don't help them get out of the hole on their own, he said, you will not do it by giving.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is asking for more of your time than you can give?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people you are carrying and what each takes.",
+   "Write your limit of time, energy and resources.",
+   "Write what you will plan around for the people who matter most.",
+   "Write one person to whom you will say what you can and cannot give.",
+   "Write one thing you will stop doing for yourself to be present."
+  ]
+ },
+ "check": [
+  {
+   "q": "What question did Jose ask about carrying a person?",
+   "choices": [
+    "Do I have the time, energy and resources to carry this weight?",
+    "Do they like me?",
+    "How much will it cost?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you become when you take time away from a taker?",
+   "choices": [
+    "The enemy",
+    "The hero",
+    "A friend"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about being a parent?",
+   "choices": [
+    "You must plan your whole life around the quality time",
+    "It happens by itself",
+    "It is a hobby"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know what you can carry. Plan your time for the people who matter most.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

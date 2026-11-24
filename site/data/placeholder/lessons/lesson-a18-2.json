@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a18-2",
+ "title": "Build the team",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you think in the five minutes before a meeting with the person you most want to work with?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two forces",
+   "lines": [
+    {
+     "text": "Jose said that his messaging and branding are so powerful that anybody who goes to work for him arrives with expectations. He asked a student: what would be going through your head in that reception?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said: I'd be wondering how big the vision is. It has to be all possibility thinking: there is no such thing as no. And solution-oriented, removing steps other companies might take, and doing things differently.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is not only the profile he attracts, but the one you fit into. There are two forces: the messaging of who the company is and its culture, and the other force: I aspire to be like that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What are the risks?",
+   "lines": [
+    {
+     "text": "What are the risks when you hire someone who has aspirations but not necessarily the background or the fortitude to make it? How do you judge whether a person will make it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: first, are they coachable? I would look at their resume to see how many times they have jumped jobs, because they may have had a lot of aspirations they never achieved. Look at their patterns.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: their language patterns. Jose added: negative or positive belief systems. Did they grow up with stability in their relationships? Are they long-term or short-term thinkers?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The biggest task",
+   "lines": [
+    {
+     "text": "I don't think there is a more important skill in entrepreneurship, Jose said. There is no bigger or more important task than building a team. A student said: it is by far the hardest part.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person in the book picks an idea, grabs it and says: okay, let's do it. But we want the granularity of how it becomes successful, and team building is one of the most important things. He knows who he needs to run the companies, and who to take out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is on your list for the people you want on your team?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the culture that your messaging promises.",
+   "Write the profile of a person who fits it.",
+   "Write your criteria in five items, such as coachable, patterns and language.",
+   "Write the risk of hiring an aspiring person without the background.",
+   "Write the one person you would trust to help you screen."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the most important task in entrepreneurship?",
+   "choices": [
+    "Building a team",
+    "Raising money",
+    "Naming the company"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What was a student's first criterion?",
+   "choices": [
+    "Are they coachable",
+    "Their salary",
+    "Their age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What two forces did Jose name?",
+   "choices": [
+    "The company's messaging and the person's aspiration",
+    "Money and time",
+    "Price and quality"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build the team on purpose. Set your criteria before you interview.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

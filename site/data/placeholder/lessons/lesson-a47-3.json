@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-a47-3",
+ "title": "Direction before speed",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which comes first in your business: speed or direction?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Mission",
+   "lines": [
+    {
+     "text": "Jose said: whatever we think about as entrepreneurs, we stay true to our mission regardless of the crisis. If we vary from that mission and those convictions, that is when we get into trouble.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when the people who pull in the other direction leave, there is one less obstacle to completing the mission.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Starting against buying in",
+   "lines": [
+    {
+     "text": "Jose said it is very different starting a business, with your own team and culture, and going into a business that already exists. You inherit a culture that has been doing it for ten or fifteen years, and the resistance can be a lot more than you bargained for.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Direction before speed",
+   "lines": [
+    {
+     "text": "Jose said: you can't have speed before process. You can't have speed before direction. As entrepreneurs we go fast, but we do not have efficient direction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When he said power, he meant what creates combustion: all the parts fitting together, the processes defined to the granular level. A student put it as force or energy that has to be guided through a process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said we can learn from a gardener, from the person who mows the lawn and from artists. A student added that work ethic can be learned from any walk of life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the direction in your business, and what is the process behind it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your mission in one line.",
+   "Write what would pull you away from it.",
+   "Write the process that gives you direction.",
+   "Write where you are going fast without direction.",
+   "Write one lesson you took from someone outside your field."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you can't have before direction?",
+   "choices": [
+    "Speed",
+    "Money",
+    "Friends"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens when you vary from your mission?",
+   "choices": [
+    "You get into trouble",
+    "You grow",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is very different from starting a business?",
+   "choices": [
+    "Going into an existing one",
+    "Selling one",
+    "Closing one"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Stay true to your mission. Direction first, then speed. Learn from everyone.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

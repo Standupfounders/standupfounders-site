@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a37-2",
+ "title": "Your own rules",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What rule have you set for your own team that someone else would call censorship?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Terms and private rules",
+   "lines": [
+    {
+     "text": "Jose said that the social network has terms of service, and the right to suspend accounts on violation, and what counts as a violation is not concrete. It is interpreted in many ways. He said we should all go and read the terms, which are totally open to interpretation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: these are private businesses. In free-market capitalism I think private businesses should be able to do what they want, and it should be the people's choice whether to use a platform that they know censors. But I am being hypocritical, because it was already a massive part of the population.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "My own company",
+   "lines": [
+    {
+     "text": "Jose said that as leaders, as entrepreneurs, I believe you have to take a position, because we are what we listen to, what we read and what we write. Censorship can be as simple as saying in your company, as I'm guilty of: I don't want any negative comments.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It's all possibility thinking, no impossibility thinking, no negative comments, no victimization, he said. A student said: you're not taking away people's rights by doing that, because they have the right not to participate in this company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: and if a government says that, you're saying they have the right to leave the country? A student said: I disagree with any system where you do not have the choice. Another said: there's a choice in every decision.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What position do you take, and what would you ask your team to say about it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the rules you set for your team about what can be said.",
+   "Write which of them someone could call censorship.",
+   "Write what you would say to a team member who disagrees.",
+   "Write the choice people have to leave.",
+   "Write your position, in two sentences."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you have to take as a leader?",
+   "choices": [
+    "A position",
+    "A holiday",
+    "A loan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What example of censorship in a company did Jose give about himself?",
+   "choices": [
+    "Saying: I don't want any negative comments",
+    "Banning email",
+    "Closing the office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about private businesses?",
+   "choices": [
+    "They should do what they want, and people can choose",
+    "They should never choose",
+    "They should be shut"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Take a position. Be honest about the rules you set in your own company.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

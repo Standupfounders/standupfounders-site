@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a37-1",
+ "title": "Who decides what is harmful?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who decides what may be said in your company?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who decides what is harmful?",
+   "lines": [
+    {
+     "text": "Jose said the group would continue yesterday's discussion, taking two positions, with him as devil's advocate. The person in the book plays with the idea of buying a social network, because he believes freedom of speech is important. A friend asked: should it be like a telephone system where the words that go in one end come out the same at the other?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I took a pretty hard stance on zero censorship. Several others leaned that way. One said: no censorship, except that humans are humans, and human nature is greed and money, so unfortunately we can't be trusted with pure zero.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that paternalism is the idea that there is justification for interfering with somebody's liberty for their own good. He asked: what if somebody tweets that they are about to harm a thousand people?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: who determines harmful? Jose said: it could be that everybody agrees a tweet is very dangerous. The student said: so there is a vote. Jose said: very complicated, who picks the judges?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The line",
+   "lines": [
+    {
+     "text": "A student said: it is an ethics issue: who becomes the person who determines what is right and wrong? You could say they have good intentions, but many groups have good intentions by their own definition. There are many definitions of right and wrong, so it is a sticky line, and I think it is not a solvable problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another student said: who does the censoring, and what qualifications do they have? It is a matter of whether the censoring is in your favour or not, depending on your view.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is the dilemma. But is there content that should be cut off as harmful and irresponsible to publish? A student said: if you give that line power, where does it get drawn?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where would you draw it for the group or company you lead, and who would you ask?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the content you would not allow in your company, and why.",
+   "Write who decides.",
+   "Write how you would handle a case you can't agree on.",
+   "Write whether you would use a vote.",
+   "Write what you would do if someone you led disagreed with the line."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say paternalism is?",
+   "choices": [
+    "Interfering with somebody's liberty for their own good",
+    "Giving advice",
+    "A form of leadership"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student ask about those who censor?",
+   "choices": [
+    "What qualifications do they have",
+    "How much do they earn",
+    "How old are they"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about the line between harmful and acceptable?",
+   "choices": [
+    "It is sticky, and who determines it is the problem",
+    "It is clear",
+    "It is fixed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask who decides what is harmful, and by what right. Know your own line.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

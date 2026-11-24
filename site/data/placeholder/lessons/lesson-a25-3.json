@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a25-3",
+ "title": "Motion is not traction",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you busy, or are you getting somewhere?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Congruence",
+   "lines": [
+    {
+     "text": "A student explained incongruence: if you say you want to make 365 calls next year and you are only making one call a week, that is incongruent. If your goal isn't reflected in your daily input, it is non-congruent. If you make one a day, that is congruent.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said there is a difference between momentum and activities that aren't productive, and that we get caught up in that a lot. A student said: motion does not equal traction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Direction and power",
+   "lines": [
+    {
+     "text": "A student said: you have to weigh inputs against outputs. There are endless things demanding your attention every day. You could be doing them all and not getting anywhere. It is mass times velocity, not mass times kinetic energy. As long as you move in the right direction you could be doing one mile an hour and it's fine. The moment you move in the wrong direction, that's the problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: let's call the direction of your thoughts and actions your business strategy. Let's call your habits and the speed of that process the power and the speed. If you are not getting productivity from the activity, you go to strategy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pressure and urgency",
+   "lines": [
+    {
+     "text": "What does the person in the book do in strategy to dominate these challenges? A student said: he shortens the timeline. Jose said: he creates pressure. Why is it productive? A student said: if you have a year, you relax. If you have three months, you will innovate and find a way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: pressure creates tension, productivity and urgency. If you don't have it, you don't focus as much. In college you pulled all-nighters. It can be unsustainable, and the pace of the person in the book is crazy, but the sense of urgency affects your intellect, your will, your productivity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it almost gives you a sense of purpose.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Which of your activities would you stop if you looked at what they produce?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your goal in numbers.",
+   "Write what your daily input actually is.",
+   "Write whether they match.",
+   "Write your strategy as a direction, in one sentence.",
+   "Write a deadline you could shorten to focus the work."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say motion does not equal?",
+   "choices": [
+    "Traction",
+    "Speed",
+    "Time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call the direction of your thoughts and actions?",
+   "choices": [
+    "Business strategy",
+    "Your habit",
+    "Your speed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say pressure creates?",
+   "choices": [
+    "Tension, productivity and urgency",
+    "Calm",
+    "Delay"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Match your inputs to your goal. Choose the direction before the speed. Use urgency, not exhaustion.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

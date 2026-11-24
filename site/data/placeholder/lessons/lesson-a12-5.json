@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a12-5",
+ "title": "Where does my business fit?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which big company has a need your business could meet?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Partner with the right expert",
+   "lines": [
+    {
+     "text": "A student said it is an important chapter. The person is understanding that partnerships are required, and that it is smart to go to the ones with expertise and experience. A big old company, they said, had to admit it did not have a clue about batteries and needed the right crew.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: sometimes we need to identify the right partner. The most successful restaurants come when you partner with someone who is passionate about the operation or the chef, so the product is consistent and they care for the employees.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said the person got a carmaker to sell him a plant at a very low cost and to put in more money on top. They said he is making great moves, understanding his environment and what could help his company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Where does my business fit?",
+   "lines": [
+    {
+     "text": "Jose said the person is maturing in his value proposition, and the way he presents it as promising for slower-moving companies. The question for us is: where does my business fit in the value proposition of the massive companies around me?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What am I proposing that is unique, and that these companies just need? How am I designing my services and products around the exact need of those big industries, and how do I present it so they say: this is a must, I have to do this?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Operator and visionary",
+   "lines": [
+    {
+     "text": "A student said: generally the best restaurants have an operator and a visionary, and it needs to be two different people. In business you may have to be both at the same time and measure effectiveness and efficiency on two different scales.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student added: look at what nobody else is doing that is low-hanging fruit, a slight adjustment from what everybody else is doing that makes you stand out tenfold.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the slight adjustment that would make you stand out?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the big company that could use what you do.",
+   "Write the exact need you meet for them.",
+   "Write your unique proposal in two sentences.",
+   "Write who is the operator and who is the visionary in your venture.",
+   "Write the slight adjustment that makes you stand out."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about restaurants?",
+   "choices": [
+    "They need an operator and a visionary, usually two people",
+    "They need no partner",
+    "They need a famous name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question did Jose ask about big companies?",
+   "choices": [
+    "Where does my business fit in their value proposition?",
+    "How big are they?",
+    "Who owns them?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about the person's partnerships?",
+   "choices": [
+    "Partnerships are required, with those who have the expertise",
+    "He needs no partner",
+    "He avoids partners"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find the partner with the expertise. Fit your offer to a big company's need.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

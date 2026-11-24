@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-c7-3",
+ "title": "Hiring for culture",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What three things do you look for in a person you might hire?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What you look for",
+   "lines": [
+    {
+     "text": "Jose asked: when you hire, what are the top three things your attention goes to? A student said: attitude and perception, how much knowledge they have, and how they carry themselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Warning signs for your culture",
+   "lines": [
+    {
+     "text": "A student said: if in the first conversation they start talking about negative things that happened to them, or bring up any negativity at all.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: one of the worst things somebody can do to a culture is not be coachable, or be set in their ways, and automatically poke holes in a new process instead of embracing it. I sniff that out immediately.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A third said: look at how they were successful in a collaborative environment. Someone who says I did this and I executed that, but speaks little about collaboration, may single themselves out. He does not want to gain one person's skills and lose eight people on his team.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Your own list",
+   "lines": [
+    {
+     "text": "Jose asked each of them to name the signs of someone who could ruin the culture, and built the list from their answers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are your three characteristics and your three warning signs?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the three characteristics you look for.",
+   "Write the three warning signs.",
+   "Write a question that would show coachability.",
+   "Write a question that would show collaboration.",
+   "Write how you will check a candidate's answers."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say is one of the worst things for a culture?",
+   "choices": [
+    "Not being coachable",
+    "Being early",
+    "Asking questions"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student look for in an interview?",
+   "choices": [
+    "How they succeeded collaboratively",
+    "How many awards",
+    "How fast they talk"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about negativity in the first conversation?",
+   "choices": [
+    "It is a warning sign",
+    "It is a good sign",
+    "It is irrelevant"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Hire for attitude, coachability and collaboration. Know your warning signs.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

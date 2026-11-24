@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-d2-5",
+ "title": "Be findable and different",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What comes up when someone types your name?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Externalize who you are",
+   "lines": [
+    {
+     "text": "Jose said that people look at leaders to see how relevant they are in their industry, but if you do not externalize it, with articles, a website, news releases or a video channel, nobody will know. He said: go to Google and type your name in and see what comes up. That is your external brand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that people go and look for information about what you value, and that you have to differentiate yourself: your activities drive the results that define you. He said the same goes for your company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Keep learning",
+   "lines": [
+    {
+     "text": "Jose said that after school the question is how your learning continues: through the books you read and the people you have. A student said that a few books he read after college changed who he is, in health, diet and personal finance, and he did not learn them in school.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that he has six or seven books going at once and reads several times what he read in a master's degree. This is his claim and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Spot the genuine learner",
+   "lines": [
+    {
+     "text": "Jose said that a curious person asks what you do and what you plan to do with it, not how much money you make, and you can recognize someone interested in what you do and who you are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: when I have a person's undivided attention and they have a knowledge base, I ask as many questions as I can to extract it, because I may not have another chance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that there are two kinds of people: those who say this is a problem or blame others, and those who say I can solve it and ask what process to fix. He called it a culture of accountability.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you do that differentiates you, and where can people see it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Type your name into a search engine and write what you see.",
+   "Write what is missing.",
+   "Write the activities that differentiate you.",
+   "Write the books and people that keep your learning going.",
+   "Write three questions you ask a person with a knowledge base."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to do to see your external brand?",
+   "choices": [
+    "Type your name into a search engine",
+    "Ask a friend",
+    "Check the bank"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say drives the results that define you?",
+   "choices": [
+    "Your activities",
+    "Your age",
+    "Your luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of question did Jose say a curious person asks?",
+   "choices": [
+    "What do you plan to do with it",
+    "How much do you earn",
+    "Who are you with"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be findable. Differentiate. Keep learning. Ask curious questions.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

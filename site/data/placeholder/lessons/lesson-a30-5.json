@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a30-5",
+ "title": "Analogies and metaphors",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does your problem remind you of in a totally different field?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Thinking in analogies",
+   "lines": [
+    {
+     "text": "Jose said there is something powerful he wants to talk about on the next call: analogical thinking. It is a cognitive process where you compare two different things or concepts that are similar, and it gets into metaphorical thinking: comparing two unlike things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "These people are using analogies and metaphors as instruments of perception, he said. When you take SAT or IQ tests, part of the test is analogies, to see how fast you can recognize analogous relationships.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: we want to create connections and associate things with other things so it is easier to comprehend. Another said: artistic and creative people make those connections faster than the average person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The leader who isn't the eleventh expert",
+   "lines": [
+    {
+     "text": "A student said: if you have ten super bright engineers on a project and you come in without an engineering background, how much will you add by being an eleventh engineer, against someone without the cognitive entrenchment who asks questions outside the realm of what engineers think and sees the big picture?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "That is where the value comes in as a leader, the student said: not being the expert, not needing the hundred-and-first expert, but asking: what's the problem we're trying to solve, how do we step away from the status quo? Jose said: beautiful. That is what we are learning in this chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Out of the comfort zone",
+   "lines": [
+    {
+     "text": "Jose said you want the confidence, when you go to your team, to remove the bias, incentivize and catalyze, and use metaphors to get them out of their specialized training.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he would say to a team from a telecom background: look at electrical circuits and water systems. Diagnose, see patterns, break those patterns up and see if it can be done differently. Compare it to something totally different.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is not just being responsible, he said. It is being accountable for the result, creating our own systems to get to the results, and teaching that initiative.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that you can't sit on the bleachers. You have to go down on the field and run with the concepts, and he would write some questions on the group chat.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would your problem look like as a river, a circuit or a game?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the problem you are stuck on.",
+   "Write what it resembles in a different field.",
+   "Write a metaphor for it.",
+   "Write the question a leader without your specialty would ask.",
+   "Write which concept from this week you will run with."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call comparing two similar things?",
+   "choices": [
+    "Analogical thinking",
+    "Rote learning",
+    "Copying"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is a leader's value among ten experts?",
+   "choices": [
+    "Asking what problem we are trying to solve and stepping back from the status quo",
+    "Being the eleventh expert",
+    "Staying silent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you can't do with concepts?",
+   "choices": [
+    "Sit on the bleachers",
+    "Share them",
+    "Write them"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Use analogies to see new patterns. Lead by asking what problem you are really solving.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

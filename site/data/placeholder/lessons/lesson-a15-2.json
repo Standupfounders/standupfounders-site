@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a15-2",
+ "title": "Your personal limitations",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What stops you just short of the finish line?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Personal limitations",
+   "lines": [
+    {
+     "text": "A student said: financial limits, unless you're the person in the book. Jose said: that's not personal, but we'll get to it. A student then named a personal one: getting close to finish lines and psyching myself out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked if it was listening to other people. The student said: no, it's more self-sabotage. Jose said: we have talked about people making millions of dollars who can't believe their success, who sabotage themselves and tank the business on purpose and then lose everything to justify it. It's learned behaviour: I'm not supposed to have money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said they did that impulsively until their twenties, but when they became conscious of it and actively suppressed it, it led to more success.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Past experience contaminates intuition",
+   "lines": [
+    {
+     "text": "Another student said: your past experiences are a limitation to your intuition. Intuition is like taking external sensory data and foreshadowing the future. That data is raw. Once it is absorbed, your past experiences come in and contaminate and reshape the intuition.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he agrees one hundred percent. People think in the past, the present or the future. The person he mentioned used the mistakes of the past to think in the future, but never let them contaminate him or make him prejudiced.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A big problem with entrepreneurs, he said, is prejudice: I'm not going to do that because I did that and it didn't work, not because you have new data. The same with people: you shut yourself off from a person because of one trait, when ten percent of them might give you ninety percent of what you need.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A voice from twenty years ago",
+   "lines": [
+    {
+     "text": "A student said: you might subconsciously be listening to somebody who put a limitation on you verbally ten, fifteen or twenty years ago, and living life through the prism of whatever limitations they spoke. That is what was happening to me until a few years ago, when I realized it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Whose words are you still listening to?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the point where you slow down before a finish.",
+   "Write what you tell yourself then.",
+   "Write a past experience that shapes your judgment now.",
+   "Write a person you shut off because of one trait.",
+   "Write whose old words you are still listening to."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student name as a personal limitation?",
+   "choices": [
+    "Psyching myself out near the finish line",
+    "Lack of friends",
+    "Lack of time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say past experiences do to raw intuition?",
+   "choices": [
+    "Contaminate and reshape it",
+    "Improve it always",
+    "Delete it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about prejudice?",
+   "choices": [
+    "It shuts you off from learning",
+    "It protects you",
+    "It saves time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Name your limits. Don't let the past decide for you. Notice whose voice you hear.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

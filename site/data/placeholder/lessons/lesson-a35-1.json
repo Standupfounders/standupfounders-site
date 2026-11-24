@@ -1,0 +1,108 @@
+{
+ "schema": 1,
+ "id": "lesson-a35-1",
+ "title": "A good intention, an unintended use",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you ever given someone something that they used in a way you never meant?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Good intentions",
+   "lines": [
+    {
+     "text": "A student said: at the beginning I think it was very benevolent that they very quickly said: yes, we'll send out satellites. But it is understandable that he had some drawbacks when it started to be used for things other than humanitarian efforts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: he thought he was doing something great, being useful, with great intentions. Then all of a sudden, people started putting the connections on drones to do assaults, and he found himself in a compromising position, because that wasn't the intention of giving them the connections.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that we don't have to get into all the details of the war, and he wanted to go into a deeper discussion about ethics in foreign problems like this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A question for your own work",
+   "lines": [
+    {
+     "text": "What could your product or service be used for that you did not intend? Who would you have to ask before you hand it over?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you provide that someone could use in a way you didn't intend.",
+   "Write the worst use you can imagine.",
+   "Write who you would ask before you provide it.",
+   "Write what you would do if you found out later.",
+   "Write the condition you will attach."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the person's intention was in giving the connections?",
+   "choices": [
+    "To do something great and be useful",
+    "To make money",
+    "To start a conflict"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose want to discuss?",
+   "choices": [
+    "Ethics in foreign problems",
+    "Prices",
+    "Sports"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the connections end up being used for, as Jose retold the book?",
+   "choices": [
+    "Things other than humanitarian efforts",
+    "Games",
+    "Education"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Think about how what you provide could be used. Ask before you hand it over.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

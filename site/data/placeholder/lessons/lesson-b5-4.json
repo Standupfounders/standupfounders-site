@@ -1,0 +1,139 @@
+{
+ "schema": 1,
+ "id": "lesson-b5-4",
+ "title": "He was already larger than life",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What impression do you make in the first minute? Do you know?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He was already larger than life",
+   "lines": [
+    {
+     "text": "Jose said the author is, again, an outsider, as in his childhood. In sailing he is starting at the bottom and working his way up, in a world with hierarchies. How much humility do you think he had?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said he was probably conscious that he should be humble, but when someone challenges you it can be hard to bite your tongue. Jose said he thinks he had trouble. He was eccentric.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He brainwashes himself into doing the impossible, Jose said, with conviction, not listening to any negativity. That makes him overcompensate. Overcompensating is saying: our company is going to make twenty or thirty million this year, I don't care what happens.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then other people say: look at him, he's arrogant. And really, Jose said, what you are doing is pumping yourself up. You externalize whatever you are thinking, and that rubs people the wrong way, especially in an establishment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose pointed to a line from a sailor who got to know the author early.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Ted was still in his thirties, but he was already larger than life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "What do you think of that statement, Jose asked? It tells you the impression. He is very brash when he meets somebody, and very confident, and that can rub people the wrong way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells it, the author put his arm around the young sailor and asked what he made. Fourteen thousand dollars a year. Then I'm going to help you, the author said. He let the young man sit in on his meetings, and taught him a lot about business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He exposes himself very quickly, Jose said. He has zero fear. I don't think he has any filters. That is going to rub people the wrong way, the ones in the establishment who make up the rules.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What impression do you make, and who does it rub the wrong way?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the impression you think you make when you first meet someone.",
+   "Write who it works on, and who it rubs the wrong way.",
+   "Write one filter you would add, and one thing you would never filter.",
+   "Write what you do when you are pumping yourself up.",
+   "Write what you want people to feel when you leave."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say overcompensating is?",
+   "choices": [
+    "Pumping yourself up and saying what you are thinking out loud",
+    "Working too little",
+    "Being too quiet"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the author's filters?",
+   "choices": [
+    "He doesn't have any",
+    "He has many",
+    "He changes them daily"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the author do, as Jose retells it, after asking the young sailor what he earned?",
+   "choices": [
+    "Offered to help him",
+    "Ignored him",
+    "Hired him at once"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the impression you make. Brashness and zero filters rub the establishment the wrong way.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

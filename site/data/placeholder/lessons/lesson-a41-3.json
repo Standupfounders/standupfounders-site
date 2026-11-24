@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a41-3",
+ "title": "No external excuses",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which excuses would you not accept from yourself, and which would you hear from others?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The line down the paper",
+   "lines": [
+    {
+     "text": "Jose asked: imagine saying to your salespeople: I'm not going to allow you to give me any excuses that have anything to do with anything external. If you want to talk about your barriers internally, why you feel you can't do something, a negative belief system, a lack of control internally, then we can talk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Imagine you have a piece of paper with a line down the middle: internal and external, intrinsic and extrinsic. I will listen to anything internal, mindset and belief system, to help you achieve anything external. But I won't accept external excuses.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I think it would help in some regard, but it doesn't necessarily empower people to grind it out day to day. Then, after Jose explained it again, the student said: it makes total sense, I just misunderstood you the first round.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Balance",
+   "lines": [
+    {
+     "text": "Jose said: we have external data and assessments, what the market is doing and the pricing. We're not talking about that. We are talking about what you are doing to empower yourself so that you achieve results. I personally let excuses get thrown at me once in a while, but what matters is that you don't have the ability or you don't have the will. It's an internal problem way before it's an external one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student, a sales leader, said: when they make excuses, to me that is an opportunity as a manager to get their mindset better. Resistance builds strength.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said: at some point you can always control your effort and what you did next when the environment kicked back. Another said: if you buy into the idea that they are incapable, you perpetuate the problem by validating their excuse. Ask: what is your proposed solution?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: before any of that, we want to get to the belief system of that person: either they believe or they don't. A student said: as a leader you have to reinforce that you believe they can do it, otherwise they wouldn't be there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Cut it, or teach it?",
+   "lines": [
+    {
+     "text": "Jose said: the person in the book says: I don't have time to coach this person, I have to cut them out. He is cut and dry and doesn't even tolerate it, which is why his organizations are efficient. It isn't my style, or the style of a lot of people in my world, because we are in teaching, and we like to empower people. Even if they make five percent progress and need ninety-five, we are happy with five.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: as a leader it is part of what you have to do to make unpopular decisions for the general good of the unit. Jose said: you have to take a stance, and not let yourself get washed away by distractions. A student said: there is a balance to it, and Jose agreed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where is your balance between teaching and cutting?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the excuses you hear most on your team.",
+   "Write which are external facts and which are internal limits.",
+   "Write what you would say to someone who says: I can't.",
+   "Write where you would teach and where you would cut.",
+   "Write the stance you will hold."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say he will listen to?",
+   "choices": [
+    "Anything internal, to help achieve anything external",
+    "Any excuse",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say resistance does?",
+   "choices": [
+    "Builds strength",
+    "Wastes time",
+    "Stops sales"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about his own style?",
+   "choices": [
+    "He teaches and empowers, and is happy with small progress",
+    "He cuts at once",
+    "He ignores people"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Hear internal limits, not external excuses. Believe in people. Find your balance between teaching and cutting.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

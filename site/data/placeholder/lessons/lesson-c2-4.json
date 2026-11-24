@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-c2-4",
+ "title": "Talking to someone who takes on too much",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you speak with someone who takes on too much?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A made-up case",
+   "lines": [
+    {
+     "text": "Jose offered two cases to practice on: someone burned out who is doing the least possible, and someone who takes on everyone's job and is overwhelmed. The group picked the second, the overachiever who took on too much.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: do not add more to their plate. Your first intention is to relax them, not to be a trigger that pushes them over the edge. Come in soft and assess their plate.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Rules for the conversation",
+   "lines": [
+    {
+     "text": "Jose said his rules are: be authentic, you can't fake it; keep the person's interest at the center; and do not persuade or argue why something is better. He said it is hard for him because he is always giving a million reasons.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: work with empathy and find out what is going through their mind. They are a great source of information, and you make sure they get the support and resources they need.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another student said that they helped a colleague learn to prioritize, see things through to completion and over-communicate: if you cannot take on a responsibility because something with more priority would suffer, say so.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student added: give them permission to say no, and permission not to volunteer, because someone who grabs everything stops others stepping up and lets things fall through the cracks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Ask why",
+   "lines": [
+    {
+     "text": "Jose said that when people are vague and superficial about their motivation, desires and plans, that is scary to him, because you are not getting their true intention, and someone evolving without purpose will eventually meet a backlash.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to use empathy with yourself too: use words like I am confident I can handle this, as part of a bigger plan that leads to hiring someone and delegating.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He suggested go-to questions: what do you care about most? What matters most in this job? Where will your life be in a few years? What are the rules you live by? He called the aim directional evoking: not defending or telling you what you want to hear.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that powerful leadership does not mean leading people to a choice, but staying neutral, which is hard because we always have an agenda.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you ask someone to learn why they work as hard as they do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If someone is burned out, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a person you know who takes on too much.",
+   "Write how you would start the talk without adding to their plate.",
+   "Write three questions about their why.",
+   "Write what permission they may need.",
+   "Write how you will stay neutral."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say your first intention should be?",
+   "choices": [
+    "To relax them",
+    "To push them",
+    "To warn them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say not to do in the conversation?",
+   "choices": [
+    "Persuade or argue",
+    "Listen",
+    "Ask questions"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to give them?",
+   "choices": [
+    "Permission to say no",
+    "A bigger task",
+    "A deadline"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be authentic. Don't persuade. Ask why. Give permission to say no.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

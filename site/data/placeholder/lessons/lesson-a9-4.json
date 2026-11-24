@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a9-4",
+ "title": "The free fall",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you do if one phone call took away your funding?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Jose's story",
+   "lines": [
+    {
+     "text": "Jose said that in his twenties he was in the telecom business, in the heyday of the dot-com era, with a long-distance voice-over-the-internet company that was flourishing. In 1998 they took the company public. He was about twenty-seven or twenty-eight. It was a massive achievement, and he felt: what's the next thing I can do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A friend told him of a company that wanted to take high-frequency technology, developed for missile guidance, and build point-to-point antennas for the roofs of buildings. Jose thought: we could use this with the long-distance networks to do the local distribution of the calls.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He researched, found a hunch confirmed, and went to different countries to see whether these frequencies were available. They looked at him as if he had three heads. He could bid for a thousand dollars because nobody else was bidding. He put much of the money he had made into the venture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The free fall",
+   "lines": [
+    {
+     "text": "Then came September eleventh. Investors took a hit in the market. One of them called and said: we've got to pull out. A company that was worth millions was in a free fall, with the equipment and no more money, and two or three years of losses ahead before the network would run.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he sat in front of the TV changing channels every three seconds. He had two months. He closed the office and let everybody go, and lost an enormous amount of money. That sensation of throwing up in the bathroom, he said, he had too. He went on long walks and had to dig deep.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Banks were calling. Everybody had flocked away. I had to get up and turn this around, he said, and call friends and people to ask for money to sustain it so I could sell it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What he learned",
+   "lines": [
+    {
+     "text": "He went to some of the employees and said: we're going to go through really hard times, but I believe this is how telecom networks are going to be used. He went over the mission with them, and they ended up selling the network. We didn't get all the money out, but we survived.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It feels like you're free-falling from a plane without a parachute, he said. You really have to focus and say: I believe in this mission. You can't have any doubt in your mission, because if you have doubt it surfaces later, especially in a crisis.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How will this moment look in ten years? he asks. What will be important is how we continued and how relentless we were.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you tell your team in the first week?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a time you lost something you had built.",
+   "Write what you did in the first week.",
+   "Write who you called.",
+   "Write how you spoke to the people who stayed.",
+   "Write how this moment will look in ten years."
+  ]
+ },
+ "check": [
+  {
+   "q": "What happened to Jose's investors in his story?",
+   "choices": [
+    "One called and said they had to pull out",
+    "They doubled the money",
+    "They sold the company"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he did with the employees?",
+   "choices": [
+    "Went over the mission with them",
+    "Hid the news",
+    "Raised their pay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question does Jose ask in a crisis?",
+   "choices": [
+    "How will this moment look in ten years?",
+    "Who is to blame?",
+    "How much is left?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "In a free fall, hold your mission and ask how it looks in ten years.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

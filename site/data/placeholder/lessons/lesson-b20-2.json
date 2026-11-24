@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-b20-2",
+ "title": "We live with fear",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which of your fears is really a sign that your business model has to change?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He was worried",
+   "lines": [
+    {
+     "text": "Jose said the author writes that he was worried about the deal. He read a line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I was worried that we were taking our eye off more important opportunities. like the purchase of a broadcast network.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "A student said that in this chapter shareholders and investors wanted the internet badly, and he was just like: I don't get it, I'm too old. Jose said: he didn't understand it and was kind of resistant. But the other chief executive was thinking: this is a threat to our business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "We live with fear",
+   "lines": [
+    {
+     "text": "Think about the threat, Jose said. Time magazine, for example. You are going to put the magazines on the internet for free. You make millions from the magazine, and now you are putting yourself out of business. Is that what is going on here?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Think how scary traditional media found it, he said. As an entrepreneur, you are going to face fear. That is a natural reaction: fear of adapting, fear of defining a business model, fear of going out in the real world. We live with fear.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They were delivering magazines all over the world, which is very costly, he said. Now with one click they can distribute to people's homes, bypassing the news stand. Newspapers said: wait a second, now the money I make from delivering is gone. Are people going to pay me the same? Think about changing your business model entirely.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do if the thing that pays you could be sent for free in one click?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what pays your bills today.",
+   "Write how a new technology could send it to your customers for free.",
+   "Write the fear that comes up, in one sentence.",
+   "Write how you would change your business model if that happened.",
+   "Write one step you will take before you are forced to."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you will face as an entrepreneur?",
+   "choices": [
+    "Fear, a natural reaction",
+    "Only success",
+    "No competition"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say traditional media found scary about the internet?",
+   "choices": [
+    "One click could bypass their distribution",
+    "It was slow",
+    "It was expensive"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the author write he was worried about?",
+   "choices": [
+    "Taking his eye off more important opportunities",
+    "Losing his staff",
+    "Taxes"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Fear is natural. Let it tell you where your business model has to change.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

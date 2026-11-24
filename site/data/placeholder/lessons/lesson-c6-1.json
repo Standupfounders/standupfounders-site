@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c6-1",
+ "title": "Three circles and desire",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Whose habits are normal in the circles you move in?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Three circles",
+   "lines": [
+    {
+     "text": "A student said: the habits we learn growing up come from who we surround ourselves with. There are three circles: the close ones, family and friends; the many, which is societal norms; and the powerful, the people we envy and copy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said that the favorite part was: if you want to change your habits, surround yourself with people for whom the habit you desire is the norm.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Desire drives behavior",
+   "lines": [
+    {
+     "text": "Jose said that the chapter introduces the idea that desire drives behavior. He said that the author simplifies things and the real picture is more complex.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that desire is the engine that drives behavior, and every action is taken because of the anticipation before it and the craving that leads to the response. We make our habits attractive because we look for the rewarding experience.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He picked up the author's term temptation bundling, and said that words like it are hangers for our consciousness: we hang our intention on them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which circle is your strongest influence, and is it pulling you where you want to go?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people in your close circle.",
+   "Write the norms of the many around you.",
+   "Write who you envy and copy.",
+   "Write the habit you want and who has it as a norm.",
+   "Write how you could spend more time with them."
+  ]
+ },
+ "check": [
+  {
+   "q": "What are the three circles, according to a student?",
+   "choices": [
+    "The close, the many and the powerful",
+    "Home, work and school",
+    "Past, present and future"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say drives behavior?",
+   "choices": [
+    "Desire",
+    "Luck",
+    "Rules"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to do to change a habit?",
+   "choices": [
+    "Surround yourself with people for whom it is the norm",
+    "Hide it",
+    "Wait"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose your circles. Know your desire.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

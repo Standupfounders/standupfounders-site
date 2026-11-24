@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c8-3",
+ "title": "The environment of relationships",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does your circle say about the way you work with people?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Good and bad relationships",
+   "lines": [
+    {
+     "text": "A student defined codependence: you are both dependent on each other for something not authentic; you rely on a trigger and a response from the other, so you never build a deeper relationship.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: good relationships improve you in an internal way; bad ones drag you back and do not let you try new things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that when he goes into someone's house he is observant: the objects, the books on the shelves, say who that person is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where intent goes wrong",
+   "lines": [
+    {
+     "text": "Jose asked: when two people have good intentions to do business, where can intention go wrong? A student said: when you have the same end goal but the way to get there varies, which can lead to conflict.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: ask whether they have the resources and the perception to get there. How do they select people? Look at their track record: friends they keep in touch with, partnerships of ten or twenty years, against someone who is always blaming others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Prejudice",
+   "lines": [
+    {
+     "text": "A student said that a prejudiced person is someone who prejudges based on assumptions or things they have heard.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that we also make assumptions because we drag negative anchors and triggers. Suspend judgment, and still be careful: you could be intuitively right that someone is toxic for you. It is a thin line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whom do you avoid because of an assumption you have not tested?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a relationship that improves you and why.",
+   "Write one that drags you back and how.",
+   "Write the track record you would check in a partner.",
+   "Write an assumption you have about someone.",
+   "Write how you could test it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about codependence?",
+   "choices": [
+    "You rely on a trigger and response, not depth",
+    "It builds depth",
+    "It is rare"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say objects in a house reveal?",
+   "choices": [
+    "Who the person is",
+    "Nothing",
+    "Their income"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a prejudiced person does?",
+   "choices": [
+    "Prejudges on assumptions",
+    "Listens first",
+    "Asks questions"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose relationships that improve you. Check track records. Test your assumptions.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a38-3",
+ "title": "Three ways to take control",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you know how someone could take control of a company?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What a hostile takeover is",
+   "lines": [
+    {
+     "text": "Jose asked: does anybody know what a hostile takeover is? A student said: you are coming in and taking controlling interest in the company against the current executives and management.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is a very aggressive thing, Jose said. He gave examples of well-known takeovers of food and chocolate companies. There is a variety of methods to gain control of a company, and he explained three categories.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Three methods",
+   "lines": [
+    {
+     "text": "The first is a tender offer: the acquirer makes a public offer to buy the target company's stock at a fixed price that is higher than the market price.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The second is a proxy fight, he said: the acquirer tries to convince enough shareholders to appoint them as proxies, who can then use their voting power to accept a takeover. This is a very interesting one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he was involved in one of these with a company, where the major shareholders were not happy with management. They went to other shareholders and rallied, and took over and fired the management.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The third was a creeping tender offer, he said: slowly buying the shares. The chief executive was very cautious, because he probably felt: this is pretty dangerous, when he started getting to know who the buyer was.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In the book, he said, the buyer offers a price above the market, gets the banks together to put the deal together, and wants to take the company private.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the weakest point in the control of a company you know?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who controls the company you know best.",
+   "Write what shareholders could do if unhappy.",
+   "Write the three methods in your own words.",
+   "Write one reason someone would want to buy a company they run.",
+   "Write who you would ask to explain it properly."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say a hostile takeover is?",
+   "choices": [
+    "Taking controlling interest against current management",
+    "A friendly merger",
+    "A sale to staff"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is a tender offer, as Jose explained it?",
+   "choices": [
+    "A public offer to buy stock at a fixed price above the market price",
+    "A secret loan",
+    "A gift"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is a proxy fight, as Jose explained it?",
+   "choices": [
+    "Convincing shareholders to appoint you as proxy to use their voting power",
+    "A boxing match",
+    "A court case"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the three ways control of a company can change. It is education, not financial or legal advice.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

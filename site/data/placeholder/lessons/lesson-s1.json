@@ -1,0 +1,229 @@
+{
+ "schema": 1,
+ "id": "lesson-s1",
+ "title": "What is wealth?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Picture yourself at seventy. You have made a hundred million dollars. You have no time left with the people you love. Is that wealth?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "This is noise",
+   "lines": [
+    {
+     "text": "Jose also noted, as he describes it from the book, that the founder got rid of everything he owned and called it noise. He said there is a huge lesson in that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "And he said that if you live in a cluttered environment, your mind will be that way too.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said up front that this part is philosophical. These are opinions, and he is opening the discussion for analysis.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is wealth?",
+   "lines": [
+    {
+     "text": "He asked the class: what is wealth? His first answer: money you don't spend. Then: why do people seek wealth?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: family legacy, carrying that on. Another said: to be accepted, and to prove you can achieve things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose's own definition: the ability to do what you want, when you want, with who you want, as long as you want.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then he asked: do I need wealth to be accepted, or do I need it because I am buying time? Where is the negotiation, for me, between money and time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I can make a hundred million dollars and have zero time, he said, and be seventy years old, and have lost all my time with my children and my family.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Wealth is what you don't see",
+   "lines": [
+    {
+     "text": "Jose said he loves a book called The Psychology of Money, and has given it to all his children. As he describes it, the book separates a rich person from a wealthy person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In his words: wealth is the nice cars you don't purchase, the diamonds you didn't buy, the watches you didn't wear. It is the money that has not been turned into the stuff you can see.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So wealth, he said, is a kind of self-control.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Are you enjoying the car more than you are worrying about the car?",
+   "lines": [
+    {
+     "text": "A student said they love fast cars. They like to drive the car the way it is meant to be driven, not to show off.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose's rule: are you enjoying the car more than you are worrying about the car? If it sits there and is not driven and is costing you money, that is the key thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He has seen two extremes. People with all the toys, who get imprisoned by those things. And people with a lot of wealth who drive a pickup truck and own no jewelry, and enjoy experiences and friends and being outside.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A personal view",
+   "lines": [
+    {
+     "text": "A student added the main lesson: understand your motivations, why you are doing what you are doing, and what the collateral damage is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose says this part is personal and there is no right or wrong. He would rather give the money to a family that needs it, or to kids who need scholarships, than spend it on himself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "His story: the pen",
+   "lines": [
+    {
+     "text": "Someone once gave Jose a very expensive pen. At first he thought it was beautiful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He was so scared of losing it that it invaded his life. Where's the pen? I lost the pen. I found the pen. When he finally lost it, he said, I was happy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He keeps coming back to being conscious of the things around you. He asks his kids: if there was a fire in the house, what are three things you would grab on the way out?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What are three things you would grab?",
+   "lines": [
+    {
+     "text": "What are three things you would grab on the way out of a fire?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your own definition of wealth in one line.",
+   "Write the three things you would grab on the way out of a fire.",
+   "Pick one thing you own. Do you enjoy it more than you worry about it? Write yes or no.",
+   "If worry wins, write one thing you could do: use it, give it away, or stop worrying.",
+   "Write what you would trade, money for time or time for money, and why."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose define wealth?",
+   "choices": [
+    "Money you can show off",
+    "The ability to do what you want, when you want, with who you want, as long as you want",
+    "Owning the best things you can buy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What question does Jose use to test a thing you own?",
+   "choices": [
+    "Is it the most expensive one?",
+    "Will other people notice it?",
+    "Am I enjoying it more than I am worrying about it?"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "How did Jose feel when he finally lost the expensive pen?",
+   "choices": [
+    "Happy",
+    "Angry",
+    "Ashamed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Wealth is what you don't spend, not what you show. Own what you enjoy more than you worry about.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

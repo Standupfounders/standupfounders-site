@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a34-1",
+ "title": "Thirty turns",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What game, or habit, teaches you the most about how you think?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A game and its life lessons",
+   "lines": [
+    {
+     "text": "Jose said that out of all these chapters the thing that struck him most was a video game that the person in the book plays with his brother and the people in his life, and that they call its life lessons. It took him a while to understand what was going on in the game. He went into it and played a little, just to see why it is so addictive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it's an escapism back to childhood, but it is also the simplest form of strategy that he has to implement on a daily basis, so he can do it. Another said: it is fun for the people around him because it is a chance to compete with him instead of agreeing with him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The lessons",
+   "lines": [
+    {
+     "text": "Jose listed the lessons from the book: as a kid you play a strategy game, your mother unplugs it, and then you play life itself as if it were a game. Do not fear losing, because you will lose. It will hurt the first fifty times, and when you get used to losing, you play with less emotion, become more fearless and take more risks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The third lesson, he said, is to be proactive. There is a difference between reacting and strategic thinking. A lot of times we go through life reacting instead of planning ahead, and strategy is all about planning ahead.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In the game you only get thirty turns, he said, so you have to optimize each turn. It is an exhaustible asset. He said: where is the balance, where is the line as entrepreneurs?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do differently if you only had thirty turns?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a game or hobby that shows how you think.",
+   "Write what you do when you lose.",
+   "Write one thing you are reacting to that you could plan.",
+   "Write what you would do with thirty turns.",
+   "Write the first of the thirty."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose list as a lesson from the game?",
+   "choices": [
+    "Do not fear losing, because you will lose",
+    "Never play",
+    "Always win"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is the difference between reacting and strategy?",
+   "choices": [
+    "Strategy is planning ahead",
+    "Strategy is speed",
+    "Strategy is luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about competing with the person?",
+   "choices": [
+    "It is a chance to compete instead of agreeing",
+    "It is a waste",
+    "It is rude"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Don't fear losing. Be proactive. Plan your turns.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

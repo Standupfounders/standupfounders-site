@@ -1,0 +1,167 @@
+{
+ "schema": 1,
+ "id": "lesson-b3-5",
+ "title": "Where is that line?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How long would you keep going while losing money, and how would you know when to stop?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where is that line?",
+   "lines": [
+    {
+     "text": "Jose asked: how many of us on this phone call can lose money for five years, stay positive, and say: no, I'm going to make it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said probably none of us. One of the fears when you are starting a business is turning back and saying this is unsuccessful, and correlating success with making money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Then Jose asked the question he said was very important. Where is the line where you say: no, there is no future in this business, I made a wrong call? And where is the line where you say: no, my conviction says there is a business here, it is just taking more time, there are more variables I haven't learned, I have to ride it out, be resilient, and stay positive? Where is that line?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked it back: how do you know?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Is he drinking the Kool-Aid?",
+   "lines": [
+    {
+     "text": "Jose said he would call a friend, an investment banker, and they would talk about businesses. They would ask: is he drinking the Kool-Aid? You are drinking your own idea. You are inspired by it, and you are not perceiving reality anymore.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We call it getting drunk on your idea, he said. Then you are no longer paying attention to the fundamentals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So the first thing you do as an entrepreneur is find that balance, he said. In my twenties I was fortunate to have great mentors. But you have to be open to attract them. People who are generally successful love to help other people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Call ten successful people in your business, he said. Say: I admire your business, I would love you to sit on my board of directors, I have nothing to offer but my admiration. I believe you'll get somebody. The first thing I recommend is a board of advisors, because they give you balance. They say: this is how I see your reality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ego without logic will bring you down",
+   "lines": [
+    {
+     "text": "You have to be very careful with ego, he said. Ego without logic will bring you down. You say: I can turn this business around. And then you realize there are no margins.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That happened to me in my twenties, he said. There were no margins. It didn't matter how much I did in sales and volume. I was ignoring it. I was trying to gladiator my way. I was outside of reality, using positive thought patterns to try to make it through a business that wasn't there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "And you won't ask your uncle, who has a car wash business, about a digital strategy company, he said. People ask advice from someone who has nothing to do with the industry. See people who are experts in your industry, whose business you admire, and who have good values.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Even if they have only two of the things you look for in a mentor, and those two help you, he said, that is better than having nothing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where is your line?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one project where you are losing money or time.",
+   "Write the reasons you think it will work.",
+   "Write what the numbers say: costs, margins, sales.",
+   "Write who in your industry could tell you honestly where the line is.",
+   "Write the date you will decide: keep going, change, or stop."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call falling for your own idea and ignoring the fundamentals?",
+   "choices": [
+    "Drinking the Kool-Aid, getting drunk on your idea",
+    "Being careful",
+    "Taking a break"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say ego without logic will do?",
+   "choices": [
+    "Bring you down",
+    "Make you rich",
+    "Win you mentors"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Whose advice did Jose say to seek?",
+   "choices": [
+    "Experts in your industry whom you admire and who have good values",
+    "Anyone who has time",
+    "Only family"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find the line between conviction and fantasy. Ask experts you admire to tell you where it is.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c10-3",
+ "title": "Structure, safety and the unit",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What gives the people you lead a sense of structure and safety?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Structure feels safe",
+   "lines": [
+    {
+     "text": "Jose said that the military gives people a massive structure, thought out for them, and it creates a sense of safety: I know where I am and what I am supposed to be doing. He gave the example of a film in which prisoners released after years found the world without rules unsettling.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that, as entrepreneurs, we have to develop that structure for ourselves, or we are toast, and develop it for other people too.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why one unit does better",
+   "lines": [
+    {
+     "text": "Jose said that he reads military history because it has many cases of units that outperformed others. He asked leaders to write down a framework: why was this unit successful? What is the dashboard for a successful unit?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the first factor was cultural identity together with what is called task cohesion: why people bond together to act for the good of the group. Unit cohesion is a military concept in which people sustain their will, have a commitment to each other and are mission oriented.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the people around you play a huge part in contributing to the environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What would make your team feel it belongs to something bigger than a task?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the structure your team has now.",
+   "Write what makes it feel safe or not.",
+   "Write your team's identity in one line.",
+   "Write how people commit to each other.",
+   "Write the mission that holds it together."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say structure creates?",
+   "choices": [
+    "A sense of safety",
+    "A sense of boredom",
+    "A sense of speed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call why people bond to act for the group?",
+   "choices": [
+    "Task cohesion",
+    "Task management",
+    "Task delay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say plays a huge part in the environment?",
+   "choices": [
+    "The people around you",
+    "The weather",
+    "The price"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Give structure and safety. Build identity and cohesion.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

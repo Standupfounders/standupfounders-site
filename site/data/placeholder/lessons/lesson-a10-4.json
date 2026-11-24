@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a10-4",
+ "title": "Partner with the giant",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which big company needs what only you can do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Partner with the giant",
+   "lines": [
+    {
+     "text": "Jose said another smart thing: look at a traditional company that wants to get into the space. They may be so big and slow that they need a spin-off to be able to do it. That is another key partner for raising money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student gave an analogy: companies are like boats. A cruise ship takes hours to turn around, a speedboat takes seconds. Being the smaller one doesn't always mean you don't know what's going on. Sometimes you are more in tune than the big ones.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A big company funds spin-offs, Jose said, because it doesn't want the people inside to get funding from somebody else and keep the intelligence for themselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Show something real",
+   "lines": [
+    {
+     "text": "Jose said the person in the book showed the visiting executives a real car to test-drive, built right before they came. They gave him a large sum in equity. Very smart, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you can give someone something tangible to look at, it breaks down the barriers of: why do you need so much money? It answers the question without having to answer it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Respect the fundamentals",
+   "lines": [
+    {
+     "text": "Jose said: be careful as entrepreneurs that we are not so blinded by our mission that we don't pay attention to how we handle the company's finances. He called using customers' deposits as operating capital a very big no-no.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said it can be a breach of fiduciary duty and that people can go to jail for it. He added that he sides with the cautious side on this. A person checks the law before this stays.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student explained the types of investors by stage: angels very early, venture capital around the same time with larger cheques and oversight, private equity later, wanting stable growth with five to ten year lock-ups.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose added that private equity groups often have a platform, a sector where they grow one big company by buying others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What can you show them that is real?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a big company that wants to get into your space.",
+   "Write what you could do that they are too slow to do.",
+   "Write what real thing you could show on day one.",
+   "Write how you keep customers' money separate from your own.",
+   "Write the stage of investor that fits you now."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student compare companies to?",
+   "choices": [
+    "Boats",
+    "Trains",
+    "Birds"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a tangible product does in a meeting?",
+   "choices": [
+    "It breaks down the barriers",
+    "It slows the talk",
+    "It confuses people"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call using customers' deposits as operating capital?",
+   "choices": [
+    "A very big no-no",
+    "A smart trick",
+    "Normal"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Partner with the giant. Show something real. Respect the fundamentals.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

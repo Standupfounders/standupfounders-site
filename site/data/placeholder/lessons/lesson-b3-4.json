@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": "lesson-b3-4",
+ "title": "This guy reads the room",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you walk into a room, do you see only the job, or the people in it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He thinks he's going to bring the viewership",
+   "lines": [
+    {
+     "text": "He thinks he is going to bring viewership, Jose said. So that is a strategic move.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that with some businessmen, people don't understand why they bought a business. Two or three years go by and they say: that is why. They had a plan for how that business would work together with another.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you are in mergers and acquisitions, Jose said, I've seen disasters happen.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said a common theme was that the author had to keep learning new things, and that people didn't see him as a threat, so he had to prove himself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he is what you call a low self-monitor. He is not much phased by how people look at him in a negative light. It doesn't affect his confidence or his self-esteem. He has seen himself as an outsider since he was four.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He doesn't see himself like I'm the owner",
+   "lines": [
+    {
+     "text": "What I love about it, Jose said, is that he is humble. He doesn't see himself as the owner who is separated from the team. He is playing poker with them. He is hanging out in the dugout.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where does he get that from? A student said: from putting up billboards. Jose said that's right. The dad purposely put him there, to understand the mentality and the way people work at the lower levels.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He sent someone undercover as if he were a player, Jose said, because everyone knows he's the owner. He was trying to understand the energy, the psychology, the way the players think, their mentality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He can't empower people unless he understands their limitations, Jose said, unless he understands how they think.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "This guy reads the room",
+   "lines": [
+    {
+     "text": "Jose read a line from the author about customers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In every business I've ever been. It's been clear that doing even the smallest things to take care of your customers is essential and running a ball club no different,",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Imagine the detail, Jose said, of onions and relish. In Atlanta they only had mustard and ketchup. Imagine how aware he is wherever he goes. That level of awareness shows how powerful he is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "This guy reads the room, he said. He reads people. He reads circumstances.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who in your room have you not yet read?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one business or person you work with that you want to understand better.",
+   "Write what they think and what limits them, as you see it.",
+   "Write one small detail you could fix for your customers this week.",
+   "Write how you could spend a day in their shoes.",
+   "Write what you would say to them to empower them, once you understand."
+  ]
+ },
+ "check": [
+  {
+   "q": "What kind of self-monitor did Jose call the author?",
+   "choices": [
+    "A low self-monitor, not much phased by how people look at him",
+    "A high self-monitor",
+    "He didn't say"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did the author send someone undercover, according to Jose?",
+   "choices": [
+    "To learn the players' psychology and how they think",
+    "To spy on a rival",
+    "To save money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say shows how aware the author is?",
+   "choices": [
+    "Noticing small details like onions and relish for customers",
+    "His large office",
+    "His long speeches"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read the room. Understand how people think before you try to empower them.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a47-1",
+ "title": "Four questions for a business in trouble",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Your main income has just left. What do you ask first?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The exercise",
+   "lines": [
+    {
+     "text": "Jose said: you have been brought into the boardroom. How do we fix the business model? Where is the money going to come from? He wanted everyone to force themselves to build a pragmatic business model, as entrepreneurs do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said this is the kind of exercise entrepreneurs have to get used to: how to get out of a crisis, and how to look at a problem from many different angles despite the crisis.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The questions the group found",
+   "lines": [
+    {
+     "text": "A student said: the business has a platform and millions of users. The question is what else could be done with it. Another said: if the old business model is off the table, you have to create a new value proposition: what can you do here that you can't do anywhere else?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose pulled out what he heard: first, what assets does the business have, such as its users? Second, what assets did the owner develop in the past, such as skills and people? Third, what are we good at? Fourth, what could be a unique proposition that nobody else is doing, with the assets we have?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the structure of problem-solving is what matters, because it works in all our businesses. We have to engage as entrepreneurs in systematic thinking, and not get distracted by things that are not productive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are your four answers for your own business?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the assets your business has now.",
+   "Write the skills and past assets you or your team have.",
+   "Write what you are good at.",
+   "Write one thing nobody else is doing that you could do.",
+   "Write which of the four you have not asked before."
+  ]
+ },
+ "check": [
+  {
+   "q": "What was the first of Jose's four questions?",
+   "choices": [
+    "What assets does the business have",
+    "Who is to blame",
+    "What does it cost"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the structure of problem-solving works in?",
+   "choices": [
+    "All our businesses",
+    "Only one industry",
+    "Only big firms"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you must create if the old model is off the table?",
+   "choices": [
+    "A new value proposition",
+    "A new logo",
+    "A new office"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask four questions: assets, past assets, strengths, a unique offer.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

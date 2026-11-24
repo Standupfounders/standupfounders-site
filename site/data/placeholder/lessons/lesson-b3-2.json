@@ -1,0 +1,167 @@
+{
+ "schema": 1,
+ "id": "lesson-b3-2",
+ "title": "Constantly pushing ourselves out of the comfort zone",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last do something that scared you because you wanted to grow?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Constantly pushing ourselves out of the comfort zone",
+   "lines": [
+    {
+     "text": "We have to push ourselves out of our comfort zone, Jose said, constantly.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I try to read six or seven books at the same time and get through them in a month, he said. I learned speed reading a long time ago, and I take notes. I read a minimum of six or seven books a month.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In a master's degree, he said, maybe you read thirty or forty books over two years. Imagine your knowledge base if you read fifty or sixty books a year, taking notes, especially on something you love.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Different businesses, he said, can all add to the value of each other. If there is no connection between the businesses, it is a problem, because you can't replicate the system that works in one and bring it to another.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You can't taste success until you've done the sport for ten years",
+   "lines": [
+    {
+     "text": "A student said: you can't focus on, will this make me money, and if it doesn't I won't do it. That is a way not to get anything done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What happens to most people, Jose said, is they give it a shot for a year and say: this doesn't make any money. They throw the talent away because they didn't give it enough time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He tells his sons: you can't taste success until you've done the sport for ten years, and not train like anybody else. You have to do twice or three times what everybody else does.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Around 1998 or 1999, he said, he began buying land in a little fishing village in the middle of nowhere. People said he needed to go to a psychologist, because he was sinking money into a place that would never happen. He said no, it will happen.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Polish it and polish it",
+   "lines": [
+    {
+     "text": "That is the moment you become a successful entrepreneur, he said: when nobody believes in you, when you are losing money, when you have this high anxiety. All you have is your convictions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You grab the business like a little rock, he said, and you polish it and polish it and polish it, and you don't stop.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You have to wake up every day inspired and pumped and happy, he said, because the resiliency you need for the business is going to demand it. You're going to have to be made of steel.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We ran aground. Get the sails up. Let's keep going. It's a beautiful metaphor, sailing, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are you giving enough time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three things you want to learn this year.",
+   "Write how many books or hours a week you will give to learning.",
+   "Write one thing you stopped too early, and what ten years of it might have been.",
+   "Write your conviction in one line.",
+   "Write who around you does not believe in it, and what you will do anyway."
+  ]
+ },
+ "check": [
+  {
+   "q": "How many books a month did Jose say he reads at minimum?",
+   "choices": [
+    "Six or seven",
+    "One",
+    "Twenty"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose tell his sons about success in a sport?",
+   "choices": [
+    "You can't taste success until you've done it for ten years",
+    "Success comes in one season",
+    "Talent is enough"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "When did Jose say you become a successful entrepreneur?",
+   "choices": [
+    "When nobody believes in you and you are losing money, and all you have is your convictions",
+    "When everyone praises you",
+    "When you have no debt"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Keep pushing out of the comfort zone. Give your convictions the time they need.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

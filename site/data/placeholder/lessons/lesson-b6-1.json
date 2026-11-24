@@ -1,0 +1,165 @@
+{
+ "schema": 1,
+ "id": "lesson-b6-1",
+ "title": "Putting the chips on the table again",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When a big opportunity shows up, do you wait for proof, or put your chips on the table?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He's putting the chips on the table again",
+   "lines": [
+    {
+     "text": "Jose asked the group for first impressions of the cable news network. A student said: he's putting the chips on the table again.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that in his own telecom days there was no fiber in Panama until around 1998. There was only satellite, and satellite brings delays and an echo. So the author was probably dealing with lag too.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Now these massive cable companies are laying fiber, he said, and communication is going to be monopolized by whoever lays fiber optic cable to people's homes. How is that going to affect his business?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose pointed to a joke the author made to the head of a cable company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "you run the wires and I'll make them sing",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "In other words, Jose said, you have the major infrastructure, and I'll do the content. I'll entertain the people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I didn't do any surveys",
+   "lines": [
+    {
+     "text": "Jose pointed out how the author rationalized a news channel. The three biggest networks spend two or three hundred million dollars a year to put on a thirty-minute show. Anybody normal would stop and think.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Why is news so costly? A student said: a studio, reporters finding stories, all the production. Jose added: they travel all over the world. So what is the logic behind starting a channel, thinking you can do it cheaper?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is an open market, and he'll have all the market share at those time slots. Jose said: good. I'm there, and there must be other people like me who miss the news and want it twenty-four seven.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He also says he didn't do any surveys or data analysis, Jose said. Here is how he rationalizes it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Henry Ford didn't need focus groups to tell him that people would prefer inexpensive, dependable automobiles over horses.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Jose asked: do we know any modern-day people who have had that mindset in business and been hugely successful?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where would you put your chips, and what proof would you want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one opportunity in front of you.",
+   "Write what a survey or focus group would tell you, and what your gut says.",
+   "Write what you would put on the table, and what you could not afford to lose.",
+   "Write one person who bet on an idea before the data was in.",
+   "Write the next step you would take if you trusted your reasoning."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say the author was doing again?",
+   "choices": [
+    "Putting the chips on the table",
+    "Selling the company",
+    "Waiting for proof"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say in his own telecom days in Panama?",
+   "choices": [
+    "There was no fiber until around 1998, only satellite",
+    "There was fiber everywhere",
+    "There were no phones"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the author say Henry Ford did not need?",
+   "choices": [
+    "Focus groups",
+    "Cars",
+    "Money"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Sometimes you put your chips on the table without a survey. Know what you can afford to lose.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  },
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

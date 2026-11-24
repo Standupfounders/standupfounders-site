@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-a23-2",
+ "title": "Tell your own story",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What story will people tell about you if you don't tell one?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Assume it is written down",
+   "lines": [
+    {
+     "text": "One thing I practice all the time, Jose said, is to assume that whatever you say is going to be written down somewhere. Pretend you are sitting in court with a lawyer who says: on that date you made this statement. Was it true or false?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A lot of the time it is safe to say: that is a really good question, let me think about that, he said. A student said: or it is going to be re-explained poorly at the very least.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Negative publicity",
+   "lines": [
+    {
+     "text": "Jose said that our relationship with our audience, our branding and messaging, work as filters to attract the right people. Many celebrities use scandals to grab attention. That is called negative publicity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: there is no such thing as truly negative publicity if you are willing to persevere. Negative news spreads faster than positive news, so it is a faster way to stay relevant. Jose said: and they monetize it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you don't develop a narrative for yourself, one will be developed for you. If you don't have an agenda or a narrative, one will be assigned to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Feelings as options",
+   "lines": [
+    {
+     "text": "Jose said that it is important, when we are in these situations, to look at feelings as options instead of things we have to endure. Think about where the feeling comes from. You have the option to feel differently, to say something different and take a positive attitude, and not be so vulnerable in front of people who don't care about the truth.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the story you want told about you, and who is telling it now?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the story you want told about you.",
+   "Write who is telling a different one.",
+   "Write what you would say if it were read back to you in court.",
+   "Write one answer you will practice: let me think about that.",
+   "Write the feeling you will treat as an option this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to assume about what you say?",
+   "choices": [
+    "It will be written down somewhere",
+    "It will be forgotten",
+    "It is private"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say happens if you don't develop a narrative?",
+   "choices": [
+    "One will be assigned to you",
+    "Nothing",
+    "You will be free"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to look at feelings as?",
+   "choices": [
+    "Options",
+    "Burdens",
+    "Orders"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Assume what you say is recorded. Tell your own story before one is assigned to you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "schema": 1,
+ "id": "lesson-b2-j3",
+ "title": "I ended up going to the Supreme Court",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "This is a story, not a lesson. Read it and think about taking on someone much bigger than you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I was in a very, very similar business",
+   "lines": [
+    {
+     "text": "Jose said he was in a very similar business when he started his internet business in his early twenties. He was doing voice over the internet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The telephone company said: no, we have a monopoly in long distance. You cannot use your telephone line to talk long distance through voice on the internet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Imagine a company coming to your house, he said, and telling you it is illegal to use your computer to talk long distance on the phone. That is how strong the monopolies were here.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I ended up going to the Supreme Court",
+   "lines": [
+    {
+     "text": "I ended up going to the Supreme Court and winning, he said, against a multimillion dollar multinational telecom company. They sued me for two hundred and fifty thousand dollars. I was twenty-six years old.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Imagine how intimidating that was, he said. I was up for seven years in jail if they could prove that I had violated the monopoly laws. Thank God I won. I avoided the seven years, and I didn't get the fine.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is why he related so much to the author's story. The cable networks did not want just anybody running content through their networks unless they were paying big money. They had a monopoly, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He's the little guy",
+   "lines": [
+    {
+     "text": "You will learn later in the book, Jose said, that the author is the little guy. He is the one struggling with massive networks with a lot of money behind them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Using his intelligence, his leverage and his negotiation, he is going to battle these big money guys. He has to be very cunning, because they could crush him right away.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But he is a good relationship person, Jose said. He builds relationships. He has solid values and integrity. When he shakes hands with a person and says, this is a deal, it is a deal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is the Goliath in your field, and what is your edge?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one big player in your field.",
+   "Write one edge you have that they do not.",
+   "Write one value you will not trade away, even to win."
+  ]
+ },
+ "check": [
+  {
+   "q": "What was Jose's first business doing, in his story?",
+   "choices": [
+    "Voice over the internet",
+    "Selling books",
+    "Building boats"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How old was Jose when the multinational sued him, according to the story?",
+   "choices": [
+    "Twenty-six",
+    "Forty",
+    "Sixteen"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author builds, besides battling big players?",
+   "choices": [
+    "Relationships, with solid values and integrity",
+    "Only rules",
+    "Only debts"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "When you are the little guy, use your edge and keep your word.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

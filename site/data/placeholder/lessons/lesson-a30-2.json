@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a30-2",
+ "title": "Catalysts, not experts",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you have to be the expert in the room to make the room better?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Catalysts",
+   "lines": [
+    {
+     "text": "Jose said that in this chapter two rival founders are going at each other. Both disrupted industries through passion, innovation and force of will. One's instinct was to push and surge and drive people toward insane deadlines, even if it meant taking risks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The other was skeptical of the first one's practice of spending hours in engineering meetings, making technical decisions and issuing abrupt orders. There is some gossip from former employees that his interventions were unhelpful. Jose said: take it with a grain of salt.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How can one man in four companies have the depth of engineering knowledge to take part in the technical decisions? Some of these engineers have gone through thirty years of schooling. Jose said: that is what this class is about.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The seemingly stupid question",
+   "lines": [
+    {
+     "text": "A student said: they choose industries where they have a high level of knowledge, and then translate everything else from a general level. The process can be the same in an engineering firm and a law firm on the service level.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: they can provoke you to ask questions and come up with answers you hadn't thought of, outside your conscious thought, which further engages your intellect.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: they are catalysts for other people's intellect. He did not have the educational experience to build rockets, so when he sits in the meeting he is probably the one who knows the least of the super technical things. Jose said this is open for discussion.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: he is not limited by what they are taught are limitations. He asks the seemingly stupid question because he doesn't have the credentials, and it provokes enough thought. If an engineer said it, they'd say: that's not supposed to work.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What question would you ask in a room full of experts?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the room where you are the least expert.",
+   "Write three simple questions you could ask.",
+   "Write what an expert in that room might be stuck on.",
+   "Write how you would ask without sounding foolish or hostile.",
+   "Write what you will do with the answers."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call the leaders in the story?",
+   "choices": [
+    "Catalysts for other people's intellect",
+    "Technicians",
+    "Observers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say the person asks?",
+   "choices": [
+    "The seemingly stupid question",
+    "Only technical questions",
+    "No questions"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say they translate from a general level?",
+   "choices": [
+    "The process",
+    "The numbers",
+    "The staff"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask the question the experts don't. Be a catalyst, not another expert.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

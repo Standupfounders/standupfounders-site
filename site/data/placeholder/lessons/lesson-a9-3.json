@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a9-3",
+ "title": "Failure is the currency",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What did your last failure cost you, and what did it buy?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Failure is the currency",
+   "lines": [
+    {
+     "text": "A student said failure increases your tolerance for pain, which is number one. Number two, when you fail you learn from it. Failure, pain and discomfort are the currency you pay to get knowledge.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked who had a story about failure and what they learned. A student said: usually, if I fail, it's because I don't have enough knowledge. So I keep researching and getting better. It's about how you talk to yourself and the people around you, and using your resources. I've failed a lot because I tried to do too much myself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Document the failures",
+   "lines": [
+    {
+     "text": "Jose said the person does what the student hit on: he documents the failures. It is literally being scientific about failing. Why did I fail? What were the reasons? How do we backtrack and analyze what happened?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Writing everything down, every single little process, was one of the biggest lessons I learned in my life, he said, so you can go back and do an audit: where did we go wrong?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is running into risks because there is no history for him, Jose said. Rocket building was subsidized by the government, and he is not. He is burning money and he doesn't have a cushion, so if he doesn't make it work, he is done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Back to the drawing board",
+   "lines": [
+    {
+     "text": "A student said that stress is a loss of control. When something gets thrown at you, the quicker you get back to the drawing board and analyze the variables, what went wrong and what the steps are to get it back into control, the more it alleviates the stress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student added that anxiety can perpetuate itself into a rabbit hole. The faster you get back to the drawing board and don't skip a beat, the less time you spend in it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your system for writing down what went wrong?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your last failure and what it cost.",
+   "Write what knowledge you were missing.",
+   "Write the reasons, as a scientist would, not as a judge.",
+   "Write the process you will document so you can audit it.",
+   "Write the first three steps back to the drawing board next time."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student call failure, pain and discomfort?",
+   "choices": [
+    "The currency you pay to get knowledge",
+    "A sign to stop",
+    "Bad luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the person does with failures?",
+   "choices": [
+    "Documents them and audits what went wrong",
+    "Forgets them",
+    "Blames others"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say alleviates stress?",
+   "choices": [
+    "Getting back to the drawing board quickly",
+    "Waiting",
+    "Not thinking"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Treat failure as tuition. Write it down and audit it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

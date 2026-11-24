@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-b19-3",
+ "title": "What kind of leader am I?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you lead from the top down, or through managers who each run their own part?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Top down, or compartmentalized?",
+   "lines": [
+    {
+     "text": "Jose summed up the end of the last chapter: the author is trying to find his place after the merger. The other chief executive has the company more compartmentalized, each manager with a little kingdom, and he oversees. He is not a top-down leader like the author. What do we learn from the difference in management style?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the author is used to telling his five people the strategy and it trickles down, versus the company where each one has more control and it is more decentralized. I think one person having the strategy and it trickling down seems more efficient. I've worked in both, though.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said everybody should be thinking about this, not only in the corporate world but in governments. Some have a very strong executive, and some are more decentralized, with power spread among the senators and municipalities. That is why there is a balance of powers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What kind of leader am I?",
+   "lines": [
+    {
+     "text": "In some countries, Jose said, when there is a lot of power in the legislative assembly, there are more conflicts of interest, and the executive gets vetoed and is not able to execute. We have learned that over the years. It is very similar to corporate strategy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As a leader, you have to start to think about it. Am I top-down? Do I talk about the strategy and meet with everybody and go through the operations? Or do I prefer to have managers in each of the divisions, meet with them individually, compartmentalize a little, give them a lot more freedom of decisions, and oversee the managers?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What kind of leader are you, and what does your team need?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether you lead top-down or by compartments.",
+   "Write what your team gains and loses from that.",
+   "Write the style you prefer, and why.",
+   "Write one decision you will hand to a manager.",
+   "Write one decision you will keep."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask leaders to think about?",
+   "choices": [
+    "What kind of leader am I: top down or compartmentalized?",
+    "How much do I earn?",
+    "Who is my rival?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose compare management styles to?",
+   "choices": [
+    "Governments, with a strong executive or power spread out",
+    "Weather",
+    "Sports"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say seemed more efficient?",
+   "choices": [
+    "One person having the strategy, trickling down",
+    "Everyone deciding alone",
+    "No strategy"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know which kind of leader you are and what your team needs.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

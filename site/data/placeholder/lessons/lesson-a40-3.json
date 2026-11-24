@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-a40-3",
+ "title": "Standards, not expectations",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you tell your team: what you hope for, or what the minimum is?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Standards, not expectations",
+   "lines": [
+    {
+     "text": "Jose said: that is a characteristic of a leader, always expecting a higher standard from people. He has a baseline standard for what and who he accepts in his life, and doesn't let the behaviours and attitude slip below it. What is our standard as leaders, in the companies we run?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you don't define it, he said, and don't go through the inventory of what your standards and expectations are, and write them down in black and white, you can't hold it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I say standards instead of expectations all the time, because you can let somebody down if they don't live up to expectations. If you don't live up to the standards, it just doesn't happen anymore. It puts whoever sets the standards in a position of authority.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: standards are the minimum you have to achieve. Expectations are: I hope you get here. Expectations are a magical unicorn, and standards are a horse with a cone on its head.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Overestimating, collaboratively",
+   "lines": [
+    {
+     "text": "Jose said: he constantly overestimates what they can accomplish. Psychologically, he comes into the room and says what you can do, and you think: this guy is overestimating what I can do in the next two months. What effect does that have? A student said: it makes them believe it for a second, at least long enough to try.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: I think that is the essence of his leadership style. These people actually believe it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: with expectations I always ended up disappointed. If you don't communicate them well enough, they will inevitably disappoint you. One way not to be disappointed is to have no expectations, but have standards. You can't control anybody else, but you can control what you are involved in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: I think that is a collaborative situation in the company. Talk about it, make a decision collectively about what the standard is, and be purposeful about it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your standard, in one line, and does your team know it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your standards in black and white.",
+   "Write the difference between your standards and your expectations.",
+   "Write the one that people let slip below.",
+   "Write how you would set the standard together with your team.",
+   "Write what you would do if a standard isn't met."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say standards are, compared with expectations?",
+   "choices": [
+    "The minimum you have to achieve",
+    "What you hope for",
+    "A secret"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you should do with your standards?",
+   "choices": [
+    "Write them down in black and white",
+    "Keep them in your head",
+    "Change them daily"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about deciding the standard?",
+   "choices": [
+    "Decide it collectively and purposefully",
+    "Decide alone",
+    "Don't decide"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Set standards, not hopes. Write them down. Decide them with your team.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

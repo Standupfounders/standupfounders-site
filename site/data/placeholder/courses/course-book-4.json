@@ -1,0 +1,379 @@
+{
+ "schema": 1,
+ "id": "course-book-4",
+ "slug": "book-4",
+ "title": "Jose's analysis of a book we are still naming",
+ "label": "Course 4",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "A fourth course, built from Jose's group calls on one book about authority and personal brand, in the order of the calls. The book is not named yet. Modules are added one at a time.",
+ "season_note": "A suggested run of about 20 weeks. Suggested dates only: nothing locks.",
+ "weeks": 20,
+ "modules": [
+  {
+   "id": "m-d1",
+   "title": "A book, a niche and the speed of trust",
+   "minutes": 47,
+   "week_from": 1,
+   "week_to": 1,
+   "items": [
+    {
+     "id": "i-d1-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know what you would build authority in?",
+       "item": "i-d1-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a narrow niche?",
+       "item": "i-d1-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know why people should trust you?",
+       "item": "i-d1-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d1-1",
+     "kind": "section",
+     "title": "A book to build authority",
+     "minutes": 9,
+     "idea": "A book builds authority; act on each chapter.",
+     "lesson": "lesson-d1-1"
+    },
+    {
+     "id": "i-d1-2",
+     "kind": "section",
+     "title": "A niche and an identity",
+     "minutes": 9,
+     "idea": "Pick a narrow niche; be visible.",
+     "lesson": "lesson-d1-2"
+    },
+    {
+     "id": "i-d1-3",
+     "kind": "section",
+     "title": "Why trust you?",
+     "minutes": 9,
+     "idea": "Show your record; care about each person.",
+     "lesson": "lesson-d1-3"
+    },
+    {
+     "id": "i-d1-w",
+     "kind": "workshop",
+     "title": "Workshop: My field, my niche, my proof",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The field I want to be known in.",
+      "My one hat and my niche.",
+      "My proof and why people should trust me."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d2",
+   "title": "Messenger, parts of trust and your brand",
+   "minutes": 65,
+   "week_from": 2,
+   "week_to": 2,
+   "items": [
+    {
+     "id": "i-d2-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Are you the messenger or the message?",
+       "item": "i-d2-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the parts of trust?",
+       "item": "i-d2-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know how to win trust back?",
+       "item": "i-d2-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d2-1",
+     "kind": "section",
+     "title": "The messenger and the uniform",
+     "minutes": 9,
+     "idea": "Be the messenger; play your role.",
+     "lesson": "lesson-d2-1"
+    },
+    {
+     "id": "i-d2-2",
+     "kind": "section",
+     "title": "The parts of trust",
+     "minutes": 9,
+     "idea": "Trust has parts; test each.",
+     "lesson": "lesson-d2-2"
+    },
+    {
+     "id": "i-d2-3",
+     "kind": "section",
+     "title": "Winning trust back",
+     "minutes": 9,
+     "idea": "Go backwards, lay it out, be transparent.",
+     "lesson": "lesson-d2-3"
+    },
+    {
+     "id": "i-d2-4",
+     "kind": "section",
+     "title": "Personal brand and company brand",
+     "minutes": 9,
+     "idea": "Work on both brands.",
+     "lesson": "lesson-d2-4"
+    },
+    {
+     "id": "i-d2-5",
+     "kind": "section",
+     "title": "Be findable and different",
+     "minutes": 9,
+     "idea": "Be findable; differentiate; keep learning.",
+     "lesson": "lesson-d2-5"
+    },
+    {
+     "id": "i-d2-w",
+     "kind": "workshop",
+     "title": "Workshop: My message, my trust parts, my search",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My message and my role.",
+      "My weakest part of trust and the fix.",
+      "What I will publish so my name says what I mean."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d3",
+   "title": "Leaders, strengths and questions that develop people",
+   "minutes": 56,
+   "week_from": 3,
+   "week_to": 3,
+   "items": [
+    {
+     "id": "i-d3-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know which kind of leader you are?",
+       "item": "i-d3-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your strengths and gaps?",
+       "item": "i-d3-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know who your people want to be?",
+       "item": "i-d3-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d3-1",
+     "kind": "section",
+     "title": "Three kinds of leader",
+     "minutes": 9,
+     "idea": "Know the three kinds; aim for mission and service.",
+     "lesson": "lesson-d3-1"
+    },
+    {
+     "id": "i-d3-2",
+     "kind": "section",
+     "title": "Your strengths and your gaps",
+     "minutes": 9,
+     "idea": "Know your gap; put someone in it.",
+     "lesson": "lesson-d3-2"
+    },
+    {
+     "id": "i-d3-3",
+     "kind": "section",
+     "title": "Treat people as who they want to be",
+     "minutes": 9,
+     "idea": "Treat people as who they want to be.",
+     "lesson": "lesson-d3-3"
+    },
+    {
+     "id": "i-d3-4",
+     "kind": "section",
+     "title": "Questions that reveal and develop",
+     "minutes": 9,
+     "idea": "Ask the questions that reveal.",
+     "lesson": "lesson-d3-4"
+    },
+    {
+     "id": "i-d3-w",
+     "kind": "workshop",
+     "title": "Workshop: My leader type, my gap, my questions",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The leader I want to be in one line.",
+      "My gap and who covers it.",
+      "Three questions I will ask my people."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d4",
+   "title": "Brand, hats, story and saying no",
+   "minutes": 65,
+   "week_from": 4,
+   "week_to": 4,
+   "items": [
+    {
+     "id": "i-d4-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know what image people have of you?",
+       "item": "i-d4-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you say who, why and how?",
+       "item": "i-d4-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know which hat you wear?",
+       "item": "i-d4-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d4-1",
+     "kind": "section",
+     "title": "The image in their mind",
+     "minutes": 9,
+     "idea": "People form an image before they meet you.",
+     "lesson": "lesson-d4-1"
+    },
+    {
+     "id": "i-d4-2",
+     "kind": "section",
+     "title": "Who, why, how",
+     "minutes": 9,
+     "idea": "Say who you are, why you matter and how people benefit.",
+     "lesson": "lesson-d4-2"
+    },
+    {
+     "id": "i-d4-3",
+     "kind": "section",
+     "title": "Many hats, one message at a time",
+     "minutes": 9,
+     "idea": "Wear the right hat; scale one message.",
+     "lesson": "lesson-d4-3"
+    },
+    {
+     "id": "i-d4-4",
+     "kind": "section",
+     "title": "From what you do to who you are",
+     "minutes": 9,
+     "idea": "Excellence first, then identity.",
+     "lesson": "lesson-d4-4"
+    },
+    {
+     "id": "i-d4-5",
+     "kind": "section",
+     "title": "Your story and what you say no to",
+     "minutes": 9,
+     "idea": "Tell it simply; know what you say no to.",
+     "lesson": "lesson-d4-5"
+    },
+    {
+     "id": "i-d4-w",
+     "kind": "workshop",
+     "title": "Workshop: My image, my three, my story",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The image I want and the gap today.",
+      "Who I am, why I matter, how people benefit.",
+      "My story in one paragraph and one thing I say no to."
+     ]
+    }
+   ]
+  }
+ ],
+ "slots": [],
+ "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+}

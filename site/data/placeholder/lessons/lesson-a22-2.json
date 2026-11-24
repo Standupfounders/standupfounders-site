@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a22-2",
+ "title": "Internal or external?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you reach a goal, who tells you it counts: you, or someone else?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Internal or external",
+   "lines": [
+    {
+     "text": "Jose asked: after you reach a goal, how does it get validated in your thought process? You say: I reached it, I celebrated it. Is it all internal, or external as well?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: both. You want it to be as internal as possible. I can be guilty of getting the satisfaction of the goal through external affirmation, which isn't helpful when you rely on external feedback for your own approval.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Moving targets",
+   "lines": [
+    {
+     "text": "Jose said that another entrepreneur once told him one of the problems he realized in life was that his father never set his goals high enough. I always set my goals as moving targets, so that I could achieve, and achieve, and achieve.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As an overachiever, he said, which entrepreneurship and overachieving are very related, you have to analyze: once I reach that success, is it ninety percent internal, where I am celebrating, or is ninety percent some external force that I'm not in control of?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student offered: maybe an addiction to solving problems, to having problems to solve.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Where does your sense that you did well come from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last goal you reached and how you celebrated it.",
+   "Write how much of the satisfaction was from others.",
+   "Write what you would need to feel it from the inside.",
+   "Write whether your goals are moving targets, and why.",
+   "Write what problem you keep solving so you never stop."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say you want your validation to be?",
+   "choices": [
+    "As internal as possible",
+    "All from others",
+    "None"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask about reaching a goal?",
+   "choices": [
+    "How does it get validated: inside or outside?",
+    "How much does it cost?",
+    "Who pays?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the entrepreneur Jose quoted say about his goals?",
+   "choices": [
+    "He set them as moving targets",
+    "He never set goals",
+    "He set them low"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know where your sense of success comes from. Be careful with moving targets.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

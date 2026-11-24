@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-c8-4",
+ "title": "Intent needs structure and people",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would make your intent go from an island to a continent?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Intent into action",
+   "lines": [
+    {
+     "text": "A student said that he had written: the cause of your habits is the prediction of how it will go, and a habit is often kept because you want a state change, an emotional change. He said he may have written it wrong and it is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: you can have intent, but you are on a little island unless you turn it into action, habits and structure, and surround yourself with people who have the same intent and are predicting where they want to go. He said you need accountability systems.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Structure travels with you",
+   "lines": [
+    {
+     "text": "A student said: the people around us in a laid-back place had few habits, and we realized that our habits separate us from them. We kept to the things we had to do, and we did not want to be too laid back.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: people who are regimented keep their structure wherever they are. They go and have fun, but they follow their structure, and a beautiful environment can almost balance their internal drive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What structure do you carry with you wherever you go?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one intent you hold.",
+   "Write the action, habit and structure that carry it.",
+   "Write who shares the intent.",
+   "Write the accountability you will set.",
+   "Write the structure you keep when your surroundings change."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you are on without action?",
+   "choices": [
+    "A little island",
+    "A path",
+    "A bus"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you need with others?",
+   "choices": [
+    "Accountability systems",
+    "More meetings",
+    "More money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say separates people from others around them?",
+   "choices": [
+    "Their habits",
+    "Their clothes",
+    "Their food"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Turn intent into action, structure and a team.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

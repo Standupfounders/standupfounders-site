@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-b11-3",
+ "title": "Nobody gets any freebies",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What did your parents make you do that you did not understand at the time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Nobody gets any freebies",
+   "lines": [
+    {
+     "text": "Jose read a line from one of the author's children about how their father raised them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I learned how to live very frugally, thanks to Dad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "So he's teaching his son money management, Jose said. And then, when he came home at Christmas his senior year, he asked: what area of business would you like to work in? I found that kind of funny, because he is very formal with his son.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I can tell he is a tough love kind of guy, Jose said. He is all about the work ethic. He is all about make your own money. He has all these beautiful principles that he passes down to his kids. Nobody gets any freebies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "They made them do chores",
+   "lines": [
+    {
+     "text": "There is a very good book on entrepreneurs, Jose said, and entrepreneurs have something in common that is fascinating: their parents made them do chores. Clean the pool, mow the lawns, take care of the horses. That is basically how they earned their living in the house.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They taught them that work ethic, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What work ethic was handed to you, and what are you handing down?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the chores or jobs you had as a child.",
+   "Write what they taught you about work.",
+   "Write what you teach the people you raise or lead about money.",
+   "Write one 'freebie' you will stop giving.",
+   "Write one principle you will pass down."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say entrepreneurs often have in common?",
+   "choices": [
+    "Their parents made them do chores",
+    "They went to the same school",
+    "They inherited money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the author as a father?",
+   "choices": [
+    "Tough love: nobody gets any freebies",
+    "Very relaxed",
+    "Always absent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the author's child say they learned?",
+   "choices": [
+    "To live frugally",
+    "To invest",
+    "To sail"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pass down the work ethic. Nobody gets any freebies.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

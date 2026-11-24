@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-c7-2",
+ "title": "From I to we",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you say I, or do you say we?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "From I to we",
+   "lines": [
+    {
+     "text": "Jose said that many leaders, especially young ones, use the word I a lot: I am doing this, I need you to do that. Instead use we: we are oriented, we care, we motivate and inspire each other.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when you focus on the group you can share all your different processes to create a culture of working together with common habits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that the old-fashioned way is to celebrate the individual, and that this isolates people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A tribe's habits",
+   "lines": [
+    {
+     "text": "A student said: the concept of herd mentality can be used as a tribal knowledge base if you reward the behavior and not the personality. What is the culture of the herd, and how do you affect it at scale? It is about the mindset.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: I am pretty sure that the sisters in the book's story do not compete with each other; they focus so much on effort and process that they found a little secret of success. A group focus is a very different culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that a leader should be aware of the person who is the I, the me, the my, and that a leader says: we care, we lift each other up, we are a resource to each other.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Count how many times you say I in your next team message, and change one to we.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last message you sent to your team.",
+   "Count the I words and the we words.",
+   "Write one process you could share across the team.",
+   "Write who you celebrate and how.",
+   "Write how you will celebrate the group."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say young leaders use too often?",
+   "choices": [
+    "The word I",
+    "The word we",
+    "The word please"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to reward?",
+   "choices": [
+    "The behavior, not the personality",
+    "The loudest",
+    "The newest"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say celebrating the individual does?",
+   "choices": [
+    "Isolates people",
+    "Unites everyone",
+    "Saves money"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Say we. Share processes. Celebrate the group.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

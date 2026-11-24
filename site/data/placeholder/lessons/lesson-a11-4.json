@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a11-4",
+ "title": "Tell new hires the truth",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who do you tell the truth to before they join you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Tell new hires the truth",
+   "lines": [
+    {
+     "text": "Jose said the person in the book meets a designer who vibes with him: cool, collected, with self-confidence and polite humility. There are certain people who can vibe with him a little more.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then he hires his right-hand person, Jose said, a clay modeler and engineer. He tells him the truth: this is a garage van, and we may go bankrupt. But he says if he is hardcore about building rockets, this is easier than rockets. And the man says: I'm all in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Design is engineering",
+   "lines": [
+    {
+     "text": "Jose said that a man who had thrived in the battery work made a statement about the boss, and read it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "True industrial design must connect the looks of a product to its engineering.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "He said it is groundbreaking when aesthetics and engineering are combined. A student had also thought it funny that the person had first hired a designer for the design and then went another way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you tell a new hire about what they are walking into?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you would tell a new hire about the risks.",
+   "Write what would make a person say: I'm all in.",
+   "Write how the look of your product connects to how it works.",
+   "Write who in your team vibes with you and who challenges you.",
+   "Write what you would say if the job might fail."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the person in the book tell the engineer he hired?",
+   "choices": [
+    "That it was a garage van and they may go bankrupt",
+    "That the pay was high",
+    "That it was safe"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the engineer say?",
+   "choices": [
+    "I'm all in",
+    "I'll think about it",
+    "No"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What must industrial design connect, according to the line Jose read?",
+   "choices": [
+    "The looks of a product to its engineering",
+    "The price to the cost",
+    "The brand to the logo"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Tell new hires the truth. Connect the look to the engineering.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

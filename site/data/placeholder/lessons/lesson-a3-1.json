@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a3-1",
+ "title": "Strike while the iron is hot",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What big change is happening now that nobody has a course for yet?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "When the internet began",
+   "lines": [
+    {
+     "text": "Jose said the chapter starts with students graduating: east to Wall Street jobs, or west to the entrepreneurial tech start-ups. In the early nineties came what he called the third biggest revolution in the economy that ever existed: the internet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Imagine, he said, websites didn't exist. Google didn't exist. Nobody knew how to measure it or what it could do. A lot of young entrepreneurs began getting ideas to start internet businesses. There wasn't even schooling. You couldn't study anything that prepared you for it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That was a big advantage back then, he said, because anybody could become an expert. You just had to read and learn and get on the job. He remembered people in their twenties raising a hundred million dollars from investors who had no idea how to size the market either.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Strike while the iron is hot",
+   "lines": [
+    {
+     "text": "Jose retold how the person in the book went back to his mentor to double-check. The mentor said this internet revolution is once in a lifetime: strike while the iron is hot, and you can go back to school later.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So he said he needed to put everything on hold and catch the wave, Jose said, putting himself in exactly the right time, the right place and the right mentality. He called it a combination of the external environment, the economy, and the fertile soil of his own being.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is a great explanation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What wave are you standing in front of?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one change happening in your field that has no course yet.",
+   "Write what you could learn on the job that nobody can teach you yet.",
+   "Write what you would put on hold to catch it.",
+   "Write who you would ask, the way he asked his mentor.",
+   "Write what makes this the right time and place for you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you couldn't study when the internet began?",
+   "choices": [
+    "Anything that prepared you for it",
+    "Law",
+    "Accounting"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the mentor say to do?",
+   "choices": [
+    "Strike while the iron is hot",
+    "Wait",
+    "Finish school first"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about experts in those years?",
+   "choices": [
+    "Anybody could become one by reading, learning and doing",
+    "Only graduates could",
+    "Nobody could"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice the wave. Put yourself in the right place and mindset to catch it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

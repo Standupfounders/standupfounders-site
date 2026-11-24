@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c13-3",
+ "title": "Whose habits are these?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which of your habits are yours, and which did you inherit?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What I think you think I can do",
+   "lines": [
+    {
+     "text": "Jose offered a saying: I do not become what you think I can, and I do not become what I think I can; I become what I think you think I can. He said it is tough to follow and repeated it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said children naturally seek approval from their parents, and we are dragging the habit development our parents gave us, whether we like it or not.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "An inventory",
+   "lines": [
+    {
+     "text": "Jose asked: what habits are yours and what habits were not your choice? Which do you have from your parents that you do not want, and which do you want to keep? Did you grow up with love that was manipulated to drive achievement, or love with no strings attached?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that if you pull on a habit like a rope you eventually reach positive and negative anchors.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Rewiring",
+   "lines": [
+    {
+     "text": "A student said: it is important to look back at your behaviors and see where they stem from. Holding love for ransom for performance is what a lot of high performers grew up with, and rewiring it as an adult is complicated, but it is common.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that some parents want to be needed, not wanted, and that this becomes part of their identity. He said that when we are aware of where our habits come from, we are making an independent choice, independent of our past limitations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which habit would you keep, and which would you hand back?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "List five habits you have.",
+   "Mark each: mine, or inherited.",
+   "Write the ones you want to keep.",
+   "Write the ones you want to change.",
+   "Write who could help you if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask you to sort habits into?",
+   "choices": [
+    "Yours and not yours",
+    "Old and new",
+    "Big and small"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens when you know where a habit comes from?",
+   "choices": [
+    "You make an independent choice",
+    "You lose it",
+    "You forget it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about rewiring as an adult?",
+   "choices": [
+    "It is complicated but common",
+    "It is easy",
+    "It is impossible"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Sort your habits into yours and inherited. Choose independently.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

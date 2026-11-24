@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c15-2",
+ "title": "Have to, or get to",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you say I have to, or I get to?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where the dislike comes from",
+   "lines": [
+    {
+     "text": "A student said: procrastination can come from associating stress with productivity, as in a parent who comes home and complains about work. The student said he read this in an NLP book, and it needs a person to check the source.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that parents can accidentally anchor negative things: I can not wait for the weekend, I hate my boss. He said that if you do not interpret what happens to you, you become a victim of circumstance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Language and calm",
+   "lines": [
+    {
+     "text": "A student said: I am being conscious of the little negative language I use, such as God, I have to work out today. The small comments compound. Flipping them to positive forces me to reframe the situation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the word equanimity means the ability to maintain an evenness of temperament in good or bad situations, and that we can learn to elevate emotion in a positive way. Without regulating, we let boredom run into a negative spiral.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said: I block time on my calendar to focus on a task I do not look forward to, so it is out of my head and I can get back to what I like.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "I get to",
+   "lines": [
+    {
+     "text": "A student said: instead of I have to drive my kids to practice, say I get to. Before you know it they will be out of the house. Thinking of the people who cannot get out of bed makes exercising a privilege.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: you do not have control of the external, but you have control of how you view it. Another repeated the idea that a small share of life is what happens, and the rest is how you react.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Which of your have-tos could be a get-to?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three things you say you have to do.",
+   "Rewrite each with get to.",
+   "Write a task you will block time for.",
+   "Write the last time you were a victim of circumstance.",
+   "Write how you interpret it now."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say equanimity is?",
+   "choices": [
+    "Evenness of temperament",
+    "Speed",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about little negative comments?",
+   "choices": [
+    "They compound",
+    "They vanish",
+    "They help"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say instead of I have to?",
+   "choices": [
+    "I get to",
+    "I will not",
+    "I might"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Say get to. Block time. Regulate the swing.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

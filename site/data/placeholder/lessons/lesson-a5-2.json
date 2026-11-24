@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a5-2",
+ "title": "Recruit an advisor",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why would a successful person help you, and what do they see when they look you up?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Research before you call",
+   "lines": [
+    {
+     "text": "A student said you could give a person equity in the company. Jose said: you are calling them out of the blue, and you are a start-up without money. What is your leverage?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: share your vision and offer a plan. Jose said: that's what you have, a great idea that has traction. And before you call the person you learn about them. You don't just call somebody out of the blue and say: I'd like you to join my company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Are they involved in non-profits? Do they like mentoring? You have to have somebody who enjoys helping companies to grow, he said. Read the press releases and what they have been quoted saying. What else in their life is significant to them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why they will help",
+   "lines": [
+    {
+     "text": "You won't sell them on: help me, because I'm going to make a bunch of money. Maybe this person has hundreds of millions already. They will help you because somebody out there recognized the work they have done, and it is an opportunity to leave a legacy by helping somebody.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose told of a very wealthy man he sat down with. He said his mission was to invest in something that lasts long after he's gone, and to teach children skills that schools aren't giving them. That was all he talked about, not business. Legacy is a big deal for some successful people, Jose said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So you can appeal to such a person by saying: I admire what you've done, I've researched it, and I want to be part of your legacy. You want to be sincere about that. If all they care about is money, you picked the wrong person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Givers, not takers",
+   "lines": [
+    {
+     "text": "As a mentor, he said, you want to help people who are really committed to take your advice, and who are at least grateful and respectful. A lot of people who ask for help are just takers, not givers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where is the visibility of how you are a giver? he asked. Do you help kids, are you involved in non-profits? Is it on your profile, a website, a video? When I look at someone's profile, I'm looking for what they have done for other people. Make sure in your branding there is evidence that you authentically help others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What evidence would a mentor find that you give?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the advisor you would most like to have.",
+   "Write what you have learned about what matters to them.",
+   "Write why they would help you besides money.",
+   "Write where a mentor could see that you give to others.",
+   "Write the first honest sentence you would say to them."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to do before you call a possible advisor?",
+   "choices": [
+    "Research them",
+    "Offer equity at once",
+    "Send a gift"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say matters to some very successful people?",
+   "choices": [
+    "Legacy",
+    "A discount",
+    "A free trial"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a mentor looks for?",
+   "choices": [
+    "Evidence that you are a giver and not only a taker",
+    "A big following",
+    "A degree"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Research the person. Show you give. Appeal to what matters to them, sincerely.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

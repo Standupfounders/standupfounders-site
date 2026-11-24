@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-b2-j",
+ "title": "Even when you fail on the way",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "This is a story, not a lesson. Read it and think about a failure of your own.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Out of ten things, I failed nine",
+   "lines": [
+    {
+     "text": "I've had extremely low lows, Jose said. I joke with you guys: out of the ten things I've done in my life, I think I failed nine.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a digital advertising agency he started in his twenties. He thought it was going to do very well. It ended up not working out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But then it became part of my business model in whatever I do, he said. I never thought: I'm never going to use this again. Even if it fails, it is part of my skill set. It is part of the process of where I want to go.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When he later ran a fishing tourism business, he said, digital advertising was how he got his clients to come fishing and pay.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Even when you fail on the way",
+   "lines": [
+    {
+     "text": "Everything you do on the way, even when you fail on the way, the process and what you are learning is the most important thing, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Put things into perspective and remove yourself from the emotional roller coaster. Ask: what am I going to think about this in ten years?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You have to control the lows, he said. You cannot let your mind go there. What kind of decisions are you going to make in your lows?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What did one of your failures give you that you still use?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one thing you tried that did not work out.",
+   "Write one skill or lesson you still use from it.",
+   "Write where you could use it next.",
+   "Write what you will think about this failure in ten years."
+  ]
+ },
+ "check": [
+  {
+   "q": "How many of ten things did Jose joke he failed?",
+   "choices": [
+    "Three",
+    "Nine",
+    "Five"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What happened to the failed digital advertising agency, in his story?",
+   "choices": [
+    "It became part of his business model",
+    "He sold it",
+    "He forgot it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question did he say to ask to gain perspective?",
+   "choices": [
+    "What will the neighbours say?",
+    "What am I going to think about this in ten years?",
+    "Who is to blame?"
+   ],
+   "answer": 1
+  }
+ ],
+ "recap": "Even a failure leaves a skill. Keep what you learn on the way.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

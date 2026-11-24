@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-a9-2",
+ "title": "The hangman's noose",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is your life jacket in a crisis?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The hangman's noose",
+   "lines": [
+    {
+     "text": "A student said the person is emerging as a leader, and that his employees are starting to believe in him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said there is an incredible line in the book, and read it, stressing the word but.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The threat of the hangman's noose concentrated his mind.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "He is about to go into personal bankruptcy and is borrowing money, Jose said. And he told people close to him that nobody should lose their house because of what he put in. The book depicts how much he was under, and Jose said his tolerance for stress is high but that year almost pushed him past his limits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What do you do?",
+   "lines": [
+    {
+     "text": "What is your life jacket in a crisis? Jose asked. Mentally, where do you go? How do you act in front of other people? He said we know how the person acts: he puts a mask on and says: I'm the leader, I've got to have optimism.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the people around him gain their morale from him. His attitude from before, of showing the capacity to lead, is what people value in a crisis. They think: this guy is all in, we're going with him. Even people who had disagreements came to give money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the foundation of the groundbreaking entrepreneur is a core belief: there is a possibility that I can fail, but I'm going to keep going at all costs. We need to study ourselves: do I have that trait, and can I build it if I don't?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some of us say: this is my risk tolerance, this is my line. Others say: this is my mission and I won't let anything get in the way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where do you get your strength from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the situation where you feel your mind concentrate.",
+   "Write what your life jacket is in a crisis.",
+   "Write how you act in front of other people when you are under stress.",
+   "Write whether your line is risk tolerance or mission.",
+   "Write what you would do to build the trait if you don't have it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What question did Jose ask about crisis?",
+   "choices": [
+    "What is your life jacket in a crisis?",
+    "What is your budget?",
+    "What is your plan B?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say people value in a crisis?",
+   "choices": [
+    "A leader who has shown the capacity to lead before",
+    "A leader who hides",
+    "A leader who changes plan daily"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What core belief did Jose name?",
+   "choices": [
+    "I may fail, but I'll keep going at all costs",
+    "I will never fail",
+    "I will quit if it's hard"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find your life jacket. Know your line: risk tolerance or mission.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

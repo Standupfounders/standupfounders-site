@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-a18-5",
+ "title": "Will or skill",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How many people on your team should think like owners?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Founders and employees",
+   "lines": [
+    {
+     "text": "A student asked: how much of the team should be like-minded entrepreneurs, and how much employees you pay a salary? What level of commitment do both need? Jose said: sometimes you just need to hire a secretary and get the job done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: three co-founders is the highest I would go. Too many chefs and not enough tribe. Jose said: you have a board of advisors for that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another said: a lot of people on the team with an entrepreneurial mindset gets you success at a good pace. But plan ahead: this person may leave or copy the business, so think who the replacement will be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Will or skill",
+   "lines": [
+    {
+     "text": "A student said: hire fast, fire faster, promote fastest. If somebody is not doing the job it is will or skill. If it's skill, teach them. If it's will, they won't develop willpower overnight. Promote from within.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is a definite decision among entrepreneurs, to bring them up through the ranks. And a big lesson: systemize, so when you lose somebody you can replace them right away.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he spends an enormous amount of time training people with little schooling over a year, and when he loses somebody he has to start again. How long does it cost me to replace a worker? There is a financial number to that, and if you aren't aware of the cost of turnover, you are in big trouble.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the upfront cost is huge, and the return on a new person can take a year or more to recover.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Four categories, and teach-back",
+   "lines": [
+    {
+     "text": "Jose told of a time a large computer company brought a call centre to his country. The turnover was triple what they thought, and they lost money for the first three years. The training cost was massive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I break it down into four categories, he said, when I teach young children entrepreneurship: mindset, visualization, process-oriented thinking, and execution. Does this person make consistent decisions every day? Do they have the habits?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student offered a life hack: if you can teach a concept to a child, you have mastered it. If a task isn't documented, have the employee write the procedure and teach it back to someone else. If that person can repeat it, you have training material and a system.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the cost of replacing a person on your team, in time and money?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how many co-owners you want and why.",
+   "Write which roles are owners and which are employees.",
+   "Write the cost of replacing one person.",
+   "Write the procedure you would have a person write and teach back.",
+   "Write your four categories for a good hire."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say if someone isn't doing the job?",
+   "choices": [
+    "It's will or skill: teach skill, fire for will",
+    "Always fire",
+    "Always wait"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you must be aware of?",
+   "choices": [
+    "The cost of turnover",
+    "The weather",
+    "The competitor's size"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say proves you have mastered a task?",
+   "choices": [
+    "You can teach it to someone else, who can repeat it",
+    "You can do it fast",
+    "You wrote it once"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know will from skill. Know your turnover cost. Systemize with teach-back.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "lesson-b14-2",
+ "title": "Start your mission statement now",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you want to be remembered?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Start your mission statement now",
+   "lines": [
+    {
+     "text": "Jose said that when he reads a chapter, he asks: what am I learning from this? I'm not going to buy a bunch of land. I need to make a lot of money first. But it doesn't hurt to ask: what is my interest, what would be my legacy, how do I want to be remembered, and what did I do to make the world a little bit better?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What I encourage people to do all the time, he said, is start your mission statement now.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the author sets a mission when he buys land. Jose read a line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Part of my desire to own this land was to make sure that it was never developed. Conserving this property for future generations seemed like the right thing to do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "A student said: I hope they say I was a great person and a better friend, and always brought a good time and a smile. If your kids still want to hang out with you when you are an older parent, you did something right. I want to be successful, but I never want to lose that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Be specific",
+   "lines": [
+    {
+     "text": "Jose asked the group: do you think it helps that the more specific you are, the closer you are to accomplishing it? The author is relentless. He goes down a list of specific, measurable goals in his conservation work. It is not a blanket statement.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is really important to be specific with everything. Otherwise you don't have a goal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said his own goal in a project of his is a hundred thousand different fruit trees. I have a database. I have monthly goals for how many I am planting and grafting. I am very structured with what my goal is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whatever your hobby, he said, whatever that goal is, be specific and have a mission statement. Making that mission statement is what channels your energy and the people around you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "My own mission, he said, is empowering other people. I would love it if, when I'm gone, people say: that guy really empowered a lot of people. Helping as many people as possible to live a beautiful, happy life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the mission statement you would write today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you want to be remembered.",
+   "Write your mission statement in one sentence.",
+   "Make it specific: write a number or a measurable goal for it.",
+   "Write what would make the mission real this month.",
+   "Write who around you shares this mission."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose encourage people to start now?",
+   "choices": [
+    "Their mission statement",
+    "A savings plan",
+    "A new company"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about specific goals?",
+   "choices": [
+    "The more specific you are, the closer you are to accomplishing it",
+    "Vague goals are best",
+    "Goals don't matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What mission did Jose say is his own?",
+   "choices": [
+    "Empowering other people",
+    "Making the most money",
+    "Owning land"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start your mission statement now, and make it specific.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

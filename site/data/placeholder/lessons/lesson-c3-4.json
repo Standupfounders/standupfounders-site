@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-c3-4",
+ "title": "The prison of old patterns",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which old pattern is the prison you cannot see?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The prison of old patterns",
+   "lines": [
+    {
+     "text": "Jose said that the normal limitation of people is that they are not free: they have a prison of old patterns, and those patterns come from their environment. Negative cues and negative habits sit in your environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person who cannot adapt stays in the old habits. You have the negative belief system, I can't do that, reinforced by old habits and the comfort zone. He argued on purpose that habits should be evolutionary, dynamic, changing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: they put the limitation in before they even start.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Anchored failures",
+   "lines": [
+    {
+     "text": "A student said that people who have lost money or had a deal fail create a limitation: they do not have the confidence to try again, so their reality is that those opportunities do not work, which is an illusion.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that an emotionally heightened failure gets anchored, so we do not want to engage emotionally again. He asked: why am I not adapting? Is it a childhood experience that created this mental habit, protecting me from some earlier event?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said metacognition is the process of thinking about your own thought processes: if you are aware of the structure of your thinking, you can evolve your habits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Is it the right wall?",
+   "lines": [
+    {
+     "text": "A student summarized: habits are very effective, but we need to make sure it is the right behavior. That starts with clarity, and sometimes you have to get out of your environment to get it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another said: you must continually question it; just because you have always done something does not mean it is the best way. People spend their whole life climbing the corporate ladder only to find it is leaning against the wrong wall.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: ask what success looks like in your environment, and if you do not challenge it you accept someone else's architecture of choice and may regret it. A student said success is something to feel every day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What old pattern are you keeping because it is comfortable?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an old pattern you keep.",
+   "Write where it came from.",
+   "Write what you tell yourself when you want to change.",
+   "Write the right wall: what you want to lean the ladder on.",
+   "Write who could help if it is a heavy memory."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the normal limitation of people is?",
+   "choices": [
+    "A prison of old patterns",
+    "Lack of money",
+    "Lack of time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call thinking about your own thinking?",
+   "choices": [
+    "Metacognition",
+    "Meditation",
+    "Memory"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about a ladder?",
+   "choices": [
+    "It may lean against the wrong wall",
+    "It always works",
+    "It has no top"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "See the old patterns. Question them. Check the wall.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

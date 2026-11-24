@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d3-1",
+ "title": "Three kinds of leader",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which kind of leader are you now, and which do you want to be?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Three kinds",
+   "lines": [
+    {
+     "text": "A student summarized chapter 3: there are different types of leaders. One works behind the scenes, is really good at the job and does not talk about their authority. One is ego driven: look at me, look how much money I made. The third is the mission-driven leader, whom the book calls the best for today's business culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he likes the mission-driven leader and the servant leader, and that he works with his sons so they do not buy into social-media entrepreneurs who push I am this and I am that and you can do the same.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Top-down",
+   "lines": [
+    {
+     "text": "Jose said that he comes from a military background, which is a very top-down style: this is what you are going to do, just do it. He said it is ego driven, and that in a conflict you cannot stop and discuss.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that this style is still used in corporations, and it can be effective in certain circumstances. He said the book describes a different style of leading, and that self-knowledge is one of the characteristics: how to make people aware that through self-knowledge they empower themselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the best-kept-secret leader resonated with me; I could see how I am that person, and I want to be more of the mission-driven, thought leader.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Which of the three do your people see?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write which of the three kinds you are most days.",
+   "Write what a mission-driven version of you would do differently.",
+   "Write where top-down helps.",
+   "Write where it hurts.",
+   "Write one self-knowledge question you will ask each week."
+  ]
+ },
+ "check": [
+  {
+   "q": "Which leader does the book say is best for today, according to a student?",
+   "choices": [
+    "The mission-driven leader",
+    "The ego-driven leader",
+    "The silent leader"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the top-down style?",
+   "choices": [
+    "It can be effective in certain circumstances",
+    "It is always best",
+    "It is never used"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is one of the characteristics of the new style?",
+   "choices": [
+    "Self-knowledge",
+    "Speed",
+    "Loudness"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the three kinds of leader. Aim for mission and service.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

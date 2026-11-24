@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a44-3",
+ "title": "Interview or interrogation?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you interview, or do you interrogate?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two ways to find out",
+   "lines": [
+    {
+     "text": "Jose said that there are two different ways to extract information from people: an interview, which is free-flowing, relaxed discussion; and an interrogation. Interrogation is a scary word, but it is basically a persuasive method to get somebody to tell the truth in a controlled environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the approach was really direct, question after question. There could be a lot of bias in that, if you are only asking yes or no questions. You may be trying to justify an answer you've already come to.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: I like the conversational approach. The more relaxed you make them, the better the interview, because you get a truer sense of who they are. Most people get nervous in interviews, and you might miss a good candidate. Yes or no questions sound like confirmation bias: trying to confirm what you already think.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Which fits the moment?",
+   "lines": [
+    {
+     "text": "Jose said: when he goes down the manufacturing line, I don't think he is free-flowing. I see him in a very open-and-closed question scenario. A student said: it is a very objective outlook on right and wrong, black and white, but he lives in the gray.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the ten-people question may be statistical: if you are really someone who can be trusted with highly sensitive information, you naturally have to be biased toward not trusting people, so you wouldn't rattle off ten.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: the learning lesson here is: what is our particular style? Are we free-flowing, making people feel comfortable? Or more interrogative? Maybe there is something to be learned about balancing the two. There are times to be free-flowing, compassionate, empathetic, and times to be more black and white, objective and factual.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: there are times when he is looking for fresh information and times when he is validating a pre-existing disposition, but his level of intensity makes it all feel like an interrogation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Which style would your last three conversations have been?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your style: free-flowing or interrogative.",
+   "Write when each is right.",
+   "Write how you avoid confirmation bias in your questions.",
+   "Write what you would ask differently to relax a nervous candidate.",
+   "Write how you would balance the two."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose describe an interrogation?",
+   "choices": [
+    "A persuasive method to get somebody to tell the truth in a controlled environment",
+    "A cruel method",
+    "A casual chat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student warn yes or no questions can lead to?",
+   "choices": [
+    "Confirmation bias",
+    "Faster results",
+    "Better answers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about style?",
+   "choices": [
+    "Maybe balance the two: free-flowing and interrogative",
+    "Always interrogate",
+    "Always chat"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know whether you interview or interrogate. Avoid confirmation bias. Balance the two.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

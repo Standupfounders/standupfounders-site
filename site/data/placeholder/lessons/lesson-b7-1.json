@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-b7-1",
+ "title": "We were breaking one of the golden rules",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Have you ever started something without enough money to finish it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "We were breaking one of the golden rules",
+   "lines": [
+    {
+     "text": "Jose said the author's opening comment caught his attention.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Launch phase was particularly intense for me, because I knew we were breaking one of the golden rules of startups. We were launching a business without sufficient capital to see it through profitability.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "What do you think of that statement, Jose asked? A student said: it seems sure to fail if they don't have the capital. Jose said: not necessarily. He is aware. In his head he is saying: I'm breaking a golden rule.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He knows the risk, Jose said, so he knows he has to go into action. He was used to losing money. But this is the first time he doesn't have much of a runway.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Everything has a risk",
+   "lines": [
+    {
+     "text": "You cannot always be just optimistic, Jose said, and neglect the downsides of the business. In a venture capital meeting, which I've been to dozens of, if anybody says there is no risk in this business, they'll kick you out of the office immediately.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Everything has a risk, he said. It is all about how you plan for it. The more comfortable you are discussing risk, the more comfortable an investor will be. You have your plan B and your plan C. People want to see that you have different doors in case some doors close.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As an entrepreneur, he said, a huge ability is to be just as optimistic, have the momentum, stick to your guns and your convictions, but at the same time be aware of the risks and dangers without losing any enthusiasm. That is a big balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Most people, when they talk about the risk, it brings them down. They say: oh God, this is terrible. And the dream dies before it even starts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A market maker",
+   "lines": [
+    {
+     "text": "As Jose retells the chapter, the author realized no bank would lend, because banks want established, predictable businesses. He was doing something for the very first time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There is a name for that, Jose said. It is called a market maker. A market maker is somebody who creates a market that doesn't exist. He is creating a market of people who watch news twenty-four seven.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the biggest risk in your plan, and what is your plan B?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the biggest risk in your plan.",
+   "Write your plan B and your plan C.",
+   "Write how you will talk about the risk without losing enthusiasm.",
+   "Write whether you are creating a market that does not exist yet.",
+   "Write what would make an investor or partner comfortable."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens in a venture capital meeting if you say there is no risk?",
+   "choices": [
+    "They kick you out of the office",
+    "They invest at once",
+    "They ask for a discount"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is a market maker, according to Jose?",
+   "choices": [
+    "Somebody who creates a market that doesn't exist",
+    "Somebody who sells in a market",
+    "A bank"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What balance did Jose say is a huge ability for an entrepreneur?",
+   "choices": [
+    "Optimistic and aware of the risks at once",
+    "Cautious and silent",
+    "Fast and careless"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Everything has a risk. Plan for it without losing your enthusiasm.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

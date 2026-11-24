@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a17-4",
+ "title": "Learning without a box",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do the children you know love about learning?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Love of learning",
+   "lines": [
+    {
+     "text": "As parents we face the dilemma, Jose said, that our children are in a very specialized system. How do I encourage risk, and learning about everything, and the momentum of wanting to learn everything I can get my hands on?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The last thing you want is your child to go off learning, he said. When I talk to a teacher I say: your goal is to inspire, children to love learning, learning about anything. Once they love learning, look at the momentum.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why doesn't it cross over?",
+   "lines": [
+    {
+     "text": "How many of us have the tendency: I've got to focus, I've got to be specialized? Education has driven us to think that way: stick to one sport and don't look around.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked why some professional athletes become incredible businessmen and keep their wealth while others lose it all. If they learned discipline and habits, why doesn't it cross over to their personal lives? He said: it is the same answer to this riddle.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Without a box",
+   "lines": [
+    {
+     "text": "He said the person in the book can pull himself out of the specialized and see the bigger picture. Imagine looking at the earth as a tiny dot below you in a spaceship, he said. That is how they get comfortable thinking outside the box. He doesn't even have a box.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: he approaches things with curiosity: let's try different ideas and stress-test them. When he sat in traffic and everybody complained, he thought: why not build a tunnel?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Curiosity is the father of learning, Jose said. He doesn't look at learning as a risk. How much freedom do I have in choosing what I learn, and in not looking at it as a risk? Am I picking up things I'm uncomfortable with but curious about?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People will limit us: you don't know about botany, or engineering, it would take you years. Should we have those boundaries?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you learn if nobody could tell you it would take years?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you love learning about.",
+   "Write what someone told you would take too long.",
+   "Write how much freedom you have in what you learn.",
+   "Write what discipline you have that doesn't cross over to another area.",
+   "Write one subject you are curious about but uncomfortable with."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a teacher's goal should be?",
+   "choices": [
+    "To inspire children to love learning",
+    "To give homework",
+    "To prepare for tests"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call curiosity?",
+   "choices": [
+    "The father of learning",
+    "A distraction",
+    "A risk"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question did Jose ask about freedom?",
+   "choices": [
+    "How much freedom do I have in choosing what I learn?",
+    "How much time do I have?",
+    "How much does it cost?"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Love learning. Follow your curiosity. Don't accept boundaries others set.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

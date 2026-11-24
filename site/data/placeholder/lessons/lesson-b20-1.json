@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b20-1",
+ "title": "Don't believe the hype, stick to the fundamentals",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When something brand new appears, how do you know what it is worth?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How do you value something that has never happened before?",
+   "lines": [
+    {
+     "text": "Jose asked the group for a summary of the industrial revolution. A student said: a move from handmaking to machines, processes and new power sources, a rapid evolution of efficiency in manufacturing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are the lessons in history, Jose asked? There were companies whose stock went through the roof because people did not understand how business was going to be revolutionized. They had never seen that kind of growth. He gave the example of a great canal project that raised so much money that it became more profitable to raise money than to build it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The same thing with the internet, he said. How do you value that? Information is going to flow to every person in the world. A student said: it's hard to value something unpredictable that hasn't happened yet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Don't believe the hype, stick to the fundamentals",
+   "lines": [
+    {
+     "text": "Even with real estate, Jose said, I buy in a destination that has no road, no electricity. People say that's high risk. But I look at population growth and how fast the town is moving, and I see this farmland will be development land in five or six years. You gauge it by the fundamentals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The problem comes when you are not looking at the fundamentals in a new business and you get blinded by the enormity of something that has never happened before. A famous investor, Jose said, at the beginning of the internet said he was not even interested, until the dust settled. His message: I have to stick to the fundamentals, because that is what I understand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I was in this business in the mid-nineties, Jose said, and luckily I had great mentors. They said: Jose, don't believe the hype. Stick to the fundamentals of a business. Even in the internet, a lot of people said: who cares about profit, it's about market share.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A lot of people grabbed market share and didn't make money, he said, or simply ran out of money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are the fundamentals of the thing you are excited about?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the new thing everyone is excited about.",
+   "Write its fundamentals: who pays, how much, and what it costs.",
+   "Write what you would have to see to believe it is real.",
+   "Write who you could ask who lived through a similar boom.",
+   "Write the one fundamental you will check this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say his mentors told him in the mid-nineties?",
+   "choices": [
+    "Don't believe the hype, stick to the fundamentals",
+    "Grab market share at any cost",
+    "Avoid new things"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is hard to value?",
+   "choices": [
+    "Something unpredictable that hasn't happened yet",
+    "Old companies",
+    "Land"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens when you get blinded by something new?",
+   "choices": [
+    "You don't stick to the fundamentals",
+    "You win",
+    "You get rich"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "When something new appears, stick to the fundamentals and don't believe the hype.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

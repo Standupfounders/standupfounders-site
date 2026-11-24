@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-c2-3",
+ "title": "Person or system?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When a process breaks, is it the person or the system?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Design the environment, then audit",
+   "lines": [
+    {
+     "text": "Jose said that in leadership and project management you design the environment for the people in your company: the cues, the triggers and the language you use. When it is not happening, you find out why.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: when the process breaks down, how do you do an audit? What do you do first? A student said: understand the motivation, the trigger, with a needs assessment of the person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said you need a person-centered view and a systems view. Is it stemming from a person, or from something I can improve in the system, or both?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "An audit in practice",
+   "lines": [
+    {
+     "text": "A student who works in project management said: first, make sure the communication was delivered so the person understands the responsibility. Then ask whether they have the resources, the tools and the knowledge, whether the time allocated was right, and whether they are juggling multiple tasks.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said that if the task is a dependency, stakeholders may need to move resources to support it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student, from a consulting background, said: identify the standard operating procedure, identify the stakeholders in it and sit down with the people responsible, and audit from the beginning. Through the questions you can tell whether it is systems or human error, and you can gauge accountability.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of your broken processes is a person problem, and which is a system problem?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a process that is breaking down.",
+   "Write who is responsible for each step.",
+   "Write whether each person has the tools, knowledge and time.",
+   "Write the part that is a system problem.",
+   "Write the part that is a person problem."
+  ]
+ },
+ "check": [
+  {
+   "q": "What two views did Jose say you need?",
+   "choices": [
+    "Person-centered and systems",
+    "Cheap and fast",
+    "Old and new"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to check first?",
+   "choices": [
+    "That communication was delivered",
+    "Who to fire",
+    "The budget"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did another student say to identify?",
+   "choices": [
+    "The procedure and its stakeholders",
+    "The weather",
+    "The competitor"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Design the environment, then audit it, person view and system view.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a32-1",
+ "title": "Your inner culture",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you say to yourself, and who hears it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Habits of thought",
+   "lines": [
+    {
+     "text": "Jose said that the person in the book has habits of thought, and we see them in business settings and in relationships. We all have habits of thought, and we can be aware of them or not. We can ask ourselves: what are our predominant habits of thought, and where do they come from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: whether it is good or bad, he uses that as fuel for self-motivation. When he was growing up he was motivated by negative reinforcement, and that is one of the driving forces behind his success, good or bad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: but it affects the way he talks to other people, and it becomes part of the company culture. That outer dialogue.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A choice",
+   "lines": [
+    {
+     "text": "A student said: just because I grew up one way doesn't mean the rest of society needs to follow suit. Children who grew up with hard parents can say: I'll do the opposite for my own family. Success doesn't have to come by that route, and for most people it does not.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: coming to the realization that I have a choice is a big deal. Sometimes we feel we don't have a choice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Inner state, outer culture",
+   "lines": [
+    {
+     "text": "A student said: his style of being motivated, fight or flight, moment to moment, doesn't work for the masses, especially nowadays. A company culture has to be a safe space where people grow and feel comfortable, and become their best version.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that if you are beating yourself up, it tells the people around you that you will never be who you want to be, no matter what you achieve. What kind of message is that for a leader? A student said: your internal mindset becomes the culture of the company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: perpetuating unshakable self-belief is a fundamental part of leadership. If you give that to your organization, you give people confidence and fulfilment. If you are not feeling it, you can't give it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the sentence you say to yourself that your team could hear?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your habits of thought, honestly.",
+   "Write where you think they came from.",
+   "Write the choice you have about one of them.",
+   "Write how your inner dialogue shows up in how you talk to your team.",
+   "Write the message you want your team to hear from you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say becomes the culture of the company?",
+   "choices": [
+    "Your internal mindset",
+    "Your office",
+    "Your logo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a big deal?",
+   "choices": [
+    "Coming to the realization that I have a choice",
+    "Reaching a goal",
+    "Getting a loan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a fundamental part of leadership?",
+   "choices": [
+    "Perpetuating unshakable self-belief",
+    "Speed",
+    "Secrecy"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your habits of thought. You have a choice. Your inner state becomes the culture.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

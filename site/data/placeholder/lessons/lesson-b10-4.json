@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b10-4",
+ "title": "Pick something that you're genuinely interested in and get involved",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you have enough, what do you want to do with the rest of your life?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He's no longer solely focused on making the money",
+   "lines": [
+    {
+     "text": "As Jose retells it, the author turned toward great figures of conservation, began making television about the planet, and started a nonprofit. Jose said: look at all the things this guy is accomplishing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is amazing, Jose said, how he starts to ask: what are the global issues, and how do they bear on the sustainability of life on earth? He has more money now, so his perspective is changing. He is no longer solely focused on making the money. He knows he is going to make the money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told of a woman who runs a small nonprofit, struggling to make ends meet, teaching people about food and how it can help people who are ill. Jose said the group's company went to help for an afternoon.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pick something that you're genuinely interested in and get involved",
+   "lines": [
+    {
+     "text": "You don't need money to pick a cause and make the world a better place, Jose said. Mine, you all know, is that I am an educator. I will do everything I can to help people become better versions of themselves. I don't do it for money. I do it because it is a responsibility.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So pick something you are genuinely interested in and get involved, he said. An hour a week. It is a beautiful thing to get involved with good causes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is beautiful, he said, is that now it is not just about the author making a bunch of money. Now he has global issues to attack. The world is bigger than just him and sailing. And I'm going to do my part. That is a world of significance. That is a world of purpose in life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He picks his battles, Jose said. He picks his goals. And he says: I'm going to do this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the one cause you would give an hour a week to?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one cause or problem you care about.",
+   "Write how many hours a week you could give it.",
+   "Write one first step this month.",
+   "Write what makes a life of significance and purpose for you.",
+   "Write the battles you will pick and the ones you will leave."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you don't need to pick a cause?",
+   "choices": [
+    "Money",
+    "Time",
+    "Friends"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How much time did Jose suggest giving to a cause?",
+   "choices": [
+    "An hour a week",
+    "A day a week",
+    "A month a year"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author does with his goals?",
+   "choices": [
+    "Picks his battles and his goals",
+    "Drops them",
+    "Follows others"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pick a cause you care about and give it an hour a week.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

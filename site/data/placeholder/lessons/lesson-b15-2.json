@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-b15-2",
+ "title": "From strategy to operation",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do your good ideas turn into actions, or stay as ideas?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He trusts people, and lets them go",
+   "lines": [
+    {
+     "text": "A student said the author appreciates people who commit to him and his vision. If they see the vision, they will commit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "One of the amazing things is his management style, Jose said. It is so tricky to do. He relies on the initiative of people. He trusts people. Once he shares the strategy and the vision, he lets them go.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is a good example of a visionary who thinks on a big perspective and lets other people take care of the day-to-day, how it gets done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is the difference between a strategic thinker and an operational thinker?",
+   "lines": [
+    {
+     "text": "It is a repetitive conversation I have with people, Jose said. A strategic thinker owns companies and is involved with the chief executive at the level of where the company should go. An operational thinker runs them. The author is able to go from strategy to operation, and that makes the difference.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you don't go from strategy to operation, what happens? The ideas stay ideas. They don't become reality. It is like a dream that doesn't become a goal broken down into day-to-day processes, habits and behaviors.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the author can sit with people and show them the purpose, the vision, the strategy, all the abstract things, and then say what it means. A world report means we are going to cover the news away from the desk. That means we are going to negotiate. That means diplomacy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who's going to be my point person?",
+   "lines": [
+    {
+     "text": "Jose told of a five-hour meeting with a very brilliant, very strategic businessman who has an operational team. We were on the idea, the idea, the idea, he said, and we weren't downloading into the operational team. I got a lot of anxiety. I wanted to hear where the office is, where sales are, the nitty gritty.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So be very aware, he said, when you are dealing with a strategic person and an operational person, of the balance between the two.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you don't turn it into a process, a week goes by, two, three, four, and they forget what you talked about. There is no momentum. It used to happen to me a lot in my twenties.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "One of the questions I ask all the time in meetings is: who is going to be my point person on this initiative? If they give me a point person, I know they are committed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is your point person for your next idea?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an idea you have talked about but not started.",
+   "Write the day-to-day steps that would make it real.",
+   "Write who your point person for it will be.",
+   "Write the date you will check on it.",
+   "Write whether you are the strategic one or the operational one, and who you need next to you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens if you don't go from strategy to operation?",
+   "choices": [
+    "The ideas stay ideas",
+    "The ideas get bigger",
+    "Nothing changes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question did Jose say he asks in meetings?",
+   "choices": [
+    "Who is going to be my point person?",
+    "How much is it?",
+    "When is lunch?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the author's management style?",
+   "choices": [
+    "He trusts people and lets them go once they share the vision",
+    "He controls every detail",
+    "He avoids staff"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Turn strategy into operation. Ask for a point person.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a14-4",
+ "title": "Lead with a position",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What responsibility do you have to the people who look to you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The teacher's question",
+   "lines": [
+    {
+     "text": "Think of it this way, Jose said: I'm a director in a school, and I'm reading about this. What responsibility do I have to those kids in the classroom? Am I going to help children understand AI and its negative consequences, or say that's not my responsibility?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: that is your responsibility. If you are responsible for what happens to them at home, why stop there? Jose said: education has to keep up with technology, because the medium is going to affect the outcome.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Entrepreneurs lead",
+   "lines": [
+    {
+     "text": "A student said: we are the cornerstone of innovation for our communities. We have to take up the leadership responsibility of informing people on the changes and guiding them. People are looking to us.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said there are massive opportunities in this. Schools need to take a stance, governments need to take a stance, and as leaders and entrepreneurs we have to say: this is my position. My position can evolve.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: we need to encourage everyone to develop a position. Jose said: that is what I am trying to do. Being a leader is being aware and helping people to be aware.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Serve and start",
+   "lines": [
+    {
+     "text": "A student said: there is a beauty in doing it yourself, and a surety that it's being done. A very underrated element of leadership is service: being a servant leader, whether a parent or anything else. Encouraging those you lead to serve makes them leaders.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: don't wait, do it yourself. People say: I don't have enough money. If you don't have enough money, you have plenty of time and energy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When I first talk to a company, he said, I get into what their values are. Their core values.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your position on AI, and when will you say it to your team?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people who look to you.",
+   "Write what you owe them about changes you can see coming.",
+   "Write your position on AI, and how it may evolve.",
+   "Write one thing you will do yourself instead of waiting.",
+   "Write your core values."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about his position as a leader?",
+   "choices": [
+    "It can evolve",
+    "It must never change",
+    "It should stay private"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about entrepreneurs?",
+   "choices": [
+    "They are the cornerstone of innovation for their communities",
+    "They only care about profit",
+    "They should avoid leadership"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have plenty of if you lack money?",
+   "choices": [
+    "Time and energy",
+    "Friends",
+    "Space"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Lead with a position that can evolve. Serve. Do it yourself.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

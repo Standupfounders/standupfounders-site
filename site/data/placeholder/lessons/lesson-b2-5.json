@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-b2-5",
+ "title": "I think he's got a visual intelligence",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you read a book, do you read it, or do you take it apart?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I think he's got a visual intelligence",
+   "lines": [
+    {
+     "text": "Jose said that what is important in this chapter is how the author is growing his business, the decisions he is making, and the tension he has with people. He is transforming his whole business model.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Think about billboards, he said. A picture, an image, is a form of content. Radio is content too, just voice. But I think he didn't really get into the voice. He wanted something visual, because coming from billboards it was all about the visual.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I think he's got a visual intelligence, Jose said. The way he describes his sailing, you see pictures when he talks. I think that is why he wanted to go right to television.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I read it very in depth",
+   "lines": [
+    {
+     "text": "Jose asked the group how the pace was and whether they were enjoying the book. A student said it was their second time reading it, and they were getting way more out of it this time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "This is how I read a book, Jose said. I read it very in depth. I analyze a lot of things and I take a lot of notes. Even when I like a movie, I print the script and read it, because I absorb a lot more reading it than watching.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he has at least twenty or thirty really good books that he believes are life-changing for business and personal life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Later we can read something more technical, he said, like venture capital books about how small companies are structured and capitalized. But I like that we are reading a narrative, a story first. Then when we get into the technical, you will have a background.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The technical, believe it or not, is a lot easier than people think, he said. Colleges make it more difficult than it really is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How do you read the things that matter to you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one book or article you want to take apart, not just read.",
+   "Write how you will take notes: margins, a notebook, a printed copy.",
+   "Write one idea from it you will test this week.",
+   "Write a story that taught you something before you learned the technical side.",
+   "Write one thing that seems hard that might be easier than people say."
+  ]
+ },
+ "check": [
+  {
+   "q": "What kind of intelligence did Jose say the author has?",
+   "choices": [
+    "A visual intelligence",
+    "A musical intelligence",
+    "A mechanical intelligence"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Jose do with a movie he likes?",
+   "choices": [
+    "Prints the script and reads it",
+    "Watches it twice",
+    "Writes a review"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did Jose say he likes reading a narrative first?",
+   "choices": [
+    "So you have a background before the technical part",
+    "Because it is shorter",
+    "Because it is cheaper"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read in depth and take notes. Learn the story first, then the technical part.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

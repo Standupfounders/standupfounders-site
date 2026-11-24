@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b18-1",
+ "title": "What does he get out of the deal?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "In your next negotiation, do you know what the other side wants?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What does he get out of the deal?",
+   "lines": [
+    {
+     "text": "Jose said the reason the author wants to buy a big content company is that it would give him a lot of free cash flow, to build his arsenal to buy a big network.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose tells it, the author began a deal with a software company to start a news website, fifty-fifty. He was looking at it as another distribution channel for the content he already had. Jose said: what a great deal, that is what he is thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose read a line from the author about his worries over the deal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I worried about being in a conflicting position with our partners over strategy and other issues.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Jose said: now, in any major negotiation, if you're not thinking about what the other person wants, this is very important for your business. You need to role play and know what the other party wants. If you don't visualize what questions the other person can ask and what they want, you could go into a bad deal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The parallel relationship",
+   "lines": [
+    {
+     "text": "A student said the software company wants content, because it knows the internet will blow up, and it needs big names on its side. Jose said: he is doing exactly the same thing as the author, getting content onto his channels, but with a different medium. He wants content so he can sell his software.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It's like a train track, Jose said, very parallel. The author went from billboards to radio stations to little TV stations, adding content so people would watch. The other man is on the internet and wants to add content to his product, so more people log in and download. He is adding value.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What does the other side want from your next deal?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the deal or partnership you are working on.",
+   "Write what the other party wants from it.",
+   "Write the questions they are likely to ask you.",
+   "Write the parallel between what you do and what they do.",
+   "Write what you will offer so both of you get what you want."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you need to do in a negotiation?",
+   "choices": [
+    "Role play and know what the other party wants",
+    "Wait for their offer",
+    "Say little"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the software company wanted from the content deal?",
+   "choices": [
+    "Content, so it could sell its software",
+    "Money only",
+    "A new name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What image did Jose use for the two strategies?",
+   "choices": [
+    "A train track, very parallel",
+    "A mountain",
+    "A river"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know what the other side wants before you negotiate.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

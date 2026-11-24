@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a32-3",
+ "title": "Systems that outlast the founder",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you left tomorrow, would the company still run?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "After the founder",
+   "lines": [
+    {
+     "text": "Jose said: what I would be concerned about if I were a major shareholder is the sustainability after he is gone, because he hasn't really made people relevant. He kind of makes people irrelevant.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you see it with companies where an owner is trying to sell and everything goes through the owner. The company is generally not as valuable to a buyer as one that has the processes, systems and people in place. If you remove the founder from the equation, what does the company look like?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: it is not built on a sustainable system and structure. There is far too much charisma driving the company, and I don't see the sustainability after he's gone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Collect the good",
+   "lines": [
+    {
+     "text": "Jose said that we can develop our own leadership style. Are we leaders who inspire, who perpetuate self-belief, who help people feel fulfilled, who encourage a mission-oriented quest? We can learn the positive things from the book and the negative things, and make a conscious choice to collect the good and leave the bad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said it helps to document it as we build our culture, because the decisions we make will create that culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the person is probably one of the smartest people in the world, so he got away with things that would have made most companies crash and burn. In general, positive and affirming people, while still being firm when necessary, tend to be far more successful. It is also a much more pleasant way to live.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student described a poll of creatives who started their own agency: most said their main motivation was that they disliked traditional agency or corporate culture. Jose said: get granular about what specifically.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would still run without you, and what would stop?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what would run without you.",
+   "Write what would stop.",
+   "Write the process you would write down first.",
+   "Write the person you would make relevant to the mission.",
+   "Write the leadership traits you will collect and the ones you will leave."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say makes a company more valuable to a buyer?",
+   "choices": [
+    "Processes, systems and people in place",
+    "The owner's charisma",
+    "Fewer staff"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say too much of can drive a company?",
+   "choices": [
+    "Charisma",
+    "Data",
+    "Processes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do with the good and the bad in a leader we learn from?",
+   "choices": [
+    "Collect the good and leave the bad",
+    "Copy everything",
+    "Reject everything"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build a company that can run without you. Collect the good from the leaders you study.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

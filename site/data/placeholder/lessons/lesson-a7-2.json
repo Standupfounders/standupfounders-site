@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a7-2",
+ "title": "Who do you hang around?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who do you call when you want to think without being judged?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Calling an old friend",
+   "lines": [
+    {
+     "text": "Jose said the person in the book looks up his college buddy after the big sale. The friend was the party animal who said: let's get a house and create our own rules, and then they turned the partying into a business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it was about reinvigorating that thinking outside the box. Under the pressure of a company you have to think within certain parameters. Jose said: that's exactly how I read it. He wants to get away from the business and the politics and go back to being a kid.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There is some purity in it, he said. This friend doesn't care how much money he has. He is just the buddy from college. We gravitate to nurturing relationships with people who knew us when money and politics weren't an issue.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who do we hang around?",
+   "lines": [
+    {
+     "text": "Do we hang around people who motivate us, who give us creative momentum? Are they deep thinkers we have a deep relationship with, or just acquaintances who aren't interested in who we are and what we do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Judging is one of the most tragic things in human beings, Jose said, because when you judge you don't proceed. You can judge someone who has three traits you don't like, but maybe they have one or two you can learn from, and you shut off that perception.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It's not just friends, he said. It could be parents, uncles, a girlfriend or a spouse. How much does their judgment penetrate your sense of purpose and your ambitions?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you hang out every weekend with people who are partying all the time, chances are you won't be too inspired in your ventures. If you hang out with people who are purpose-driven, motivated every day, with the right habits, you get inspired as well. That's easier said than done, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who inspires you without judging, and who do you hear in your head when you try something new?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people you spend the most time with.",
+   "Write who among them inspires you and who judges you.",
+   "Write what you could learn from someone you have judged.",
+   "Write one old friend you could call, and why.",
+   "Write one change you will make to who you spend time with."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about judging?",
+   "choices": [
+    "When you judge, you don't proceed",
+    "It keeps you safe",
+    "It's useful"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say the call to the old friend was about?",
+   "choices": [
+    "Reinvigorating thinking outside the box",
+    "Asking for money",
+    "Selling a company"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Who did Jose say your judges can be?",
+   "choices": [
+    "Friends, parents, uncles, a spouse",
+    "Only strangers",
+    "Only teachers"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose people who inspire you and don't judge. Learn from the traits you like.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

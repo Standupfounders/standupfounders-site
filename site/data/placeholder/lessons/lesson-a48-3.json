@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a48-3",
+ "title": "Expectation builds confidence",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do your expectations of people do to them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Expectation builds confidence",
+   "lines": [
+    {
+     "text": "A student said: he inspires them, showing an unlimited approach and the possibilities. Giving people that decision turns them inward and makes them ask those questions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: he expects unquestioned beliefs. A student said it probably builds confidence in people. Jose said: that is exactly what it does. It gives people confidence when you say: I will not accept external excuses, this year you will make the number, and we will talk about how.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that a relentless belief commands your nervous system and all the possibilities you have in the present and the future. He said the leader probably does it by accident, not by analysis.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A power move and a culture",
+   "lines": [
+    {
+     "text": "A student said: it also strikes me as a power play. He is letting people know he is in charge and things will be drastically different.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: I am not judging which culture was right. A leader who moves to another company changes its culture, because he has a system that he knows works.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the indirect instilling of confidence through the expectation is a powerful concept.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that in a long partnership you hold a positive belief about the person and endure hardships together. A student said: it is a choice to have a positive belief system.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What expectation could you state to someone so that it builds their confidence?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an expectation you hold of someone.",
+   "Write how you could state it without an excuse.",
+   "Write how it could help them.",
+   "Write how it could pressure them.",
+   "Write how you would tell the difference."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say an unquestioned expectation gives people?",
+   "choices": [
+    "Confidence",
+    "Fear only",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say it could also be?",
+   "choices": [
+    "A power play",
+    "A holiday",
+    "A joke"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about a positive belief system?",
+   "choices": [
+    "It is a choice",
+    "It is luck",
+    "It is rare"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "State expectations that build confidence. Know the difference from pressure.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

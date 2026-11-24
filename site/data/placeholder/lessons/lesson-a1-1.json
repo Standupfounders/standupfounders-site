@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a1-1",
+ "title": "What were those defining moments?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What moments in your own childhood made you who you are?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What can we learn about ourselves?",
+   "lines": [
+    {
+     "text": "Jose said that what they are doing with this book is two things. What can we learn about ourselves by reading about another person's extreme personality? And what were the defining moments in our childhood, with our mother and father, that created or did not create the fertile ground to be an entrepreneur?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student had said what stood out was the person's interest in science and math and entrepreneurship, stemming from his father, and a line from his mother about the home he chose.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "What were those defining moments?",
+   "lines": [
+    {
+     "text": "It is important for us to analyze, Jose said: what were those moments? Number two, what are our limitations? Maybe you are fighting to become an entrepreneur and your parents didn't create that fertile ground for you. So you are breaking a generational chain.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: everything boils down to early childhood development. It is what amount of pressure can you take, for how long, and in what environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said nobody gets a little book that says: you're a parent now. The amount of knowledge you need to be a good parent is overwhelming. All of us can go back to our parents and ask: how did they instill the concept of risk in us?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What were your defining moments?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three defining moments from your childhood.",
+   "Write what each one taught you about risk.",
+   "Write your limitations, honestly.",
+   "Write what your parents did or didn't give you for being an entrepreneur.",
+   "Write one thing you will do differently for the people you raise or lead."
+  ]
+ },
+ "check": [
+  {
+   "q": "What two things did Jose say they were doing with the book?",
+   "choices": [
+    "Learning about ourselves and looking at our defining childhood moments",
+    "Studying law and history",
+    "Learning to sail"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you may be doing if your parents did not give you that ground?",
+   "choices": [
+    "Breaking a generational chain",
+    "Giving up",
+    "Copying them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say everything boils down to?",
+   "choices": [
+    "Early childhood development",
+    "Money",
+    "Luck"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Learn about yourself from another's life. Look at your defining moments.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

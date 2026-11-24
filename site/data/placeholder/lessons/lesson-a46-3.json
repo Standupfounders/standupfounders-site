@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a46-3",
+ "title": "Discernment and standing behind it",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you learn to tell what is real?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Discernment",
+   "lines": [
+    {
+     "text": "A student asked: how else do you develop discernment other than by being fooled a couple of times?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said he goes into situations guardedly optimistic: looking for it to be right, but weighing whether it is real, and putting the weight on himself, not on someone to protect him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose answered, still arguing the other side, that this is a kind of privilege: the exposure of where you grew up and what you have access to. Not money or education, but exposure.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Responsibility",
+   "lines": [
+    {
+     "text": "A student said: if you were the one making the decision, you would feel responsible when it goes wrong. Any human with emotions would.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: I try to look at the overall net positive, even if it means short-term negative. In meetings it is better to take accountability, even if it is painful, because it has a long-term ripple effect on culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: say what you want, but you have to stand on it when you say it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is a call you would have to stand behind, even if it cost you in the short term?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a time you were fooled and what you learned.",
+   "Write how you check whether something is real.",
+   "Write what exposure helped you most.",
+   "Write a call you made for the long term.",
+   "Write one thing you will stand behind."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student ask how else you develop discernment than by?",
+   "choices": [
+    "Being fooled a couple of times",
+    "Reading",
+    "Asking friends"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about taking accountability?",
+   "choices": [
+    "It has a long-term ripple effect on culture",
+    "It is a waste",
+    "It is for others"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about exposure?",
+   "choices": [
+    "It is a kind of privilege",
+    "It is useless",
+    "It is cheap"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Learn discernment by checking. Take accountability. Stand behind what you say.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

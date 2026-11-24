@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "quotes": [
+    {
+      "text": "Line from Jose goes here.",
+      "source": "",
+      "note": ""
+    },
+    {
+      "text": "Line from Jose goes here.",
+      "source": "",
+      "note": ""
+    },
+    {
+      "text": "Line from Jose goes here.",
+      "source": "",
+      "note": ""
+    },
+    {
+      "text": "Line from Jose goes here.",
+      "source": "how a call opens",
+      "note": ""
+    },
+    {
+      "text": "Line from Jose goes here.",
+      "source": "how a call closes",
+      "note": ""
+    }
+  ],
+  "sounds": {
+    "text": "Short sentences, close to speech. He teaches by asking the room a question, then tells a story and checks the room.",
+    "check_line": "Line from Jose goes here.",
+    "check_source": ""
+  },
+  "told": {
+    "statement": "We were told Jose is Panamanian and writes in plain, short, strong sentences. We have not yet heard either from him.",
+    "note": "The recordings do not yet show him saying where he is from, and we have found no writing by him. Both wait for his own words."
+  },
+  "panama": {
+    "note": "No flag, map, hat or canal until Jose's own words about Panama are chosen. What the recordings hold so far is business and country talk:",
+    "quote": "Line from Jose goes here.",
+    "source": ""
+  }
+}

@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a43-1",
+ "title": "We, not I",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you say 'we' and 'I' in a week, which do you say more?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Signs of a team player",
+   "lines": [
+    {
+     "text": "Jose said that in the last call they talked about which people work in a team and which individually, and how that would determine who stayed and who left. He asked: when you are interviewing somebody, how do you know if they are a team player or not? A student said: the interest they have in the project.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said: it gets into an I-versus-we mindset. If they are looking for a collective win, a win-win, versus how does this benefit me. That's a good indicator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: I love that you used two very significant and revealing words: we and I. Somebody who is always using we, or: I want you to triumph. As a leader, somebody who is interested in how you are triumphing and how you are doing the work. That is a very important sign.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "When you reach the crossroads",
+   "lines": [
+    {
+     "text": "Jose said that the three young relatives in the book were not happy about the cut of ninety percent of the engineers. Think of the pressure of these people firing their colleagues. Even with a hundred and fifty remaining, how are you going to be looked at by your peers? They argued the company could crash. In the end they have to put their faith in him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That statement is very big, Jose said. As a team player you are going to get to a crossroad where you say: I have to make a very important decision, because if you don't have your faith in it you won't work with the same enthusiasm, and you won't come from a position of strength.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I think he knew they would treat it that way, which is why he brought them in specifically and trusts them to do it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the sign you look for in a team member that tells you they are with you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you can tell a team player from an individual.",
+   "Write how often you say we and how often I.",
+   "Write what a team member says that shows they want you to triumph.",
+   "Write a crossroad where you had to put your faith in someone.",
+   "Write what you did."
+  ]
+ },
+ "check": [
+  {
+   "q": "What two words did Jose say are revealing?",
+   "choices": [
+    "We and I",
+    "Yes and no",
+    "Now and later"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say shows a team player?",
+   "choices": [
+    "Looking for a collective win rather than how it benefits me",
+    "Working alone",
+    "Staying quiet"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you won't have if you don't have faith in a decision?",
+   "choices": [
+    "The same enthusiasm and a position of strength",
+    "Any money",
+    "Any time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Listen for we and I. Notice when someone has to put faith in a decision.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

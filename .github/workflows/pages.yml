@@ -1,0 +1,53 @@
+# Stand Up Founders (standupfounders.com). This repository holds only:
+#   site/                          the placeholder-only public build
+#   scripts/verify_export.py       the deploy guard (no video, no outside links, no Google calls, pinned fonts)
+#   .github/workflows/pages.yml    this file
+#   .github/dependabot.yml         a weekly notice of new action releases
+#   .gitignore                     keeps keys, real data, recordings and video out
+# It publishes site/ (and only site/) to GitHub Pages. Runs on every push to main, or by hand.
+name: Deploy Stand Up preview to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+# Actions are pinned to full commit SHAs (the release tags are in the comments).
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0 (= v4)
+        with:
+          persist-credentials: false
+      - name: Refuse to publish unnamed video, outside links, Google calls or unpinned fonts
+        run: python3 -I scripts/verify_export.py site --allow-five-videos --real-lessons
+
+  deploy:
+    needs: verify
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0 (= v4)
+        with:
+          persist-credentials: false
+      - uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5.0.0 (= v5)
+      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1 (= v3)
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5 (= v4)

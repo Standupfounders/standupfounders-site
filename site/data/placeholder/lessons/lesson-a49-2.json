@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a49-2",
+ "title": "Choose what you let in",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you in control of how information reaches you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Choosing information",
+   "lines": [
+    {
+     "text": "Jose said we have a natural ability to switch on and off with information. We have a choice in how we seek it. How do we control the way we receive it? Are we in control of that process?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is a discipline to take in, or value, only quality information, and you have to create the parameters for what quality information is. He said: you make the decision for yourself, which is different from someone else choosing for you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said you will always have bias. A student said: being aware of where your biases come from helps you be more empathetic and open, so you can minimize those limits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Negative information",
+   "lines": [
+    {
+     "text": "Jose said that a negative belief system makes us susceptible to news that harms us, and lets external things shape our internal mindset. As entrepreneurs, he said, family and friends may tell you a hundred reasons not to start.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: why even perceive negative circumstances if you can control your outcomes regardless? Jose said there is a difference: internal negative, how you speak to yourself, and external, other people's limitations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that he wants information from someone negative because he wants to learn how it happened, and that real strength comes from listening to what is not being heard. He said the reward is the wisdom you get from that person's challenges.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said: being aware of the negative allows you to see the positive fully. You kind of need that contrast.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What information do you let in, and what do you filter out on purpose?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write where most of your information comes from.",
+   "Write the parameters for quality information.",
+   "Write one bias you are aware of.",
+   "Write what you can learn from someone negative.",
+   "Write what you will keep out on purpose."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say we have a choice in?",
+   "choices": [
+    "How we seek information",
+    "The weather",
+    "Our age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say helps you be more open?",
+   "choices": [
+    "Awareness of where biases come from",
+    "Ignoring them",
+    "Arguing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say real strength comes from listening to?",
+   "choices": [
+    "What is not being heard",
+    "The loudest voice",
+    "The news"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose what you let in. Know your biases. Learn from the negative.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

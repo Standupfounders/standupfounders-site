@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a4-4",
+ "title": "No off switch",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does a day off look like for you, and what does your mind do on it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "No off switch",
+   "lines": [
+    {
+     "text": "There is another big lesson in this chapter, Jose said, and it has to do with the personality of an entrepreneur. Entrepreneurs don't cause pressure, they inflict pressure on other people. They create a lot of collateral damage in relationships and friendships. I call it the hurricane personality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Does this guy have an off switch? he asked. How would you like to deal with someone with no off switch? If you are married to an entrepreneur, you are going to suffer: no vacation, no Sunday.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is a day off?",
+   "lines": [
+    {
+     "text": "A student said they read recently that you can take a day off from work, but you shouldn't take a day off from learning. Jose asked each of them: what is a day off? For one, it was not designing; for another, not producing or making calls; not reading any books or thinking about anything entrepreneurial.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked: so what do you think about on a Sunday? A student said their mind always comes back to it, but they watch sports in their free time. Jose said you have to pick something that distracts you, otherwise your mind goes right back to that passion.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said: make what you do for work something you enjoy and constantly want to be better at, because then you are working all the time and never working. Jose said: that is exactly my point.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The psychological side",
+   "lines": [
+    {
+     "text": "When somebody says I need a vacation, I have nothing to talk about with that person, Jose said. My idea of fun and of a vacation doesn't exist as something separate from what I do. It's his view, and he says so.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Most people, he said, are in corporate jobs with a salary and a small raise, reporting to the boss. That is the normal American dream: a good job, a nice car, a mortgage. They don't teach you in college to be an entrepreneur, they teach you to go get a job.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You can learn business all day from books, he said, but you cannot ignore the psychological challenge: the psychological fortitude and the risk tolerance. You need to be prepared. If you're not, you're not going to make it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How far do you want to go? Jose asked. You can dip your little toes in, he said, or you can take a baseball bat and say: I'm taking everything down today. I can't make you hungry like that. You have that fire, or you don't.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How far do you want to go?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what a day off means for you.",
+   "Write what your mind does when it is not working.",
+   "Write what the people close to you pay for how you work.",
+   "Write the psychological skills you need that no class taught you.",
+   "Write how far you want to go, and what you will do this week to go that far."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call the entrepreneur's personality in this chapter?",
+   "choices": [
+    "The hurricane personality",
+    "The calm personality",
+    "The sunny personality"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say college teaches?",
+   "choices": [
+    "How to go get a job",
+    "How to start a company",
+    "How to sail"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you need besides business knowledge?",
+   "choices": [
+    "Psychological fortitude and risk tolerance",
+    "More books",
+    "A bigger office"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know what you are willing to pay, and how far you want to go.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

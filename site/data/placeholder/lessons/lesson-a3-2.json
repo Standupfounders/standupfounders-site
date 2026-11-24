@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a3-2",
+ "title": "Have a mission",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What problem are you obsessed with fixing?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is a mission-driven person?",
+   "lines": [
+    {
+     "text": "A mission-driven person naturally gravitates to solving a problem, Jose said. You talk to them and they are obsessed with: I want to fix this. He gave examples from the book's subject: colonize another planet so we have somewhere to live when the earth's resources run out, or stop burning fossil fuels by making electric cars.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If it doesn't have a big impact, the money didn't matter to him, Jose said. He could have gone to Wall Street with the offers he got, and he thought: they don't contribute anything to society, why would I do that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your mission",
+   "lines": [
+    {
+     "text": "Jose asked a student: what is your mission, as a person? The student said they did not have a clearly defined one. Another, asked what Jose's mission is, said: to help people achieve success. Jose said: through education, to empower and help others, to teach business and coaching.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "These are fundamental, he said. You should never have a question about what your mission is. It should be very transparent, repeatable, a promise. It should be the essence of what you do day to day, and you should never waver from it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Having a mission puts you in the right place at the right time, he said, and creates intention. He added that it is part of developing your personal brand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People call it meditating, visualizing or manifestation, he said. You don't have to use any of those names. What he is doing is being very clear on what he loves to study, and using his imagination to develop a plan to solve the problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A big problem, and a board of advisors",
+   "lines": [
+    {
+     "text": "The basis of a successful business, Jose said, is how big the problem is, how much you can solve it, and how valuable that is to people. The entrepreneur is obsessed with a problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the person in the book looked for mentors, and that is an important trait: you are open for advice. The first thing to do when you start a company is have a board of advisors.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There is nothing scarier for a venture capital fund, he said, than to fund a business with no good advisors. You are not going to give ten million dollars to one single guy who can wake up and decide to buy a plane, with nobody having any say.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Does your mission fix a problem?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your mission in one sentence.",
+   "Write the problem it fixes.",
+   "Write whether it is transparent and repeatable enough that you could say it to a stranger.",
+   "Write who would be on your board of advisors.",
+   "Write one thing you do each day that is the essence of your mission."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose describe a mission-driven person?",
+   "choices": [
+    "Someone who gravitates to solving a problem",
+    "Someone who wants money",
+    "Someone who follows orders"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a mission should be?",
+   "choices": [
+    "Transparent, repeatable, a promise",
+    "Secret",
+    "Always changing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a venture fund is scared of?",
+   "choices": [
+    "A business with no good board of advisors",
+    "A big problem",
+    "Hard work"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your mission and the problem it fixes. Keep advisors around you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

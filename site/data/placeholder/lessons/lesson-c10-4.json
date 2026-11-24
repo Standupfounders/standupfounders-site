@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-c10-4",
+ "title": "Four laws and their opposites",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which of the four laws are you using on your team?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Create good habits",
+   "lines": [
+    {
+     "text": "Jose summarized: to create good habits, make it obvious, make it attractive, make it easy and make it satisfying.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "To break bad habits, he said, invert them: make it invisible, make it unattractive, make it difficult and make it unsatisfying.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A leader's inventory",
+   "lines": [
+    {
+     "text": "He said that as a leader you do an inventory: how am I going to make it obvious, attractive and easy for someone to pick up the phone and make forty calls? How is it a symbol of a higher calling and not just simple tasks?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: what is the personal symbol, and what is invested in your name?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Pick one task your team avoids. How would you make it obvious, attractive, easy and satisfying?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a good habit you want from your team.",
+   "Write how to make it obvious.",
+   "Write how to make it attractive, easy and satisfying.",
+   "Write a bad habit to break and how to make it invisible and hard.",
+   "Write the higher calling behind the task."
+  ]
+ },
+ "check": [
+  {
+   "q": "What are the four laws for good habits, as Jose summarized?",
+   "choices": [
+    "Obvious, attractive, easy, satisfying",
+    "Fast, loud, cheap, large",
+    "Early, late, long, short"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How do you break a bad habit, according to Jose's summary?",
+   "choices": [
+    "Invert the four laws",
+    "Ignore it",
+    "Reward it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a leader does?",
+   "choices": [
+    "An inventory of how to make it obvious, attractive and easy",
+    "A budget",
+    "An annual report"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Use the four laws. Invert them for bad habits. Take an inventory as a leader.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

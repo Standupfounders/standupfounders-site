@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a27-1",
+ "title": "Fifty bubbles",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you change a material, a supplier or a method, how many other things change with it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A pivotal decision",
+   "lines": [
+    {
+     "text": "Jose said that in this chapter the person is building the big rocket and renames it. He sees him with new goals: we are never going to build rockets fast enough with this process. He goes to stainless steel. What does he do when he changes the process? He says: run the numbers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Remember yesterday, Jose said, a developer has three model homes. He can't build fifty custom homes, because he changes the process fifty times, and his cost of doing business becomes erratic and the chances of going bankrupt are pretty high.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "This is a change of direction and a change of process, and it is going to affect speed. It is not a minor decision. All of us will face a decision in our business where we may have to change direction, and process and speed will be affected, the three components of momentum.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Keep an alternative open",
+   "lines": [
+    {
+     "text": "A student said: he urged the team to run the numbers because he believes it will work. They found it works better in terms of temperature and strength, and that the labour is easier, so he does not need highly qualified people. He was thinking about the material and the labour.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said that, for entrepreneurs, we should always keep a site open for an alternative. When they imported coffee, one country could supply it, but if it had bad weather or pesticides damaged the crop, they had to find alternative suppliers on the go to meet commitments.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Fifty bubbles",
+   "lines": [
+    {
+     "text": "Jose said: you are going to have to pivot, analyze, change direction, change a process, and you won't have a lot of time. Think of the chess game: it is not the same thinking five moves ahead as fifty.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: there are a lot of dependencies in each decision, so you have to have the foresight to see further down the line than just one decision.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "If you draw it as bubbles, Jose said: we are going with stainless steel, and underneath little bubbles of everything that decision will impact, you will have fifty, sixty, seventy bubbles in your organization.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are the bubbles under your next big decision?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the next big decision in your business.",
+   "Draw it and write fifty things that change with it.",
+   "Write the supplier or method you could use as an alternative.",
+   "Write the three things that will change: direction, process, speed.",
+   "Write who you would ask to run the numbers."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the person tells the team to do before the change?",
+   "choices": [
+    "Run the numbers",
+    "Wait a year",
+    "Hire more people"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to always keep open?",
+   "choices": [
+    "An alternative",
+    "A bank account",
+    "A phone line"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about a big decision?",
+   "choices": [
+    "It has fifty or more bubbles of impact",
+    "It has one effect",
+    "It has no effect"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "See all the bubbles under a decision. Keep an alternative open.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

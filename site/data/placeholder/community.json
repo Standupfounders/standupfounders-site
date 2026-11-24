@@ -1,0 +1,295 @@
+{
+  "schema": "stepup-community/1",
+  "placeholder": true,
+  "notice": "Every person, post and message here is made up. No real member, no real data, nothing is sent or saved on a server.",
+  "rules_version": "draft-0",
+  "you": "m0",
+  "boards": [
+    {
+      "id": "decisions",
+      "name": "Decisions",
+      "blurb": "Placeholder board: the call you had to make, and how you made it. (Module: Decide)"
+    },
+    {
+      "id": "beliefs",
+      "name": "Beliefs",
+      "blurb": "Placeholder board: what you believe about yourself and your work. (Module: Believe)"
+    },
+    {
+      "id": "setbacks",
+      "name": "Setbacks and getting up",
+      "blurb": "Placeholder board: when it falls apart, and the first step back. (Module: Get Up)"
+    },
+    {
+      "id": "habits",
+      "name": "Daily habits",
+      "blurb": "Placeholder board: small actions you repeat. (Module: Daily Habits)"
+    },
+    {
+      "id": "ask",
+      "name": "Ask the room",
+      "blurb": "Placeholder board: a question for people a few steps ahead. A general board, not tied to a theme."
+    }
+  ],
+  "members": [
+    {
+      "id": "m0",
+      "name": "Sample Member (you)",
+      "line": "Placeholder profile for the person using the prototype.",
+      "interests": [
+        "Decisions"
+      ],
+      "since": "Placeholder date",
+      "role": "member"
+    },
+    {
+      "id": "m1",
+      "name": "Sample Owl",
+      "line": "Placeholder: building a small service business.",
+      "interests": [
+        "Decisions",
+        "Daily habits"
+      ],
+      "since": "Placeholder date",
+      "role": "member"
+    },
+    {
+      "id": "m2",
+      "name": "Sample Fox",
+      "line": "Placeholder: starting again after a closed shop.",
+      "interests": [
+        "Setbacks and getting up"
+      ],
+      "since": "Placeholder date",
+      "role": "member"
+    },
+    {
+      "id": "m3",
+      "name": "Sample Heron",
+      "line": "Placeholder: still deciding on a first idea.",
+      "interests": [
+        "Decisions",
+        "Ask the room"
+      ],
+      "since": "Placeholder date",
+      "role": "member"
+    },
+    {
+      "id": "m4",
+      "name": "Sample Moth",
+      "line": "Placeholder: part-time maker, full-time job.",
+      "interests": [
+        "Daily habits"
+      ],
+      "since": "Placeholder date",
+      "role": "member"
+    },
+    {
+      "id": "m5",
+      "name": "Sample Wren",
+      "line": "Placeholder: first-time hiring.",
+      "interests": [
+        "Decisions"
+      ],
+      "since": "Placeholder date",
+      "role": "member"
+    },
+    {
+      "id": "mod1",
+      "name": "Sample Moderator Ash",
+      "line": "Placeholder role only. No one is moderating yet.",
+      "interests": [],
+      "since": "Placeholder date",
+      "role": "moderator"
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "board": "decisions",
+      "author": "m3",
+      "title": "Placeholder: how do you pick a first idea?",
+      "body": "Placeholder text. A made-up question about choosing between two ideas when money and time are short.",
+      "when": "Placeholder: 2 days ago",
+      "votes": 14
+    },
+    {
+      "id": "p2",
+      "board": "decisions",
+      "author": "m1",
+      "title": "Placeholder: the day I said no to a big client",
+      "body": "Placeholder text. A made-up story about turning down work that did not fit, and what happened next.",
+      "when": "Placeholder: 3 days ago",
+      "votes": 31
+    },
+    {
+      "id": "p3",
+      "board": "setbacks",
+      "author": "m2",
+      "title": "Placeholder: the first step after it fell apart",
+      "body": "Placeholder text. A made-up post about the first week after a setback and the first small step back.",
+      "when": "Placeholder: 4 days ago",
+      "votes": 42
+    },
+    {
+      "id": "p4",
+      "board": "habits",
+      "author": "m4",
+      "title": "Placeholder: one small habit that stuck",
+      "body": "Placeholder text. A made-up note about a small daily action and what it changed.",
+      "when": "Placeholder: 5 days ago",
+      "votes": 9
+    },
+    {
+      "id": "p5",
+      "board": "ask",
+      "author": "m5",
+      "title": "Placeholder: how did you handle your first hire?",
+      "body": "Placeholder text. A made-up question about hiring a first helper.",
+      "when": "Placeholder: 6 days ago",
+      "votes": 6
+    },
+    {
+      "id": "p6",
+      "board": "decisions",
+      "author": "m3",
+      "title": "Placeholder: small decisions every morning",
+      "body": "Placeholder text. A made-up note about making one decision before breakfast.",
+      "when": "Placeholder: 1 week ago",
+      "votes": 18
+    },
+    {
+      "id": "p7",
+      "board": "beliefs",
+      "author": "m1",
+      "title": "Placeholder: a belief I had to drop",
+      "body": "Placeholder text. A made-up post about a belief that was holding someone back.",
+      "when": "Placeholder: 1 week ago",
+      "votes": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": "c1",
+      "post": "p1",
+      "parent": null,
+      "author": "m1",
+      "body": "Placeholder reply: try the cheaper test first.",
+      "votes": 5
+    },
+    {
+      "id": "c2",
+      "post": "p1",
+      "parent": "c1",
+      "author": "m3",
+      "body": "Placeholder reply: that makes sense, thank you.",
+      "votes": 1
+    },
+    {
+      "id": "c3",
+      "post": "p1",
+      "parent": null,
+      "author": "m4",
+      "body": "Placeholder reply: ask three people who might pay.",
+      "votes": 3
+    },
+    {
+      "id": "c4",
+      "post": "p2",
+      "parent": null,
+      "author": "m5",
+      "body": "Placeholder reply: that took nerve.",
+      "votes": 7
+    },
+    {
+      "id": "c5",
+      "post": "p2",
+      "parent": "c4",
+      "author": "m1",
+      "body": "Placeholder reply: it felt wrong, then right.",
+      "votes": 2
+    },
+    {
+      "id": "c6",
+      "post": "p3",
+      "parent": null,
+      "author": "m1",
+      "body": "Placeholder reply: one small step is enough for today.",
+      "votes": 11
+    },
+    {
+      "id": "c7",
+      "post": "p3",
+      "parent": null,
+      "author": "m4",
+      "body": "Placeholder reply: thank you for sharing this.",
+      "votes": 4
+    },
+    {
+      "id": "c8",
+      "post": "p5",
+      "parent": null,
+      "author": "m2",
+      "body": "Placeholder reply: write the job down first.",
+      "votes": 2
+    }
+  ],
+  "requests": [
+    {
+      "id": "r1",
+      "from": "m1",
+      "note": "Placeholder note: I liked your question and would like to compare notes.",
+      "state": "pending"
+    },
+    {
+      "id": "r2",
+      "from": "m5",
+      "note": "Placeholder note: could we talk about hiring?",
+      "state": "pending"
+    }
+  ],
+  "threads": [
+    {
+      "id": "t1",
+      "with": "m2",
+      "messages": [
+        {
+          "from": "m2",
+          "text": "Placeholder message: thanks for accepting my request."
+        },
+        {
+          "from": "m0",
+          "text": "Placeholder message: glad to talk."
+        }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "id": "x1",
+      "target_kind": "comment",
+      "target_id": "c7",
+      "reason": "Placeholder: looks like spam",
+      "state": "open"
+    },
+    {
+      "id": "x2",
+      "target_kind": "post",
+      "target_id": "p4",
+      "reason": "Placeholder: off topic",
+      "state": "open"
+    }
+  ],
+  "held": [
+    {
+      "id": "h1",
+      "author": "m4",
+      "board": "habits",
+      "text": "Placeholder text that mentions a link or an address. Held for a person to check before anyone sees it.",
+      "why": "Looks like a link or contact detail"
+    }
+  ],
+  "declined_you": [
+    "m4"
+  ]
+}

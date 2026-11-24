@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c10-2",
+ "title": "One place, one job",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Does your workspace do only one job?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A made-visible rule",
+   "lines": [
+    {
+     "text": "A student described making a rule visible in his home so that others kept it in mind when making decisions, even though it was never needed. He said people knew it was there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that we can set these things up around us all the time, and there are certain places where he knows it is a good time for a small treat. He said he has to remove himself from that environment at times.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Separate your environments",
+   "lines": [
+    {
+     "text": "A student said: I have to completely separate the work environment from the house and life. The office is strictly for work and nothing else happens there. In an office with employees you eliminate distractions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he calls them rituals: morning rituals. He gets up early, reads and does his to-do list, and keeps that habit in any environment. As soon as he opens his eyes that is his trigger to start being productive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that he uses the early hours to evaluate what he is doing wrong and could do better, and the next hours for communication and delegation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the one room or hour that you keep for one job only?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the places you work and live in.",
+   "Write which job each place does.",
+   "Write what you will keep out of your work space.",
+   "Write your morning trigger.",
+   "Write what you will do in the early hours that you cannot do later."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about the office?",
+   "choices": [
+    "It is strictly for work",
+    "It is for everything",
+    "It is for guests"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call his morning routine?",
+   "choices": [
+    "Rituals",
+    "Chores",
+    "Rules"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is Jose's trigger to start being productive?",
+   "choices": [
+    "Opening his eyes",
+    "A phone call",
+    "Coffee only"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "One place, one job. Keep your rituals wherever you are.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

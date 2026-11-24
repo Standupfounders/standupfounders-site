@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a31-2",
+ "title": "Accountability without an audience",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is your leadership dashboard, and which dial needs work?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The dashboard",
+   "lines": [
+    {
+     "text": "Jose said that in reading this he imagines himself developing a unique leadership style by grabbing different things the person does that are a little extreme. In the extremes we can find our balance. It is a bit of a psychological study.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We recognize patterns of behaviour, the power of his language, how he interacts with others. These give us a dashboard of our controls as leaders. We can say: I need to develop this more. I need to be more process-oriented. I need surges and a culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Improvement comes from relentless learning, he said, a positive outlook, and using that momentum to keep the promises we've made to ourselves. Are we living a life of accountability?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What is accountability?",
+   "lines": [
+    {
+     "text": "A student said: accountability is being held responsible for something. There is accountability to yourself, which is where it starts, but it tends to be more effective when you are accountable to somebody else. Even a non-binding accountability partner.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: it is taking ownership of results. And he asked: how meaningful are the interactions we have with people? Are we making a difference in their lives? What kind of impressions do we leave, and what role does accountability play in first impressions?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the most important part of accountability is when you do it without external consequences. You do something because it means something to you, not because I'm watching how many dials you make. Did you do what you were supposed to do, whether anyone was watching or not?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What do you do when nobody is watching?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the dials on your leadership dashboard.",
+   "Write the one you will turn up first.",
+   "Write whom you are accountable to.",
+   "Write what you do when nobody is watching.",
+   "Write the impression you want people to take from a first meeting."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say is the most important part of accountability?",
+   "choices": [
+    "Doing it without external consequences",
+    "Being watched",
+    "Being paid"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say accountability is?",
+   "choices": [
+    "Taking ownership of results",
+    "Following orders",
+    "Reporting hours"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say makes accountability more effective?",
+   "choices": [
+    "Being accountable to somebody else too",
+    "Working alone",
+    "Having a boss"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build your leadership dashboard. Be accountable even when nobody is watching.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

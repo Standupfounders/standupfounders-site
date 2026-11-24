@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a14-5",
+ "title": "Keep your creativity alive",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last make something without a machine's first draft?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Watch your creativity",
+   "lines": [
+    {
+     "text": "A student said: monitor your own creative output versus what you rely on AI for. I have noticed a direct correlation to a mental laziness developing around creativity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The analytical things are different, the student said: having a calculator doesn't mean you don't know how to do the equation. But if I use AI too frequently for creative things, I notice a reliance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The flicker of creativity is one of the core essences of being human, the student said. If you are not creative, you are just following whatever you are told.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Fertile ground",
+   "lines": [
+    {
+     "text": "Jose asked: how do you create fertile ground for a child to maintain creativity? Are our educational systems valuing creativity, or is education getting more specialized and more robotic?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Liberal arts colleges gave you a well-rounded education, he said: you had to take an art class, a literature class. Today you have maybe three or four electives. He asked who is driving that curriculum, and answered: massive corporations that fund the programs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: they value creating workers, not free thinkers. Creativity is the free-thinking element of consciousness. They also said the same large corporations are behind AI.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Opportunities",
+   "lines": [
+    {
+     "text": "Whenever you have momentum going one way, Jose said, it also goes the other way. People will say: is it a good idea for me to watch TV six hours a day, or should my kids be on their bicycles outside? All opportunities.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that what he cares about is that his child loves learning. He tells the school: all I want is for my child to look at a book and be curious, and to come back from school happy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How will you keep your own creativity alive?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you create without help.",
+   "Write what you hand to tools.",
+   "Write one creative habit you will keep.",
+   "Write how you would build fertile ground for the people you teach or lead.",
+   "Write what you want the children you know to love."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student notice about relying on AI for creativity?",
+   "choices": [
+    "A mental laziness around creativity",
+    "More ideas",
+    "Faster sleep"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say liberal arts colleges gave you?",
+   "choices": [
+    "A well-rounded education",
+    "A shorter degree",
+    "A job"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he wants his child to do with a book?",
+   "choices": [
+    "Be curious",
+    "Memorize it",
+    "Finish it fast"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Guard your creativity. Create fertile ground. Want curiosity more than grades.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

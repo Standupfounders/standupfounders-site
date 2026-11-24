@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "id": "lesson-b5-2",
+ "title": "If you have convictions, you've got to stick to them",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When the whole world seems against you, what do you hold on to?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "If you have convictions, you've got to stick to them",
+   "lines": [
+    {
+     "text": "If you have convictions, Jose said, you have to stick to them. Even if the government is against you. All these massive monopolies were against him. You could say the whole world is against me. But he has his convictions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are his convictions, Jose asked? As he tells it, the author believed his content wanted to be seen by the entire country, and that people in other states would want to watch his baseball team. He called it America's team.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He is making the whole country identify with one team from one city, Jose said. That is a great lesson on branding.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "And later he wanted a twenty-four-hour news channel, Jose said. Everybody said: you're crazy. But he stuck to his convictions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The first thing we have to have convictions about, Jose said, is: I'm an entrepreneur. I'm one of those guys. Do or die.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You're the underdog",
+   "lines": [
+    {
+     "text": "Jose said he goes into this much detail because there will come a time when you are dealing with a government agency. A student described a rule about stormwater that had been on the books but not enforced, and was now being enforced, and how their company was thinking of working alongside the regulators.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "We are going to run into massive monopolies, Jose said. So pick your battles. You are the underdog. You are the author right now.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Think about going up for a big city contract, he said. There will be companies who say: get out of the way, we've had this relationship for fifty years. What are you doing here? Even in his sailing, the yacht club says: who is this guy from the South?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It is inevitable, Jose said. If you have growth, you are going to run into it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the mindset and possibility thinking is the most important thing. These concepts seem abstract, until you realize it is everything.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Have a financial goal, Jose said. By the end of the year, I plan to have this number. Make it realistic and back it into the numbers, so that it is real, not hope and fear. Real calls, real inspections, real metrics.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is your big player, and what is your conviction?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one conviction you hold, in one line.",
+   "Write who or what is against it.",
+   "Write what you will do to stick to it anyway.",
+   "Write the big player you may run into, and your edge as the underdog.",
+   "Write one real number, backed into real calls or visits."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you have to do if you have convictions?",
+   "choices": [
+    "Stick to them",
+    "Drop them when others disagree",
+    "Keep them secret"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you should do about monopolies you run into?",
+   "choices": [
+    "Pick your battles",
+    "Ignore them",
+    "Copy them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How should a financial goal be, according to Jose?",
+   "choices": [
+    "Realistic and backed into real numbers",
+    "As large as possible",
+    "Unwritten"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Stick to your convictions. Pick your battles as the underdog.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

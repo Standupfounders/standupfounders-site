@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "id": "lesson-b19-4",
+ "title": "How am I a giver?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do every day, consistently, to help other people?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How am I a giver?",
+   "lines": [
+    {
+     "text": "A student said the author made a billion dollars in nine months and wanted to make a big donation. He tried to give it directly, but realized it was better to do it as a hundred million ten times, and he gave it to the charities of the UN's choice. He was really proud of that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he has already been giving away money for a long time. What is interesting is that he doesn't just give it away. He wants people to use it the right way and steer it somewhere productive. Again, in the face of an obstacle, he's always thinking: what's the most efficient way?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said everyone admires his generosity, and it was interesting when he said people have to learn how to be generous. It is not something you are just born with.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose read the author's line about giving.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "being generous always made me feel great, and it seemed like every time I gave money away I somehow made much more",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    }
+   ]
+  },
+  {
+   "heading": "Money as energy",
+   "lines": [
+    {
+     "text": "The more that I gave, the more that I made. Think about that statement, Jose said. It is very cyclical. He sees money not as a resource that is limited. He sees it as unlimited.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Think about language patterns, he said. We think of money as limited, finite. People talk about money sometimes as energy. You are moving in a direction, making money, doing proposals, meeting people, creating positive energy and attracting the money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You don't have to be a billionaire to be a giving person, he said. He has been giving for a long time, long before he was a billionaire. And not only his money: his time, helping people with management. That builds a lot of trust and charisma.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said they liked what he said about his kids and the foundation: it brought him and his kids closer together, and the kids got to know their dad in a different way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he posed the question: how am I a giver? What do I do consistently to help others? You don't have to commit money necessarily. What do I do every day to help others? What do I say, and what do I do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your giving habit?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you give consistently: time, advice, money.",
+   "Write what you could give every day that costs no money.",
+   "Write where you see money as limited, and where as energy.",
+   "Write one giving habit you will start this week.",
+   "Write who you will help first."
+  ]
+ },
+ "check": [
+  {
+   "q": "What question did Jose pose from this chapter?",
+   "choices": [
+    "How am I a giver?",
+    "How much do I own?",
+    "Who gave me?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you don't have to be to be a giving person?",
+   "choices": [
+    "A billionaire",
+    "Rich or poor",
+    "Old"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Jose say some people talk about money?",
+   "choices": [
+    "As energy",
+    "As a game",
+    "As luck"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be a giver. Ask what you do every day to help others.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

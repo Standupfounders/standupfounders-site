@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a43-3",
+ "title": "The one little thing",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What small thing did you let pass in a meeting that came back to haunt you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One little thing",
+   "lines": [
+    {
+     "text": "Jose said that when you judge a person you pull in resources: psychological profiling, looking at the person's habits. Do they have negative habits, eating junk food, getting up at ten, going out two or three times a week, destructive relationships around them? All of those things are resources.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student told of a company he helped grow and sell: the owner knew what he was good at, operations and accounting, and needed someone to run sales, and offered equity. We talked about all sorts of things you aren't supposed to talk about, politics and religion, because we knew this was going to be a partnership.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: you have to be ready to catch the signs of somebody who won't work out, that one little thing that could be the detrimental thing in your new partnership.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Things that haunt",
+   "lines": [
+    {
+     "text": "There are things that have haunted me later, Jose said, of something somebody said, and I thought: I can't believe I brushed that off. At the time I wanted to let it pass. I was looking at the business, the revenue, the potential. But that one personal piece of information ended up being the most detrimental thing in the whole business deal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: look at their past professional relationships. If he got sued by his former partner, or had an acrimonious relationship, that is something. There are companies that say: if his wife can't trust him, why are we going to trust him?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: so you watch how they eat, how they treat people, how they treat the waiters, how they manage their home life and their children. That whole environment is huge. It is very telling.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Everyone has a vice",
+   "lines": [
+    {
+     "text": "A student said: everybody has a vice, and I'm leery of people who pretend they don't. The question is whether it is going to affect the business. Jose said: you've got to mitigate that risk, and be aware of the risk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the one little thing you would not let pass next time?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a small sign you ignored and what followed.",
+   "Write the signs you will watch for in a partner.",
+   "Write how they treat people who cannot help them.",
+   "Write the vice you know in yourself and how you mitigate it.",
+   "Write how you would ask about a partner's past relationships fairly."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you have to be ready to catch?",
+   "choices": [
+    "The one little thing that could be detrimental",
+    "The big win",
+    "The first invoice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about vices?",
+   "choices": [
+    "Everybody has one; mitigate the risk",
+    "Nobody has one",
+    "They don't matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to watch besides the business?",
+   "choices": [
+    "How they eat, treat people, and manage their home life",
+    "Their handwriting",
+    "Their car brand"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be ready to catch the one little thing. Look at habits and how people treat others. Mitigate the risk.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

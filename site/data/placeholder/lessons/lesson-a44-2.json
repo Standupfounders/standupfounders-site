@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-a44-2",
+ "title": "Can you be trusted?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which question would tell you whether someone is straight with you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Can you be trusted?",
+   "lines": [
+    {
+     "text": "Jose said that the way a man in the book asks another: can you be trusted? and looks him in the eyes, and the other is taken aback by the earnestness, is important. This person serves as a filter, a trustworthy person, before he gets to the owner.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then the owner says that access to the highest-level tools should be restricted, he said: just one person for now. I did that yesterday, and that one person is me. In a very short time he develops trust for the man.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: he asked him: name ten people you would trust with your life, who should be given access to the highest-level tools. Trust with your life, because if they do something wrong, they're fired and the entire team is fired. Pretty intense.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I think it is the importance of candour. You can tell a lot by how somebody responds to an intense question like that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "What if he had been deceptive?",
+   "lines": [
+    {
+     "text": "Jose said: what if the man hadn't been earnest? What if he was deceptive, a spy, with ulterior motives? How would you handle that differently? And how do we recognize deceptive behaviour in business? That is what I got out of the exchange.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I think you start at the surface, body language and responses. But it goes deeper: what could his motivations be?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: it is smart for someone with a million things going on to send a person to find out whether the other is truthful or deceptive, and that person asks certain things to detect deception.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the owner would rather have this man on his side. The man was transparent and wanted the owner not to do crazy things that compromise the work, and knew he couldn't change policies right away.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Who is your filter for the people you cannot assess yourself?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who you send to judge people for you.",
+   "Write the question you would ask someone you may trust with your most sensitive work.",
+   "Write what you would look for in the answer.",
+   "Write what you would do if you suspected deception.",
+   "Write how you would limit access in the meantime."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say you can tell by how someone answers an intense question?",
+   "choices": [
+    "A lot, because of their candour",
+    "Nothing",
+    "Their age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the first man served as?",
+   "choices": [
+    "A filter of a trustworthy person before the owner",
+    "A bodyguard",
+    "A banker"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the high-level tools?",
+   "choices": [
+    "Access should be restricted to one person for now",
+    "Everyone should have access",
+    "Nobody should"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask intense questions to learn candour. Use a filter. Limit access until trust is built.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-d3-3",
+ "title": "Treat people as who they want to be",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who are you treating people as: who they are today or who they want to be?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Treat people as they want to be",
+   "lines": [
+    {
+     "text": "Jose said that his general philosophy is to treat people as they want to be, not as who they are. He listens to who the person wants to be and treats them like that, and said it is old-style coaching: you are awesome, you can do this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He used the saying: I am what I think you think I am. He said that if he thinks you are an absolute winner, and he thinks everyone on the call is amazing, he focuses on where they want to be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that you should treat yourself as the CEO of a successful company and feel that every day, because if you feel that success you become that success.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What builds trust in leaders",
+   "lines": [
+    {
+     "text": "A student said: knowledge. When someone knows what they are talking about, it happens, and when there is a mistake you can still rely on all the other times they were right. Jose said: transparency is a big one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that he admires leaders who teach with no strings attached, who give because they have a joy in giving. A student said: practicing what you preach is a big one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: you will not find a leader with all the qualities you want, so pick what you like. He tells his children he is one percent of a mentor and they have to find the other ninety-nine and judge for themselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who do you treat as who they want to be, and what do you say to them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who you lead.",
+   "Write who each of them wants to be.",
+   "Write what you will say to treat them as that person.",
+   "Write what builds trust in the leaders you follow.",
+   "Write the models you take from different people."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say his philosophy is?",
+   "choices": [
+    "Treat people as they want to be",
+    "Treat people as they are",
+    "Treat everyone the same"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a big one in trust?",
+   "choices": [
+    "Transparency",
+    "Fame",
+    "Volume"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you will not find?",
+   "choices": [
+    "A leader with all the qualities you want",
+    "Any leaders",
+    "A good book"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Treat people as who they want to be. Be transparent. Pick your models.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

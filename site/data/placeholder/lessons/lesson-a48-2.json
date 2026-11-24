@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a48-2",
+ "title": "Hire for belief",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What belief carries you when everything else is noise?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Belief in yourself",
+   "lines": [
+    {
+     "text": "Jose asked a student for a predominant positive belief. The student said: be confident in what I can do and what I can deliver. Jose said: that belief is empowering. Everything else is a distraction: who cares about the past, excuses, external things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you ingrain a behavior in you, it becomes your default, so you want it to be positive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said it is the belief in yourself that comes first, not the mission. A student agreed: the belief in yourself is really all that matters.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Hiring for belief",
+   "lines": [
+    {
+     "text": "Jose said: if you interview and talk about the company and the job description, you are talking about external things. Get to the core of who the person is, and how they transform the pain of an experience into something empowering, or whether they find external excuses.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is easier to train skills than it is to train attitude.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: someone with a negative belief system, even a good person with good values, has a chink in the armor. If they flail, you are in danger of drowning with them, or they say it is not my fault and blame something external.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that where the belief comes from is a bigger subject: upbringing, moments of success, attributing success to your work ethic and values.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you ask in an interview to find out how someone handles pain and obstacles?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the belief that carries you.",
+   "Write where it came from.",
+   "Write three interview questions about belief, not about the job.",
+   "Write how someone you know turned pain into a strength.",
+   "Write one attitude you could not train."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say comes first?",
+   "choices": [
+    "Belief in yourself",
+    "The mission",
+    "The salary"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is easier to train?",
+   "choices": [
+    "Skills",
+    "Attitude",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a typical interview talks about?",
+   "choices": [
+    "External things like the job description",
+    "Belief systems",
+    "Habits"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Belief in yourself comes first. Hire for belief and train skills.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

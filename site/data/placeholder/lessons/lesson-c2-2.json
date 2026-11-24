@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-c2-2",
+ "title": "Habit stacking",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you already do every day that a new habit could ride on?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Habit stacking",
+   "lines": [
+    {
+     "text": "A student said: habit stacking is using other habits as the if-then, as the trigger and response.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the book's example is: after I put on my shoes, I immediately change into my workout clothes. His own: after I have my coffee, I grab my gym bag and get out the door, not get on a call and get distracted until noon and skip my workout.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said you want a cue that has the same frequency as the habit you are developing: a cup of coffee every day is a consistent cue, so a daily workout can follow it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Examples from the group",
+   "lines": [
+    {
+     "text": "A student said: I start the car to warm it up, and while it warms I let the dog out for the last time. It became part of the routine, and that is the only way I guaranteed it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: I leave an electrolyte powder next to my keys, so I see it before I start the car, make the drink and put it in the console. I had to do it intentionally, and now it is automatic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: isn't it amazing, completely designing your external environment around triggers and cues, instead of letting the environment be designed by things you are not controlling?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the habit you already do every day, and what will you stack after it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit you do every day without fail.",
+   "Write a new habit you want.",
+   "Write the stack: after A, I will do B.",
+   "Write what you will leave next to your keys or door.",
+   "Write how you will know it has become automatic."
+  ]
+ },
+ "check": [
+  {
+   "q": "What is habit stacking, according to a student?",
+   "choices": [
+    "Using one habit as the trigger for the next",
+    "Doing everything at once",
+    "Skipping a habit"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the cue should match?",
+   "choices": [
+    "The frequency of the new habit",
+    "The color of your shoes",
+    "The price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to design instead of letting it be designed for you?",
+   "choices": [
+    "Your external environment",
+    "Your calendar only",
+    "Your office"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Stack the new habit on one you already do. Design your surroundings.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

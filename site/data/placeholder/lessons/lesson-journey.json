@@ -1,0 +1,147 @@
+{
+ "schema": 1,
+ "id": "lesson-journey",
+ "title": "Journey: a story from Jose",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "This is a story, not a lesson. Read it and think about what the map shows.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A map of the world",
+   "lines": [
+    {
+     "text": "Jose said that when he was in the telecommunications business, he was in long distance. He asked the class to picture a map. One day he pulled out a map of the world in front of a room full of engineers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He grabbed a big black felt pen. From the city of Panama, he said, thirty percent of all the long distance calls go to Hong Kong. He drew an arrow. Thirty million minutes a month.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He drew another arrow. Forty million going to the United States. He drew arrows to the other countries, all the places the minutes went.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Another business",
+   "lines": [
+    {
+     "text": "Those are patterns, he said. Those are maps. And they came from information, because the long distance calls were coming through.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He looked at the map and said: there is another business here, unrelated to telecom, unrelated to long distance. Money transfer.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He reasoned that there must be money flowing in the same direction as the phone calls. If people make those long distance calls, there must be business going between those countries as well.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A completely unrelated business came out of the mapping and the sourcing, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why it was missed",
+   "lines": [
+    {
+     "text": "Jose said banking has a lot to do with telecommunications. Telecom gives you the network to be able to transact with a bank. There are immense opportunities between those two industries.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "But they work in silos, he said. Telecom has divisions for local networks, divisions for modem programmers, and they rarely talk to each other.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you see when you look at the data you already have?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one set of data or patterns you already have in your work or life.",
+   "Ask: what other business or need could be hiding in it?",
+   "Write one unrelated field that could be connected to yours, and why the two do not talk to each other today."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose draw on the map?",
+   "choices": [
+    "Arrows showing where the long distance minutes went",
+    "Lines showing his office locations",
+    "Circles around his customers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What second business did he see in the map?",
+   "choices": [
+    "Money transfer",
+    "Shipping",
+    "Travel"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did he think money was moving in the same direction as the calls?",
+   "choices": [
+    "People who call between countries probably also do business between them",
+    "Banks told him so",
+    "The calls were free"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "The data of one business can show you another one. Look at what you already have.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

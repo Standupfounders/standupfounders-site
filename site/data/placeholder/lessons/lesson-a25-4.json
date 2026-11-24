@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "id": "lesson-a25-4",
+ "title": "The objective, not the instructions",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did someone give you the goal, not the instructions, and how did it feel?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The objective, not the instructions",
+   "lines": [
+    {
+     "text": "Jose asked: what is the value of saying to a person: fix the problem on your own, I'm going to give you one month? Or should I say: this is the strategy, this is the direction, and give them a spoonful of direction?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is better to give me the objective without the instructions. If you just give me instructions, it doesn't stick in my head as permanent knowledge as much as if I had to figure it out and cut the path myself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that with the person in the book looking out of the window and asking: do you believe in it? he is empowering the other person to find the solution. I can create pressure, momentum, an environment where you have the power to make decisions, and where every day you're inspired.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "On the other side of the threshold of pain, risk and decision-making you come out a different person, he said. We become leaders of greatness by pushing people to find their own solutions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A student's rule for momentum",
+   "lines": [
+    {
+     "text": "A student said: that is how you maintain momentum. When the objective isn't being hit, instead of wallowing, you look and ask: what are we doing differently now? Just take more shots.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Leading at scale",
+   "lines": [
+    {
+     "text": "Jose said the person's abstractions, like: let's be bold, I want the future to look like the future, are not giving solutions to people. He said he sees the leadership style changing: pushing people to make decisions more than making them himself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: that has to do with the scale of his companies getting bigger and bigger. Jose said: one hundred percent. He is not the programmer sleeping under the desk anymore. He has several companies and a lot of people to run.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he sees it as a choice: do I want successful companies, or do I want to be the one who puts out all the fires and does everything on my own and works days and nights, with no end? Or do I delegate, trust people and push them in the right direction?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is also adopting the mindset of: make a decision, even if it's wrong. As long as you are making decisions you are maintaining momentum.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he is being extreme: you didn't do it, there is no excuse, and as leaders we need to say that. It doesn't matter if we have a problem with this or that. He said this is his own strong view.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of your people could you give an objective to, and when?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an objective you could give someone without instructions.",
+   "Write what they will learn by finding the path.",
+   "Write what pressure and environment you will create.",
+   "Write when you will delegate and stop putting out fires yourself.",
+   "Write where you would draw the line on excuses, and how you would say it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student prefer to be given?",
+   "choices": [
+    "The objective without the instructions",
+    "The instructions without the objective",
+    "Neither"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say changes how the person leads?",
+   "choices": [
+    "The scale of his companies",
+    "His age",
+    "His mood"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say maintains momentum?",
+   "choices": [
+    "Making a decision, even if it's wrong",
+    "Waiting",
+    "Planning more"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Give the objective, not the instructions. Delegate as you grow. Decide, even if you may be wrong.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a23-3",
+ "title": "Pressure and your house",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When the pressure comes, who do you become at home?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pressure turns inward",
+   "lines": [
+    {
+     "text": "Jose said: you go home and you don't talk to anybody. You sit on the couch and people ask what's wrong with him, and you don't want to talk about it. That pressure is turning inside you. If you don't have a strategy to let it out, it will turn against you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said we are not the person in the book, but we have to understand how we react under immense stress, under external pressure: how much it affects our demeanour, our relationships.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Celebrities break up all the time, he said, because they don't have private lives. They can't go to restaurants. They don't know how to put the resources together mentally. He said a person can get very bitter, and that starts to affect what created the success.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your house in order",
+   "lines": [
+    {
+     "text": "A student said: your house has to be in order, otherwise nothing else can be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said you can feel the difference at a table between a successful seventy-five year old who is into his family, travelling, giving, and one who is negative. You are getting positive or negative influences in the way you think every day. What options do I have, and how do I take it? How do I not take it personally?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He also said you can't be too emotional: you do have to make cold decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A sounding board",
+   "lines": [
+    {
+     "text": "A student said: there was a time I was doing too many things at once and was blind to the impact work was having at home. It was a constant battle at work and at home, because I didn't understand the importance of personal relationships that could act as my sounding board.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said that a person who can tell you: you are making a mistake, sort it out, and who can listen to what you are going through even if they don't understand it firsthand, is crucial. The higher you go, the more tumultuous it gets.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the idea is that we depend more and more on ourselves, and that reading this book is a great example because it is so extreme: we can build the framework and criteria to build mental fortitude for ourselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is your sounding board, and do they know it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you do when pressure builds.",
+   "Write what your family sees.",
+   "Write who your sounding board is.",
+   "Write what you would want them to tell you.",
+   "Write one change that would put your house in order."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens if you don't let pressure out?",
+   "choices": [
+    "It turns against you",
+    "It disappears",
+    "It helps you"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say has to be in order?",
+   "choices": [
+    "Your house",
+    "Your desk",
+    "Your car"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is crucial as you go higher?",
+   "choices": [
+    "A sounding board",
+    "A bigger office",
+    "A new title"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Let pressure out before it turns on you. Keep a sounding board. Keep your house in order.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

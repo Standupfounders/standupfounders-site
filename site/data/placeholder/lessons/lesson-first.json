@@ -1,0 +1,225 @@
+{
+ "schema": 1,
+ "id": "lesson-first",
+ "title": "The hungry boxer",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Think of a time you stopped pushing. Nothing went wrong. You were fine. A year later you were behind. What happened in between?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How does a company begin to stagnate?",
+   "lines": [
+    {
+     "text": "Jose read this passage aloud in class.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "he feared complacency unless he maintained a maniacal sense of urgency. He worried. Spacex could end up flabby and slow, like Boeing, right?",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "Later he asked the class: how does a company begin to stagnate and become complacent?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In the discussion, a student gave two words: innovation and risk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "He said he was trying to get to the root of it: how does a company become complacent, and how does it stay nimble as it grows?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added that the opposite of risk is preservation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Then Jose asked how people, one by one, get into preservation mode. He gave the voice of someone who is there: I don't want to take any more risks. I'm happy with this. I'm almost at retirement age. I've only got ten years before I retire and I get my pension. So what else is there?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When he asked what creates that, a student said: comfort. Jose agreed: good, comfort.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Risk is kind of an attitude",
+   "lines": [
+    {
+     "text": "Jose added a warning. Just because we are taking a risk doesn't mean we are putting all the eggs in one basket and risking everything.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Risk is kind of an attitude, but it is also part of your character. Attitude is something more momentary. Character is something more long term.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What else makes us complacent? A student said: your environment. Jose agreed. If the norm around you is to take risks and to innovate, then that feels normal to you. Little by little you have less and less in common with people who go down the middle of the road.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He also said people will make a sacrifice for a mission they understand. That is the opposite of complacency, because you are on a road to get somewhere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The hungry boxer",
+   "lines": [
+    {
+     "text": "A student said complacency also comes from fear. Jose put it this way: a fear of loss, essentially.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The same student gave a picture. If you have been getting punched in the mouth every day for thirty years, you will probably be a little wary of people with their fists up. If you have been the one doing the punching, you are probably not scared of much.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose answered with the boxer. The hungry boxer, right? Once the boxer makes money, he's like, I don't have a motivation to fight anymore.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then he turned it around for entrepreneurs: the anxiety and the struggling, that is our comfort zone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose describes it from the book, the founder wins at something, and Jose bets it lasts ten seconds before he asks what is next. He goes back, sees two employees working, and wants to know where everybody is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where does the hunger come from?",
+   "lines": [
+    {
+     "text": "As Jose describes it from the book, people fear the founder when he walks down the manufacturing line. Jose called that external. The founder has the drive inside him. He does not need somebody telling him what to do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student made a practical point. How well, and how quickly, do you calculate a risk? Everything is a risk. Complacency is a slow-burn risk. The other kind is losing it all in one move. You do not have to put every chip on the table.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "How do we get into preservation mode?",
+   "lines": [
+    {
+     "text": "That was Jose's question to the class, and it is his question to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where in your own life have you moved into preservation mode?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "List three things you work on: a job, a project, a habit.",
+   "Next to each, write \"moving\" or \"preserving\".",
+   "Pick one marked \"preserving\". Write what is making it comfortable.",
+   "Write one small risk you could take on it this month. Make it small enough that a loss would not end you.",
+   "Write what you are afraid of losing. One line."
+  ]
+ },
+ "check": [
+  {
+   "q": "Besides an attitude, what did Jose say risk is part of?",
+   "choices": [
+    "Luck",
+    "Your character",
+    "Your job title"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In the class discussion, what did a student say is the opposite of risk?",
+   "choices": [
+    "Preservation",
+    "Speed",
+    "Fear"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What size of risk does the exercise ask you to choose?",
+   "choices": [
+    "Everything you have",
+    "A small one that a loss would not end you on",
+    "No risk at all"
+   ],
+   "answer": 1
+  }
+ ],
+ "recap": "Comfort breeds complacency. Stay hungry by choosing one small, survivable risk on purpose.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

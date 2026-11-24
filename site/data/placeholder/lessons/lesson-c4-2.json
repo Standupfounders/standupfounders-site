@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c4-2",
+ "title": "Presence and attention",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Can you be fully where you are for ten minutes?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Presence",
+   "lines": [
+    {
+     "text": "Jose said that when you travel for the first time there is a purity and simplicity, because you are paying attention to the senses. Everything around you normally fights for your attention and pulls it to work in a particular way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when you are present and the usual stimulus is gone, your attention can seize opportunity, because your subconscious is maximized and your conscious mind concentrates.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A strategy",
+   "lines": [
+    {
+     "text": "Jose asked for a strategy. A student said: tune into the moment, meditate, appreciate. Jose said that in meditation you are making the subconscious conscious.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student explained: set the intention to put your attention on a meditation object, typically the breath. Like driving on a highway, your brain picks up more than the car in front. Thoughts will pull your attention away.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said: when you lose it, notice quickly and bring yourself back. You know you are getting better when you keep attention longer, and when you notice faster.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Repetition of the good",
+   "lines": [
+    {
+     "text": "Jose said that repetition is probably the most effective strategy: you can beat yourself up over the money you should have made, or say: I have been successful in this situation before, I have felt this stress before. I will turn it in a positive direction and go into possibility thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do in a quiet ten minutes to bring yourself back?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what fights for your attention in a day.",
+   "Write one place or time with none of it.",
+   "Write your meditation object: breath, sound or a word.",
+   "Write how you will bring yourself back when you drift.",
+   "Write one past success you will repeat to yourself."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say happens when you are present and free of stimulus?",
+   "choices": [
+    "Your attention can seize opportunity",
+    "You get bored",
+    "You forget"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to do when you lose attention?",
+   "choices": [
+    "Notice quickly and return",
+    "Give up",
+    "Start over tomorrow"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is probably the most effective strategy?",
+   "choices": [
+    "Repetition",
+    "Complaining",
+    "Speed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be present. Return to your object. Repeat the good.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c14-3",
+ "title": "Habits that fit your wiring",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What habits would suit the way you are wired?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Five traits",
+   "lines": [
+    {
+     "text": "Jose listed the book's five categories: openness to experience, conscientiousness, extroversion, agreeableness and neuroticism, with the poles curious or cautious, organized or spontaneous, outgoing or reserved, friendly or detached, and anxious or calm.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is a good baseline to define where you are now, and then you can recreate your frame.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Habits that fit",
+   "lines": [
+    {
+     "text": "Jose said a takeaway is to build habits that work for your personality. As an introvert you do not get into a job where you talk to people all day with nowhere to recover; extroverts gain energy talking to people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: as an extrovert I feel anxiety when I am alone too long, so I can build a habit: when I feel that urge, I do something productive, such as networking, and I put a social slot in every day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said you also need hours that are not social: paperwork, planning, strategy. He said to channel the anxiety into productive behavior, such as the early morning hours when nobody is talking to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where anxiety comes from",
+   "lines": [
+    {
+     "text": "Jose asked where an entrepreneur's anxiety comes from. Students said: the future, a chaos of thoughts, a lack of control, the unknown. Jose said that if we do not identify where it comes from, we cannot reflect on it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is one habit that suits your wiring?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write where you sit on each of the five traits.",
+   "Write the work that drains you.",
+   "Write the habit that suits you.",
+   "Write where your anxiety comes from.",
+   "Write how you will channel it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a takeaway is?",
+   "choices": [
+    "Build habits that work for your personality",
+    "Copy someone else",
+    "Avoid habits"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say extroverts gain from?",
+   "choices": [
+    "Social time",
+    "Silence",
+    "Cold weather"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we need to identify?",
+   "choices": [
+    "Where our anxiety comes from",
+    "Where we live",
+    "Where we work"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your wiring. Build habits that fit. Find where anxiety comes from.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

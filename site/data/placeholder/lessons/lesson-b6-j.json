@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "id": "lesson-b6-j",
+ "title": "My parents had an intervention",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "This is a story, not a lesson. Read it and think about what people thought of a plan of yours.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "My parents had an intervention",
+   "lines": [
+    {
+     "text": "Jose said: look, it is my whole life story, not to talk about myself. When I first started buying land in a little fishing village in the middle of nowhere, my parents called my sister, and they had an intervention.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They said: we need to tell Jose to go to a psychologist, because he is leaving his city job, his city company. He is folding it up and going to a small fishing village that is fifty years away from anything happening.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There were dirt roads, he said, and nobody there, and one hotel with ten rooms. That is all there was.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "No, it's gonna happen",
+   "lines": [
+    {
+     "text": "And I was like: no, it is going to happen.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So it is a lonely world as an entrepreneur, he said, when you believe in something.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do the people closest to you say about your plan?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one plan of yours that people doubted.",
+   "Write what the doubters said.",
+   "Write what you believed, and what you did."
+  ]
+ },
+ "check": [
+  {
+   "q": "Who called Jose's sister, in his story?",
+   "choices": [
+    "His parents",
+    "His boss",
+    "His friends"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did they want Jose to do?",
+   "choices": [
+    "Go to a psychologist",
+    "Sell his land",
+    "Come home"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to himself about it?",
+   "choices": [
+    "No, it's going to happen",
+    "Maybe they are right",
+    "I will wait"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "When people doubt you, check your evidence and keep going.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

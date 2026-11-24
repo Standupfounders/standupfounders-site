@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a10-1",
+ "title": "Not all money is good money",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Would you take money from someone you did not want to work with?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The people who put in the money",
+   "lines": [
+    {
+     "text": "When we are entrepreneurs and we have capital needs, Jose said, we are going to be subject to the personalities of the people who invested with us. What could go wrong when you are raising money?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the obvious one is that you could not raise it, or you could raise it from the wrong people. All money isn't good money. If you don't see eye to eye, it breeds problems later. If a person is overbearing and that won't mesh with your management style, you need to know ahead of time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: what criteria could we come up with for choosing? A student said: outside of capital, what value can you bring to my company?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Talk philosophy first",
+   "lines": [
+    {
+     "text": "Number one, Jose said: does this firm believe in my mission? It's not just the money. You have to get to a philosophical level.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When I meet a venture firm, or help a young company meet one, the first meeting should only be on a philosophical level, he said. It should not even go into the numbers. Don't contaminate the meeting by talking about the investment opportunity. Talk about what you are all about.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you don't make that connection in the first talk, chances are that firm is not for you, he said. In that first meeting you will also learn that the person doesn't care about the long-term mission, and that will come to haunt you later, because they won't be sensitive to the challenges ahead.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: the personal connection matters. Is this person going to be with me long term, or is it a one-night stand? And just because these people have money to invest doesn't mean they're good at business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Who would you want beside you when it goes wrong?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you want from an investor besides money.",
+   "Write the signs of the wrong investor.",
+   "Write what you would say in a first meeting with no numbers.",
+   "Write what your mission is, as a philosophy.",
+   "Write one question that would tell you whether they care about the long-term mission."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the first meeting with an investor should be?",
+   "choices": [
+    "Philosophical, with no numbers",
+    "All numbers",
+    "A tour"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about money?",
+   "choices": [
+    "All money isn't good money",
+    "More is better",
+    "It doesn't matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you may learn if the investor doesn't care about the mission?",
+   "choices": [
+    "It will come to haunt you later",
+    "Nothing",
+    "It will help you"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose investors who share your mission. Talk philosophy before numbers.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

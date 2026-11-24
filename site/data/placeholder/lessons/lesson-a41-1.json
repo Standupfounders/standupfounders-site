@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a41-1",
+ "title": "Internal and external",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What drives you from inside, and what do you need from outside?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Internal and external",
+   "lines": [
+    {
+     "text": "Jose said that he wants to get to the core of the thought patterns, behaviour patterns and leadership of the person in the book. There is a huge difference between his leadership style and that of the former chief executive of the company he walks into. They couldn't be more opposite extremes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he found it interesting to analyze this not just as culture building in a company but as a parenting style. He broke it down into what is internal, how he thinks and acts, and what is external, how he communicates with people. Or intrinsic and extrinsic: his self-motivation, and getting people to do it for the rewards of getting to the mission.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the person creates meaning out of pain, transforming experience into super productivity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two cultures",
+   "lines": [
+    {
+     "text": "A student said: it was an overbloated corporate structure, with a whole bunch of people not really doing anything productive, stepping all over each other. Another said: the company got away from being a scrappy start-up that had to innovate.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: what are the positives and negatives of each style? A student said: the danger of a culture that is ultra-sensitive is that you stop innovating out of fear of stepping on somebody's toes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which of the two cultures is closer to yours, and what does it cost you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what drives you from inside.",
+   "Write what you ask others to do, and for what reward.",
+   "Write the culture of your organization in one line.",
+   "Write the strength and cost of that culture.",
+   "Write how it shows in the way you parent or lead."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose split the leader's personality into?",
+   "choices": [
+    "Internal and external",
+    "Public and private",
+    "Old and new"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say can happen in an ultra-sensitive culture?",
+   "choices": [
+    "You stop innovating out of fear of stepping on toes",
+    "You innovate more",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he wanted to analyze besides company culture?",
+   "choices": [
+    "A parenting style",
+    "A diet",
+    "A budget"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your inside and your outside. Name the strengths and costs of the culture you run.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c13-2",
+ "title": "Where accountability starts",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you first learn to be accountable for a habit?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where it starts",
+   "lines": [
+    {
+     "text": "Jose asked when accountability for our habits starts. A student answered: from six months old, depending on what the baby sees.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said it starts in childhood: parents from an early age structure the concept of accountability, and the momentum carries into adulthood. He said he was not criticizing parents in general.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Guilt and shame",
+   "lines": [
+    {
+     "text": "A student said: the awareness of my bad habits is driven by guilt. Jose asked: who installed that guilt?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: there was repetitive shame, not told once but drilled into me every day. I might have made a decision once, but I would be hearing about it for four years.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: the parents are taking responsibility from you. They are not giving you choices, which makes you less responsible and, later, less confident to decide on your own.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Give the choice",
+   "lines": [
+    {
+     "text": "Jose described two kinds of parents: one says do this, the other says you have a choice, you can be organized or disorganized. The second shifts the responsibility and decision to the child.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked what a parent is doing when they ask: why are you thinking about going out without a coat? A student said: giving the chance to think and make a decision. Another said: questioning the thought process to make it seem reasonable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if children are told I told you so afterwards, they will double down and stay cold, because it is less painful than going back in and being ridiculed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit that came from how you were raised.",
+   "Write who first held you accountable and how.",
+   "Write a choice you were given as a child, or not.",
+   "Write how you give others choices now.",
+   "Write what you will say instead of I told you so."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say starts in childhood?",
+   "choices": [
+    "The concept of accountability for habits",
+    "The first job",
+    "The first loan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say taking away choices does?",
+   "choices": [
+    "Makes you less responsible",
+    "Makes you wiser",
+    "Makes you faster"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say happens after I told you so?",
+   "choices": [
+    "They double down",
+    "They thank you",
+    "They forget"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Accountability starts early. Give choices. Do not shame.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

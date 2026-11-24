@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-c4-1",
+ "title": "Take it out of sight",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is your relationship to the objects in your room?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Small changes count",
+   "lines": [
+    {
+     "text": "A student said: being intentional about your environment was my resolution this year. It does not have to be big. In a single small room you can designate a chair.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said that chapter 7 is about elimination: removing a habit is easier if it is not in your direct line of sight.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Relationship to objects",
+   "lines": [
+    {
+     "text": "Jose said: our behavior is not defined by the objects in the environment but by our relationship to them. So by taking the objects out of the environment, the relationship is gone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said this is very Jungian, and recalled a quote that until you make the unconscious conscious, you will not direct your life and you will call it fate. This is his recollection of the quote and needs a person to check it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is one object you could take out of sight this week?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit you want to eliminate.",
+   "Write the object that triggers it.",
+   "Write where you could put it so you cannot see it.",
+   "Write what you will put in its place.",
+   "Write what you will notice after a week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say defines behavior?",
+   "choices": [
+    "Our relationship to objects",
+    "The objects themselves",
+    "The weather"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say makes removing a habit easier?",
+   "choices": [
+    "Not having it in your direct line of sight",
+    "Buying more",
+    "Telling friends"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you can designate in a small room?",
+   "choices": [
+    "A chair",
+    "A wall",
+    "A door"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Take the cue out of sight. Change your relationship to objects.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

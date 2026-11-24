@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "id": "lesson-b2-j2",
+ "title": "Look at the sky and turn on your back",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "This is a story, not a lesson. Read it and think about what you do when everything changes in a second.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "I've had quite a lot of crises",
+   "lines": [
+    {
+     "text": "I've had quite a lot of crises, Jose said. We're not going to talk about all of them. But I had one where I jumped in. I anchored a boat in a bay.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the perspective of where you anchor, and where the sand is, can fool you. You think it is close. Sometimes it is longer than you think, because your eyes lose perspective against the line of the ocean.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He jumped in with two men. One of them had never told him that he doesn't swim well. Halfway through, he started splashing, and the other man started yelling: he's drowning!",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Look at the sky and turn on your back",
+   "lines": [
+    {
+     "text": "The others had jumped in first, he said, and he jumped in after. He swam toward the man, went underneath, got on the other side, grabbed him by the hair with his left hand, and with his right arm under the man's arm held his chest as hard as he could.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He put his mouth right in the man's ear, he said, and said: look at the sky and turn on your back. I want you to float and look at this. Look at the clouds floating. Look at how beautiful the sky is. Focus on your breathing. And I calmed him completely down.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then the other man said: I'm drowning. I already had one on my back, Jose said, so I told him: get on your back and start floating. I talked to him, and he got on his back and floated, and I talked them all the way to the shore.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "In those moments you've got to dig deep",
+   "lines": [
+    {
+     "text": "In those moments of crisis, he said, you have to dig deep and make decisions very, very quickly.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "And that is what the author loves, he said: that adaptation. He learned it from the age of four, in boarding schools, getting bullied, going to different schools. He is addicted to it: I can adapt, and I can triumph here. That is part of being a successful entrepreneur.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What did you do the last time everything changed in a second?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a moment when you had to decide fast.",
+   "Write what you told yourself, or someone else, in that moment.",
+   "Write what you would do differently, or the same."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose tell the frightened man to look at?",
+   "choices": [
+    "The sky",
+    "The shore",
+    "The boat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did he tell the second man to do?",
+   "choices": [
+    "Get on his back and float",
+    "Swim to the boat",
+    "Hold on to the first man"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have to do in those moments of crisis?",
+   "choices": [
+    "Dig deep and make decisions very quickly",
+    "Wait for help",
+    "Look away"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "In a crisis, stay calm, dig deep and decide fast.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a28-4",
+ "title": "Prepare and document",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you have a big day, what have you rehearsed so it feels like any other day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Flow is preparation",
+   "lines": [
+    {
+     "text": "A student said: the flow state is literally just being prepared. If you listen to champions talk about it, one of them said he practised as if every practice was the final. So when the final came it was just another day. He had prepared so much that it was automatic for him to perform at that level.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: so the lesson is: what are we disciplined about? Are we using repetition? Are we visualizing all the steps and adding to the steps?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Document it",
+   "lines": [
+    {
+     "text": "I believe in documenting it, Jose said, because when you document, you see the progress. My to-do list today has almost fifty-three items. And I am always visualizing what I will do with each, and then you go into delegating and operational mode.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The faster we do it, the lighter it will be making these critical decisions in our life, he said, because they are familiar. We've been there before.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: something really important is writing down what you are working on. When you have meetings, internal or external, with vendors, log what was said and keep the minutes. A vendor could miss something and you can trace the conversation back a couple of months and say: you promised to fix this on that day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "It is a way of getting credit, saving money and holding people accountable, the student said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: very important. Keep a journal too, an informal one, of your goals. You can have your business things documented and your own personal goals, your visualization of where you want to go.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What will you write down today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the big event you are preparing for.",
+   "Write how you will practise as if it were the real thing.",
+   "Write your list of items today and the steps behind them.",
+   "Write who will receive the minutes of your next meeting.",
+   "Write one personal goal in your journal."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say the flow state is?",
+   "choices": [
+    "Being prepared",
+    "Luck",
+    "Talent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Why did Jose say to document?",
+   "choices": [
+    "You see the progress",
+    "It looks professional",
+    "It is required"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to keep after meetings?",
+   "choices": [
+    "Minutes of what was said",
+    "The coffee cups",
+    "The slides"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Prepare until it is automatic. Write it down. Keep the minutes and a journal.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

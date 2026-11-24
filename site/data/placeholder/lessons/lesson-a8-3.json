@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-a8-3",
+ "title": "Pilot first",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What small version of your big idea could you run next month?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Out of the comfort zone",
+   "lines": [
+    {
+     "text": "Jose asked a student: what do I tell you all the time? The student said: do it, learn new things and don't stay in your comfort zone. Jose said: that's right, and the person in the book does not stay in his.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Do dumb things small",
+   "lines": [
+    {
+     "text": "Jose said the person's friend told him these things blow up in the middle of space. The friend said: if we're going to do dumb things, let's not do them on a large scale. At the very least do a proof of concept.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I'm big on a proof of concept, he said. In relationships, when we start, I say: let's do a pilot. Let's do something small that represents the mechanics, the operations and the strategy of the bigger thing we will do later, so everybody is more comfortable and the risk is lower.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A pilot program is always a good thing to do, he said. Let's see if there's a market there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Big things take time",
+   "lines": [
+    {
+     "text": "He said that while he builds rockets, the person finds other ways to create revenue, and an early version operated at a loss.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: big things take a lot of time. The company has been around since two thousand and two or three but feels like it came around in the past couple of years. Same with another large company that lost money for so long and then became profitable. People work hard for ten years and become famous overnight.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your pilot, and what will it prove?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the big thing you want to do.",
+   "Write the smallest version that shows how it works.",
+   "Write what the pilot should prove or disprove.",
+   "Write how long you will give it.",
+   "Write another way to earn while the big thing grows."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did the friend say about doing dumb things?",
+   "choices": [
+    "Do them, but not on a large scale",
+    "Never do them",
+    "Do them in secret"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Jose say a pilot represents?",
+   "choices": [
+    "The mechanics, the operations and the strategy of the bigger thing",
+    "A holiday",
+    "A rule"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about big things?",
+   "choices": [
+    "They take a lot of time",
+    "They are quick",
+    "They need no help"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start with a pilot. Let big things take time.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

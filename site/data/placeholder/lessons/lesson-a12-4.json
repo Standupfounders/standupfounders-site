@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a12-4",
+ "title": "Learn what you don't like",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What subject would you least like to read about, and what could it teach you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Push into what you don't like",
+   "lines": [
+    {
+     "text": "One of the things I learned in my twenties, Jose said, is your ability to learn something new. He is learning everything on the fly. Sometimes we set limitations in ourselves.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Push yourself to the limit of understanding things you're not comfortable understanding, he said. When you start reading a technical book you have no interest in, that is when you need to learn the most. You have to become flexible and adapt to different knowledge bases.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he can pick up a foreign text that has nothing to do with his business, and then go into a business he knows nothing about and in two or three weeks absorb enough to understand the broad strokes of an industry or a problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The swimmer",
+   "lines": [
+    {
+     "text": "It's like swimming, he said. Some of the best freestylers and butterflyers got better at freestyle by swimming other strokes, especially butterfly. You never know what will come from learning something else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "How do you learn?",
+   "lines": [
+    {
+     "text": "A student said: in my marketing work there was never a new client I didn't have to learn a good bit about. My mother told me to be a student of life, a lifelong learner. I'm a kinesthetic learner: I have to jump in and do it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that is a key thing: understanding your learning style, and how you will absorb information as efficiently as possible, is paramount to success as an entrepreneur.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some learn by getting out there and butting their head against the wall until they make it, he said, and I know plenty of people like that. A student said: baptism by fire almost always works.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How do you learn best, and what are you avoiding?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a subject you have avoided.",
+   "Write what it could teach your business.",
+   "Write how you learn best: by reading, listening or doing.",
+   "Write one foreign text or field you will read in the next month.",
+   "Write what limit you have set on yourself."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to do with subjects you are not comfortable with?",
+   "choices": [
+    "Push yourself to understand them",
+    "Avoid them",
+    "Hire someone to read them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is paramount to success as an entrepreneur?",
+   "choices": [
+    "Understanding your learning style",
+    "A big budget",
+    "A degree"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is their learning style?",
+   "choices": [
+    "Kinesthetic: jump in and do it",
+    "Auditory",
+    "Visual"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Push into what you don't like to learn. Know how you learn best.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-c9-2",
+ "title": "A resourceful state",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What state are you in when you start your day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What a state is",
+   "lines": [
+    {
+     "text": "Jose said that a state is a mode or condition of being, which he looked up in the dictionary. He said a negative thought pattern produces actions, then negative results, and you are no longer resourceful to yourself or others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: in a restaurant, a waiter in an impulsive, emotional state does not tap into their resources and does not control the outcome. Jose said: it is a domino effect.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that one little splinter in our thought process can derail our habits, behavior and state, like straw and a lit match.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Resourceful against panic",
+   "lines": [
+    {
+     "text": "A student said that resourcefulness means your internal resources, your best, not necessarily your most productive or happiest.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: picture two surfers caught in a big set. One thinks I am going to drown and panics. The other has been here before and knows exactly what to do. One acts from fear, the other from clarity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said you can say consciously: I am going to come at this from my most resourceful, clear state. I am not going to give in to wild emotions, fear or panic. We can take an inventory of our daily thoughts as well as habits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Leading others into the zone",
+   "lines": [
+    {
+     "text": "Jose asked how a leader gets people around them into that zone, and suggested a two-minute thought habit with the team, with the psychology of why it matters. A student said: be the lighthouse, not the tugboat.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said that it comes with being a good leader: if people trust you, they believe that if they follow you they will be better.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your most resourceful state like, and what brings you into it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the state you are in most mornings.",
+   "Write what a resourceful state looks like for you.",
+   "Write what brings you into it.",
+   "Write a situation where panic cost you.",
+   "Write a two-minute thought habit for your team."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did Jose define a state?",
+   "choices": [
+    "A mode or condition of being",
+    "A country",
+    "A feeling of hunger only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a resourceful state means?",
+   "choices": [
+    "Your internal resources, your best",
+    "The most productive",
+    "The happiest"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to be as a leader?",
+   "choices": [
+    "The lighthouse, not the tugboat",
+    "The captain",
+    "The cook"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice your state. Come from clarity, not panic. Lead others into it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

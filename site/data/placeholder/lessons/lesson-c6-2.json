@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-c6-2",
+ "title": "Exaggerated versions of reality",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Whose version of reality are you chasing?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Exaggerated versions of reality",
+   "lines": [
+    {
+     "text": "Jose quoted the book's statement that humans are prone to fall for exaggerated versions of reality, and asked what it means. A student said: entrepreneurs almost need an exaggerated sense of what they will accomplish, to carry them through the pitfalls.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said: it is a double-edged sword. Some people look at social media and see everyone with a perfect marriage and turn off. Others see hope. If you can harness the exaggerated reality it becomes a power tool.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: whose reality are we talking about? The individual's, or a fabricated reality on steroids: the fast cars, the designer suits, the advertising and the malls. That is a dopamine hit, isn't it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Where is the line",
+   "lines": [
+    {
+     "text": "He asked: where is the line between the fabricated reality and our version of reality? He said that we can get pulled toward habits that are not really our intention, such as taking a client we did not want because someone spoke in a way that appealed to us at that moment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that our societies are engineered versions of reality, and it takes a tremendous amount of strength to compete with it. He noted that dopamine plays a central role in motivation, learning and memory, which is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: younger people do not realize that everyone looks perfect on social media. Motivation can also backfire: someone who fails a diet may cope by eating more, and it becomes a vicious cycle. We need idealism, but not to the point that it discourages us.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the exaggerated reality you compare yourself with every day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write where you see exaggerated reality in a day.",
+   "Write how it makes you feel.",
+   "Write a time it pulled you to a choice you regretted.",
+   "Write the line between that and your own version.",
+   "Write one way to use it as a power tool, not a trap."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student call exaggerated reality?",
+   "choices": [
+    "A double-edged sword",
+    "A free gift",
+    "A rule"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask about exaggerated reality?",
+   "choices": [
+    "Whose reality is it",
+    "Who pays for it",
+    "Who made it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about motivation?",
+   "choices": [
+    "It can backfire into a vicious cycle",
+    "It never helps",
+    "It only helps at night"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know whose reality you chase. Draw your own line.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

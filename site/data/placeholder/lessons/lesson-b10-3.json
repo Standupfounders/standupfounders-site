@@ -1,0 +1,144 @@
+{
+ "schema": 1,
+ "id": "lesson-b10-3",
+ "title": "Do I want to have judgments, or do I want to be open?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is it better for a leader to judge or to listen?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Do I want to have judgments, or do I want to be open?",
+   "lines": [
+    {
+     "text": "Jose said: I'm purposely posing questions, because the best thing we can do as individuals, if we commit to being culturally sensitive, is to see that there are two sides to the story. There are three or four sides sometimes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As Jose retells it, the author used to admire a conqueror who killed hundreds of thousands of people to gain land. Then he changed to admiring peaceful leaders who were open to cultures and reached resolutions by passive means.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So we have to make a decision, Jose said. Do I want to be one of those people who is judgmental in the conversation? Or do I want to be open?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What a beautiful epiphany",
+   "lines": [
+    {
+     "text": "Jose read a line from the author about the end of the trip.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I flew home with a whole new desire to understand more about cultures. political systems. and to do what I could do to increase communication and dialogue between nations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "What a beautiful epiphany, Jose said. He turned that experience into an opportunity for an international news business. That is the genius of this man.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it was interesting to walk through his mind: his judgments before he went, and the change after. Maybe he didn't change all of his beliefs, but he was open to hearing something else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is better if we want to be leaders, Jose asked: to have judgments over people, or to be open listeners? A student said: the latter. Jose said: we lose nothing by being non-judgmental, but we have more to lose if we are judgmental and prejudiced.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Even in sales, he said, when people realize you are non-judgmental, open, sensitive and genuinely curious about them, that builds trust. What doesn't build trust is the opposite.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whom could you listen to more, and judge less?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a conversation where you judged first.",
+   "Write the other side of the story as they would tell it.",
+   "Write what you lose by judging, and what you gain by listening.",
+   "Write one person you will listen to this week without judging.",
+   "Write what 'open' looks like in your next sales or team conversation."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say we lose by being non-judgmental?",
+   "choices": [
+    "Nothing",
+    "Respect",
+    "Time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say builds trust in sales?",
+   "choices": [
+    "Being non-judgmental, open and genuinely curious",
+    "Talking fast",
+    "Giving discounts"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the author want after his trip, as he wrote?",
+   "choices": [
+    "To understand cultures and political systems and increase dialogue",
+    "To sell more",
+    "To stay at home"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "As a leader, be open and listen. We lose nothing by being non-judgmental.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c8-2",
+ "title": "Models of excellence",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who are your models, and what do you take from them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Models of excellence",
+   "lines": [
+    {
+     "text": "Jose said that we are committed to the quest of finding models of excellence in everything: in business, in parenting, in philosophy. We build habits by imitating models, and we can learn from other people's experience instead of our own, which cuts the time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that the key is to take the good and leave the bad, and to say: I am the last person you should follow as an example. Take my strengths, leave the rest.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: life is like a buffet. You take what you want and leave what you don't.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Prime your environment",
+   "lines": [
+    {
+     "text": "Jose said that the book talks about priming your environment around the people and things you admire, and designing a world where it is easy to do what is right. He said we set unrealistic expectations of relationships, such as ten things we want in the other person, when maybe you get three and find the rest elsewhere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when you are around people with values and integrity, it is easy to be in a positive world.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who do you admire, and what exactly would you copy?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three people you admire.",
+   "Write one thing you would copy from each.",
+   "Write one thing you would leave.",
+   "Write where you could find the other qualities you want.",
+   "Write how you will prime your environment around them."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to do with a model?",
+   "choices": [
+    "Take the good and leave the bad",
+    "Copy everything",
+    "Ignore them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say life is like?",
+   "choices": [
+    "A buffet",
+    "A race",
+    "A bridge"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say cuts the time to learn?",
+   "choices": [
+    "Learning from other people's experience",
+    "Working harder",
+    "Buying courses"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find models. Take the good. Prime your surroundings.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a42-5",
+ "title": "Trust before change",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Before you ask people to change, what have you done to earn it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Speak to the individual",
+   "lines": [
+    {
+     "text": "A student said: if I'm coming in as a leader with the new company's vision, having to influence the old employees' ways, it is a political situation, and people are a little resistant to change. You can't just demand it, because you will get major pushback.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: direct your communication to be impactful to the individual: how they fit into the picture, how they will grow, why it is beneficial to them to buy into the new values, instead of talking about I, or things that exclude them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is very smart. That is where you get down to the core of somebody's needs. If you talk about the company, you are on a superficial level.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Trust first",
+   "lines": [
+    {
+     "text": "A student said: you can enter a company with the best ideas in the world, but if you are not sensitive to individual personalities, relationships and the politics, you will get nowhere. You need to check the boxes of building trust, credibility and relationships before you can think about driving change.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: the people who had been there for years said: who is this guy? Because he hadn't built that credibility with them. The first thing is getting their attention and building trust so they feel security in you, then you can start asking for change.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Care and standards together",
+   "lines": [
+    {
+     "text": "Jose said: contrary to the way the person in the book does business, I believe that you can care about individuals and yet be stern and have really high standards. I believe the two can coexist, and we will see other entrepreneurs who have more of a balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that a chief executive of a large company left the person's carmaker because he didn't like the way he treats people. I like to treat people nicely, fairly, and I have been successful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: there is going to be a lot of collateral damage with the way he does business. That is why reading about people at one extreme or the other gives us a criteria: this is how I am going to treat people, but I won't let that cloud progress or stunt progress.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "We are forever in start-up mode, Jose said, quoting a famous founder's line about staying foolish: stay alert, stay evolving, don't stop.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "How will you tell a new team what you stand for and how you will treat them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you would speak to each person about a change.",
+   "Write what each of them would gain.",
+   "Write how you would build trust before asking for change.",
+   "Write your standards, and how you will treat people while you hold them.",
+   "Write what you will say about staying alert and evolving."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to build before driving change?",
+   "choices": [
+    "Trust, credibility and relationships",
+    "A new brand",
+    "A new office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say can coexist?",
+   "choices": [
+    "Caring about individuals and high standards",
+    "Fear and loyalty",
+    "Speed and sleep"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to direct your communication to?",
+   "choices": [
+    "The individual: how they fit and grow",
+    "The press",
+    "The board"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Earn trust before you ask for change. Speak to each person's needs. Care and standards can coexist.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a7-3",
+ "title": "You create your environment",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you don't like the result, what in the oven would you change?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Product of your environment",
+   "lines": [
+    {
+     "text": "Jose said there is a bit of truth that you are the product of your environment, but you are also in control of creating that environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student agreed and gave an image. If you bake cookies at four hundred fifty degrees for an hour you get hockey pucks. Change the exposure, twelve minutes at three twenty-five, and you get perfect cookies. The cookie is the product, the oven the environment, the time and heat the exposure.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Change even a minute detail and you get a completely different product, the student said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Shared values",
+   "lines": [
+    {
+     "text": "Jose asked: who is the positive force in your life, and who is the negative one? A student said they now had a new purpose, a child, and were preparing to provide a safety net.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As we get older we develop deep relationships, he said. Every one of my friends has one common denominator: we were dedicated parents, not by paying for the best schools, but by the amount of time and the deep relationships we built with our children.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I know I'm going to have a successful business relationship when we see eye to eye on parenting, he said. When I haven't, it has been a disaster. The two don't have to correlate, but in my experience, people who aren't good parents are a warning sign for me.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it comes down to core values: the personal mission statement has core values in it, and building a business is almost the same archetype as raising a child. You start when it's nothing and groom it into what it will be. It's an alignment of core values.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Time to do nothing",
+   "lines": [
+    {
+     "text": "A student shared what a mentor once told them: creatives need time to do nothing in order to be creative. Not a full vacation, but time to let the juices flow. Sometimes a little boredom helps you find what inspires you next.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: it's all a balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you change about your oven?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the environment that shaped you.",
+   "Write what in it you would change: heat, time, people.",
+   "Write your core values in three words.",
+   "Write how your values show up at home and at work.",
+   "Write when you last had time to do nothing, and when you will next."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about environment?",
+   "choices": [
+    "You are a product of it, but you are in control of creating it",
+    "It cannot be changed",
+    "It does not matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "In the student's cookie image, what is the environment?",
+   "choices": [
+    "The oven",
+    "The cookie",
+    "The recipe"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student's mentor say creatives need?",
+   "choices": [
+    "Time to do nothing",
+    "More meetings",
+    "A bigger team"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "You can build your environment. Align your values. Leave room for nothing.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a4-3",
+ "title": "Leverage and systems",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you have that another company wants, without it costing them anything?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Leverage number one",
+   "lines": [
+    {
+     "text": "A student said that when they had very limited resources, the people in the book got creative. One example was a deal with a company that held a map database: they licensed it for free until they started making a profit. It let them start building without capital.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: which is a great lesson, leverage number one. People don't understand the resources they have, and having a strategy and going to a company with a way for them to grow through what you are doing. It's differentiating yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You open a market for another company that they didn't see. There is no loss for them, no risk, only upside, he said. It gives you an amazing amount of leverage. A student said: super hard to say no to.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Intellect first",
+   "lines": [
+    {
+     "text": "People can get greedy and stupid, Jose said. We go with the intellect first, and we don't let ego get in the way of the growth of a company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "His own example: with a landscape company doing a million a year, he asks: would you be interested in adding another million to your bottom line per year? I'm not going to change what you are already doing. And I've got a manual of operations that will help in your own business as well.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He had capitalized on an asset he didn't have: a company with eight thousand clients who have lakes and ponds. The next challenge is operations, he said: getting people to do something they have never done before.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What do you put in place?",
+   "lines": [
+    {
+     "text": "A student said: motivation and education. Jose said: think about changing the behaviour of people who have done the same thing for thirty-five years. Sometimes you have to bring in a new operator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you put in place to change it? the student said: the system. Jose said: yes, it's the operation manual, the standard operating procedures and the metrics. The person in the book is learning to put those systems in place right now, at an early age.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What can you offer someone with no risk to them, and what system would make it run?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you have that you may not see as a resource.",
+   "Write a company that could grow through what you do.",
+   "Write the offer with no downside and no risk for them.",
+   "Write what you are asking them to do that they have never done before.",
+   "Write the system you would put in place: manual, procedures, metrics."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call the lesson from the free map-database deal?",
+   "choices": [
+    "Leverage number one",
+    "Luck",
+    "A shortcut"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say makes an offer hard to refuse?",
+   "choices": [
+    "No loss, no risk, only upside",
+    "A low price",
+    "A long contract"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you put in place to change an organization?",
+   "choices": [
+    "The system: manual, procedures and metrics",
+    "A new logo",
+    "A party"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Offer upside with no risk. Put the system in place that makes it run.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

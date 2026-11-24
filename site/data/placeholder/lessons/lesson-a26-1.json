@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-a26-1",
+ "title": "Start with the mission",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the first thing you talk about with your team each day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Start with the mission",
+   "lines": [
+    {
+     "text": "Jose said that he loves that the person's assistant says they never avoided the Mars-colonizing conversation: it got him in a good mood to talk about the mission. As a leader, he said, every day you should start with your mission.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Revisit the mission: why we are all here. Often in companies we fail to do that, and three, four, six months down the road we deviate from the mission or forget it. This is a good reminder to start the conversation with: what's our mission?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Mission and plan",
+   "lines": [
+    {
+     "text": "Jose said the person combined, as he often did, an aspirational mission with a practical business plan. He said he doesn't think the person came up with the idea of the satellite internet business right away. He came up with colonizing Mars, and along the way found that he was sending payloads into orbit and could turn it into an internet provider.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It goes with what we were talking about yesterday, he said: sometimes on a business you pick up things along the way that keep giving you momentum toward your mission. They are like gifts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your mission, and when did you last say it to your team?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your mission in one sentence.",
+   "Write when you last said it to your team.",
+   "Write how you will start each day with it.",
+   "Write the practical plan under the mission.",
+   "Write one gift you found on the way."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a leader should do every day?",
+   "choices": [
+    "Start with the mission",
+    "Start with the numbers",
+    "Start with email"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say often happens in companies?",
+   "choices": [
+    "They forget or deviate from the mission after a few months",
+    "They keep the mission",
+    "They change the name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the person combined?",
+   "choices": [
+    "An aspirational mission with a practical business plan",
+    "Two companies",
+    "Two names"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start each day with the mission. Pair it with a practical plan.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-c2-5",
+ "title": "Change language and the cue",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How will you know whether a conversation changed anything?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Change language",
+   "lines": [
+    {
+     "text": "Jose asked how you know whether someone will change. He described sustain language, which is noncommittal, such as I am not sure I can do that, and change language, which is committal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a leader can attach change language to a cue, such as the morning coffee: I am determined to prioritize and to delegate. I will do it. I am capable of doing it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Cues you place",
+   "lines": [
+    {
+     "text": "A student said: I put everything in my calendar, so I would add something enjoyable in the morning to remind me to be intentional about the goal. Another said: write on the mirror, but move it, because after a while it goes passive. Erase it and rewrite it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he likes words on the walls and affirmations, and that people laugh at them, but he believes they can be triggers. He said to use a lot of little to-do lists.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: say it in the present tense, because the brain does not comprehend future, so describe it as a characteristic you have now. This is the student's claim and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The leader becomes the cue",
+   "lines": [
+    {
+     "text": "A student said: an intention statement is like a standard operating procedure: if this, then that, a domino effect. The more you stack, the more you are in control, and long term it becomes automatic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that with repetition you are becoming the cue, you are becoming the trigger. He said that understanding somebody else's cues, triggers and habits is very powerful, because you can attach positive, mission-oriented thought patterns and shared goals to them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said that the awareness is the point: if the reminder is always there you stop seeing it, so move it and change it at least once a week.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What cue could you attach your own change language to?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a sentence you say that sustains the old way.",
+   "Write the same thought as a committed, change sentence.",
+   "Write the cue you will attach it to.",
+   "Write where you will place a reminder and when you will refresh it.",
+   "Write how you will become the cue for someone else."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call noncommittal language?",
+   "choices": [
+    "Sustain language",
+    "Change language",
+    "Plain language"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to do with a mirror reminder?",
+   "choices": [
+    "Move and rewrite it",
+    "Leave it forever",
+    "Cover it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say repetition makes you?",
+   "choices": [
+    "The cue",
+    "The boss",
+    "The customer"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Use change language. Attach it to a cue. Refresh your reminders.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d4-4",
+ "title": "From what you do to who you are",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you known for what you do, or for who you are?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "From what to who",
+   "lines": [
+    {
+     "text": "Jose said that the famous chef is more famous for who he is than for what he does, and that people picturing the restaurants do not picture him cooking, but an abstraction of the best restaurant because of who is behind it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked: do people get there from excellence in their craft, or from something else? Jose said it is like a relay race: you do something with excellence, then what you do takes a back seat and it becomes who you are. You cannot become somebody without credibility and results.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Reputation travels",
+   "lines": [
+    {
+     "text": "A student said: there are better chefs in the world that no one knows about. So it is not that he is the best, but he is very good, and he amplified it, consulting and being televised, then opening restaurants on the back of his reputation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that people lend out their name and get paid a great deal, because millions of people see a symbol of success. He said that is the power of image, voice, branding and messaging.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when someone calls and says I heard you are the person to call for this problem, his branding is filtering the people who come to him. Anyone who is a fan of a specialist has been filtered.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you want to be known for after your results speak?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you are known for now.",
+   "Write what you would like to be known for.",
+   "Write the results that prove it.",
+   "Write who is filtered to you by your brand.",
+   "Write what you will amplify first."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose compare it to?",
+   "choices": [
+    "A relay race",
+    "A boat",
+    "A bridge"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you cannot do without credibility and results?",
+   "choices": [
+    "Become somebody",
+    "Make friends",
+    "Sleep"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a brand does with the people who come to you?",
+   "choices": [
+    "Filters them",
+    "Blocks them",
+    "Hides them"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Excellence first, then identity. Let your brand filter your people.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

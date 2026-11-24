@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a22-3",
+ "title": "Know your triggers",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the tiny ember in you that someone could throw a match on?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What triggers us",
+   "lines": [
+    {
+     "text": "Jose said: when we go through anxiety, and hopefully none of us go to that level, we need to recognize the things that trigger us. I know people for whom one little tiny thing sets off something. What this call is about today is: what triggers us, and how do we stop it? It is not necessarily coming from us. It is coming from something else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is unresolved trauma with the family, seeking approval. It is not a real-time problem. It keeps getting worse each time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said another entrepreneur, who had a demanding father, said: I did not dwell on the past. That is a very big statement, because the past will come into your present. But he had the ability to stop himself from thinking about traumatic pasts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The embers",
+   "lines": [
+    {
+     "text": "The big lesson I got from this chapter is: you cannot let those triggers in. Maybe you have personal limitations that are like little tiny embers in the fire. Somebody comes by and throws a match in, and all of a sudden it goes into flames.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So the lesson is: be aware of your triggers. Know what makes you vulnerable. He said we are not necessarily going to fix it or take it out of who we are, but if we are aware, we can say: wait, I shouldn't let that person get to me. This is not coming from him. This is coming from something internal that I have, from a traumatic event in my past.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Don't let trivial things penetrate the veil of your personal life, he said. We have to develop strategies so we are aware of our limitations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is one of your triggers, and what do you say to yourself when it fires?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one thing that sets you off.",
+   "Write when it first happened, if you know.",
+   "Write what you say to yourself when it fires.",
+   "Write one person who can remind you it isn't about you.",
+   "Write who you could talk to if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say today's call is about?",
+   "choices": [
+    "What triggers us and how do we stop it",
+    "What to sell",
+    "Where to invest"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What image did Jose use for personal limitations?",
+   "choices": [
+    "Little tiny embers in a fire",
+    "A mountain",
+    "A river"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about fixing triggers?",
+   "choices": [
+    "We may not fix them, but we can be aware of them",
+    "We can erase them",
+    "They don't matter"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your triggers. Be aware, even if you can't remove them. Get help if it is heavy.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

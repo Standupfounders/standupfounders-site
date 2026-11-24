@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a21-4",
+ "title": "Trust your gut, check the habits",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you needed someone badly, did you ignore a feeling about them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Listen to your gut",
+   "lines": [
+    {
+     "text": "A student said: the topic is so key. You need to be able to listen to your gut. Sometimes we approach things out of need: we haven't found an engineer for six months and this is the only guy I'm interviewing. But you know that person is not fit for your team.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "You already understand how your people perform and what environment they feel comfortable in, the student said. When you bring in a disruption, it leads to a worse case for you to deal with. Don't skip the gut feeling because you are stressed about getting someone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The resume against the person",
+   "lines": [
+    {
+     "text": "Jose asked another student, with long corporate experience: how important is this profiling of character against the resume and the formal things? What percentage would you give?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said: very, very important, and crucial. It is not just the interview of what they have on paper. Sometimes you go a little out of the context of what the person is hired for. You develop those skills with time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said: someone who is perceptive, who listens carefully to your questions, matters. Some people try to start a conflict with you from the moment you talk to them, or take over the interview.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student added that each of us can identify someone who will bring value to the team and someone who will not. It is like a sixth sense you build.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Habits and shared time",
+   "lines": [
+    {
+     "text": "Jose said he has learned a lot from living with people he works with. Are they organized or disorganized? The daily habits tell you a lot about somebody.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is why companies do team-building events and obstacle courses, he said. What you can learn about somebody in a week outside the office is massive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What does your gut say about the person you are about to bring in?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last time you ignored your gut because you needed someone.",
+   "Write what it cost.",
+   "Write how much weight you give a resume against the person.",
+   "Write what you would look for in a week of shared time.",
+   "Write the habit that would tell you most."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say not to skip because you are stressed?",
+   "choices": [
+    "Your gut feeling",
+    "The interview",
+    "The resume"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say tells you a lot about somebody?",
+   "choices": [
+    "Their daily habits",
+    "Their age",
+    "Their name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say team-building events show?",
+   "choices": [
+    "What you can learn about somebody outside the office",
+    "Who is fastest",
+    "Who is oldest"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Listen to your gut, and check the habits. Don't hire out of need alone.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

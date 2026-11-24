@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-a11-2",
+ "title": "Dealing with the government",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you had to deal with the government, where would you start?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Know the rules",
+   "lines": [
+    {
+     "text": "Jose set an exercise: you have to deal with the government and there is no way out. What would be your approach? A student said: dive into what regulations apply directly to our business activities, and learn them to the letter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then find out who manages those regulations and how far their reach extends, and minimize your exposure. Find points of contact who seem genuinely interested in innovation, rather than career boosters who will last ten years.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "When they are against you",
+   "lines": [
+    {
+     "text": "Jose asked: what if you don't find those people, and you run into the antagonistic one who puts as much red tape in your business as possible? A student said: use media. Get public consensus first, and get public interest stirred up on the topic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said to be careful. You don't want to fight them right away. You don't want to threaten them. He called the grassroots-support formula one that he has seen work time and time again.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added: if you come in with a positive media impression ahead of time, it's easier to spread something negative afterwards. You are likely to make a friend out of strategic benefit to them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Talking points and allies",
+   "lines": [
+    {
+     "text": "When I lobby governments, Jose said, the first thing I do is round up my public relations manager, whom I have worked with for twenty-two years. We sit down and brainstorm: what is our position? We set talking points, the concepts we want to push.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then we look at the landscape. Who could be on our side first, and who do we maybe need to get last because they could be more resistant? If a nonprofit environmental agency has a lot of political power, we may go to it before the government environmental institution.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you want to build allies and establish a sphere of influence. Jose said: that's the way to do it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who would be your first ally, and who would you leave until last?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the regulations that apply to you, in plain words.",
+   "Write who manages each and how to reach them.",
+   "Write the public story that supports what you do.",
+   "Write your talking points, three lines.",
+   "Write the order in which you would approach allies."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to do first about regulations?",
+   "choices": [
+    "Learn them to the letter",
+    "Ignore them",
+    "Hire a lobbyist"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say not to do with an antagonistic official?",
+   "choices": [
+    "Fight or threaten them right away",
+    "Research them",
+    "Be polite"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to decide about allies?",
+   "choices": [
+    "Who to get first and who to get last",
+    "Who to ignore",
+    "Who to pay"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Learn the rules, build public support, choose your allies in order.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

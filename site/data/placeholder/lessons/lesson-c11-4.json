@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c11-4",
+ "title": "The voice and its questions",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does the voice in your head ask you all day?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The inner voice",
+   "lines": [
+    {
+     "text": "A student said: I read about naming your inner voice. When it says I am nervous or I am not good at this, you say, using its name: stop it, I am good at this and I am going to nail it. By naming it and calling it out, it helps change your identity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that in sports you have to talk to that voice and drown it out, and make sure it goes in the direction you want, because it asks us questions all day long.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said we ask the wrong questions, such as why am I overweight, and get the wrong answers. Ask instead: what am I going to do to change this? For example, I am going to get up every day at five and commit to it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Speed is not mastery",
+   "lines": [
+    {
+     "text": "Jose said that as parents we have a responsibility to talk with our children about their culture and how to counteract its tendencies. He said that young children can confuse the speed of information for the mastery of information, such as reading short clips about entrepreneurship on social media.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that the voice will lead us to the habit: a negative voice we ignore leads to a bad habit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What question will you ask yourself tomorrow morning instead of the old one?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the question your inner voice asks most.",
+   "Write a better question.",
+   "Write a name for the voice if you like.",
+   "Write the sentence you will answer it with.",
+   "Write how you will talk with children about speed and mastery."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about naming your inner voice?",
+   "choices": [
+    "It helps change your identity",
+    "It makes it louder",
+    "It stops thoughts"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say we ask the wrong of?",
+   "choices": [
+    "Questions",
+    "Friends",
+    "Tools"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say children can confuse?",
+   "choices": [
+    "Speed of information for mastery",
+    "Day for night",
+    "Money for time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Name your voice. Ask better questions. Speed is not mastery.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a20-1",
+ "title": "Study your energy",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are the first ten things you do when you wake up?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Practice the five points",
+   "lines": [
+    {
+     "text": "Jose said that in the last two or three pages of the chapter the book gives five points, and he wanted to practice them on the call. He asked students: what are the first ten things you do when you wake up?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: I go through my to-do list in bed, take a cold shower, get ready, make breakfast, and read while I make it. Then I join the stand-up call and my day starts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Study your energy",
+   "lines": [
+    {
+     "text": "Jose said the further you get into your day, the more critical the steps become, because they involve people and your focus. Studying your energy level is very important.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I don't do business calls after three in the afternoon, he said, because my energy is already going down. I get up at four every morning. If I have very important meetings, I line them up the day before for the peak of my energy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said what happens after lunch is a bit more brain fog. Jose said: if you are in a negotiation, you must be careful. Maybe push your lunch to two o'clock and do a little fasting so your energy doesn't drop.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The ups and the troughs will influence your decision-making, and somebody else's too, he said. He said sports agents negotiate for six, seven, eight hours and must be physically fit, hydrating like athletes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Too much of a good thing",
+   "lines": [
+    {
+     "text": "Jose said he loves coffee in the morning but you can go overboard. Once in a while do a cleanse, because after a while you get tolerant, and caffeine can give you a lot of anxiety. If you already have anxiety about something and add caffeine, it can make you almost irrational. All of it is a balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When is your peak, and what is on your calendar then?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the first ten things you do when you wake up.",
+   "Write the hours when your energy peaks.",
+   "Write what is on your calendar in those hours.",
+   "Write what you would move.",
+   "Write what you do to avoid a drop after lunch."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to line up for your peak energy?",
+   "choices": [
+    "The most important calls and meetings",
+    "Your lunch",
+    "Your emails"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say happens after lunch?",
+   "choices": [
+    "More brain fog",
+    "More energy",
+    "Nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about caffeine?",
+   "choices": [
+    "You can go overboard; it is a balance",
+    "It has no effect",
+    "It is always good"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your energy cycle. Put important things at your peak.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

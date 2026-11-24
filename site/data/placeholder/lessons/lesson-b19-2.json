@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-b19-2",
+ "title": "Not knowing who somebody is is dangerous",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you really know the person you are about to do business with?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two management styles",
+   "lines": [
+    {
+     "text": "As Jose retells it, the author was never like the executives who spent on private dinners and million-dollar paintings. He was a man who counted discount stamps so he could reuse them. He is good at managing money, and he is watching irresponsibility with shareholders' money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the other chief executive has a totally different management style. He has little domains where he has created all these little kings in different divisions. He doesn't meddle with them very much. He compartmentalizes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "If I'm your best friend, who's your next friend?",
+   "lines": [
+    {
+     "text": "A student said they were confused: the other man kept saying the author was his best friend, and then said they never had dinner parties or did anything but business. Jose said: there are several things that are revealing. He was a cold, introverted person. He gave people big boundaries for access to him. He was a behind-the-scenes guy, a political mover inside his own company. What you see is not what you get.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The author tells you what he thinks, Jose said. The other doesn't tell you what he thinks. So Ted says: if I'm your best friend, who's your second best friend? Because he realizes the man doesn't have any friends.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Not knowing who somebody is is dangerous",
+   "lines": [
+    {
+     "text": "The takeaway, Jose said, is that even though they had done business throughout the channel's life, the author really didn't know who the other man was.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "It goes to show us that not knowing who somebody is, and getting into business with somebody we don't really know, is dangerous. Smart people who are good with people get to know them not just in their professional life, doing deals, but also in their personal life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who do you do business with whom you know only professionally?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people you do business with.",
+   "Write what you know of their life outside of work.",
+   "Write who you know only professionally.",
+   "Write one thing you will do to know them better, before the next deal.",
+   "Write one warning sign you ignored in the past."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is dangerous?",
+   "choices": [
+    "Getting into business with somebody we don't really know",
+    "Working alone",
+    "Trusting a mentor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How did Jose say the two executives' styles differed?",
+   "choices": [
+    "One tells you what he thinks; the other doesn't",
+    "One is older",
+    "One is richer"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say smart people do?",
+   "choices": [
+    "Get to know people professionally and personally",
+    "Only read contracts",
+    "Avoid friendships"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know who you are doing business with, personally as well as professionally.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

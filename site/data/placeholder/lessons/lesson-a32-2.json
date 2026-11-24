@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a32-2",
+ "title": "Awareness and rewiring",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would you change in how you react, if you could rewire it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Start with awareness",
+   "lines": [
+    {
+     "text": "Jose said: it is a band-aid to say: trust people more. I am getting at something deeper, a limitation that is not going away. What is the practice for getting out of this? A student said: number one, it starts with awareness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student said: although you are aware, you can slip into autopilot where the emotion takes over and you act on the old patterns. But once you have the awareness, it is a kind of rewiring. If you go back to neuro-linguistic programming, it is possible to reassociate the experience with something else, or change your perspective on it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "There is a number of practices, the student said: positive self-talk or affirmations, visualization, meditations. The first thing is the awareness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The conscious and the subconscious",
+   "lines": [
+    {
+     "text": "Jose said: our subconscious is built from all the past traumas and relationships, good and bad, the sum of what has happened in our emotional life. It works in the here and now. It is just a feeling we get, triggered by things that happened in our past.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "To change the climate of your emotional landscape, you use the conscious mind, which is more of a plan: you can be strategic with it, develop a dialogue, use logic.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The ski track",
+   "lines": [
+    {
+     "text": "A student shared a metaphor from a podcast guest. When you are born, your subconscious is like a mountain with fresh snow. Every experience is a ski run that burns a track into it. A lot of people keep going down the same track over and over, carving it deeper, until it is hard to turn the skis.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "So you got into that pattern as a kid, the student said, and it feels comfortable even though it is painful. It is just the way the mind was wired by those experiences.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: in summary, you can stop the subconscious and say: I am going to choose new thoughts, believe in them, and have them drive my actions and give me the results and relationships I want.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added: put it in terms of logic, like a financial cost. It is not a sustainable strategy to berate people into doing things. If you can show that it is counterproductive, that can be the motivation to change. Jose said: I love that strategy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Which track would you turn out of first?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one reaction you want to change.",
+   "Write when you slip into autopilot.",
+   "Write the new thought you will choose.",
+   "Write the practice you will use: self-talk, visualization or meditation.",
+   "Write the cost of the old pattern in numbers a logical mind would accept."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say is the first thing in changing a pattern?",
+   "choices": [
+    "Awareness",
+    "Willpower",
+    "A new job"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What image did a student use for old patterns?",
+   "choices": [
+    "A ski track carved deeper each run",
+    "A river",
+    "A tree"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What strategy did Jose love?",
+   "choices": [
+    "Putting the cost of a harmful style in financial terms",
+    "Ignoring it",
+    "Blaming others"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start with awareness. Choose new thoughts. Show your logical mind what the old pattern costs.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

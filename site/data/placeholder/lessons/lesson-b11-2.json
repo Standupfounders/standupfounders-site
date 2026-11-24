@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b11-2",
+ "title": "Time management and priority management",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How many things are you trying to build at once?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Time management and priority management",
+   "lines": [
+    {
+     "text": "The level of organization he must have, Jose said, to have that amount of time to do all the things he is doing. He doesn't just randomly get up and say: I'm going to do this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "That is the singular most important factor in an entrepreneur's success or failure, I believe, he said: time management and priority management.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I know a lot of entrepreneurs who start their journey and try to do too many things, he said. They don't learn how to make one business totally successful and self-sustaining. If one business is running perfectly, and you know how to audit it and how the processes work, then you go to the next one. Your chances are much higher.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "He subsidizes the initiatives",
+   "lines": [
+    {
+     "text": "Not to mention you probably have to subsidize the new business, he said, because it will need money. If you are getting money from a successful business to subsidize another one, which is what the author does, he grabs a company, makes the income, sinks it into another company that is losing money, makes that one profitable, and goes to the next with that cash flow.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I see young entrepreneurs try to start ten businesses at once, he said. You can have ten businesses. The author has ten. But serial entrepreneurs have a formula for what the fundamentals of a successful business are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student described building something long-term and sustainable, so they don't have to keep going out for the next job. Jose said: you've developed a model of recurring revenue, so you don't have to worry about the next design job, like a gladiator slaying to pay the bills.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Now every month you get paid, he said. It takes care of your rent and your loans. Now you have flexibility to breathe, to look above, and ask: what should I do next? And you are careful about what you don't want to do. That is a big advantage. You are not tempted by the money so much as concerned with the discipline of saying no to things you don't want to do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would make one of your projects run without you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write every project you are running now.",
+   "Write which one you will make self-sustaining first.",
+   "Write what recurring revenue you could build.",
+   "Write what you will say no to.",
+   "Write the formula of the fundamentals you will copy into the next project."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the singular most important factor in an entrepreneur's success or failure?",
+   "choices": [
+    "Time management and priority management",
+    "Funding",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about starting ten businesses at once?",
+   "choices": [
+    "Young entrepreneurs do it, and don't make one self-sustaining",
+    "It is the best plan",
+    "It is required"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say recurring revenue gives you?",
+   "choices": [
+    "Flexibility to breathe and decide what to do next",
+    "More customers",
+    "A larger office"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make one business self-sustaining before the next, and protect your time and priorities.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

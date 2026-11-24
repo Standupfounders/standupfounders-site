@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a4-1",
+ "title": "Fake it, with an ethical line",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where is the line between believing in what you have not built yet, and lying?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A fine line",
+   "lines": [
+    {
+     "text": "A student said one thing they took from the chapter was a computer hidden in a larger casing, so it looked bigger than it was. They said there is a fine line with fake it till you make it, and it should not be at the expense of someone else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: you are not pretending you can do something you can't, and wasting people's money. That would be over-promising and under-delivering. Here the computer had the same power and functionality, but people thought a bigger one was better.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said there is a massive lesson in that. Every major founder we have read about, or will read about, faked it till they made it. But there is an ethical line you cannot cross.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So where is that line, he asked, where you visualize, and have the intention, and believe in something you haven't done yet? That's the lesson.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "An exercise",
+   "lines": [
+    {
+     "text": "He said he loves an exercise with entrepreneurs. Spend the entire day, amongst ourselves and not outside the circle, lying about who you are and what you do. You are a famous doctor, a famous writer. It has to be the dream.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People ask: what have you published? Ten novels, you say, and you describe the novels. It gives you the flexibility to imagine exactly who you want to be and what you want to do. It's an incredibly liberating exercise, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There is a thin line between imagination and reality, Jose said, and entrepreneurs deal with that line all the time, pushing the boundaries of what people call reality. For the first time the person in the book sees visualization become real.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the dream version of you, said out loud, with no lie at anyone's expense?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who you want to be, in the present tense, as if it were already true.",
+   "Write what you would have done by now, in detail.",
+   "Write where the line is between that and lying to someone.",
+   "Write one thing that would hurt someone if you over-promised it.",
+   "Write what you would need to build so the picture becomes true."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say fake it till you make it should not be?",
+   "choices": [
+    "At the expense of someone else",
+    "Done at all",
+    "Fast"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you cannot cross?",
+   "choices": [
+    "An ethical line",
+    "A river",
+    "A deadline"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the line between imagination and reality?",
+   "choices": [
+    "It is thin, and entrepreneurs deal with it all the time",
+    "It is thick",
+    "It does not exist"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Visualize who you want to be. Never at someone else's expense.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

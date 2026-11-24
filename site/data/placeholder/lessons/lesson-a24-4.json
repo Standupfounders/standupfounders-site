@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a24-4",
+ "title": "Be a good guest",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you are a guest in someone else's world, how do you show you are glad to be there?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Humble, and open to the offer",
+   "lines": [
+    {
+     "text": "A student said: while I was in different countries, the ability to be humble and to embrace the culture mattered. Don't be afraid if they offer you food or guidance. Some people may open the doors of their own family. Go along with it, because it is a way for them to show you've been accepted.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student added: the moment you do the wrong thing, those doors shut immediately. Keep those friendships open. Sometimes you don't need them right away, but in ten or fifteen years you may. Make a good impression, leave those doors open.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Listen, then give",
+   "lines": [
+    {
+     "text": "Jose said: you could take a wrong turn, so it is about not taking risk in those relationships at the beginning. You have to become a good listener. And you also have to ask: what can I bring to this person? How can I be a giving person?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Being sensitive to people's needs, he said, whether it is business or not, only opens doors. I think a lot of big problems between governments come from a lack of sensitivity and from not stopping to listen to other people's concerns, especially in hostile situations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Your demeanour, the way you carry yourself, the heightened awareness and listening: these are a big skill set when you go international, he said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that if you are a business that is growing and want to go to different countries, you are going to be on a hundred and fifty mile an hour learning curve on how to deal with different countries, governments and people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do differently in the first hour you meet someone from another place?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you would show humility in a place you don't know.",
+   "Write what you would accept if you were offered it.",
+   "Write what you could bring to the people you meet.",
+   "Write what you would listen for first.",
+   "Write which door you would keep open for ten years."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to do when offered food or guidance?",
+   "choices": [
+    "Go along with it; it shows you've been accepted",
+    "Refuse politely",
+    "Ask for the price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have to become, at the start?",
+   "choices": [
+    "A good listener",
+    "A good talker",
+    "A good negotiator"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say only opens doors?",
+   "choices": [
+    "Sensitivity to people's needs",
+    "Pushing harder",
+    "Speed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be humble, listen first, and give. Keep the doors open for years.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

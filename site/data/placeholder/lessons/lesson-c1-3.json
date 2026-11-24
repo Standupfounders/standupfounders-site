@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-c1-3",
+ "title": "Triggers in your surroundings",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does your surroundings say about your habits?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Read the environment",
+   "lines": [
+    {
+     "text": "Jose said that the first thing he does when he gets into a car is check how clean it is, because it is a direct reflection of habits. If you were about to invest ten million, would you give it to someone whose car is full of empty bottles and old clothes?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he looks at a person's house: the structure, the objects, the books, even the dishes and the food. A student said: it is a direct reflection of their current mental state.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said the overall system in the book is not just business, but everything you do. Your physical surroundings and objects reflect your internal consciousness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Triggers and anchors",
+   "lines": [
+    {
+     "text": "He said the rituals we have each day are symbolic and have habit-forming power: a pick and shovel is a symbol of hard work; a coffee mug is a symbol of the morning pep.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that anchors are things that happened in the past, positive or negative, emotional events, and things around us can trigger those memories. A negative anchor might be junk food in the morning that comes from childhood.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: sometimes you need an external indicator that something needs to change, because if it is a subconscious behavior you may not know you are doing it until it is brought to your attention.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose gave the example of coming home to the same couch, with a beer and the television, so that seeing the couch triggers the thought pattern. When you travel you are removed from those triggers, so you have more flexibility to change habits.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Triggers you build",
+   "lines": [
+    {
+     "text": "Jose asked a student for positive triggers in the morning. The student named the coffee machine, a sunrise run and the dog's leash, and said what each stands for.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that he purposely creates triggers: motivational words on the wall, a collage of memories with his children, books. He wants every little thing to light a flame. He said leaders of a team want to create those triggers too, whether a word, an image or a physical object.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What object in your room triggers the habit you want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what your car or desk says about your habits.",
+   "Write three objects in your home that trigger something and what.",
+   "Write one negative trigger and what you could change.",
+   "Write one positive trigger you will place where you will see it.",
+   "Write what object a leader on your team could use."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a clean or messy car is a reflection of?",
+   "choices": [
+    "Habits",
+    "Luck",
+    "Age"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens when you travel?",
+   "choices": [
+    "You are removed from your usual triggers",
+    "You gain more triggers",
+    "Nothing changes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about how he sets up his space?",
+   "choices": [
+    "He purposely creates triggers",
+    "He keeps it empty",
+    "He hides everything"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read your surroundings. Remove bad triggers. Place good ones.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

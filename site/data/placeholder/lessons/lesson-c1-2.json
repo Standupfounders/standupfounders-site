@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c1-2",
+ "title": "Courage and who you become",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who do you want to become, and what does that person do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Courage first",
+   "lines": [
+    {
+     "text": "Jose said that the first thing that came to his mind about the first chapter is that you need courage to change or to establish habits. You have to have courage in your own belief that with what you know, you can create the life you want.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that if you have a series of bad habits, you need a belief system that says: I can change anything for the better. You need the courage of self-belief.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Identity shapes behavior",
+   "lines": [
+    {
+     "text": "A student said: identity shapes behavior. When you think about who you want to become, you attribute behaviors to that person: what they eat, how they dress, how they act. It is easier to start than listing what that person does not do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "The student said: once you start identifying with the behavior, you get that emotional connection.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Defining moments",
+   "lines": [
+    {
+     "text": "Jose said: go back through your life. The moments you recall with crystal clarity, even if they happened once, define you, probably because a strong emotion was attached. Do an inventory: five defining positive moments, and five negative ones that still affect you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to grab the positive ones and create mantras around them. He called it a little hippy, but said it is serious stuff.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that a lot of our habits come from negative belief systems. He compared it to a seed: all of a sudden you find a weed, a negative anchor, such as hearing someone criticize you. Awareness of that is very important.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are five moments that made you feel your best, and what habit grew from each?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one habit you want to change.",
+   "Write the belief you will need to change it.",
+   "Write who the new you is, in three behaviors.",
+   "Write five positive defining moments.",
+   "Write what you will do with the negative ones: a trusted person or a professional."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you need first to change habits?",
+   "choices": [
+    "Courage",
+    "Money",
+    "Time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say identity shapes?",
+   "choices": [
+    "Behavior",
+    "Weather",
+    "Prices"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do with positive defining moments?",
+   "choices": [
+    "Create mantras around them",
+    "Forget them",
+    "Sell them"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Start with courage. Build from who you want to become. Mine your defining moments.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

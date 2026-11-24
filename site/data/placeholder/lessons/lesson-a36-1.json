@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a36-1",
+ "title": "A mentor for the right reasons",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Does the person you look up to want you to grow, or to help them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What does the visitor want?",
+   "lines": [
+    {
+     "text": "Jose said that in this chapter a very rich man with a large philanthropic foundation meets the person in the book. What is his interest in meeting him? A student said: he wants him to get involved in his philanthropy. Jose said: money, I think.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: these are two people who have both been very successful, and there was a lot of criticism during the visit. Jose said: you can see he is just there for the money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Choosing a mentor",
+   "lines": [
+    {
+     "text": "This is one thing to pay attention to as an entrepreneur choosing a mentor, Jose said. A mentor who is twenty-five years older should be encouraging, giving, helping you discover new ways to do things and passing on the torch of a great legacy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you pick a mentor, he said, make sure their values are there, and that they are mentors for the right reasons.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Do you have a mentor who is in it to feed his ego, or one who cares about a larger mission?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Look at where the money comes from",
+   "lines": [
+    {
+     "text": "When someone is obsessed, academically and intellectually, with a mission-driven cause, Jose said, that is one thing. I have been in foundations, and I won't mention names, where I thought: what a beautiful mission, with scientists and smart people. But they were funded by companies that are destroying the world behind the scenes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "They sometimes use the foundation as a public relations move to put out the fires from the environmental damage they do. So you have to be careful, he said. Don't just take it at face value, and see where the money is coming from.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you know about where your mentor's mission is funded from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the people you look up to.",
+   "Write why each helps you.",
+   "Write what each gets from helping you.",
+   "Write one value you want a mentor to hold.",
+   "Write where the money behind a cause you support comes from."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a mentor should do for a younger person?",
+   "choices": [
+    "Encourage, give, and pass on the torch",
+    "Ask for money",
+    "Compete with them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to make sure of when you pick a mentor?",
+   "choices": [
+    "Their values are there and their reasons are right",
+    "They are famous",
+    "They are rich"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to look at about a foundation?",
+   "choices": [
+    "Where the money comes from",
+    "The size of the office",
+    "The name"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pick mentors for their values and their reasons. Follow the money behind a cause.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

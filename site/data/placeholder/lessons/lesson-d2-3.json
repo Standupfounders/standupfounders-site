@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-d2-3",
+ "title": "Winning trust back",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you win back someone who has lost trust in you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The question",
+   "lines": [
+    {
+     "text": "A student asked: how can you build trust with someone, such as a client, who has had something bad happen and now has their guard up?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: go backwards and lay everything out: the progression, the intent you had, what derailed it and why you did not get a result. The best thing is to write a letter with full transparency in the process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Integrity and results",
+   "lines": [
+    {
+     "text": "Jose said that you cannot have people question your integrity. You can have intent and integrity, but people misread the integrity when you do not get the results and you miscommunicated the process, so they say you are dishonest.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that it happens to the best of us, that intent does not always go as planned, and that what matters is communication and transparency.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would your transparent letter say?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. This is not legal advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a relationship where trust was lost.",
+   "Write the progression of what happened.",
+   "Write your intent at each step.",
+   "Write what derailed it.",
+   "Write the letter, then decide whether to send it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the best thing to do?",
+   "choices": [
+    "Write a letter with full transparency",
+    "Ignore it",
+    "Blame someone"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say people misread?",
+   "choices": [
+    "Integrity, when results do not arrive",
+    "The price",
+    "The date"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you cannot have?",
+   "choices": [
+    "People questioning your integrity",
+    "Friends",
+    "Clients"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Go backwards. Lay it out. Be transparent.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

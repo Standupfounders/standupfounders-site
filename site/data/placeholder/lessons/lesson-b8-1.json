@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "id": "lesson-b8-1",
+ "title": "While others wait",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you listen to every opinion, or only to the ones with facts behind them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "While others wait",
+   "lines": [
+    {
+     "text": "Jose reminded the group that this call was for people who had made a commitment to study and learn to become better entrepreneurs. It requires commitment, he said, as I am committed to extracting as much meaning as possible from what we read.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He pointed to a statement the author read at the launch of his news channel, near the end of the chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "to act upon one's convictions, while others wait to create a positive force in a world where cynics abound.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "I think it is the essence of who he is, Jose said. While others wait, that is a key thing. He waited for nobody. Nothing anybody said would deter him from his own convictions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Possibility thinking and impossibility thinking",
+   "lines": [
+    {
+     "text": "Part of being an entrepreneur, he said, is listening to people, but not to the ones who offer negativity with no facts behind it, just cynicism. We live in a world where everybody says: oh, no, you can't do this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Time and time again he says: why not? Jose called that possibility thinking. Impossibility thinking is: oh, no, I can't do this, that's not possible. You shut all the doors down before you explore logically whether it can be done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He addresses everybody in the statement, Jose said: the American people, the cable industry, his employees. His leadership is inclusive. A student said it is like calling his baseball team America's team: it makes it everybody's.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said he has the ability to include people in his mission. It is a great leadership trait. His ability to build a team is part of his success.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Whose doubts are facts, and whose are just cynicism?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one doubt you hear about your plan.",
+   "Write whether it has facts behind it, or is just cynicism.",
+   "Rewrite it as a possibility question: why not?",
+   "Write who you include in your mission, and how.",
+   "Write one door you shut before you explored it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call 'why not?' thinking?",
+   "choices": [
+    "Possibility thinking",
+    "Impossibility thinking",
+    "Short-term thinking"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of negativity did Jose say not to listen to?",
+   "choices": [
+    "The kind with no facts behind it, just cynicism",
+    "All advice",
+    "Any question"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the author's statement and the people he addressed?",
+   "choices": [
+    "His leadership is inclusive",
+    "He addressed only investors",
+    "He addressed no one"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Listen to facts, not cynicism. Ask why not.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

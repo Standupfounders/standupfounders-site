@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "id": "lesson-c10-1",
+ "title": "Commitment devices",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What choice could you make today that controls what you do tomorrow?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Making bad habits hard",
+   "lines": [
+    {
+     "text": "Jose said that the chapter starts: sometimes success is less about making good habits easy and more about making bad habits hard. He read the book's definition of a commitment device: a choice you make in the present that controls your actions in the future. It lets you use good intentions before you fall victim to the temptation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The examples",
+   "lines": [
+    {
+     "text": "Jose retold a story from the book about a writer who left himself with no suitable clothes to go outdoors, so he had to stay in his study until the novel was finished. He asked whether anyone had done something like this, a ritual or a mantra, such as I will not go to any parties until I finish.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: we sometimes call it a penance. Jose said that organized religions are built around rituals for thoughts and habits. This is a general remark.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose described the book's story of a shop owner who found that staff were taking cash. He changed the environment to stop the behavior, with a cash register. It was an environmental change.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a habit you want to stop.",
+   "Write a choice you could make now that makes it harder tomorrow.",
+   "Write a ritual or promise you could attach to your goal.",
+   "Write who you will tell.",
+   "Write what you will remove from your environment."
+  ]
+ },
+ "check": [
+  {
+   "q": "What is a commitment device, according to the book as Jose read it?",
+   "choices": [
+    "A choice now that controls your actions later",
+    "A tool for tracking time",
+    "A reward"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say success is sometimes less about?",
+   "choices": [
+    "Making good habits easy",
+    "Making bad habits hard",
+    "Making money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What changed in the shop owner's story?",
+   "choices": [
+    "The environment",
+    "The prices",
+    "The staff names"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make bad habits hard. Choose now what controls you later.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

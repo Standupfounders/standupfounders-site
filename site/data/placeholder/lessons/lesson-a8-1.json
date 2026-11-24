@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a8-1",
+ "title": "Calculated risk",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you take risks, or do you calculate them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "All in, or calculated?",
+   "lines": [
+    {
+     "text": "A student said the person in the book does not value money. He would sleep under an overpass to be in a space where he puts all his money on the line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he realizes he needs money, but he doesn't let money be a distraction to the mission. He understands it is a consequence of the mission.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Let's pay attention to the evidence of how he mitigates risk, Jose said. It comes across as: I'll risk everything, like the poker game where he kept doubling until he won and then walked away with the money. But I think he is very calculated in his risk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The idiot index",
+   "lines": [
+    {
+     "text": "A student found the evidence: how he thinks about cost against the overall cost of everything. Jose read the passage from the book.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "which calculated how much more costly a finished product was than the cost of the basic materials.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "So he is mitigating risk, Jose said. He is not just going and buying a rocket that is overpriced. He asks what the components are, and what the carbon fibre, the metal and the fuel cost. I'm not going to believe anything at face value.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said another lesson: after his risk assessment and the cost of everything, he concluded they could do it themselves. They just needed the information, the data and the qualified people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is the real cost of the thing you buy or sell?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the price of something you buy often.",
+   "Write what its basic parts cost.",
+   "Write the gap between them, as a multiple.",
+   "Write the risk you take that is calculated and the risk that is only nerve.",
+   "Write what you could build yourself if you gathered the data and the people."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about how the person treats money?",
+   "choices": [
+    "It is a consequence of the mission, not a distraction",
+    "It is the mission",
+    "It does not matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the person's risk?",
+   "choices": [
+    "It is very calculated",
+    "It is reckless",
+    "There is none"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does the idiot index compare?",
+   "choices": [
+    "The cost of a finished product to the cost of its basic materials",
+    "Two companies",
+    "Two salaries"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Calculate the risk. Know the cost of the basic materials.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

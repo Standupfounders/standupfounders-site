@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-a46-2",
+ "title": "Argue the other side",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When did you last argue the other side on purpose?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Argue the other side",
+   "lines": [
+    {
+     "text": "Jose said: I am going to play devil's advocate, just for the sake of debate. Show me a medium that has had no limits ever in the history of the world. It is all judgment-based: what is right and what is wrong.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student answered that you will always have some limit, even social ones: if you feel you may be judged for saying something, it limits what you say.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "A student said: it is not a yes or no. How do we balance responsibility with freedom?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A direction, not a verdict",
+   "lines": [
+    {
+     "text": "Another student said: I will agree it is difficult to call it black and white, so let me give a direction instead of a concise answer. We should head toward systems that take the most people's opinions into consideration, not the fewest people deciding for everyone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that being aware and on our toes about these issues is a positive thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is the strongest argument against your own view?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a view you hold strongly.",
+   "Write the strongest argument against it.",
+   "Write what a person who disagrees would call a fair test.",
+   "Write a direction you would aim for if you cannot give a yes or no.",
+   "Write what you changed your mind about, if anything."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say he was playing?",
+   "choices": [
+    "Devil's advocate",
+    "Hide and seek",
+    "The fool"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say instead of a concise answer?",
+   "choices": [
+    "A direction to head toward",
+    "A joke",
+    "A refusal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about the question?",
+   "choices": [
+    "It is not a yes or no",
+    "It is easy",
+    "It is closed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Argue the other side on purpose. When there is no clean answer, name a direction.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

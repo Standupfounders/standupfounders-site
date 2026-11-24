@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-c3-2",
+ "title": "Out of your usual surroundings",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What happens to your habits when your surroundings disappear?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "No default",
+   "lines": [
+    {
+     "text": "A student said: out of your normal environment you have no default, because nothing looks or feels the same, so it is a more conscious choice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you still have a structure in your thoughts. He gave an example from his twenties: he left a rigid corporate office for a beach in the middle of nowhere with a phone, and his thought patterns still said: I have to call the office, I have to get these contracts done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Vacation and freedom",
+   "lines": [
+    {
+     "text": "A student said: there are a lot of opportunities not to be productive, but it can be positive too. At a resort you get up at seven, send the three emails you absolutely must send, and enjoy the rest of the day. You have to be clear about the implementation intention.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He added that vacation is where new ideas come from. Jose said: when you take yourself out of those habits and cues, your mind is free, and the freedom lets you adapt, not only to the place but to how your mind works internally.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Structure from inside",
+   "lines": [
+    {
+     "text": "Jose asked what stops you from creating new cues every day, even in a foreign land, if you do not rely on the computer or the nine-to-five. Where does your structure come from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it comes down to clarity. Once you have clarity about what you want to accomplish, it does not matter whether you sit in a cubicle or a fancy place. Jose agreed: clarity of that internal compass. What is success, how does it look, how does it feel, what does it smell like?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Where is your structure when the cues are gone?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the cues that drive your day at your desk.",
+   "Write what you would do without them.",
+   "Write three things you must finish on a trip.",
+   "Write your own clarity in one sentence: what you want.",
+   "Write how it would look, feel and smell."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say you have outside your usual environment?",
+   "choices": [
+    "No default, so a conscious choice",
+    "More defaults",
+    "No choices"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a free mind can do?",
+   "choices": [
+    "Adapt",
+    "Stop",
+    "Sleep"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say matters more than the place?",
+   "choices": [
+    "Clarity",
+    "Furniture",
+    "Distance"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Without cues, choose consciously. Your structure comes from your clarity.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-b6-2",
+ "title": "They're gonna get greedy",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "When you find a clever way to make money, who is going to want a piece of it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Who's gonna give them the 15 cents?",
+   "lines": [
+    {
+     "text": "How does he think he will produce it cheaper? A student said: charge a fifteen cent fee per subscriber per month. Jose said: that's how he thinks he will make money. A subscription model.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who is going to give them the fifteen cents, Jose asked? The household pays. And where does the money flow? To the cable company. So they collect fifteen cents a subscriber for the content he runs on his network.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Of course they're gonna get greedy",
+   "lines": [
+    {
+     "text": "Do you think they will sit around and give him millions of dollars for his fifteen cents, Jose asked? They will say: this guy is making millions sending his content through our networks, through fiber we paid to lay. Of course they are going to get greedy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If you were a shareholder of one of those cable networks, and you saw him making that kind of money, what would you do? Not only negotiate. You'd say: why can't we do what he does? We have more money. We own the networks. Why should he make any money at all?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So this is going to be a fight, Jose said. It is not going to be an easy one for him. Today those networks own movie studios. It is a much more democratic situation than back then, when it was straight monopolies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "That's just perception",
+   "lines": [
+    {
+     "text": "How is he going to make it cheaper? A student said: he doesn't do it in New York. Jose said: not really the answer. Everybody thought a news company had to be in New York. That is just perception.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you assume you have to do that is just perception?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one way you plan to make money, in a sentence.",
+   "Write who else could want to take that money, and why.",
+   "Write what you would do if they got greedy.",
+   "Write one thing you assume you must do, that may be just perception.",
+   "Write one cheaper or smarter way to do it."
+  ]
+ },
+ "check": [
+  {
+   "q": "How did the student say the author thinks he will make money?",
+   "choices": [
+    "A small fee per subscriber each month",
+    "By selling ads only",
+    "By selling the channel"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the cable companies will be?",
+   "choices": [
+    "Greedy, of course",
+    "Generous",
+    "Silent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about everybody thinking a news company had to be in New York?",
+   "choices": [
+    "That is just perception",
+    "That is a rule",
+    "That is a law"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Expect others to want their share. Check which of your rules are just perception.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

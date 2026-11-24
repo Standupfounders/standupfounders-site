@@ -1,0 +1,126 @@
+{
+ "schema": 1,
+ "id": "lesson-a2-1",
+ "title": "Learn business through stories",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What business idea did you only understand once someone told it as a story?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Business books were hard",
+   "lines": [
+    {
+     "text": "Coming from a literature background, Jose said, he would pick up business books and go: oh my God, I don't even understand what they are talking about. He would look at what people were reading who read about finance and accounting, and get lost in dense texts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He spent more time going back and forth to the dictionary than reading, he said. He would get ten pages into a textbook and give up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Stories teach the terms",
+   "lines": [
+    {
+     "text": "Then he decided to read literature about business: stories about entrepreneurs. I can totally understand the train of thought, he said. I can understand the journey. I'm understanding the terms because they're in context to a larger story.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What a great way to teach business, he said: by telling the stories. You identify with a story, and you learn the terms as you live the career. What is equity? What is a reverse merger?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "In this book he now sees many lessons. You can see how the person goes from childhood to being a successful entrepreneur, and the tiny moments that opened up the rest of his life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If we can identify the defining moments in our own life, Jose said, then we can say: this is a decision I need to make. A lot of people fail at being entrepreneurs because they just don't make the decision.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What decision are you putting off, and what story would help you see it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a business term you did not understand until you saw it in a story.",
+   "Write the story that made it clear.",
+   "Write one defining moment in your life that you could turn into a story.",
+   "Write one decision you are putting off.",
+   "Write one story you will read or listen to this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "Where did Jose say the business terms made sense to him?",
+   "choices": [
+    "In the context of a larger story",
+    "In a dictionary",
+    "In a lecture"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a lot of people fail at as entrepreneurs?",
+   "choices": [
+    "Making the decision",
+    "Finding money",
+    "Finding a name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What can we do with defining moments in our own life, Jose said?",
+   "choices": [
+    "Identify them, to see which decision we need to make",
+    "Forget them",
+    "Hide them"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Learn through stories. Name your defining moments, then make the decision.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

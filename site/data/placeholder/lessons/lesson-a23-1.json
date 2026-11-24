@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-a23-1",
+ "title": "The map of the landmines",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who tells you where the landmines are before you speak?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The public relations manager",
+   "lines": [
+    {
+     "text": "Jose said that the person in the book has to make an apology, and that his public relations manager tells him: you have to kill this nonsense, we have to make a statement. Such managers play a critical role in the perception of public figures.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Good ones write scripts for their candidates, he said. They tell them what to wear and what not to wear, what to say. They are very involved in the public persona of whoever the celebrity is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it is like the original chatbot, preempting you on everything you would need to know.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The map",
+   "lines": [
+    {
+     "text": "As one individual, Jose said, you can't see the big picture of everything around you. He told of going to a meeting where he pulled a public relations manager he knew aside and asked: who's here?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "She ran down a map: the environmental organizations, the government, the executives, three senators you have to be careful with. They literally map out the landmines, the people on your side and not, and the ones who could be detrimental to you in a speech.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Know the interviewer's intent",
+   "lines": [
+    {
+     "text": "If you're with the media, Jose said, you need to know whether they are going to angle. Media is all over the place, from the far left to the far right. We need to know the intent of journalists, because there is always a political side, whatever your business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said they didn't think there was an initial intent; he was looking for something to spin into a bigger story. Jose gave his own take, that the consequence was alarming, and that he thought the intent was malign. He added it was only his take.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who maps the landmines for you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who is in the room when you speak publicly.",
+   "Write who is with you, against you, or uncertain.",
+   "Write the person who could map it for you.",
+   "Write what you want a journalist to understand.",
+   "Write what you would not say if it appeared tomorrow."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say good public relations managers do?",
+   "choices": [
+    "Write scripts and tell you what to say and wear",
+    "Avoid the press",
+    "Sell products"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the manager in Jose's story map?",
+   "choices": [
+    "The people in the room who are on your side and not",
+    "The menu",
+    "The route"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you need to know about journalists?",
+   "choices": [
+    "Their intent",
+    "Their age",
+    "Their address"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Map the landmines before you speak. Know the intent of the person who interviews you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a11-1",
+ "title": "Cost plus",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What happens to a company that doesn't watch its costs?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Cost plus",
+   "lines": [
+    {
+     "text": "A student said chapter 33 was the shift when space exploration came to be seen as a private endeavor.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said the way the government ran the industry was cost-plus contracts. There is no risk for the companies, because they know they will get their costs plus the money they will make. So they don't care about cost savings, and it cost the government millions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it incentivizes taking longer. It's like charging by the hour but being able to change your hourly rate to whatever you want in that moment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: what would happen in the private sector if people ran businesses that way, with giant budgets and no thought for cost? They go out of business, he said. The structure is inefficient and money-losing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The innovator and the regulator",
+   "lines": [
+    {
+     "text": "Sooner or later, he said, I have rarely seen a company that gets big enough that doesn't have to get involved with politics. There is often an antagonistic relationship between the private sector and the government.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A regulator's attitude, he said, is: I'm a political appointee, I have big budgets, I'm here to regulate, not necessarily to make it more efficient. So for an innovator the government can be the enemy, and the person in the book is always challenging red tape. But he has to care about cost, or he goes out of business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said friends of his who deal with a food and drug regulator tell him that the regulators seem incentivized to find fines. That is their account. With an open budget, he said, you get a hinge that costs three thousand dollars when it could cost a thousand, or thirty.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do you know about the regulator you will have to deal with?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether your costs rise when someone else pays.",
+   "Write where you are not conscious of cost.",
+   "Write one regulator or authority your business will meet.",
+   "Write what that authority wants and what you want.",
+   "Write what you could cut if you had to pay for everything yourself."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a cost-plus contract means?",
+   "choices": [
+    "The company gets its costs plus a profit, so it has no risk",
+    "The company pays the government",
+    "The price is fixed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say it incentivizes?",
+   "choices": [
+    "Taking longer",
+    "Going faster",
+    "Doing better work"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens in the private sector with giant budgets and no cost awareness?",
+   "choices": [
+    "The business goes under",
+    "The business grows",
+    "Nothing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be aware of cost. Expect your innovation to meet regulation.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a36-2",
+ "title": "Pipe or editor?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Should a platform pass on every word, or choose which words travel?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pipe or editor?",
+   "lines": [
+    {
+     "text": "Jose said that one of the people who built the payments company with the person in the book put a question to him about the social network he was buying: should it be like a telephone system, where the words that go in one end come out exactly the same on the other? Or a system that governs the discourse of the world, with some intelligence in the algorithm that prioritizes or deprioritizes things?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked each student where they would be. A student said: I would probably be at option one, the telephone, but I see how businesses might want the other. Another said: I lean to option one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The devil's advocate",
+   "lines": [
+    {
+     "text": "Jose said he would play devil's advocate, just for fun: someone might say people need to be guided because a society can be too irresponsible if you let people roam free. He gave an analogy with a child who says whatever he wants, and swears. As a responsible adult, he said, do you have a responsibility to say: that is irresponsible?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: a parent governing a child and a government censoring adults are apples and oranges. Another said: who becomes the measurer of responsible speech? That is a pretty ugly rabbit hole.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is why I want to go down it. We have to think about it. Where is the line?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: when a government has the power of filtering what should be allowed, we are not looking at the audience. A child's programmes are for an older audience. But a government shutting down things that could be of value to the masses is another matter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Confidential, or censored?",
+   "lines": [
+    {
+     "text": "Jose asked: what about classified military information? Shouldn't that be free? A student said: withholding information is not the same as censoring what someone says. Jose said: there is a very thin line between the two.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student gave a business example: you plan to acquire or sell a company, so you discuss it with a few key people. You keep it confidential until you are comfortable disclosing your intentions. There is always a point in time when you keep it to a tight circle.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: intention is a big part of it. A student said: but who becomes the measurer of intention? Jose said: and who is right, whose value system?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you want a platform to do with your own words?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether you want a platform to pass on everything or choose.",
+   "Write who should decide what is responsible speech.",
+   "Write the difference between confidential and censored in your work.",
+   "Write what you keep confidential and until when.",
+   "Write how you would decide on a case where you aren't sure."
+  ]
+ },
+ "check": [
+  {
+   "q": "What was the question about the social network?",
+   "choices": [
+    "A telephone system, or a system that governs the discourse of the world",
+    "A shop or a bank",
+    "A game or a film"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student ask about responsible speech?",
+   "choices": [
+    "Who becomes the measurer?",
+    "Who pays?",
+    "Who reads it?"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a business keeps confidential?",
+   "choices": [
+    "A planned acquisition, until the right moment",
+    "Everything",
+    "Nothing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Think about pipe or editor. Tell confidential from censored. Ask who measures.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

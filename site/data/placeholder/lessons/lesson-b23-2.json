@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-b23-2",
+ "title": "The way people talk about you is your brand",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If someone describes you to a stranger, what words do they use?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The way people talk about you is your brand",
+   "lines": [
+    {
+     "text": "What is amazing about him is how transparent he is, Jose said. I love the way the senator talks about him. Because the way people talk about you, that's your brand. Listen to the words the senator uses. Think: what would they say about you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose read the senator's words.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "One of the great things about Ted is that he's transparent. He doesn't have a hidden agenda or hidden policies.",
+     "mark": "N",
+     "cue": "",
+     "kind": "quote"
+    },
+    {
+     "text": "A student said: whenever you're genuine, people see that. It's easy to tell when someone is sincere and authentic to themselves, and that's what people are looking for. Another said: that's the whole point. This guy has always been this way, and that is why he was so successful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "He's not afraid to be himself",
+   "lines": [
+    {
+     "text": "Jose said that, as he tells it, the author meets a rival businessman for lunch at the end of his career and they bury the hatchet. What a beautiful way to end a career, he said. Now he is concerned with things outside of himself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Do we have to be billionaires to have this kind of view of the world and take responsibility to make it a better place? No, Jose said. We can put our little grain of sand. But you have to actively do it. He doesn't talk about things and not do them. It's your commitment to doing it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "I meet so many people, even politicians, he said, who love to talk, but they are not standing behind it. They are not rolling up their sleeves and getting anything done.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What do people say about you when you are not in the room?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three words you would want people to use about you.",
+   "Write three words they might use now.",
+   "Write one thing you will do, not just say, this month.",
+   "Write what your commitment looks like, in actions.",
+   "Write who you will ask for honest feedback."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say your brand is?",
+   "choices": [
+    "The way people talk about you",
+    "Your logo",
+    "Your office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the quote say is great about the author?",
+   "choices": [
+    "He is transparent, with no hidden agenda",
+    "He is rich",
+    "He is quiet"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about making the world better?",
+   "choices": [
+    "You have to actively do it, not just talk",
+    "Only billionaires can",
+    "Wait for others"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Your brand is what people say about you. Do, don't just talk.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

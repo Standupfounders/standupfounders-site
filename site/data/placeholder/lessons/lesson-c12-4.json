@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-c12-4",
+ "title": "Time and freedom",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How much of who you are is tied to what you own?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Identity and things",
+   "lines": [
+    {
+     "text": "Jose asked the younger people: how much of your identity is tied to material things, a nice car or good clothes? He said that wealth is hidden, so it does not reinforce identity the way visible things do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: what we are seeking is time and freedom. Jose said that people who control their time tend to live happier lives, and the driving force behind all this is time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked how much of your active income is becoming passive, so that your time is not committed to it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Desire and what it costs",
+   "lines": [
+    {
+     "text": "Jose said that if he could advise himself at sixteen or eighteen, the first thing would be: do not care what others think of you. Spend less, save more and desire less. Be disciplined about desire.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that big boats and cars suck money and time, through maintenance, taxes and expenses, and he wants the least of his time taken up by things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student added: you cannot live so far below your means that you do not enjoy your life. It is not about excess desires. Another said: saving and prioritizing is also a form of investment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your environment",
+   "lines": [
+    {
+     "text": "Jose said that the people around you matter: he is in an environment with farmers who are very aware of risk and live frugally, and it is easy to be inspired by them, but you still have to ask how you will make money in that environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would you do with your time if you had it back?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. This is not financial advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the things you own that say who you are.",
+   "Write what you would choose if no one saw it.",
+   "Write how many hours of your week are committed to income.",
+   "Write what time and freedom would look like.",
+   "Write one thing you will desire less."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say they are seeking?",
+   "choices": [
+    "Time and freedom",
+    "A bigger house",
+    "A faster car"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about wealth being hidden?",
+   "choices": [
+    "It does not reinforce identity",
+    "It is loud",
+    "It is cheap"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about desire?",
+   "choices": [
+    "Be disciplined about it",
+    "Follow it",
+    "Hide it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know what your identity rests on. Aim for time and freedom.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

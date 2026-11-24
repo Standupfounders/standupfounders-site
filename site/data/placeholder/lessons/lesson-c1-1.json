@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-c1-1",
+ "title": "Goals and systems",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you chase the result, or build the process that makes it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Goals and systems",
+   "lines": [
+    {
+     "text": "Jose said the call would add material beyond the book for those who had already read it, and that it is collaborative, not like a school: veterans and young entrepreneurs, each giving their perspective.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: goals are about the results you want to achieve. Systems are about the process that leads to those results.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he uses the word systems a lot, because when you systemize things you make your time more efficient, and when you make your time more efficient you have more free time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Leverage and audit",
+   "lines": [
+    {
+     "text": "He said that you leverage other people's time: if you are not doing the job, somebody has to. You give them a job description, and then you have to audit the process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said auditing can be anywhere from one to ten. At a one, you don't know what is going on and you rely blindly on the person's charisma. He wants to audit every little thing until it is granular.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He used the metaphor of a car going around a track: some people know the engine, the suspension, the tires. You have to be fluent enough at auditing to hear which part makes the noise.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when he arrives somewhere, he wants everything he has to look at to take ten minutes or less, so that he is checking a list, not training someone all over again.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Patterns find opportunities",
+   "lines": [
+    {
+     "text": "He said that systems lead to patterns in our daily living, and patterns help us discover opportunities: what am I doing today to seize them? He said that if you have only one fishing line in the water, the chances are a fish will not hit it, so put more lines in, and make sure someone is there to reel it in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is one process in your work that you could check in ten minutes?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a result you want.",
+   "Write the process that would produce it.",
+   "Write who you would hand part of it to.",
+   "Write how you would audit it in ten minutes.",
+   "Write how many lines you have in the water."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say systems are about?",
+   "choices": [
+    "The process that leads to results",
+    "The results you want",
+    "The tools you buy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you do after you give someone a job description?",
+   "choices": [
+    "Audit the process",
+    "Forget it",
+    "Take over the job"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about one fishing line in the water?",
+   "choices": [
+    "Put more lines in",
+    "One is plenty",
+    "Remove it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build the process, not just the goal. Audit it granularly.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

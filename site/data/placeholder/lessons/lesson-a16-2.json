@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "id": "lesson-a16-2",
+ "title": "Kick the tires",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If a friend told you a business idea, what would you ask first?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Open up the focus",
+   "lines": [
+    {
+     "text": "Jose said the person in the book used specific language: we're an energy innovation company. He expands the focus of what the company does. It's not just an automotive company. That opens up different verticals.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He told the branding people on the call: my branding is too narrow, I want to open it up so people understand my message.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Kick the tires",
+   "lines": [
+    {
+     "text": "What we can extract, Jose said, is the fluency with which he grabs an idea and filters it. He set an exercise: pretend you are with friends and somebody has a business idea. Walk around the car, lift the hood, look at the engine and the tires. That is what venture capitalists do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student began: first, how are you going to do it? Second, who are your clients? Third, how much is it going to cost? Jose said: there is no right or wrong answer, it's just exploring.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "As you develop fluency your questions get more sophisticated, he said: does the machine exist, how would you build it, how many do you process per hour, what is the fuel, where would you put it, what logistics, what government concessions?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "After a while you may realize your friend hasn't thought it out. If you go to a venture capitalist and get stumped on major questions, you have a problem. They will say: come back when you have thought it out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The water bottle",
+   "lines": [
+    {
+     "text": "Jose played the idea person with a water-bottling business, and the students were the investors. A student asked first about the environmental impact of the bottle. He said: I'll use plastic like everybody else. The student said: that is an ethics question.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then: how will you distribute it, to the whole country? What is your manufacturing facility, your cost of goods, your cost on every sale after expenses? What are your projections and how will you scale?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose added: what is my competition, what are they priced at, how much market share, what is unique about my bottle? A student asked about the leadership team: what expertise supports it? Another: what is your unique value proposition?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would be your first three questions, and could you answer them about your own idea?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your idea in one sentence.",
+   "Write ten questions an investor would ask.",
+   "Answer each in one line, or mark it unknown.",
+   "Write what you would widen in how you describe your business.",
+   "Write who you could test the questions on."
+  ]
+ },
+ "check": [
+  {
+   "q": "What does 'kick the tires' mean in Jose's exercise?",
+   "choices": [
+    "Walk around the idea and test it like a car",
+    "Buy a car",
+    "Avoid risk"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens to your questions as you gain fluency?",
+   "choices": [
+    "They get more sophisticated",
+    "They get fewer",
+    "They stay the same"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What happens if you can't answer an investor's major questions?",
+   "choices": [
+    "You have a problem; come back when you've thought it out",
+    "They give you money",
+    "They wait"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Test your idea with real questions. Widen your focus where it is too narrow.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

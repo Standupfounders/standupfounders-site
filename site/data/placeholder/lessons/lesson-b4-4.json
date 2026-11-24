@@ -1,0 +1,143 @@
+{
+ "schema": 1,
+ "id": "lesson-b4-4",
+ "title": "We're in the possibility game",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you want a big result, do you know the daily number that makes it real?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The belief system behind the goals",
+   "lines": [
+    {
+     "text": "We read the NLP book, the essential guide, Jose said, and the author has an incredible belief system. He believes in himself time and time again. That belief system is the foundation for his growth and for his goals. When we set goals, we are coming from that positive belief system.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So how do you make a goal true? Jose put a goal on the table: a company worth ten million dollars by the end of the year. A student said: come up with a plan with legitimate metrics, see the hurdles you will have to get over, prepare for them, and then get over them when they come.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Let's focus on the math",
+   "lines": [
+    {
+     "text": "Let's get more granular, Jose said, and look at the financial implications of a goal. He walked the group backwards: the value you want, the sales that needs, the proposals you must send each month, how many people it takes, how many inspections each person needs, how many calls to get one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "You see that exercise? he asked. If we do those goals, we are in the possibility game. If we are not paying attention to those goals day to day, we are in the impossibility game. We are not even showing up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said what they liked about the exercise: it turns money into tasks directly. If you want this much money, you have to do this many of this task.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Cost to acquire a customer",
+   "lines": [
+    {
+     "text": "Do we have control of this? Of course we do, Jose said. I call it showing up. If you walk down the street and visit twenty or thirty places a day, and send each a presentation, then that is a hundred a week and four hundred a month.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The next month it goes to eight hundred, then twelve hundred. After a while that pipeline starts to come in. It turns into numbers. Then you have what you call a cost to acquire a customer: your time, your transport, the cards you print.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Then you have a formula, he said. How can I lower my cost to acquire a customer? Say it costs ten dollars a customer, and you visit twenty a day: that is two hundred dollars. If one hits and gives you a hundred thousand dollar contract, you have a return on your advertising money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your daily number?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one big goal for this year.",
+   "Work backwards: the sales it needs, then per month, then per week, then per day.",
+   "Write the daily task that decides it: calls, visits, proposals.",
+   "Write what one customer costs you to win today, and what one sale is worth.",
+   "Write what you will do tomorrow to show up."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call the state where you track your goals daily and do the work?",
+   "choices": [
+    "The possibility game",
+    "The waiting game",
+    "The numbers game"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say they liked about the exercise?",
+   "choices": [
+    "It turns money into tasks",
+    "It is quick",
+    "It needs no maths"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does Jose say you get once you know your cost to acquire a customer?",
+   "choices": [
+    "A formula to improve it",
+    "A bigger office",
+    "A rival"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Turn the goal into daily tasks and show up. Then you are in the possibility game.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

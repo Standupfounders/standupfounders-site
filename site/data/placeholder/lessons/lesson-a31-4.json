@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "id": "lesson-a31-4",
+ "title": "One roof first",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you know that what you said led someone to a decision?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Gauging your impact",
+   "lines": [
+    {
+     "text": "A student asked: how do you gauge your effectiveness? Jose said: it is how people make decisions. Are they making decisions when you speak to them? The easiest thing is just to ask them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Some people say the way to make better decisions is just to make more of them, he said. You want to get to where you are saying: this person made a decision, and I was here to make sure they were accountable to their own decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Sell, or build and wait?",
+   "lines": [
+    {
+     "text": "Jose asked about the person's line: I want to rely on word of mouth and focus on the product, not on sales. A student said it is fundamental for him: the quality of the work drives the sales, which is the opposite of many organizations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said: I don't really agree. That is like: build it and they will come. I think that has inherent problems, because you have to educate people on what the company is doing and what it means to them. People may not know what a solar roof is. That is just my personal opinion.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One roof first",
+   "lines": [
+    {
+     "text": "What was significant, Jose asked, when he said: put one roof in this small town? A student said: proof of concept. Jose said: it is called per-unit due diligence. He gets his hands on it, rolls it up, and wants to see all the processes, with a manual for the process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said you also see his flexibility of thinking, his tangents, his breadth and interdisciplinary thinking. And you see him letting his small child take risks and discover things for himself: letting him be intrinsically motivated.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "First impressions and who doesn't decide",
+   "lines": [
+    {
+     "text": "The deep question, Jose said, is developing ourselves as people who motivate our team to have accountability, and studying our interactions so they are meaningful. Are we bringing people to make a decision they will hold themselves accountable for? What impression do we give?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: as leaders it is very important to document and take notes. Jose said: write down your leadership traits and where you can improve.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that as leaders we have to recognize in our group when somebody is not making the decision, because that will contaminate your culture of accountability. Separate them and get to the bottom of why.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Who on your team is avoiding a decision, and have you asked why?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you gauge whether your words led to a decision.",
+   "Write the proof of concept you will run before scaling.",
+   "Write the manual for that process.",
+   "Write who on your team is avoiding a decision.",
+   "Write the impression you want to leave in the first minute."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is the easiest way to know if your words matter?",
+   "choices": [
+    "Ask them",
+    "Guess",
+    "Wait a year"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call installing one roof first?",
+   "choices": [
+    "Per-unit due diligence, a proof of concept",
+    "A waste",
+    "A mistake"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say contaminates a culture of accountability?",
+   "choices": [
+    "Somebody not making the decision",
+    "Too many meetings",
+    "Fast work"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Gauge by decisions. Prove one unit first. Notice who avoids deciding.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

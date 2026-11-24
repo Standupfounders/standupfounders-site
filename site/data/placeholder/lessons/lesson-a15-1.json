@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-a15-1",
+ "title": "Intuition and assumptions",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you spend your time on when you have a new idea: the numbers, or the assumptions?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Intuition against the data",
+   "lines": [
+    {
+     "text": "Jose said that this call he wanted to ask questions that are a little rhetorical, and asked everyone to write them down. These are hard, compromising questions, but important not to lie to ourselves about: what are we deciding to do with our lives?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave an example from the person in the book: humans drive using visual data, so our cars should use visual data, instead of the engineers who say they should use sensors. Jose called that intuition beginning.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you are about to turn an idea into a business, he asked, what empowers your intuition? Assumptions in a business drive the financials. A lot of people make wonderful spreadsheets, but I spend seventy percent of my time on the assumptions, then I go to the numbers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two processes",
+   "lines": [
+    {
+     "text": "A student described their process: research the topic, brainstorm innovations around it, ask different questions from the researchers' first questions, then look at the research and make their own assumptions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked another student for their personal limitations in that process. They said: it's okay not to have all the answers. The limitation is experience, because I'm just doing the research, not the actual hands-on work.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said another limitation is trying to follow cold, hard technical data, because intuition is a little off the wall and isn't easily justifiable to experts.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is very relevant. The engineers have the data and say: you are outside of reality, we have no data. One limitation is: I have no data, therefore it's not reality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What are your assumptions, and how many hours have you given them?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the idea you are working on.",
+   "Write its three biggest assumptions.",
+   "Write what evidence you have for each.",
+   "Write the limit that holds your intuition back.",
+   "Write how much time you will give the assumptions before the numbers."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say assumptions in a business drive?",
+   "choices": [
+    "The financials",
+    "The logo",
+    "The office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How much of his time did Jose say he spends on assumptions?",
+   "choices": [
+    "About seventy percent",
+    "About ten percent",
+    "None"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What limitation did a student name about intuition?",
+   "choices": [
+    "It is hard to justify to experts who follow the data",
+    "It is always wrong",
+    "It is too slow"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Study your assumptions before your numbers. Know the limits on your intuition.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

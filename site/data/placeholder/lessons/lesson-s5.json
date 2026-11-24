@@ -1,0 +1,184 @@
+{
+ "schema": 1,
+ "id": "lesson-s5",
+ "title": "The range to walk into any business",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is there a field you know well that could teach you about a field you do not?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Analogical thinking",
+   "lines": [
+    {
+     "text": "Jose said analogical thinking is a way of thinking where you compare two different concepts, objects or situations. A metaphor compares two unlike things.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "When you compare two unlike things, you challenge the concrete, sequential, specialized knowledge you may have. You look beyond it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "People who say we have to stay focused and do one thing are getting into specialized thinking. The founders in the book, Jose said, he would call generalists. They pull from different knowledge systems.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "There is a source and a target. The source is something you are familiar with. The target is something you are not. It is like comparing the structure of an atom to a solar system. It is less about the objects and more about the connections between them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "You don't sound like a designer",
+   "lines": [
+    {
+     "text": "Jose called it conceptual integration. Blending strategic and operational elements is a very big advantage.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said they began as a designer, then moved into marketing and into being an entrepreneur and a business person, not just a designer, because a designer can put you in a box, and it is hard to get out of it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he told that student: you are a businesswoman. Their creativity went from making presentations to making financial impact for a company.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The student asked a fair question. When do you do so much that you do nothing? Jose said that is the classic line, people say you don't focus enough. His answer: as entrepreneurs we should have the range to walk into any business, even one where we have no knowledge base, and judge it with well-formed criteria.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One product, or the range?",
+   "lines": [
+    {
+     "text": "Jose told this story. A business contact of his",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "So the meeting turned: maybe we don't have the solution, but we could probably find it. The client said, find it. They won a big contract.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The lesson, Jose said: what is more powerful, one product, one solution, or going to a company and offering a needs assessment? If we have the answer we give it. If we don't, we find it. The business became a consulting business. It has more range now. It has more opportunity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What's your range?",
+   "lines": [
+    {
+     "text": "A student made a point that ties it together: the consumer always decides the value, not the provider. Jose added that most of the time, the consumer doesn't even know they have a problem.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "When you are first, Jose said, what criteria do you use? What is your range? What is your flexibility? A student said: use as many reference points as you can, but there are no really wrong answers at that point.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose ended with a thought experiment. What if one of your criteria was never to look at anything with less than a thousand percent profit margin? People would say you are crazy. But forcing yourself to have criteria like that, and to keep adapting, pushes limits, and that creates opportunity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your range?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Name one field you know well. That is your source.",
+   "Name one field or problem you do not know. That is your target.",
+   "Write three ways they are alike. Look at connections, not objects.",
+   "Write one idea from your source that could work in your target.",
+   "Write one criterion you would use to judge any business you walk into."
+  ]
+ },
+ "check": [
+  {
+   "q": "In analogical thinking, what is the source?",
+   "choices": [
+    "Something you are not familiar with",
+    "Something you are familiar with",
+    "Something another person owns"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "What did a student say about a label like 'designer'?",
+   "choices": [
+    "It can put you in a box that is hard to get out of",
+    "It is always an advantage",
+    "It does not matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "According to a student, who decides the value?",
+   "choices": [
+    "The provider",
+    "The consumer",
+    "The investor"
+   ],
+   "answer": 1
+  }
+ ],
+ "recap": "Compare unlike fields. Build the range to judge a business you have never worked in.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

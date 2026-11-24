@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c15-1",
+ "title": "The Goldilocks rule and boredom",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is the task in front of you too hard, too easy, or just right?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The Goldilocks rule",
+   "lines": [
+    {
+     "text": "Jose summarized chapter 19: the Goldilocks rule says peak motivation happens when you work on a task right at the edge of your current ability, not so hard that you cannot get traction and not so easy that you are bored.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the book adds that the greatest threat to success is not failure but boredom, and that as habits become routine they become less interesting and less satisfying, so we get bored and stop.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "When it is mundane",
+   "lines": [
+    {
+     "text": "Jose said that as adults there are necessary things that are boring and not immediately rewarding. He asked: what do we do to compensate? A student said: do a reframe, and keep the overarching goal in mind.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose gave an example in the voice of an inner talk: I hate sitting in front of spreadsheets for five hours, but if I do not do it my goal of a successful company is not going to happen.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: if you cannot reframe a passion or career and enjoy its monotony, maybe you should not be doing it. It is a good point to be aware of.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Which task is too easy for you, and which is just right?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a task that is too easy for you now.",
+   "Write one that is just beyond your ability.",
+   "Write how you will make the easy one harder.",
+   "Write a boring task you must do and its goal.",
+   "Write a task that you might need to stop doing."
+  ]
+ },
+ "check": [
+  {
+   "q": "When does peak motivation happen, in the book as Jose summarized?",
+   "choices": [
+    "At the edge of your current ability",
+    "On easy tasks",
+    "On impossible tasks"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the book calls the greatest threat to success?",
+   "choices": [
+    "Boredom",
+    "Failure",
+    "Money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to do with a mundane task?",
+   "choices": [
+    "Reframe it with the overarching goal",
+    "Skip it",
+    "Wait"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Work at the edge of your ability. Beat boredom with the goal.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

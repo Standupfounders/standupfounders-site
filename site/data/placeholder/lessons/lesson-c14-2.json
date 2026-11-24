@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-c14-2",
+ "title": "The inner critic and its policeman",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which voice speaks most in your head: critic, praiser or ideal self?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Three voices",
+   "lines": [
+    {
+     "text": "Jose said that from early on our parents develop a little voice: good boy, good girl, bad boy, bad girl. It becomes our inner critic. He described three parts: the ideal self image, the inner praiser and the inner critic, and said that Freud called this the superego. That naming is Jose's and needs a person to check it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: probably all problems stem from that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "No defense",
+   "lines": [
+    {
+     "text": "Jose said that if you go down the critical path, I am not good enough, I should have made more money, you can pummel yourself. A student said: you have no defense, because it is your own voice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose suggested picturing a policeman that says: stop beating yourself up, stop second-guessing yourself. Then the positive voice says: engage, enjoy what you love, and go in the right direction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that the inner critic can show a distorted slice of reality, a survival pattern. We may then ask somebody else, whose view is also distorted, and decide from insecurity and not from resourcefulness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What would your policeman say to your critic?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice. If this is heavy for you, a trained person can help.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what your inner critic says most.",
+   "Write what your inner praiser would say.",
+   "Write what your ideal self would do.",
+   "Write the sentence your policeman says to stop the critic.",
+   "Write who you could ask who is not distorted."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say becomes the inner critic?",
+   "choices": [
+    "The voice parents develop",
+    "The weather",
+    "The news"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about defending against the critic?",
+   "choices": [
+    "You have no defense, it is your own voice",
+    "It is easy",
+    "It is someone else"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose suggest picturing?",
+   "choices": [
+    "A policeman that interrupts",
+    "A crowd",
+    "A mountain"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Hear the three voices. Interrupt the critic. Choose from resourcefulness.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}
