@@ -4,7 +4,7 @@
  "title": "Fifty bubbles",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A pivotal decision",
    "lines": [
     {
-     "text": "Jose said that in this chapter the person is building the big rocket and renames it. He sees him with new goals: we are never going to build rockets fast enough with this process. He goes to stainless steel. What does he do when he changes the process? He says: run the numbers.",
+     "text": "I said that in this chapter the person is building the big rocket and renames it. He sees him with new goals: we are never going to build rockets fast enough with this process. He goes to stainless steel. What does he do when he changes the process? He says: run the numbers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Remember yesterday, Jose said, a developer has three model homes. He can't build fifty custom homes, because he changes the process fifty times, and his cost of doing business becomes erratic and the chances of going bankrupt are pretty high.",
+     "text": "Remember yesterday, I said, a developer has three model homes. He can't build fifty custom homes, because he changes the process fifty times, and his cost of doing business becomes erratic and the chances of going bankrupt are pretty high.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "Fifty bubbles",
    "lines": [
     {
-     "text": "Jose said: you are going to have to pivot, analyze, change direction, change a process, and you won't have a lot of time. Think of the chess game: it is not the same thinking five moves ahead as fifty.",
+     "text": "I said: you are going to have to pivot, analyze, change direction, change a process, and you won't have a lot of time. Think of the chess game: it is not the same thinking five moves ahead as fifty.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,7 +74,7 @@
      "kind": "student"
     },
     {
-     "text": "If you draw it as bubbles, Jose said: we are going with stainless steel, and underneath little bubbles of everything that decision will impact, you will have fifty, sixty, seventy bubbles in your organization.",
+     "text": "If you draw it as bubbles, I said: we are going with stainless steel, and underneath little bubbles of everything that decision will impact, you will have fifty, sixty, seventy bubbles in your organization.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the person tells the team to do before the change?",
+   "q": "What did I say the person tells the team to do before the change?",
    "choices": [
     "Run the numbers",
     "Wait a year",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a big decision?",
+   "q": "What did I say about a big decision?",
    "choices": [
     "It has fifty or more bubbles of impact",
     "It has one effect",

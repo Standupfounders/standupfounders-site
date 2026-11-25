@@ -4,7 +4,7 @@
  "title": "Get up, make the phone calls, write the letters, send the emails",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Get up, make the phone calls, write the letters, send the emails",
    "lines": [
     {
-     "text": "How would your life be different after reading a book like this, Jose asked? A student said: it reaffirmed a lot of things I already believe, and it was nice to read that there is someone doing all these things I think about day in and day out, and is extremely successful.",
+     "text": "How would your life be different after reading a book like this, I asked? A student said: it reaffirmed a lot of things I already believe, and it was nice to read that there is someone doing all these things I think about day in and day out, and is extremely successful.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "For me, Jose said, it's: oh my God, there are so many things I want to do. I want to be enthusiastic about life. I want to go out there and just get it. Not talk about it, do it. Get up, make the phone calls, write the letters, send the emails, show up. Have the goals. Don't stop, be relentless.",
+     "text": "For me, I said, it's: oh my God, there are so many things I want to do. I want to be enthusiastic about life. I want to go out there and just get it. Not talk about it, do it. Get up, make the phone calls, write the letters, send the emails, show up. Have the goals. Don't stop, be relentless.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A lot of times we lie to ourselves, he said. We say: oh, I'm working so hard. Or we create a mundane existence, where we're mechanical about things, not inspired, not passionate, not having goals we want to get to daily. We just let life go by us.",
+     "text": "A lot of times we lie to ourselves, I said. We say: oh, I'm working so hard. Or we create a mundane existence, where we're mechanical about things, not inspired, not passionate, not having goals we want to get to daily. We just let life go by us.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "We can pick the good things",
    "lines": [
     {
-     "text": "You do have to be a little obsessive with your business and your interests, Jose said. What a way to live. And there is good and bad. We can pick the good things. We don't have to pick the bad things of who he was. Mentors aren't about picking just the good things. You're going to get both. But you have a choice: I don't want this part of his life, but I like this part. And then committing to that.",
+     "text": "You do have to be a little obsessive with your business and your interests, I said. What a way to live. And there is good and bad. We can pick the good things. We don't have to pick the bad things of who he was. Mentors aren't about picking just the good things. You're going to get both. But you have a choice: I don't want this part of his life, but I like this part. And then committing to that.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "And having the discipline, he said, to live exactly the life you want to live and accomplish exactly what you want to accomplish without any limits. Nobody moved him from his convictions.",
+     "text": "And having the discipline, I said, to live exactly the life you want to live and accomplish exactly what you want to accomplish without any limits. Nobody moved him from his convictions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student thanked Jose for walking the group through the whole book: it was helpful to read it, then discuss it, and learn things I never thought about. Jose said: it was very tedious, we went really deep. That is how I read books. I really analyze them. I take notes. It takes a little longer, but you can see how much we got out of it.",
+     "text": "A student thanked me for walking the group through the whole book: it was helpful to read it, then discuss it, and learn things I never thought about. I said: it was very tedious, we went really deep. That is how I read books. I really analyze them. I take notes. It takes a little longer, but you can see how much we got out of it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to do, not just talk about?",
+   "q": "What did I say to do, not just talk about?",
    "choices": [
     "Get up, make the phone calls, write the letters, send the emails",
     "Wait",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say we do a lot of times?",
+   "q": "What did I say we do a lot of times?",
    "choices": [
     "Lie to ourselves that we are working hard",
     "Overwork",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about mentors?",
+   "q": "What did I say about mentors?",
    "choices": [
     "You get both good and bad, and you choose",
     "They are perfect",

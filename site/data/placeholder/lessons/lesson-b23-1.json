@@ -4,7 +4,7 @@
  "title": "Give me your top three global concerns",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Give me your top three global concerns",
    "lines": [
     {
-     "text": "Jose said the author goes through a traumatic event with the merger and goes from nine billion dollars to two billion. And he says, characteristically: don't feel sorry for me, I still have two billion.",
+     "text": "I said the author goes through a traumatic event with the merger and goes from nine billion dollars to two billion. And he says, characteristically: don't feel sorry for me, I still have two billion.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He is never sitting still, Jose said, as some people at the end of their careers are: I'm just gonna sit and do nothing. He says: now I'm going to tackle world problems. As Jose tells it, he names three that concern him most. Jose asked each student for theirs.",
+     "text": "He is never sitting still, I said, as some people at the end of their careers are: I'm just gonna sit and do nothing. He says: now I'm going to tackle world problems. As I tell it, he names three that concern him most. I asked each student for theirs.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Make it part of your branding",
    "lines": [
     {
-     "text": "You can pick certain things and make them your mission, Jose said. You don't have to be a billionaire to get involved and give your time. But it should definitely be part of your branding, part of who you are and the message you deliver.",
+     "text": "You can pick certain things and make them your mission, I said. You don't have to be a billionaire to get involved and give your time. But it should definitely be part of your branding, part of who you are and the message you deliver.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you are specific, he said, you have a mission and you are consistently committed to the cause, how can that harm you? It can only give you more positive impressions from other people.",
+     "text": "If you are specific, I said, you have a mission and you are consistently committed to the cause, how can that harm you? It can only give you more positive impressions from other people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose's example: you go to a farmers' market, interview somebody, put it on Instagram. Develop a little news channel. Someone researches you before a meeting, and finds your videos about sourcing food, and twenty minutes of an hour meeting becomes a conversation about that. It builds rapport. It shows you have values and are a long-term thinker.",
+     "text": "My example: you go to a farmers' market, interview somebody, put it on Instagram. Develop a little news channel. Someone researches you before a meeting, and finds your videos about sourcing food, and twenty minutes of an hour meeting becomes a conversation about that. It builds rapport. It shows you have values and are a long-term thinker.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you don't have to be to get involved in a cause?",
+   "q": "What did I say you don't have to be to get involved in a cause?",
    "choices": [
     "A billionaire",
     "A student",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a mission should be part of?",
+   "q": "What did I say a mission should be part of?",
    "choices": [
     "Your branding",
     "Your taxes",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a video about your cause builds?",
+   "q": "What did I say a video about your cause builds?",
    "choices": [
     "Rapport",
     "Debt",

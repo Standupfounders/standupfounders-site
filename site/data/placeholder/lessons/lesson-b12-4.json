@@ -4,7 +4,7 @@
  "title": "He just gets up and he goes: I'm gonna go again",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "I'm just gonna go again",
    "lines": [
     {
-     "text": "As Jose retells the chapter, the author offered the other side's shareholders a large number of notes that paid far more than their dividends. Jose said: the notes are a piece of paper that says, you are going to get this interest further down the road. He would pay them off from the company's profits and by selling parts of the company.",
+     "text": "As I retell the chapter, the author offered the other side's shareholders a large number of notes that paid far more than their dividends. I said: the notes are a piece of paper that says, you are going to get this interest further down the road. He would pay them off from the company's profits and by selling parts of the company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It didn't work. Another buyer came in. The author realized his bid was a long shot, Jose said, but so was everything else in his career.",
+     "text": "It didn't work. Another buyer came in. The author realized his bid was a long shot, I said, but so was everything else in his career.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: I think he was kind of on to the next. If something doesn't work out, he goes to the next thing. Jose said: he is very resilient. What is amazing is that he just gets up and goes: I'm just gonna go again.",
+     "text": "A student said: I think he was kind of on to the next. If something doesn't work out, he goes to the next thing. I said: he is very resilient. What is amazing is that he just gets up and goes: I'm just gonna go again.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "I need to make more money so I can play with the big boys",
    "lines": [
     {
-     "text": "But what is interesting, Jose said, is that right away he goes into: I need to make more money so that I can play with the big boys. So how does he make money? From programming content. He goes: this will allow me to make more money and grow. And eventually I'm going to go for the networks.",
+     "text": "But what is interesting, I said, is that right away he goes into: I need to make more money so that I can play with the big boys. So how does he make money? From programming content. He goes: this will allow me to make more money and grow. And eventually I'm going to go for the networks.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Immediately he goes into: what can I do to increase my revenue, Jose said.",
+     "text": "Immediately he goes into: what can I do to increase my revenue, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,19 +62,19 @@
    "heading": "I would never take the risk that he's taking",
    "lines": [
     {
-     "text": "We want to read a balance sheet, Jose said, because we want to know how much he is leveraging. He is a little crazy with leveraging. I would never take the risk that he is taking. I think he takes on way too much debt.",
+     "text": "We want to read a balance sheet, I said, because we want to know how much he is leveraging. He is a little crazy with leveraging. I would never take the risk that he is taking. I think he takes on way too much debt.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is amazing that he has that tolerance for risk, he said. Everybody has a different threshold for risk. Reading the balance sheet will give us a good indication of how leveraged certain companies are.",
+     "text": "It is amazing that he has that tolerance for risk, I said. Everybody has a different threshold for risk. Reading the balance sheet will give us a good indication of how leveraged certain companies are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said to look at how conservative the balance sheet is, and how many years the company has consistently paid dividends. All of those things are important.",
+     "text": "I said to look at how conservative the balance sheet is, and how many years the company has consistently paid dividends. All of those things are important.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,12 +102,12 @@
    "Write what you did the next morning.",
    "Write how you will raise your revenue next.",
    "Write the debt you carry and how conservative your balance sheet is.",
-   "Write your threshold for risk, and whether Jose's view or the author's is closer to yours."
+   "Write your threshold for risk, and whether my view or the author's is closer to yours."
   ]
  },
  "check": [
   {
-   "q": "What did Jose say about the author after the bid failed?",
+   "q": "What did I say about the author after the bid failed?",
    "choices": [
     "He just gets up and goes again",
     "He quit",
@@ -116,16 +116,16 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the author's debt?",
+   "q": "What did I say about the author's debt?",
    "choices": [
-    "He takes on way too much debt, and Jose would never take that risk",
+    "He takes on way too much debt, and I would never take that risk",
     "He has none",
     "He is very careful"
    ],
    "answer": 0
   },
   {
-   "q": "What did Jose say everybody has?",
+   "q": "What did I say everybody has?",
    "choices": [
     "A different threshold for risk",
     "The same goals",

@@ -4,7 +4,7 @@
  "title": "Pilot first",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Out of the comfort zone",
    "lines": [
     {
-     "text": "Jose asked a student: what do I tell you all the time? The student said: do it, learn new things and don't stay in your comfort zone. Jose said: that's right, and the person in the book does not stay in his.",
+     "text": "I asked a student: what do I tell you all the time? The student said: do it, learn new things and don't stay in your comfort zone. I said: that's right, and the person in the book does not stay in his.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -33,19 +33,19 @@
    "heading": "Do dumb things small",
    "lines": [
     {
-     "text": "Jose said the person's friend told him these things blow up in the middle of space. The friend said: if we're going to do dumb things, let's not do them on a large scale. At the very least do a proof of concept.",
+     "text": "I said the person's friend told him these things blow up in the middle of space. The friend said: if we're going to do dumb things, let's not do them on a large scale. At the very least do a proof of concept.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I'm big on a proof of concept, he said. In relationships, when we start, I say: let's do a pilot. Let's do something small that represents the mechanics, the operations and the strategy of the bigger thing we will do later, so everybody is more comfortable and the risk is lower.",
+     "text": "I'm big on a proof of concept, I said. In relationships, when we start, I say: let's do a pilot. Let's do something small that represents the mechanics, the operations and the strategy of the bigger thing we will do later, so everybody is more comfortable and the risk is lower.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A pilot program is always a good thing to do, he said. Let's see if there's a market there.",
+     "text": "A pilot program is always a good thing to do, I said. Let's see if there's a market there.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Big things take time",
    "lines": [
     {
-     "text": "He said that while he builds rockets, the person finds other ways to create revenue, and an early version operated at a loss.",
+     "text": "I said that while he builds rockets, the person finds other ways to create revenue, and an early version operated at a loss.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What does Jose say a pilot represents?",
+   "q": "What do I say a pilot represents?",
    "choices": [
     "The mechanics, the operations and the strategy of the bigger thing",
     "A holiday",

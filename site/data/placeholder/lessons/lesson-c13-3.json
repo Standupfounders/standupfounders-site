@@ -4,7 +4,7 @@
  "title": "Whose habits are these?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "What I think you think I can do",
    "lines": [
     {
-     "text": "Jose offered a saying: I do not become what you think I can, and I do not become what I think I can; I become what I think you think I can. He said it is tough to follow and repeated it.",
+     "text": "I offered a saying: I do not become what you think I can, and I do not become what I think I can; I become what I think you think I can. I said it is tough to follow and repeated it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said children naturally seek approval from their parents, and we are dragging the habit development our parents gave us, whether we like it or not.",
+     "text": "I said children naturally seek approval from their parents, and we are dragging the habit development our parents gave us, whether we like it or not.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "An inventory",
    "lines": [
     {
-     "text": "Jose asked: what habits are yours and what habits were not your choice? Which do you have from your parents that you do not want, and which do you want to keep? Did you grow up with love that was manipulated to drive achievement, or love with no strings attached?",
+     "text": "I asked: what habits are yours and what habits were not your choice? Which do you have from your parents that you do not want, and which do you want to keep? Did you grow up with love that was manipulated to drive achievement, or love with no strings attached?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that if you pull on a habit like a rope you eventually reach positive and negative anchors.",
+     "text": "I said that if you pull on a habit like a rope you eventually reach positive and negative anchors.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that some parents want to be needed, not wanted, and that this becomes part of their identity. He said that when we are aware of where our habits come from, we are making an independent choice, independent of our past limitations.",
+     "text": "I said that some parents want to be needed, not wanted, and that this becomes part of their identity. I said that when we are aware of where our habits come from, we are making an independent choice, independent of our past limitations.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask you to sort habits into?",
+   "q": "What did I ask you to sort habits into?",
    "choices": [
     "Yours and not yours",
     "Old and new",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens when you know where a habit comes from?",
+   "q": "What did I say happens when you know where a habit comes from?",
    "choices": [
     "You make an independent choice",
     "You lose it",

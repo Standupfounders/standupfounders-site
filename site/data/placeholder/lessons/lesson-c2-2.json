@@ -4,7 +4,7 @@
  "title": "Habit stacking",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,13 +28,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the book's example is: after I put on my shoes, I immediately change into my workout clothes. His own: after I have my coffee, I grab my gym bag and get out the door, not get on a call and get distracted until noon and skip my workout.",
+     "text": "I said the book's example is: after I put on my shoes, I immediately change into my workout clothes. My own: after I have my coffee, I grab my gym bag and get out the door, not get on a call and get distracted until noon and skip my workout.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said you want a cue that has the same frequency as the habit you are developing: a cup of coffee every day is a consistent cue, so a daily workout can follow it.",
+     "text": "I said you want a cue that has the same frequency as the habit you are developing: a cup of coffee every day is a consistent cue, so a daily workout can follow it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: isn't it amazing, completely designing your external environment around triggers and cues, instead of letting the environment be designed by things you are not controlling?",
+     "text": "I said: isn't it amazing, completely designing your external environment around triggers and cues, instead of letting the environment be designed by things you are not controlling?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the cue should match?",
+   "q": "What did I say the cue should match?",
    "choices": [
     "The frequency of the new habit",
     "The color of your shoes",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to design instead of letting it be designed for you?",
+   "q": "What did I say to design instead of letting it be designed for you?",
    "choices": [
     "Your external environment",
     "Your calendar only",

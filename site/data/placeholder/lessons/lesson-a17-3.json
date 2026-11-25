@@ -4,7 +4,7 @@
  "title": "A personal needs assessment",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Out in the real world",
    "lines": [
     {
-     "text": "Jose said to a student: just as an exercise, I'm assuming, you were given the courses you needed in four years, and off you go, a graphic designer. In the real world you may say: I'm so specialized that I fit a corporate mould in a cubicle. What if I don't want that?",
+     "text": "I said to a student: just as an exercise, I'm assuming, you were given the courses you needed in four years, and off you go, a graphic designer. In the real world you may say: I'm so specialized that I fit a corporate mould in a cubicle. What if I don't want that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said we have doctors who study one organ. Everyone told us: focus, focus, get more specialized. He said a specialist who did not study habits may not tell you about your habits.",
+     "text": "I said we have doctors who study one organ. Everyone told us: focus, focus, get more specialized. I said a specialist who did not study habits may not tell you about your habits.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "A personal needs assessment",
    "lines": [
     {
-     "text": "He asked a student who is a coach what advice they give. The student said: use the mastermind principle, with people around you who are better or smarter in certain areas. I also read, research online, and have a plan of how to progress.",
+     "text": "I asked a student who is a coach what advice they give. The student said: use the mastermind principle, with people around you who are better or smarter in certain areas. I also read, research online, and have a plan of how to progress.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How do you come up with that plan? Jose asked. The student said: have a focus. If you find a deficit in one area, read a few books, try a few things to implement the new ideas, test them, and keep adjusting.",
+     "text": "How do you come up with that plan? I asked. The student said: have a focus. If you find a deficit in one area, read a few books, try a few things to implement the new ideas, test them, and keep adjusting.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said: so you do a personal needs assessment. You diagnose the areas you want to work on, and then you build the curriculum around those areas.",
+     "text": "I said: so you do a personal needs assessment. You diagnose the areas you want to work on, and then you build the curriculum around those areas.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call the student's method of diagnosing deficits?",
+   "q": "What did I call the student's method of diagnosing deficits?",
    "choices": [
     "A personal needs assessment",
     "A test",

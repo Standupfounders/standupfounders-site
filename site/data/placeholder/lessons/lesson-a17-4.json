@@ -4,7 +4,7 @@
  "title": "Learning without a box",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Love of learning",
    "lines": [
     {
-     "text": "As parents we face the dilemma, Jose said, that our children are in a very specialized system. How do I encourage risk, and learning about everything, and the momentum of wanting to learn everything I can get my hands on?",
+     "text": "As parents we face the dilemma, I said, that our children are in a very specialized system. How do I encourage risk, and learning about everything, and the momentum of wanting to learn everything I can get my hands on?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The last thing you want is your child to go off learning, he said. When I talk to a teacher I say: your goal is to inspire, children to love learning, learning about anything. Once they love learning, look at the momentum.",
+     "text": "The last thing you want is your child to go off learning, I said. When I talk to a teacher I say: your goal is to inspire, children to love learning, learning about anything. Once they love learning, look at the momentum.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "plain"
     },
     {
-     "text": "He asked why some professional athletes become incredible businessmen and keep their wealth while others lose it all. If they learned discipline and habits, why doesn't it cross over to their personal lives? He said: it is the same answer to this riddle.",
+     "text": "I asked why some professional athletes become incredible businessmen and keep their wealth while others lose it all. If they learned discipline and habits, why doesn't it cross over to their personal lives? I said: it is the same answer to this riddle.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Without a box",
    "lines": [
     {
-     "text": "He said the person in the book can pull himself out of the specialized and see the bigger picture. Imagine looking at the earth as a tiny dot below you in a spaceship, he said. That is how they get comfortable thinking outside the box. He doesn't even have a box.",
+     "text": "I said the person in the book can pull himself out of the specialized and see the bigger picture. Imagine looking at the earth as a tiny dot below you in a spaceship, I said. That is how they get comfortable thinking outside the box. He doesn't even have a box.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
      "kind": "student"
     },
     {
-     "text": "Curiosity is the father of learning, Jose said. He doesn't look at learning as a risk. How much freedom do I have in choosing what I learn, and in not looking at it as a risk? Am I picking up things I'm uncomfortable with but curious about?",
+     "text": "Curiosity is the father of learning, I said. He doesn't look at learning as a risk. How much freedom do I have in choosing what I learn, and in not looking at it as a risk? Am I picking up things I'm uncomfortable with but curious about?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a teacher's goal should be?",
+   "q": "What did I say a teacher's goal should be?",
    "choices": [
     "To inspire children to love learning",
     "To give homework",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call curiosity?",
+   "q": "What did I call curiosity?",
    "choices": [
     "The father of learning",
     "A distraction",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What question did Jose ask about freedom?",
+   "q": "What question did I ask about freedom?",
    "choices": [
     "How much freedom do I have in choosing what I learn?",
     "How much time do I have?",

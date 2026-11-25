@@ -4,7 +4,7 @@
  "title": "Make them the hero",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Make them the hero",
    "lines": [
     {
-     "text": "Jose said that in his erosion-control business, which is a nationwide issue, they approach senators. We can be a conduit of information that can save people from catastrophes: flooding, inspection issues, insurance and banking problems. How do you turn the official into the hero in that situation?",
+     "text": "I said that in my erosion-control business, which is a nationwide issue, they approach senators. We can be a conduit of information that can save people from catastrophes: flooding, inspection issues, insurance and banking problems. How do you turn the official into the hero in that situation?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,13 +34,13 @@
      "kind": "plain"
     },
     {
-     "text": "What I normally do is build their political platform on a specific issue, Jose said. Sometimes we write the part of the speech that has to do with that issue.",
+     "text": "What I normally do is build their political platform on a specific issue, I said. Sometimes we write the part of the speech that has to do with that issue.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: you have to feed them all the information, because they won't inherently know the nuanced details. Jose said: the more prepared you are, the more success you will have. Don't leave it in the nebula. Build credibility with other institutions behind you.",
+     "text": "A student said: you have to feed them all the information, because they won't inherently know the nuanced details. I said: the more prepared you are, the more success you will have. Don't leave it in the nebula. Build credibility with other institutions behind you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
    "heading": "Innovation is ahead of regulation",
    "lines": [
     {
-     "text": "You should read a couple of books on political lobbying to understand the landscape, Jose said, especially if you are innovating. Innovation is always ahead of regulation.",
+     "text": "You should read a couple of books on political lobbying to understand the landscape, I said, especially if you are innovating. Innovation is always ahead of regulation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He lived this in the telecom days, he said, and it is happening now in fintech: there's no law for it, so it must be illegal. Then they create a law that stops or limits the innovation, or creates so much red tape. That is the stance in some countries in Latin America.",
+     "text": "I lived this in the telecom days, I said, and it is happening now in fintech: there's no law for it, so it must be illegal. Then they create a law that stops or limits the innovation, or creates so much red tape. That is the stance in some countries in Latin America.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he is trying to lobby for a crowdfunding law in one country now, and that officials often don't have the capacity to know the impact of the innovation.",
+     "text": "I said I am trying to lobby for a crowdfunding law in one country now, and that officials often don't have the capacity to know the impact of the innovation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,19 +74,19 @@
    "heading": "Start early",
    "lines": [
     {
-     "text": "A student asked: how soon is too soon to involve political figures? Jose said: as soon as possible. If you are dealing with flight regulators, approach them now. And they can also lead you to money, because people with money have approached them.",
+     "text": "A student asked: how soon is too soon to involve political figures? I said: as soon as possible. If you are dealing with flight regulators, approach them now. And they can also lead you to money, because people with money have approached them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You don't want to wait for your business to be vulnerable at the stroke of a pen of a politician, he said. Be diplomatic: this could be an opportunity for you to be an innovator in the space. A student added: with absolutely no exchange for your support.",
+     "text": "You don't want to wait for your business to be vulnerable at the stroke of a pen of a politician, I said. Be diplomatic: this could be an opportunity for you to be an innovator in the space. A student added: with absolutely no exchange for your support.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said politicians are aware of the media and read it all the time. You can write an article that will reach their desk, and send it to them: we thought you would like to read this.",
+     "text": "I said politicians are aware of the media and read it all the time. You can write an article that will reach their desk, and send it to them: we thought you would like to read this.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -119,7 +119,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about innovation and regulation?",
+   "q": "What did I say about innovation and regulation?",
    "choices": [
     "Innovation is always ahead of regulation",
     "Regulation comes first",
@@ -128,7 +128,7 @@
    "answer": 0
   },
   {
-   "q": "When did Jose say to approach the officials?",
+   "q": "When did I say to approach the officials?",
    "choices": [
     "As soon as possible",
     "After you are big",
@@ -137,7 +137,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you might do with an article?",
+   "q": "What did I say you might do with an article?",
    "choices": [
     "Write it so it reaches their desk",
     "Hide it",

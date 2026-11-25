@@ -4,7 +4,7 @@
  "title": "Who came up with that requirement?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,31 +22,31 @@
    "heading": "Cognitive entrenchment",
    "lines": [
     {
-     "text": "Jose explained an idea he calls cognitive entrenchment. It is a tendency to get stuck in a particular way of thinking when the evidence suggests otherwise.",
+     "text": "I explained an idea I call cognitive entrenchment. It is a tendency to get stuck in a particular way of thinking when the evidence suggests otherwise.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose describes it from the book, there was a government requirement for the founder's rockets. The engineers' natural answer was no, we can't, there is a requirement. The founder asked: who came up with that requirement? He challenged it even though, quote unquote, it was the law.",
+     "text": "As I describe it from the book, there was a government requirement for the founder's rockets. The engineers' natural answer was no, we can't, there is a requirement. The founder asked: who came up with that requirement? He challenged it even though, quote unquote, it was the law.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said the way we are educated makes us specialized. Information is chunked so that people can memorize it and apply it.",
+     "text": "I said the way we are educated makes us specialized. Information is chunked so that people can memorize it and apply it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "There is a saying, he said: if all you have is a hammer, everything looks like a nail.",
+     "text": "There is a saying, I said: if all you have is a hammer, everything looks like a nail.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He added that engineers train with very rigid, structured systems, so getting them out of that is sometimes a challenge.",
+     "text": "I added that engineers train with very rigid, structured systems, so getting them out of that is sometimes a challenge.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,31 +57,31 @@
    "heading": "What is the skill set he is using?",
    "lines": [
     {
-     "text": "So what skill is the founder using, Jose asked, to lead people when he has no deep experience in what they do?",
+     "text": "So what skill is the founder using, I asked, to lead people when he has no deep experience in what they do?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: contrarian thinking. Another said he brings everything back to first principles, the basic laws you don't need deep knowledge to understand. Jose said both are right.",
+     "text": "A student said: contrarian thinking. Another said he brings everything back to first principles, the basic laws you don't need deep knowledge to understand. I said both are right.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "Then Jose gave his example. You go to a mechanic and you know nothing about engines. He could charge you five hundred dollars, or two thousand. Your lack of knowledge is a threat. So you have to challenge what the mechanic is doing. What resource do you use?",
+     "text": "Then I gave my example. You go to a mechanic and you know nothing about engines. He could charge you five hundred dollars, or two thousand. Your lack of knowledge is a threat. So you have to challenge what the mechanic is doing. What resource do you use?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "His answer, about the founder: he is looking for bias. He studies the person and asks how that person is limited in their way of thinking. It is more a study of the human's limitation than of the subject.",
+     "text": "My answer, about the founder: he is looking for bias. He studies the person and asks how that person is limited in their way of thinking. It is more a study of the human's limitation than of the subject.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose asked if there was another way to explain it. A student said the founder is like a sponge, learning on the go from the people who know. Jose agreed that was another concept.",
+     "text": "I asked if there was another way to explain it. A student said the founder is like a sponge, learning on the go from the people who know. I agreed that was another concept.",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -92,13 +92,13 @@
    "heading": "Why can't it be 4?",
    "lines": [
     {
-     "text": "Jose gave one more example from the book. As he describes it, the founder looked at the thickness of the steel and asked: why can't it be 4? Why does it have to be 16? The engineers said that was too scary: below 4, they were not comfortable. He said okay, we will stop there, make it 4, but he pushed them to get rid of the bias in those government requirements.",
+     "text": "I gave one more example from the book. As I describe it, the founder looked at the thickness of the steel and asked: why can't it be 4? Why does it have to be 16? The engineers said that was too scary: below 4, they were not comfortable. He said okay, we will stop there, make it 4, but he pushed them to get rid of the bias in those government requirements.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose added: of course there is a risk tolerance to this. You have to know your risk tolerance, and be comfortable with it.",
+     "text": "I added: of course there is a risk tolerance to this. You have to know your risk tolerance, and be comfortable with it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -136,7 +136,7 @@
  },
  "check": [
   {
-   "q": "What does Jose say cognitive entrenchment is?",
+   "q": "What do I say cognitive entrenchment is?",
    "choices": [
     "Getting stuck in one way of thinking when the evidence suggests otherwise",
     "Learning a lot very quickly",
@@ -145,7 +145,7 @@
    "answer": 0
   },
   {
-   "q": "To challenge a mechanic about something you know nothing about, what does Jose say to study?",
+   "q": "To challenge a mechanic about something you know nothing about, what do I say to study?",
    "choices": [
     "The engine",
     "How the person is limited in their way of thinking",
@@ -154,7 +154,7 @@
    "answer": 1
   },
   {
-   "q": "Which saying did Jose use about being over-specialized?",
+   "q": "Which saying did I use about being over-specialized?",
    "choices": [
     "Measure twice, cut once",
     "If all you have is a hammer, everything looks like a nail",

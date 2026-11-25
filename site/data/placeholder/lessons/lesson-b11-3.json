@@ -4,7 +4,7 @@
  "title": "Nobody gets any freebies",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Nobody gets any freebies",
    "lines": [
     {
-     "text": "Jose read a line from one of the author's children about how their father raised them.",
+     "text": "I read a line from one of the author's children about how their father raised them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,13 +34,13 @@
      "kind": "quote"
     },
     {
-     "text": "So he's teaching his son money management, Jose said. And then, when he came home at Christmas his senior year, he asked: what area of business would you like to work in? I found that kind of funny, because he is very formal with his son.",
+     "text": "So he's teaching his son money management, I said. And then, when he came home at Christmas his senior year, he asked: what area of business would you like to work in? I found that kind of funny, because he is very formal with his son.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I can tell he is a tough love kind of guy, Jose said. He is all about the work ethic. He is all about make your own money. He has all these beautiful principles that he passes down to his kids. Nobody gets any freebies.",
+     "text": "I can tell he is a tough love kind of guy, I said. He is all about the work ethic. He is all about make your own money. He has all these beautiful principles that he passes down to his kids. Nobody gets any freebies.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
    "heading": "They made them do chores",
    "lines": [
     {
-     "text": "There is a very good book on entrepreneurs, Jose said, and entrepreneurs have something in common that is fascinating: their parents made them do chores. Clean the pool, mow the lawns, take care of the horses. That is basically how they earned their living in the house.",
+     "text": "There is a very good book on entrepreneurs, I said, and entrepreneurs have something in common that is fascinating: their parents made them do chores. Clean the pool, mow the lawns, take care of the horses. That is basically how they earned their living in the house.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They taught them that work ethic, he said.",
+     "text": "They taught them that work ethic, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say entrepreneurs often have in common?",
+   "q": "What did I say entrepreneurs often have in common?",
    "choices": [
     "Their parents made them do chores",
     "They went to the same school",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the author as a father?",
+   "q": "What did I say about the author as a father?",
    "choices": [
     "Tough love: nobody gets any freebies",
     "Very relaxed",

@@ -4,7 +4,7 @@
  "title": "What are the signs that this person is for real?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Who is he?",
    "lines": [
     {
-     "text": "Jose said he wanted to go on a tangent and make the call more collaborative. I'm going to be calling on people a lot more, he said, and change the dynamic of me sitting here talking. I want everybody learning from each other.",
+     "text": "I said I wanted to go on a tangent and make the call more collaborative. I'm going to be calling on people a lot more, I said, and change the dynamic of me sitting here talking. I want everybody learning from each other.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: who is the author? What would you say to someone? A student said: a visionary businessman who knew how to take hold of and grow businesses, made good connections, understood who he was, and wasn't afraid to speak his mind.",
+     "text": "I asked: who is the author? What would you say to someone? A student said: a visionary businessman who knew how to take hold of and grow businesses, made good connections, understood who he was, and wasn't afraid to speak his mind.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose added: extremely structured, with incredible habits, relentless. I think he conquered a lot of limitations in his life from early childhood. No task was ever big enough for him. He always thought of himself as a winner. He never stayed in a negative mindset.",
+     "text": "I added: extremely structured, with incredible habits, relentless. I think he conquered a lot of limitations in his life from early childhood. No task was ever big enough for him. He always thought of himself as a winner. He never stayed in a negative mindset.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
    "heading": "What are the signs that this person is for real?",
    "lines": [
     {
-     "text": "Jose asked a student: if you met him and didn't know anything about him, what would you think? Probably with a grain of salt, the student said. I might have a hard time believing some of the more extravagant things. Jose said: I bet you would believe twenty percent of what came out of his mouth.",
+     "text": "I asked a student: if you met him and didn't know anything about him, what would you think? Probably with a grain of salt, the student said. I might have a hard time believing some of the more extravagant things. I said: I bet you would believe twenty percent of what came out of his mouth.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When you meet somebody extraordinary, Jose said, what do they have in common? Self-confidence. They talk about what they are going to do. They don't dwell on the past. You meet a crazy guy who talks a million miles an hour about what he's going to do, and you think: he's arrogant, full of himself. But what are the signs that he is for real?",
+     "text": "When you meet somebody extraordinary, I said, what do they have in common? Self-confidence. They talk about what they are going to do. They don't dwell on the past. You meet a crazy guy who talks a million miles an hour about what he's going to do, and you think: he's arrogant, full of himself. But what are the signs that he is for real?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What are the clues you leave, he asked, that people say: he's going to get it done? He has a positive belief system. There are signs that show that to other people, just as there are signs that you have a negative belief.",
+     "text": "What are the clues you leave, I asked, that people say: he's going to get it done? He has a positive belief system. There are signs that show that to other people, just as there are signs that you have a negative belief.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say extraordinary people have in common?",
+   "q": "What did I say extraordinary people have in common?",
    "choices": [
     "Self-confidence and not dwelling on the past",
     "Great wealth",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose ask for about the author in this lesson?",
+   "q": "What did I ask for about the author in this lesson?",
    "choices": [
     "Who is he, and what are the signs he is for real",
     "How much did he earn",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he wanted the call to be?",
+   "q": "What did I say I wanted the call to be?",
    "choices": [
     "More collaborative, everybody learning from each other",
     "Shorter",

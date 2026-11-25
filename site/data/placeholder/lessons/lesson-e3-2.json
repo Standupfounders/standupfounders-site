@@ -4,7 +4,7 @@
  "title": "The ten-dollar game",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The game",
    "lines": [
     {
-     "text": "Jose described a class exercise from the book, the ultimatum game: people are in pairs as a proposer and an acceptor. The proposer offers a number of dollars; if the acceptor agrees, the acceptor gets the offer and the proposer keeps the rest, and if not, they lose it all.",
+     "text": "I described a class exercise from the book, the ultimatum game: people are in pairs as a proposer and an acceptor. The proposer offers a number of dollars; if the acceptor agrees, the acceptor gets the offer and the proposer keeps the rest, and if not, they lose it all.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He ran it in the class with ten dollars, and said the money had been given to the players, so they could lose it.",
+     "text": "I ran it in the class with ten dollars, and said the money had been given to the players, so they could lose it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Fair is a loaded word",
    "lines": [
     {
-     "text": "Jose said that you have to be careful with the word fair, because it is a fair price and then you think: wait, wait, wait. He said the proposer needs you, because he has to do the deal with you or lose all the money.",
+     "text": "I said that you have to be careful with the word fair, because it is a fair price and then you think: wait, wait, wait. I said the proposer needs you, because he has to do the deal with you or lose all the money.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the word fair?",
+   "q": "What did I say about the word fair?",
    "choices": [
     "Be careful with it",
     "Use it always",

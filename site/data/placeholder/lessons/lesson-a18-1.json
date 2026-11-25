@@ -4,7 +4,7 @@
  "title": "Start today",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Start today",
    "lines": [
     {
-     "text": "Jose asked: does anybody know why he calls it the boring company? A student said it could be the boring of boring a hole. Jose said: I can't believe I missed that.",
+     "text": "I asked: does anybody know why he calls it the boring company? A student said it could be the boring of boring a hole. I said: I can't believe I missed that.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How does he decide to start a brand-new company? Jose said: traffic is driving me nuts. It's a problem, and I'm not the only one who has it. So he asks: does everybody else have this problem? And then he says: let's get it going.",
+     "text": "How does he decide to start a brand-new company? I said: traffic is driving me nuts. It's a problem, and I'm not the only one who has it. So he asks: does everybody else have this problem? And then he says: let's get it going.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Very action-oriented, Jose said. We have talked a lot about people who say: I don't have the time. Imagine this man's time, with several companies already. And all of a sudden he says: let's start another business. Buy two machines. How does he do that?",
+     "text": "Very action-oriented, I said. We have talked a lot about people who say: I don't have the time. Imagine this man's time, with several companies already. And all of a sudden he says: let's start another business. Buy two machines. How does he do that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: that was a key thing you just said. One of the challenges we know is how to build the team. I don't know where to get these people, and not everybody is built to be an entrepreneur.",
+     "text": "I said: that was a key thing you just said. One of the challenges we know is how to build the team. I don't know where to get these people, and not everybody is built to be an entrepreneur.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "How did Jose say the person decides to start a new company?",
+   "q": "How did I say the person decides to start a new company?",
    "choices": [
     "He sees a problem and asks whether everybody else has it",
     "He makes a spreadsheet",

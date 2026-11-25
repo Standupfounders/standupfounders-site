@@ -4,7 +4,7 @@
  "title": "Three things each morning",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Three morning strategies",
    "lines": [
     {
-     "text": "Jose asked what three things you would think about each morning so that you do not fall for the wrong temptation, such as the wrong client. A student answered: start with gratitude, stick to your values by setting goals that align with them, and set priorities, the actionable items for today.",
+     "text": "I asked what three things you would think about each morning so that you do not fall for the wrong temptation, such as the wrong client. A student answered: start with gratitude, stick to your values by setting goals that align with them, and set priorities, the actionable items for today.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that he asks: are these my values? He said he would rather read a good book and spend time with close friends, and that this makes him more careful. He said he was not saying one set of values is better than another.",
+     "text": "I said that I ask: are these my values? I said I would rather read a good book and spend time with close friends, and that this makes me more careful. I said I was not saying one set of values is better than another.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that being present and grateful stops you getting contaminated by the fabricated world of I need this and I need that.",
+     "text": "I said that being present and grateful stops you getting contaminated by the fabricated world of I need this and I need that.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked how gratitude could be bundled with a goal such as growing a business. A student said: if you are grateful for the relationships and systems you have, you will be more conscious of ways to improve them, instead of thinking you need more capital.",
+     "text": "I asked how gratitude could be bundled with a goal such as growing a business. A student said: if you are grateful for the relationships and systems you have, you will be more conscious of ways to improve them, instead of thinking you need more capital.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say being grateful stops?",
+   "q": "What did I say being grateful stops?",
    "choices": [
     "Getting contaminated by the fabricated world",
     "Getting sleepy",

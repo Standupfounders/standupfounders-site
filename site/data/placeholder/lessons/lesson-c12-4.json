@@ -4,7 +4,7 @@
  "title": "Time and freedom",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Identity and things",
    "lines": [
     {
-     "text": "Jose asked the younger people: how much of your identity is tied to material things, a nice car or good clothes? He said that wealth is hidden, so it does not reinforce identity the way visible things do.",
+     "text": "I asked the younger people: how much of your identity is tied to material things, a nice car or good clothes? I said that wealth is hidden, so it does not reinforce identity the way visible things do.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: what we are seeking is time and freedom. Jose said that people who control their time tend to live happier lives, and the driving force behind all this is time.",
+     "text": "A student said: what we are seeking is time and freedom. I said that people who control their time tend to live happier lives, and the driving force behind all this is time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked how much of your active income is becoming passive, so that your time is not committed to it.",
+     "text": "I asked how much of your active income is becoming passive, so that your time is not committed to it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Desire and what it costs",
    "lines": [
     {
-     "text": "Jose said that if he could advise himself at sixteen or eighteen, the first thing would be: do not care what others think of you. Spend less, save more and desire less. Be disciplined about desire.",
+     "text": "I said that if I could advise myself at sixteen or eighteen, the first thing would be: do not care what others think of you. Spend less, save more and desire less. Be disciplined about desire.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that big boats and cars suck money and time, through maintenance, taxes and expenses, and he wants the least of his time taken up by things.",
+     "text": "I said that big boats and cars suck money and time, through maintenance, taxes and expenses, and I want the least of my time taken up by things.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "Your environment",
    "lines": [
     {
-     "text": "Jose said that the people around you matter: he is in an environment with farmers who are very aware of risk and live frugally, and it is easy to be inspired by them, but you still have to ask how you will make money in that environment.",
+     "text": "I said that the people around you matter: I am in an environment with farmers who are very aware of risk and live frugally, and it is easy to be inspired by them, but you still have to ask how you will make money in that environment.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about wealth being hidden?",
+   "q": "What did I say about wealth being hidden?",
    "choices": [
     "It does not reinforce identity",
     "It is loud",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about desire?",
+   "q": "What did I say about desire?",
    "choices": [
     "Be disciplined about it",
     "Follow it",

@@ -4,7 +4,7 @@
  "title": "From what you do to who you are",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "From what to who",
    "lines": [
     {
-     "text": "Jose said that the famous chef is more famous for who he is than for what he does, and that people picturing the restaurants do not picture him cooking, but an abstraction of the best restaurant because of who is behind it.",
+     "text": "I said that the famous chef is more famous for who he is than for what he does, and that people picturing the restaurants do not picture him cooking, but an abstraction of the best restaurant because of who is behind it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student asked: do people get there from excellence in their craft, or from something else? Jose said it is like a relay race: you do something with excellence, then what you do takes a back seat and it becomes who you are. You cannot become somebody without credibility and results.",
+     "text": "A student asked: do people get there from excellence in their craft, or from something else? I said it is like a relay race: you do something with excellence, then what you do takes a back seat and it becomes who you are. You cannot become somebody without credibility and results.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that people lend out their name and get paid a great deal, because millions of people see a symbol of success. He said that is the power of image, voice, branding and messaging.",
+     "text": "I said that people lend out their name and get paid a great deal, because millions of people see a symbol of success. I said that is the power of image, voice, branding and messaging.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when someone calls and says I heard you are the person to call for this problem, his branding is filtering the people who come to him. Anyone who is a fan of a specialist has been filtered.",
+     "text": "I said that when someone calls and says I heard you are the person to call for this problem, my branding is filtering the people who come to me. Anyone who is a fan of a specialist has been filtered.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose compare it to?",
+   "q": "What did I compare it to?",
    "choices": [
     "A relay race",
     "A boat",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you cannot do without credibility and results?",
+   "q": "What did I say you cannot do without credibility and results?",
    "choices": [
     "Become somebody",
     "Make friends",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a brand does with the people who come to you?",
+   "q": "What did I say a brand does with the people who come to you?",
    "choices": [
     "Filters them",
     "Blocks them",

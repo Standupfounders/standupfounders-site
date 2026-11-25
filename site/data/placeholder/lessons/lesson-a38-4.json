@@ -4,7 +4,7 @@
  "title": "Private or public?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Why go private",
    "lines": [
     {
-     "text": "Jose asked: why does he want to take it private? A student said: as a general comment, one of the advantages of going private is that executives at public companies talk about having to manage to the street, making short-term decisions at the expense of long-term ones so as not to miss quarterly goals and take a hit on the stock price.",
+     "text": "I asked: why does he want to take it private? A student said: as a general comment, one of the advantages of going private is that executives at public companies talk about having to manage to the street, making short-term decisions at the expense of long-term ones so as not to miss quarterly goals and take a hit on the stock price.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "Culture changes",
    "lines": [
     {
-     "text": "It is amazing, Jose said, the way a whole company culture changes, and I've seen it when companies go private and then public, where the focus becomes: what is our stock price?",
+     "text": "It is amazing, I said, the way a whole company culture changes, and I've seen it when companies go private and then public, where the focus becomes: what is our stock price?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A famous investor doesn't worry about the stock price, he said. He worries about the fundamentals of the business and the long-term strategy. Being a public company can be very distracting for a long-term view.",
+     "text": "A famous investor doesn't worry about the stock price, I said. He worries about the fundamentals of the business and the long-term strategy. Being a public company can be very distracting for a long-term view.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student added: we all know he cuts a lot of expenses. Jose said: then he has to develop a business model so it can make money.",
+     "text": "A student added: we all know he cuts a lot of expenses. I said: then he has to develop a business model so it can make money.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say changes when a company goes public?",
+   "q": "What did I say changes when a company goes public?",
    "choices": [
     "The whole culture: the focus becomes the stock price",
     "The logo",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a famous investor worries about?",
+   "q": "What did I say a famous investor worries about?",
    "choices": [
     "The fundamentals and the long-term strategy",
     "The daily stock price",

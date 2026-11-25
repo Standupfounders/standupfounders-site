@@ -4,7 +4,7 @@
  "title": "Question every requirement",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Question every requirement",
    "lines": [
     {
-     "text": "Jose went through the five points from the book. He read the first.",
+     "text": "I went through the five points from the book. I read the first.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "quote"
     },
     {
-     "text": "You need to know the real name of the person who made the requirement, Jose said, and you should question it no matter how smart the person is. Sometimes the requirements from the smart people are the most dangerous, because people ask fewer questions.",
+     "text": "You need to know the real name of the person who made the requirement, I said, and you should question it no matter how smart the person is. Sometimes the requirements from the smart people are the most dangerous, because people ask fewer questions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Delete the process",
    "lines": [
     {
-     "text": "Jose said the second is: delete any process you don't need. What process in your day would you eliminate?",
+     "text": "I said the second is: delete any process you don't need. What process in your day would you eliminate?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: that is great. He also said the third was to accelerate the cycle time and automate.",
+     "text": "I said: that is great. I also said the third was to accelerate the cycle time and automate.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you need to know about a requirement?",
+   "q": "What did I say you need to know about a requirement?",
    "choices": [
     "The real name of the person who made it",
     "The cost",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What is the second point Jose read?",
+   "q": "What is the second point I read?",
    "choices": [
     "Delete any process you don't need",
     "Add more steps",

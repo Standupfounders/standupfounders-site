@@ -4,7 +4,7 @@
  "title": "Ask why",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: very good. He is relentless about asking questions and getting it done.",
+     "text": "I said: very good. He is relentless about asking questions and getting it done.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "The risk-taker profile",
    "lines": [
     {
-     "text": "What about this man vibes with the person in the book? Jose said: he is relaxed, goes with the flow, open-minded. He said, in effect: this man is crazy and he's going to lose all his money, but he seems smart and motivated, and I like his style. He is a risk-taker.",
+     "text": "What about this man vibes with the person in the book? I said: he is relaxed, goes with the flow, open-minded. He said, in effect: this man is crazy and he's going to lose all his money, but he seems smart and motivated, and I like his style. He is a risk-taker.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He questions all the requirements and the rules and goes to the fundamentals of physics, Jose said. When you are building a culture, you have to study: what kind of person do I want, what is their level of risk, what will they tolerate?",
+     "text": "He questions all the requirements and the rules and goes to the fundamentals of physics, I said. When you are building a culture, you have to study: what kind of person do I want, what is their level of risk, what will they tolerate?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "In a startup like ours we have to attract that kind of risk-taker, the person who thinks outside the box, and who is relentless in asking questions and getting it done, he said.",
+     "text": "In a startup like ours we have to attract that kind of risk-taker, the person who thinks outside the box, and who is relentless in asking questions and getting it done, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you have to study when building a culture?",
+   "q": "What did I say you have to study when building a culture?",
    "choices": [
     "What kind of person you want and their level of risk",
     "Their age",

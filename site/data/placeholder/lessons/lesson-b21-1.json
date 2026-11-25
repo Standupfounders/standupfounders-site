@@ -4,7 +4,7 @@
  "title": "What is he repeatedly doing that is not working?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "What is he repeatedly doing that's not working?",
    "lines": [
     {
-     "text": "Jose said the chapter ends with the author having trouble in his marriage. He asked: what can we learn from what he is doing in relationships? What is he repeatedly doing that is not working?",
+     "text": "I said the chapter ends with the author having trouble in his marriage. I asked: what can we learn from what he is doing in relationships? What is he repeatedly doing that is not working?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose agreed: he stays in a bit of a selfish mode. I'm building this business, I've got all these things to do.",
+     "text": "I agreed: he stays in a bit of a selfish mode. I'm building this business, I've got all these things to do.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
    "heading": "Study somebody's personal life",
    "lines": [
     {
-     "text": "You have to look at somebody's personal life, Jose said, to make sure it is in sync with their professional life. The word is congruent. Not self-reflecting is part of his Achilles heel. He accomplishes all these things, but he doesn't self-reflect.",
+     "text": "You have to look at somebody's personal life, I said, to make sure it is in sync with their professional life. The word is congruent. Not self-reflecting is part of his Achilles heel. He accomplishes all these things, but he doesn't self-reflect.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So the takeaway for entrepreneurs, he said: study somebody's personal life and see if they are congruent with the values they talk about in their business life. Are they practicing what they preach? And he is always talking about what he is going to do in the future, so study what he did in the past and what he does day to day in the present.",
+     "text": "So the takeaway for entrepreneurs, I said: study somebody's personal life and see if they are congruent with the values they talk about in their business life. Are they practicing what they preach? And he is always talking about what he is going to do in the future, so study what he did in the past and what he does day to day in the present.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose read the author's account that he was sent to boarding school at four and learned to cope by himself. He said: he does not rely on people. He is the leader. He is the one who does everything. I can do this by myself.",
+     "text": "I read the author's account that he was sent to boarding school at four and learned to cope by himself. I said: he does not rely on people. He is the leader. He is the one who does everything. I can do this by myself.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What word did Jose use for a personal life that matches business values?",
+   "q": "What word did I use for a personal life that matches business values?",
    "choices": [
     "Congruent",
     "Lucky",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say entrepreneurs should study in a person?",
+   "q": "What did I say entrepreneurs should study in a person?",
    "choices": [
     "Whether their personal life is congruent with their stated values",
     "Their income",

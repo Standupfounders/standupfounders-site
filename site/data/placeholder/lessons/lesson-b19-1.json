@@ -4,7 +4,7 @@
  "title": "What is the value of an old guy in a company?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "He has no idea what it is to work for somebody",
    "lines": [
     {
-     "text": "Jose said: what do we know about him? He has no idea what it is to work for somebody. He is used to being the boss, calling the shots, saying what he thinks. So he goes barging into the office of a senior executive, not politically correct, and starts telling him what to do.",
+     "text": "I said: what do we know about him? He has no idea what it is to work for somebody. He is used to being the boss, calling the shots, saying what he thinks. So he goes barging into the office of a senior executive, not politically correct, and starts telling him what to do.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He is in a new company now, Jose said. He has no idea of the culture and how they behave. What do we learn from that? A student said: he cuts the inefficiencies. He says, you've got to go.",
+     "text": "He is in a new company now, I said. He has no idea of the culture and how they behave. What do we learn from that? A student said: he cuts the inefficiencies. He says, you've got to go.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose tells it, the executive made him aware of everything he was dealing with, including competitors he was not up on, and indicated that the author was kind of out of touch. The author asked whether the man was a sailor and whether he let other people hold the tiller. The man said no, and neither do I.",
+     "text": "As I tell it, the executive made him aware of everything he was dealing with, including competitors he was not up on, and indicated that the author was kind of out of touch. The author asked whether the man was a sailor and whether he let other people hold the tiller. The man said no, and neither do I.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
      "kind": "plain"
     },
     {
-     "text": "What do you think is the value of an old guy in a company, Jose asked? I'm saying this with the mindset of: why do you get a board of advisors that has age, even though they may not be relevant in the day-to-day running of your business? They are older, and they can see things.",
+     "text": "What do you think is the value of an old guy in a company, I asked? I'm saying this with the mindset of: why do you get a board of advisors that has age, even though they may not be relevant in the day-to-day running of your business? They are older, and they can see things.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said they could not yet equate the older person's business challenges with the present. Jose took it on.",
+     "text": "A student said they could not yet equate the older person's business challenges with the present. I took it on.",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the author had no idea about?",
+   "q": "What did I say the author had no idea about?",
    "choices": [
     "What it is to work for somebody",
     "How to sail",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What question did Jose ask about older people in a company?",
+   "q": "What question did I ask about older people in a company?",
    "choices": [
     "What is the value of an old guy?",
     "How old are they?",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "Why did Jose say you might want a board of advisors that has age?",
+   "q": "Why did I say you might want a board of advisors that has age?",
    "choices": [
     "They can see things, even if not relevant day to day",
     "They are cheaper",

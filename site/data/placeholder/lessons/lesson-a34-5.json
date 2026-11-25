@@ -4,7 +4,7 @@
  "title": "Listen, then invest",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Market-needs positioning",
    "lines": [
     {
-     "text": "Jose said that strategy isn't just big-picture thinking. It can be a discussion in products, administrative processes, channel strategies, geographic reach, brand identity, customer service. Our mistake is thinking it is a big conceptual umbrella when it is all of these little silos.",
+     "text": "I said that strategy isn't just big-picture thinking. It can be a discussion in products, administrative processes, channel strategies, geographic reach, brand identity, customer service. Our mistake is thinking it is a big conceptual umbrella when it is all of these little silos.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose called it market-needs-based positioning, he said. A lot of us say: this is my competency and what I want to do. But that is not necessarily what the market needs or what will create long-term customers for you.",
+     "text": "I called it market-needs-based positioning, I said. A lot of us say: this is my competency and what I want to do. But that is not necessarily what the market needs or what will create long-term customers for you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said: I think strategy is first and operational structure is second. I don't see a company making it without a solid strategy. I'm open for discussion on that one.",
+     "text": "I said: I think strategy is first and operational structure is second. I don't see a company making it without a solid strategy. I'm open for discussion on that one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the second step is: after they listen, does the company invest in the procedures that are essential to your strategy? It is not one investment, it is continually investing. You can talk until you are blue in the face about strategy, but does the company listen, and does it invest?",
+     "text": "I said the second step is: after they listen, does the company invest in the procedures that are essential to your strategy? It is not one investment, it is continually investing. You can talk until you are blue in the face about strategy, but does the company listen, and does it invest?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call positioning by what the market needs?",
+   "q": "What did I call positioning by what the market needs?",
    "choices": [
     "Market-needs-based positioning",
     "Comfort positioning",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a company must do after it listens?",
+   "q": "What did I say a company must do after it listens?",
    "choices": [
     "Keep investing in procedures essential to the strategy",
     "Stop",

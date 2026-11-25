@@ -4,7 +4,7 @@
  "title": "Who, why, how",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Branding is an image",
    "lines": [
     {
-     "text": "Jose said that the book's simple words are: branding is creating an image in the mind of your audience. He asked a student: what is your brand?",
+     "text": "I said that the book's simple words are: branding is creating an image in the mind of your audience. I asked a student: what is your brand?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said she outlined three things: who you are, why you matter to people, and how people benefit from you. Another student described entrepreneurship, doing it ethically, and still living an enjoyable life.",
+     "text": "I said she outlined three things: who you are, why you matter to people, and how people benefit from you. Another student described entrepreneurship, doing it ethically, and still living an enjoyable life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Working to gain time",
    "lines": [
     {
-     "text": "Jose said that you can work to gain time: organizing your time, delegating, and changing your mindset from running a business to owning one. He said that it has to be a daily thing.",
+     "text": "I said that you can work to gain time: organizing your time, delegating, and changing your mindset from running a business to owning one. I said that it has to be a daily thing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that if he challenged someone to work just one hour in the week, they would go into maximum efficiency in that hour, and that is the discipline of gaining freedom of time.",
+     "text": "I said that if I challenged someone to work just one hour in the week, they would go into maximum efficiency in that hour, and that is the discipline of gaining freedom of time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "How did Jose define branding?",
+   "q": "How did I define branding?",
    "choices": [
     "Creating an image in the mind of your audience",
     "A logo",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What three things did Jose say the student outlined?",
+   "q": "What three things did I say the student outlined?",
    "choices": [
     "Who you are, why you matter, how people benefit",
     "Name, age, address",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about changing mindset?",
+   "q": "What did I say about changing mindset?",
    "choices": [
     "From running a business to owning one",
     "From owning to running",

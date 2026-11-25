@@ -4,7 +4,7 @@
  "title": "Disarm, do not escalate",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,19 +39,19 @@
    "heading": "Empathy gives momentum",
    "lines": [
     {
-     "text": "Jose said that they are building the empathy, which gives the momentum, and then they use the tools: how do I get you that money?",
+     "text": "I said that they are building the empathy, which gives the momentum, and then they use the tools: how do I get you that money?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that complexity, with many people and many sheets of numbers, is what tires us, and then the person quits and you start again and train them again.",
+     "text": "I said that complexity, with many people and many sheets of numbers, is what tires us, and then the person quits and you start again and train them again.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that he likes to watch how people manage themselves under conflict, and that one example is a psychological test given to a young person that tells you nothing about who they are.",
+     "text": "I said that I like to watch how people manage themselves under conflict, and that one example is a psychological test given to a young person that tells you nothing about who they are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say empathy gives?",
+   "q": "What did I say empathy gives?",
    "choices": [
     "Momentum",
     "Cost",

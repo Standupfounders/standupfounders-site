@@ -4,7 +4,7 @@
  "title": "Show it, do not hand it out",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Visual, not numbers",
    "lines": [
     {
-     "text": "Jose showed a spreadsheet of property prices, rents and sales, and asked what the challenges are. A student said that it is hard to separate and visualize. Jose said it is intimidating, and bar graphs make it easier.",
+     "text": "I showed a spreadsheet of property prices, rents and sales, and asked what the challenges are. A student said that it is hard to separate and visualize. I said it is intimidating, and bar graphs make it easier.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that for a daily sales report he asked for a visual of how ten people performed each day, and that the more visual the better, especially for presentations.",
+     "text": "I said that for a daily sales report I asked for a visual of how ten people performed each day, and that the more visual the better, especially for presentations.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "A tolerance for time",
    "lines": [
     {
-     "text": "Jose said that people have a tolerance for time, so you must plan your story to fit it.",
+     "text": "I said that people have a tolerance for time, so you must plan your story to fit it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that rookies hand the presentation out to everybody at the meeting, so everyone reads ahead and stops listening to you.",
+     "text": "I said that rookies hand the presentation out to everybody at the meeting, so everyone reads ahead and stops listening to you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say makes a spreadsheet easier to read?",
+   "q": "What did I say makes a spreadsheet easier to read?",
    "choices": [
     "Bar graphs",
     "More columns",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say rookies do?",
+   "q": "What did I say rookies do?",
    "choices": [
     "Hand out the presentation at the start",
     "Never prepare",

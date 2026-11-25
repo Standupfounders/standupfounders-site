@@ -4,7 +4,7 @@
  "title": "A prejudice has no rationale behind it",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "I'm just gonna extract the learning outcome",
    "lines": [
     {
-     "text": "Jose noted that the author calls this chapter World Citizen, and that in it he meets a very controversial figure. Jose said he would not give opinions, left or right. I'm just going to try to extract the learning outcome, and how we can view our position in a way that we don't have prejudice.",
+     "text": "I noted that the author calls this chapter World Citizen, and that in it he meets a very controversial figure. I said I would not give opinions, left or right. I'm just going to try to extract the learning outcome, and how we can view our position in a way that we don't have prejudice.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What I've learned over the years, he said, is that there is nothing better than to be open, non-judgmental, perceptive, tolerant of people's opinions and lifestyles. Not judging is a very difficult thing, but mastering it gives you tremendous peace. It leaves you open to learning a lot of things about people, whether or not you like their values.",
+     "text": "What I've learned over the years, I said, is that there is nothing better than to be open, non-judgmental, perceptive, tolerant of people's opinions and lifestyles. Not judging is a very difficult thing, but mastering it gives you tremendous peace. It leaves you open to learning a lot of things about people, whether or not you like their values.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student with long experience living abroad agreed: be receptive, and understand what locals have been living with. Jose said that kind of openness makes people trust you, and they tell you things they would not tell somebody closed. It also helps when you are negotiating.",
+     "text": "A student with long experience living abroad agreed: be receptive, and understand what locals have been living with. I said that kind of openness makes people trust you, and they tell you things they would not tell somebody closed. It also helps when you are negotiating.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "A prejudice has no rationale behind it",
    "lines": [
     {
-     "text": "A prejudice, Jose said, is a judgment that has no rationale behind it. When you meet somebody with a prejudice, there is no rationale. If you are tolerant, open and sensitive, it is hard to be with somebody like that, because you realize you are not on a rational level with them.",
+     "text": "A prejudice, I said, is a judgment that has no rationale behind it. When you meet somebody with a prejudice, there is no rationale. If you are tolerant, open and sensitive, it is hard to be with somebody like that, because you realize you are not on a rational level with them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose reads it, the author says his father raised him to be distrustful of a political ideology, and the climate of the times reinforced that.",
+     "text": "As I read it, the author says his father raised him to be distrustful of a political ideology, and the climate of the times reinforced that.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,19 +62,19 @@
    "heading": "Until there's action, the concept doesn't exist",
    "lines": [
     {
-     "text": "Jose asked: is the definition of a word like democracy the same for every leader? A student said: it changes from country to country.",
+     "text": "I asked: is the definition of a word like democracy the same for every leader? A student said: it changes from country to country.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What defines these concepts? Jose asked. We define them by laws, regulations and actions. If you tell somebody I love you, do you really love them? You can say: I'm committed to the company. But you don't really mean it. You just say it because it's the right thing to say.",
+     "text": "What defines these concepts? I asked. We define them by laws, regulations and actions. If you tell somebody I love you, do you really love them? You can say: I'm committed to the company. But you don't really mean it. You just say it because it's the right thing to say.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Until there's action, he said, until you match with actions what you are really thinking, the concept doesn't exist. Freedom, hope: politicians love to use them because they are abstractions. People can't be held accountable. So really analyze these concepts. Don't take them for granted.",
+     "text": "Until there's action, I said, until you match with actions what you are really thinking, the concept doesn't exist. Freedom, hope: politicians love to use them because they are abstractions. People can't be held accountable. So really analyze these concepts. Don't take them for granted.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a prejudice is?",
+   "q": "What did I say a prejudice is?",
    "choices": [
     "A judgment that has no rationale behind it",
     "A kind of fear",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say gives you tremendous peace?",
+   "q": "What did I say gives you tremendous peace?",
    "choices": [
     "Mastering not judging",
     "Winning arguments",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a concept until you match it with action?",
+   "q": "What did I say about a concept until you match it with action?",
    "choices": [
     "It doesn't exist",
     "It is still true",

@@ -4,7 +4,7 @@
  "title": "How they treat the waiter",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -34,13 +34,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that he has seen leaders who have that magic, like an aura. They get out of a car at a hotel and say hello to everybody on their way to reception. They engage them and look in their eyes. People think: that is an important person, just because they acknowledge everyone around them at all times.",
+     "text": "I said that I have seen leaders who have that magic, like an aura. They get out of a car at a hotel and say hello to everybody on their way to reception. They engage them and look in their eyes. People think: that is an important person, just because they acknowledge everyone around them at all times.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "These great leaders' common denominator is the ability to connect with people in seconds. People think: there's something special. I feel I could sit down and talk to this person, Jose said.",
+     "text": "These great leaders' common denominator is the ability to connect with people in seconds. People think: there's something special. I feel I could sit down and talk to this person, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -82,7 +82,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the great leaders do in seconds?",
+   "q": "What did I say the great leaders do in seconds?",
    "choices": [
     "Connect with people",
     "Close deals",
@@ -91,7 +91,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the aura comes from?",
+   "q": "What did I say the aura comes from?",
    "choices": [
     "Acknowledging everyone around them",
     "Speaking loudly",

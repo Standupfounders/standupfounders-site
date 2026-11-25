@@ -4,7 +4,7 @@
  "title": "Caring as a way in",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Two ways to ask",
    "lines": [
     {
-     "text": "Jose described two ways to reach a decision maker through a gatekeeper: give your reasons, and the second way, caring. He said that a secretary in the end gave him the direct number.",
+     "text": "I described two ways to reach a decision maker through a gatekeeper: give your reasons, and the second way, caring. I said that a secretary in the end gave me the direct number.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose asked: what else could I have added to that mix to add more strength?",
+     "text": "I asked: what else could I have added to that mix to add more strength?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Style and warmth",
    "lines": [
     {
-     "text": "Jose said that some people speak in a way that is distant and cold instead of soothing, and that they do not have empathy; they are very analytical.",
+     "text": "I said that some people speak in a way that is distant and cold instead of soothing, and that they do not have empathy; they are very analytical.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that introverted people are more like mathematicians and scientists, who spend time researching. This is a general view of his, to be verified.",
+     "text": "I said that introverted people are more like mathematicians and scientists, who spend time researching. This is a general view of mine, to be verified.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What two ways did Jose describe?",
+   "q": "What two ways did I describe?",
    "choices": [
     "Reasons and caring",
     "Pay and threaten",
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did he say cold speakers lack?",
+   "q": "What did I say cold speakers lack?",
    "choices": [
     "Soothing empathy",
     "Information",
@@ -109,7 +109,7 @@
   {
    "q": "What kind of view is the claim about introverts?",
    "choices": [
-    "His own, to be verified",
+    "My own, to be verified",
     "A rule",
     "A law"
    ],

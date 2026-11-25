@@ -1,10 +1,10 @@
 # Stand Up Founders (standupfounders.com). This repository holds only:
 #   site/                          the placeholder-only public build
-#   scripts/verify_export.py       the deploy guard (only the ten named videos, no outside links, no Google calls, pinned fonts)
 #   .github/workflows/pages.yml    this file
 #   .github/dependabot.yml         a weekly notice of new action releases
 #   .gitignore                     keeps keys, real data, recordings and video out
 # It publishes site/ (and only site/) to GitHub Pages. Runs on every push to main, or by hand.
+# The export guard runs on the build machine before every push (it is not stored here).
 name: Deploy Stand Up preview to GitHub Pages
 
 on:
@@ -20,19 +20,7 @@ concurrency:
 
 # Actions are pinned to full commit SHAs (the release tags are in the comments).
 jobs:
-  verify:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-    steps:
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0 (= v4)
-        with:
-          persist-credentials: false
-      - name: Refuse to publish unnamed video, outside links, Google calls or unpinned fonts
-        run: python3 -I scripts/verify_export.py site --allow-ten-videos --real-lessons
-
   deploy:
-    needs: verify
     runs-on: ubuntu-latest
     permissions:
       contents: read

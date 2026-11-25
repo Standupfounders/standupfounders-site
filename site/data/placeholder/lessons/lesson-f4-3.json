@@ -4,7 +4,7 @@
  "title": "Choose confidence, build the proof",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that an optimistic person says: I choose confidence and I build proof. We tend to think proof and evidence are out of our control.",
+     "text": "I said that an optimistic person says: I choose confidence and I build proof. We tend to think proof and evidence are out of our control.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that the answer is that it is up to you: you act, collect results and build the proof.",
+     "text": "I said that the answer is that it is up to you: you act, collect results and build the proof.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say an optimistic person does?",
+   "q": "What did I say an optimistic person does?",
    "choices": [
     "Chooses confidence and builds proof",
     "Waits for proof",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about proof?",
+   "q": "What did I say about proof?",
    "choices": [
     "You can build it",
     "It comes by luck",

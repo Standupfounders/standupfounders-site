@@ -4,7 +4,7 @@
  "title": "They get diluted",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,31 +22,31 @@
    "heading": "He's getting deeper and deeper, and leveraging",
    "lines": [
     {
-     "text": "Jose said he would prepare the class to read the chapter, because it is very dense, with a lot of business decisions the author is making.",
+     "text": "I said I would prepare the class to read the chapter, because it is very dense, with a lot of business decisions the author is making.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose retells it, the author wants to diversify. He realizes the billboard business is under threat. He wants a television station.",
+     "text": "As I retell it, the author wants to diversify. He realizes the billboard business is under threat. He wants a television station.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Now it is not just putting an ad on a billboard, Jose said. There are all these moving parts: the antenna, the content, selling the advertising. You can see the complexity.",
+     "text": "Now it is not just putting an ad on a billboard, I said. There are all these moving parts: the antenna, the content, selling the advertising. You can see the complexity.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He is burning money, Jose said. Some of the radio stations are losing money. He is getting deeper and deeper, and leveraging.",
+     "text": "He is burning money, I said. Some of the radio stations are losing money. He is getting deeper and deeper, and leveraging.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Leveraging, Jose said, is when you use an asset to acquire another asset, using debt or equity. Normally that is what they call it.",
+     "text": "Leveraging, I said, is when you use an asset to acquire another asset, using debt or equity. Normally that is what they call it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
    "heading": "They get diluted, like adding water to orange juice",
    "lines": [
     {
-     "text": "Jose gave a short lesson on shares. Imagine two founders who split a company, fifty each. An investor asks what it is worth. A million dollars. The investor wants ten percent, for a hundred thousand.",
+     "text": "I gave a short lesson on shares. Imagine two founders who split a company, fifty each. An investor asks what it is worth. A million dollars. The investor wants ten percent, for a hundred thousand.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -69,19 +69,19 @@
      "kind": "plain"
     },
     {
-     "text": "A student asked: I thought diluting meant printing more shares. Jose said: not necessarily. Even if you print more shares, it is all based on the valuation. You go down in your value because you are selling part of the company.",
+     "text": "A student asked: I thought diluting meant printing more shares. I said: not necessarily. Even if you print more shares, it is all based on the valuation. You go down in your value because you are selling part of the company.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "As Jose retells the chapter, the author's ownership dropped below half, but he kept the voting stock.",
+     "text": "As I retell the chapter, the author's ownership dropped below half, but he kept the voting stock.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So be very careful as entrepreneurs, Jose said. Are you selling the company too quickly, before you build value in it? And are you losing control of the voting shares?",
+     "text": "So be very careful as entrepreneurs, I said. Are you selling the company too quickly, before you build value in it? And are you losing control of the voting shares?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -114,7 +114,7 @@
  },
  "check": [
   {
-   "q": "How did Jose describe leveraging?",
+   "q": "How did I describe leveraging?",
    "choices": [
     "Using an asset to acquire another asset, using debt or equity",
     "Saving more than you spend",
@@ -123,7 +123,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say diluting is like?",
+   "q": "What did I say diluting is like?",
    "choices": [
     "Adding water to orange juice",
     "Pouring oil on a fire",
@@ -132,7 +132,7 @@
    "answer": 0
   },
   {
-   "q": "Which two cautions did Jose give entrepreneurs?",
+   "q": "Which two cautions did I give entrepreneurs?",
    "choices": [
     "Selling too quickly before building value, and losing control of the voting shares",
     "Spending too much on ads, and hiring too slowly",

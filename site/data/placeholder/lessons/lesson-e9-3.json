@@ -4,7 +4,7 @@
  "title": "What the class took from the book",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,13 +39,13 @@
    "heading": "Awareness",
    "lines": [
     {
-     "text": "Jose said that the single thing is awareness: looking for them everywhere.",
+     "text": "I said that the single thing is awareness: looking for them everywhere.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that everyone's interpretation of the book is different, and that one of the big things he learned is that he needs to be more disciplined himself.",
+     "text": "I said that everyone's interpretation of the book is different, and that one of the big things I learned is that I need to be more disciplined myself.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask the group?",
+   "q": "What did I ask the group?",
    "choices": [
     "The single thing they learned most",
     "Who is late",
@@ -87,11 +87,11 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he learned about himself?",
+   "q": "What did I say I learned about myself?",
    "choices": [
-    "He needs to be more disciplined",
-    "He is done",
-    "He knows enough"
+    "I need to be more disciplined",
+    "I am done",
+    "I know enough"
    ],
    "answer": 0
   },

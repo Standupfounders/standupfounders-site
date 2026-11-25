@@ -4,7 +4,7 @@
  "title": "A row of bricks went up",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "They were completely lying on their financial statements",
    "lines": [
     {
-     "text": "A student summed up: their stock plummets and loses billions. Jose said: the stock plummets because they realize the value isn't there. They were a sales organization grabbing market share at all costs. And then a bigger problem arises: they were lying completely on their financial statements.",
+     "text": "A student summed up: their stock plummets and loses billions. I said: the stock plummets because they realize the value isn't there. They were a sales organization grabbing market share at all costs. And then a bigger problem arises: they were lying completely on their financial statements.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That really is disappointing for the author, Jose said. He was a risk taker, but never a dishonest person with the numbers in his business.",
+     "text": "That really is disappointing for the author, I said. He was a risk taker, but never a dishonest person with the numbers in his business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "A wall of bricks",
    "lines": [
     {
-     "text": "Jose read a remark from someone close to the author about how the new chief executive handled him.",
+     "text": "I read a remark from someone close to the author about how the new chief executive handled him.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
      "kind": "quote"
     },
     {
-     "text": "Jose said that person felt the chief executive had built a wall insulating the author from the company, and was doing the same to another leader. A controlling, manipulative person. What worked against him was that the leader he did it to was a majority shareholder, who needed just a few allies on his side.",
+     "text": "I said that person felt the chief executive had built a wall insulating the author from the company, and was doing the same to another leader. A controlling, manipulative person. What worked against him was that the leader he did it to was a majority shareholder, who needed just a few allies on his side.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So the lesson for entrepreneurs, he said: get a board of advisors and see how they work together. The way a board of advisors work together is going to be indicative of how they are going to help your company grow.",
+     "text": "So the lesson for entrepreneurs, I said: get a board of advisors and see how they work together. The way a board of advisors work together is going to be indicative of how they are going to help your company grow.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the author was, but never dishonest with?",
+   "q": "What did I say the author was, but never dishonest with?",
    "choices": [
     "A risk taker, never dishonest with the numbers",
     "A planner",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a board's way of working together is indicative of?",
+   "q": "What did I say a board's way of working together is indicative of?",
    "choices": [
     "How they will help your company grow",
     "How long they will stay",

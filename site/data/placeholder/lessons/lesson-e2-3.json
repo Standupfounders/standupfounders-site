@@ -4,7 +4,7 @@
  "title": "A crisis protocol",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Slow down",
    "lines": [
     {
-     "text": "Jose said that the class would work on a real situation a student brought, a crisis in a business, and he left the details of the dispute out of the class write-up. A student said: with any crisis it is important not to react emotionally, so take a step back and be methodical.",
+     "text": "I said that the class would work on a real situation a student brought, a crisis in a business, and I left the details of the dispute out of the class write-up. A student said: with any crisis it is important not to react emotionally, so take a step back and be methodical.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that the first reaction was emotional, anxiety and frustration that can turn into anger, so the first thing is: breathe. Then draw a mental map and write it down in bubbles.",
+     "text": "I said that the first reaction was emotional, anxiety and frustration that can turn into anger, so the first thing is: breathe. Then draw a mental map and write it down in bubbles.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that having it written down gives you ease, peace and reassurance, instead of the thought that you had better say this now or defend yourself.",
+     "text": "I said that having it written down gives you ease, peace and reassurance, instead of the thought that you had better say this now or defend yourself.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Ask like a trial",
    "lines": [
     {
-     "text": "Jose said that you pay attention to how the person omits or avoids information, because that shows bias. He said never start with a closed question or even a narrow one; start with an open question: please explain everything you know about the situation.",
+     "text": "I said that you pay attention to how the person omits or avoids information, because that shows bias. I said never start with a closed question or even a narrow one; start with an open question: please explain everything you know about the situation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said to act as if it were a trial and you were bringing in witnesses. A long explanation against a short one tells you something: detail means comfort, and no detail may mean omitting.",
+     "text": "I said to act as if it were a trial and you were bringing in witnesses. A long explanation against a short one tells you something: detail means comfort, and no detail may mean omitting.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Mirror, label and validate",
    "lines": [
     {
-     "text": "Jose said to mirror: imitate the communication style, tone, pace and volume. If you raise your voice, what happens? He gave a label: I see how frustrated you are, and I do not blame you for making that decision, it was a technical one.",
+     "text": "I said to mirror: imitate the communication style, tone, pace and volume. If you raise your voice, what happens? I gave a label: I see how frustrated you are, and I do not blame you for making that decision, it was a technical one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said: validate their feelings, not the facts. You are developing trust in the call by repeating back and paraphrasing, then pacing and leading: I agree with your approach, and then lead.",
+     "text": "I said: validate their feelings, not the facts. You are developing trust in the call by repeating back and paraphrasing, then pacing and leading: I agree with your approach, and then lead.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to do first in a crisis?",
+   "q": "What did I say to do first in a crisis?",
    "choices": [
     "Breathe",
     "React",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What kind of question did Jose say to start with?",
+   "q": "What kind of question did I say to start with?",
    "choices": [
     "An open one",
     "A closed one",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to validate?",
+   "q": "What did I say to validate?",
    "choices": [
     "Their feelings, not the facts",
     "The facts",

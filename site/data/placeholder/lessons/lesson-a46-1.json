@@ -4,7 +4,7 @@
  "title": "Who draws the line?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Who decides",
    "lines": [
     {
-     "text": "Jose took a vote on censorship or no censorship and asked each person for a short reason. One student said: I am in the middle. Having some censorship is good, but I know the effects can be bad.",
+     "text": "I took a vote on censorship or no censorship and asked each person for a short reason. One student said: I am in the middle. Having some censorship is good, but I know the effects can be bad.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose asked: who should decide? A student answered: it should be some sort of council or committee, with guidelines and several people voting, not one individual.",
+     "text": "I asked: who should decide? A student answered: it should be some sort of council or committee, with guidelines and several people voting, not one individual.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that this is where it gets difficult: the responsibility of saying, I am going to censor people, so I will pick five people to do it. You are almost playing God. Where is the line? Somebody has to come up with a line.",
+     "text": "I said that this is where it gets difficult: the responsibility of saying, I am going to censor people, so I will pick five people to do it. You are almost playing God. Where is the line? Somebody has to come up with a line.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he was asking everyone to vote because he wanted to see where each person stands, and he gave his own line as: be disciplined about not judging, and about listening, despite what the person says.",
+     "text": "I said I was asking everyone to vote because I wanted to see where each person stands, and I gave my own line as: be disciplined about not judging, and about listening, despite what the person says.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask everyone to give with their vote?",
+   "q": "What did I ask everyone to give with their vote?",
    "choices": [
     "A short reason",
     "A written essay",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a decider is almost doing?",
+   "q": "What did I say a decider is almost doing?",
    "choices": [
     "Playing God",
     "Playing it safe",

@@ -4,7 +4,7 @@
  "title": "Clear the clutter for your team",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Affecting an organization's habits",
    "lines": [
     {
-     "text": "Jose said that in a company you are creating repetition, and that repetition needs presence first. You cannot have people's attention and concentration until you have presence, because of all the clutter and the cues around them.",
+     "text": "I said that in a company you are creating repetition, and that repetition needs presence first. You cannot have people's attention and concentration until you have presence, because of all the clutter and the cues around them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Roots, not just rules",
    "lines": [
     {
-     "text": "Jose said that when you assemble a team you take them through presence, a positive belief system and cues. Documentation is only ten percent. The other ninety percent is for them to understand the significance of what they are doing. You want the subconscious level rooted in the belief that they have the power to do something good.",
+     "text": "I said that when you assemble a team you take them through presence, a positive belief system and cues. Documentation is only ten percent. The other ninety percent is for them to understand the significance of what they are doing. You want the subconscious level rooted in the belief that they have the power to do something good.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As a leader, he said, you want to be aware of the obstacles.",
+     "text": "As a leader, I said, you want to be aware of the obstacles.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Words and a plan",
    "lines": [
     {
-     "text": "Jose said that a speechwriter once told him that in life it is about the verb: start, begin, go, explore, discover, understand. He said to use words with the power to create the change when you speak to people.",
+     "text": "I said that a speechwriter once told me that in life it is about the verb: start, begin, go, explore, discover, understand. I said to use words with the power to create the change when you speak to people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He suggested that a leader might take the sales team to a cabin, phones away, so that the team is present. A student said: making the plan comes before the execution. Jose said: if you are not writing it down, you will not get it done.",
+     "text": "I suggested that a leader might take the sales team to a cabin, phones away, so that the team is present. A student said: making the plan comes before the execution. I said: if you are not writing it down, you will not get it done.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you need before attention and concentration?",
+   "q": "What did I say you need before attention and concentration?",
    "choices": [
     "Presence",
     "Money",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "How much did Jose say documentation is?",
+   "q": "How much did I say documentation is?",
    "choices": [
     "Ten percent",
     "Ninety percent",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a plan?",
+   "q": "What did I say about a plan?",
    "choices": [
     "If you do not write it down, you will not get it done",
     "Keep it in your head",

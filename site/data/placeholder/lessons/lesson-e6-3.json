@@ -4,7 +4,7 @@
  "title": "Beyond win and lose",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Win-lose",
    "lines": [
     {
-     "text": "Jose said that you think of football and baseball: one team won, one team lost, and everything is win or lose. Come on, you have to win. He said that is one view of culture.",
+     "text": "I said that you think of football and baseball: one team won, one team lost, and everything is win or lose. Come on, you have to win. I said that is one view of culture.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that some traditions, such as merchants who travelled from town to town, relied on long relationships, so both sides had to do well.",
+     "text": "I said that some traditions, such as merchants who travelled from town to town, relied on long relationships, so both sides had to do well.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that you have to gauge: if they call my bluff, what then? He said he did not have other cards.",
+     "text": "I said that you have to gauge: if they call my bluff, what then? I said I did not have other cards.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that keeping true to those promises gives you more clients and more credibility: it goes round and round.",
+     "text": "I said that keeping true to those promises gives you more clients and more credibility: it goes round and round.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say culture often treats everything as?",
+   "q": "What did I say culture often treats everything as?",
    "choices": [
     "Win or lose",
     "Share and share",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say keeping promises gives?",
+   "q": "What did I say keeping promises gives?",
    "choices": [
     "More clients and credibility",
     "A lower price",

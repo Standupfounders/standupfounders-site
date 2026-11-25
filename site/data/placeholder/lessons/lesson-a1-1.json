@@ -4,7 +4,7 @@
  "title": "What were those defining moments?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "What can we learn about ourselves?",
    "lines": [
     {
-     "text": "Jose said that what they are doing with this book is two things. What can we learn about ourselves by reading about another person's extreme personality? And what were the defining moments in our childhood, with our mother and father, that created or did not create the fertile ground to be an entrepreneur?",
+     "text": "I said that what they are doing with this book is two things. What can we learn about ourselves by reading about another person's extreme personality? And what were the defining moments in our childhood, with our mother and father, that created or did not create the fertile ground to be an entrepreneur?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "What were those defining moments?",
    "lines": [
     {
-     "text": "It is important for us to analyze, Jose said: what were those moments? Number two, what are our limitations? Maybe you are fighting to become an entrepreneur and your parents didn't create that fertile ground for you. So you are breaking a generational chain.",
+     "text": "It is important for us to analyze, I said: what were those moments? Number two, what are our limitations? Maybe you are fighting to become an entrepreneur and your parents didn't create that fertile ground for you. So you are breaking a generational chain.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said nobody gets a little book that says: you're a parent now. The amount of knowledge you need to be a good parent is overwhelming. All of us can go back to our parents and ask: how did they instill the concept of risk in us?",
+     "text": "I said nobody gets a little book that says: you're a parent now. The amount of knowledge you need to be a good parent is overwhelming. All of us can go back to our parents and ask: how did they instill the concept of risk in us?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What two things did Jose say they were doing with the book?",
+   "q": "What two things did I say they were doing with the book?",
    "choices": [
     "Learning about ourselves and looking at our defining childhood moments",
     "Studying law and history",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you may be doing if your parents did not give you that ground?",
+   "q": "What did I say you may be doing if your parents did not give you that ground?",
    "choices": [
     "Breaking a generational chain",
     "Giving up",

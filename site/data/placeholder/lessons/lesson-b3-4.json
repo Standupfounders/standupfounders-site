@@ -4,7 +4,7 @@
  "title": "This guy reads the room",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "He thinks he's going to bring the viewership",
    "lines": [
     {
-     "text": "He thinks he is going to bring viewership, Jose said. So that is a strategic move.",
+     "text": "He thinks he is going to bring viewership, I said. So that is a strategic move.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that with some businessmen, people don't understand why they bought a business. Two or three years go by and they say: that is why. They had a plan for how that business would work together with another.",
+     "text": "I said that with some businessmen, people don't understand why they bought a business. Two or three years go by and they say: that is why. They had a plan for how that business would work together with another.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When you are in mergers and acquisitions, Jose said, I've seen disasters happen.",
+     "text": "When you are in mergers and acquisitions, I said, I've seen disasters happen.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -46,7 +46,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he is what you call a low self-monitor. He is not much phased by how people look at him in a negative light. It doesn't affect his confidence or his self-esteem. He has seen himself as an outsider since he was four.",
+     "text": "I said he is what you call a low self-monitor. He is not much phased by how people look at him in a negative light. It doesn't affect his confidence or his self-esteem. He has seen himself as an outsider since he was four.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,25 +57,25 @@
    "heading": "He doesn't see himself like I'm the owner",
    "lines": [
     {
-     "text": "What I love about it, Jose said, is that he is humble. He doesn't see himself as the owner who is separated from the team. He is playing poker with them. He is hanging out in the dugout.",
+     "text": "What I love about it, I said, is that he is humble. He doesn't see himself as the owner who is separated from the team. He is playing poker with them. He is hanging out in the dugout.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Where does he get that from? A student said: from putting up billboards. Jose said that's right. The dad purposely put him there, to understand the mentality and the way people work at the lower levels.",
+     "text": "Where does he get that from? A student said: from putting up billboards. I said that's right. The dad purposely put him there, to understand the mentality and the way people work at the lower levels.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He sent someone undercover as if he were a player, Jose said, because everyone knows he's the owner. He was trying to understand the energy, the psychology, the way the players think, their mentality.",
+     "text": "He sent someone undercover as if he were a player, I said, because everyone knows he's the owner. He was trying to understand the energy, the psychology, the way the players think, their mentality.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He can't empower people unless he understands their limitations, Jose said, unless he understands how they think.",
+     "text": "He can't empower people unless he understands their limitations, I said, unless he understands how they think.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -86,7 +86,7 @@
    "heading": "This guy reads the room",
    "lines": [
     {
-     "text": "Jose read a line from the author about customers.",
+     "text": "I read a line from the author about customers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -98,13 +98,13 @@
      "kind": "quote"
     },
     {
-     "text": "Imagine the detail, Jose said, of onions and relish. In that city they only had mustard and ketchup. Imagine how aware he is wherever he goes. That level of awareness shows how powerful he is.",
+     "text": "Imagine the detail, I said, of onions and relish. In that city they only had mustard and ketchup. Imagine how aware he is wherever he goes. That level of awareness shows how powerful he is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "This guy reads the room, he said. He reads people. He reads circumstances.",
+     "text": "This guy reads the room, I said. He reads people. He reads circumstances.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -137,16 +137,16 @@
  },
  "check": [
   {
-   "q": "What kind of self-monitor did Jose call the author?",
+   "q": "What kind of self-monitor did I call the author?",
    "choices": [
     "A low self-monitor, not much phased by how people look at him",
     "A high self-monitor",
-    "He didn't say"
+    "I didn't say"
    ],
    "answer": 0
   },
   {
-   "q": "Why did the author send someone undercover, according to Jose?",
+   "q": "Why did the author send someone undercover, according to me?",
    "choices": [
     "To learn the players' psychology and how they think",
     "To spy on a rival",
@@ -155,7 +155,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say shows how aware the author is?",
+   "q": "What did I say shows how aware the author is?",
    "choices": [
     "Noticing small details like onions and relish for customers",
     "His large office",

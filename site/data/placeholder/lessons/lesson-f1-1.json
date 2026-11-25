@@ -4,7 +4,7 @@
  "title": "What a book or a person can give you",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked: why should I trust this person? Why should I invest my time exploring their ideas? What can this book do for me? What if I judge the book by its cover, and what do I miss out on?",
+     "text": "I asked: why should I trust this person? Why should I invest my time exploring their ideas? What can this book do for me? What if I judge the book by its cover, and what do I miss out on?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A gift",
    "lines": [
     {
-     "text": "Jose said he sincerely believes that when we meet a person we can develop a sense of presence: this person has a gift to offer me, and I do not want to assume it will be irrelevant in my life.",
+     "text": "I said I sincerely believe that when we meet a person we can develop a sense of presence: this person has a gift to offer me, and I do not want to assume it will be irrelevant in my life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that identifying patterns also helps you decide whom you do not want to spend time with, because they carry negative patterns, which some people call energy or synergy.",
+     "text": "I said that identifying patterns also helps you decide whom you do not want to spend time with, because they carry negative patterns, which some people call energy or synergy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask about judging a book by its cover?",
+   "q": "What did I ask about judging a book by its cover?",
    "choices": [
     "What do I miss out on",
     "Is it cheap",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say each person has?",
+   "q": "What did I say each person has?",
    "choices": [
     "A gift to offer",
     "A cost",

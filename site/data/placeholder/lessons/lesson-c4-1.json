@@ -4,7 +4,7 @@
  "title": "Take it out of sight",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,13 +39,13 @@
    "heading": "Relationship to objects",
    "lines": [
     {
-     "text": "Jose said: our behavior is not defined by the objects in the environment but by our relationship to them. So by taking the objects out of the environment, the relationship is gone.",
+     "text": "I said: our behavior is not defined by the objects in the environment but by our relationship to them. So by taking the objects out of the environment, the relationship is gone.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said this is very Jungian, and recalled a quote that until you make the unconscious conscious, you will not direct your life and you will call it fate. This is his recollection of the quote and needs a person to check it.",
+     "text": "I said this is very Jungian, and recalled a quote that until you make the unconscious conscious, you will not direct your life and you will call it fate. This is my recollection of the quote and needs a person to check it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say defines behavior?",
+   "q": "What did I say defines behavior?",
    "choices": [
     "Our relationship to objects",
     "The objects themselves",

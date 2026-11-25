@@ -4,7 +4,7 @@
  "title": "Start with one person",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The same process",
    "lines": [
     {
-     "text": "Jose said that it is the same process for one person as for a thousand: you run into somebody at a coffee shop and start a conversation.",
+     "text": "I said that it is the same process for one person as for a thousand: you run into somebody at a coffee shop and start a conversation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student suggested using visual clues. Jose said to be careful, because a wealthy person may be dressed in rags.",
+     "text": "A student suggested using visual clues. I said to be careful, because a wealthy person may be dressed in rags.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that is a needs assessment: asking questions to discover what the other person is interested in, whether in a coffee shop or on a sales call.",
+     "text": "I said that is a needs assessment: asking questions to discover what the other person is interested in, whether in a coffee shop or on a sales call.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "Cold calls",
    "lines": [
     {
-     "text": "Jose said: lower the pressure of calling, and do not be clichéd. You want an energy in those calls, which takes discipline when you make thirty or forty a day.",
+     "text": "I said: lower the pressure of calling, and do not be clichéd. You want an energy in those calls, which takes discipline when you make thirty or forty a day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say it is for one person?",
+   "q": "What did I say it is for one person?",
    "choices": [
     "The same process as for a thousand",
     "A different process",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call asking questions to discover interests?",
+   "q": "What did I call asking questions to discover interests?",
    "choices": [
     "A needs assessment",
     "A survey",

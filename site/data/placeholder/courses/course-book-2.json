@@ -2,10 +2,10 @@
  "schema": 1,
  "id": "course-book-2",
  "slug": "book-2",
- "title": "Jose's analysis of a book we are still naming",
+ "title": "Conviction, Accountability and Where to Draw the Line",
  "label": "Course 2",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
- "outcome": "A second course, built from Jose's group calls on one book, in the book's order. The book is not named yet. Module B1 is the first of about nine.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "My reading of one book about an entrepreneur's life, in the book's order. We look at getting lost in a goal, crisis, smart money and dumb money, where the line is, approval and accountability, and time and priorities. Built from my group calls.",
  "season_note": "A suggested run of about 26 weeks. Suggested dates only: nothing locks.",
  "weeks": 26,
  "modules": [
@@ -113,9 +113,9 @@
     {
      "id": "i-b1-j",
      "kind": "journey",
-     "title": "Journey: a story from Jose",
+     "title": "Journey: a story from me",
      "minutes": 10,
-     "idea": "Jose asks his grandparents how they define love.",
+     "idea": "I ask my grandparents how they define love.",
      "lesson": "lesson-b1-j"
     },
     {
@@ -214,7 +214,7 @@
     {
      "id": "i-b2-j",
      "kind": "journey",
-     "title": "Journey: a story from Jose",
+     "title": "Journey: a story from me",
      "minutes": 10,
      "idea": "Out of ten things, I failed nine.",
      "lesson": "lesson-b2-j"
@@ -224,7 +224,7 @@
      "kind": "journey",
      "title": "Journey: look at the sky and turn on your back",
      "minutes": 10,
-     "idea": "Jose's story of a rescue in the water.",
+     "idea": "My story of a rescue in the water.",
      "lesson": "lesson-b2-j2"
     },
     {
@@ -333,7 +333,7 @@
      "kind": "journey",
      "title": "Journey: I ended up going to the Supreme Court",
      "minutes": 10,
-     "idea": "Jose's story of taking on a monopoly in his twenties.",
+     "idea": "My story of taking on a monopoly in his twenties.",
      "lesson": "lesson-b2-j3"
     },
     {
@@ -793,7 +793,7 @@
      "kind": "journey",
      "title": "Journey: my parents had an intervention",
      "minutes": 10,
-     "idea": "Jose's story of buying land in a fishing village.",
+     "idea": "My story of buying land in a fishing village.",
      "lesson": "lesson-b6-j"
     },
     {
@@ -902,7 +902,7 @@
      "kind": "journey",
      "title": "Journey: I learned a lot of business through people's stories",
      "minutes": 10,
-     "idea": "Jose on learning business from stories.",
+     "idea": "On learning business from stories.",
      "lesson": "lesson-b7-j"
     },
     {
@@ -1120,7 +1120,7 @@
      "kind": "journey",
      "title": "Journey: you got to fight",
      "minutes": 10,
-     "idea": "Jose's story of a fight over principle.",
+     "idea": "My story of a fight over principle.",
      "lesson": "lesson-b9-j"
     },
     {
@@ -2058,7 +2058,7 @@
       "The deal I am working on, and what the other side wants.",
       "My growth statement for them, in one sentence.",
       "My value proposition in one sentence.",
-      "My answers to Jose's checks: do they win, do I win?",
+      "My answers to my checks: do they win, do I win?",
       "The mistake I will not make by rushing."
      ]
     }
@@ -2587,5 +2587,7 @@
   }
  ],
  "slots": [],
- "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+ "page_text": "Each module is my analysis of a book on an entrepreneur's life. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice.",
+ "public_title": "Conviction, Accountability and Where to Draw the Line",
+ "public_outcome": "My reading of one book about an entrepreneur's life, in the book's order. We look at getting lost in a goal, crisis, smart money and dumb money, where the line is, approval and accountability, and time and priorities. Built from my group calls."
 }

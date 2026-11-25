@@ -4,7 +4,7 @@
  "title": "No one sees it all",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "No one sees it all",
    "lines": [
     {
-     "text": "Jose said that what we can extract from this is that the person in the book is not really someone with that empathetic gene, and had no idea his satellites would be used on drones. He will go through a massive learning curve.",
+     "text": "I said that what we can extract from this is that the person in the book is not really someone with that empathetic gene, and had no idea his satellites would be used on drones. He will go through a massive learning curve.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "One person can't possibly understand all the complexities of everything that is going on, he said, not even the head of a country a lot of the time. You have to have incredible administration skills to understand all the complexities.",
+     "text": "One person can't possibly understand all the complexities of everything that is going on, I said, not even the head of a country a lot of the time. You have to have incredible administration skills to understand all the complexities.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Ten perspectives",
    "lines": [
     {
-     "text": "Jose said: I don't know that part of the world as much as I know another. I've listened to people from both sides talk about it, and you can get ten different perspectives.",
+     "text": "I said: I don't know that part of the world as much as I know another. I've listened to people from both sides talk about it, and you can get ten different perspectives.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he hopes the war ends: it is terribly tragic and very sad.",
+     "text": "I said I hope the war ends: it is terribly tragic and very sad.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about one person understanding all the complexity?",
+   "q": "What did I say about one person understanding all the complexity?",
    "choices": [
     "One person can't possibly",
     "One person always can",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "How many perspectives did Jose say you can get on this?",
+   "q": "How many perspectives did I say you can get on this?",
    "choices": [
     "Ten different ones",
     "One",

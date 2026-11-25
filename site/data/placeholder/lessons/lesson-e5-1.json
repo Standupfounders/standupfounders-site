@@ -4,7 +4,7 @@
  "title": "Visualize the tense meeting first",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Motivation and triggers",
    "lines": [
     {
-     "text": "Jose asked a student: what motivates you on a Monday, what do you say to yourself? He said you are putting triggers all over the place, emotional, visual and others.",
+     "text": "I asked a student: what motivates you on a Monday, what do you say to yourself? I said you are putting triggers all over the place, emotional, visual and others.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "Visualize it",
    "lines": [
     {
-     "text": "Jose asked a student to give an example of something he would do today and visualize it before it happens: logging on, a client looking for guidance, a meeting room with a glass table where people file in.",
+     "text": "I asked a student to give an example of something he would do today and visualize it before it happens: logging on, a client looking for guidance, a meeting room with a glass table where people file in.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: how are you feeling going into that meeting because you did not hit the task? The effects could be negativity: if we did not get this up, we lost sales.",
+     "text": "I asked: how are you feeling going into that meeting because you did not hit the task? The effects could be negativity: if we did not get this up, we lost sales.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said you want to be so comfortable visualizing the objections, the challenges, the obstacles and the aggression on the other side that none of it throws you.",
+     "text": "I said you want to be so comfortable visualizing the objections, the challenges, the obstacles and the aggression on the other side that none of it throws you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask a student to do?",
+   "q": "What did I ask a student to do?",
    "choices": [
     "Visualize something before it happens",
     "Skip a meeting",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to be comfortable with?",
+   "q": "What did I say to be comfortable with?",
    "choices": [
     "Objections and aggression on the other side",
     "Silence",

@@ -4,7 +4,7 @@
  "title": "The conveyor belt",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The conveyor belt",
    "lines": [
     {
-     "text": "Jose said to a student who has gone from working for someone to having a business: you are streamlining your product offering so you are not doing things over and over, and explaining different processes to different people. That is too much of a risk.",
+     "text": "I said to a student who has gone from working for someone to having a business: you are streamlining your product offering so you are not doing things over and over, and explaining different processes to different people. That is too much of a risk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The final outcome for the client should not vary, he said. Every time you get a client, you put them on that conveyor belt, like the airport. You don't want that bag sitting on the ground somewhere lost, because it isn't on the belt of what you have defined as what you offer.",
+     "text": "The final outcome for the client should not vary, I said. Every time you get a client, you put them on that conveyor belt, like the airport. You don't want that bag sitting on the ground somewhere lost, because it isn't on the belt of what you have defined as what you offer.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Process makes you credible",
    "lines": [
     {
-     "text": "Jose said that he is a little obsessive about process even in his life, and that he gave a detailed list to the people who work at his house. When people leave, you start all over again, so you give the next person the list.",
+     "text": "I said that I am a little obsessive about process even in my life, and that I gave a detailed list to the people who work at my house. When people leave, you start all over again, so you give the next person the list.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that people get very insecure when they don't understand their job description.",
+     "text": "I said that people get very insecure when they don't understand their job description.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,19 +68,19 @@
    "heading": "Set the job at the start",
    "lines": [
     {
-     "text": "He described a big company in a business he deals with, whose leader for forty years went to sixteen offices and repeated himself. They had an organization used to leaders who repeated themselves, he said, not a system of accountability. It relies on the charisma of one person.",
+     "text": "I described a big company in a business I deal with, whose leader for forty years went to sixteen offices and repeated himself. They had an organization used to leaders who repeated themselves, I said, not a system of accountability. It relies on the charisma of one person.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: you can't teach an old dog new tricks. Jose said: so it is better to get it right off the bat and have job descriptions. If you give a person a new description every day, they resist: you laid out at the beginning what I'd do, and I'm comfortable doing it.",
+     "text": "A student said: you can't teach an old dog new tricks. I said: so it is better to get it right off the bat and have job descriptions. If you give a person a new description every day, they resist: you laid out at the beginning what I'd do, and I'm comfortable doing it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "In building a culture, he said, you can teach absorbing new things in the job description. It is about getting the productivity and reaching those goals.",
+     "text": "In building a culture, I said, you can teach absorbing new things in the job description. It is about getting the productivity and reaching those goals.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What image did Jose use for process?",
+   "q": "What image did I use for process?",
    "choices": [
     "A conveyor belt at the airport",
     "A staircase",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is better to do about job descriptions?",
+   "q": "What did I say is better to do about job descriptions?",
    "choices": [
     "Set them right at the start",
     "Change them daily",

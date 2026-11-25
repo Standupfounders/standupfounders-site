@@ -4,7 +4,7 @@
  "title": "What you believe about wealth",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Hidden beliefs about money",
    "lines": [
     {
-     "text": "Jose said that he has a complicated relationship with money: growing up he associated it with important and necessary things, but he also holds a belief that money must be secondary to everything else. He said he has to change that belief.",
+     "text": "I said that I have a complicated relationship with money: growing up I associated it with important and necessary things, but I also hold a belief that money must be secondary to everything else. I said I have to change that belief.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when he tells people they are not multimillionaires, it is because something blocks them: deep down we associate wealth with negative things, so we feel the two things cannot coexist, a famous writer who gives and a multimillionaire.",
+     "text": "I said that when I tell people they are not multimillionaires, it is because something blocks them: deep down we associate wealth with negative things, so we feel the two things cannot coexist, a famous writer who gives and a multimillionaire.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that being wealthy does not mean you are a bad person or buy boats and cars. He said wealth is defined by who you are and your service to others, and that many of us let other people define what wealthy is.",
+     "text": "I said that being wealthy does not mean you are a bad person or buy boats and cars. I said wealth is defined by who you are and your service to others, and that many of us let other people define what wealthy is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -72,7 +72,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say blocks many people from wealth?",
+   "q": "What did I say blocks many people from wealth?",
    "choices": [
     "Hidden negative beliefs about it",
     "The economy",
@@ -81,7 +81,7 @@
    "answer": 0
   },
   {
-   "q": "How did Jose say wealth is defined?",
+   "q": "How did I say wealth is defined?",
    "choices": [
     "By who you are and your service to others",
     "By boats and cars",
@@ -90,7 +90,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say many of us do?",
+   "q": "What did I say many of us do?",
    "choices": [
     "Let others define what wealthy is",
     "Define it ourselves",

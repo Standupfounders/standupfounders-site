@@ -4,7 +4,7 @@
  "title": "A pilot and a proof of concept",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "The question",
    "lines": [
     {
-     "text": "Jose asked why a founder with many existing partners would use a brand-new one as the example in his book. He said the answer is that he needs a pilot, a proof of concept.",
+     "text": "I asked why a founder with many existing partners would use a brand-new one as the example in his book. I said the answer is that he needs a pilot, a proof of concept.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "The hard part",
    "lines": [
     {
-     "text": "Jose said that forming partnerships is complicated: will the new partner value what you do, and will they have success, as an outsider to the existing group?",
+     "text": "I said that forming partnerships is complicated: will the new partner value what you do, and will they have success, as an outsider to the existing group?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the founder needs?",
+   "q": "What did I say the founder needs?",
    "choices": [
     "A pilot, a proof of concept",
     "A bigger office",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is complicated?",
+   "q": "What did I say is complicated?",
    "choices": [
     "Forming partnerships",
     "Writing",

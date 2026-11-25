@@ -4,7 +4,7 @@
  "title": "Make the decision yourself",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The bank said no",
    "lines": [
     {
-     "text": "Jose said that, as a young man, the person in the book saw certain emerging-market bonds as undervalued. They were sold at a discount, he said, and backed by the US government. He took the idea to the bank, and the head of the bank said: this is insane.",
+     "text": "I said that, as a young man, the person in the book saw certain emerging-market bonds as undervalued. They were sold at a discount, he said, and backed by the US government. He took the idea to the bank, and the head of the bank said: this is insane.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Right away he is frustrated, Jose said. He learns: if I'm going to do something in my life, I want the power of making a decision and executing. I don't want to rely on something that doesn't see the opportunity.",
+     "text": "Right away he is frustrated, I said. He learns: if I'm going to do something in my life, I want the power of making a decision and executing. I don't want to rely on something that doesn't see the opportunity.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Not deferential",
    "lines": [
     {
-     "text": "Jose told his own story. In his twenties he thought: I don't want to deal with this boss, who has no idea of the opportunity we have. He wanted to go fast. He quit after eight months.",
+     "text": "I told my own story. In my twenties I thought: I don't want to deal with this boss, who has no idea of the opportunity we have. I wanted to go fast. I quit after eight months.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose read a line from the book and asked the class what they thought of it.",
+     "text": "I read a line from the book and asked the class what they thought of it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,13 +57,13 @@
      "kind": "quote"
     },
     {
-     "text": "There was a little bit of arrogance to him, Jose said. Obviously he's a genius, super smart, so he did not want other people to make decisions for him. He knows: look, I see this, they don't see it. That is a big characteristic of an entrepreneur.",
+     "text": "There was a little bit of arrogance to him, I said. Obviously he's a genius, super smart, so he did not want other people to make decisions for him. He knows: look, I see this, they don't see it. That is a big characteristic of an entrepreneur.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You do not want to be slowed down by somebody who doesn't understand what they are looking at, he said. Entrepreneurs like to be first and to find value before anybody else does.",
+     "text": "You do not want to be slowed down by somebody who doesn't understand what they are looking at, I said. Entrepreneurs like to be first and to find value before anybody else does.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the person learned from the bank saying no?",
+   "q": "What did I say the person learned from the bank saying no?",
    "choices": [
     "He wants the power to make a decision and execute",
     "Banks are always right",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "How long did Jose say he stayed with a boss in his twenties?",
+   "q": "How long did I say I stayed with a boss in my twenties?",
    "choices": [
     "Eight months",
     "Ten years",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say entrepreneurs like to do?",
+   "q": "What did I say entrepreneurs like to do?",
    "choices": [
     "Be first and find value before anybody else does",
     "Wait for others",

@@ -4,7 +4,7 @@
  "title": "The Goldilocks rule and boredom",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The Goldilocks rule",
    "lines": [
     {
-     "text": "Jose summarized chapter 19: the Goldilocks rule says peak motivation happens when you work on a task right at the edge of your current ability, not so hard that you cannot get traction and not so easy that you are bored.",
+     "text": "I summarized chapter 19: the Goldilocks rule says peak motivation happens when you work on a task right at the edge of your current ability, not so hard that you cannot get traction and not so easy that you are bored.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the book adds that the greatest threat to success is not failure but boredom, and that as habits become routine they become less interesting and less satisfying, so we get bored and stop.",
+     "text": "I said the book adds that the greatest threat to success is not failure but boredom, and that as habits become routine they become less interesting and less satisfying, so we get bored and stop.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "When it is mundane",
    "lines": [
     {
-     "text": "Jose said that as adults there are necessary things that are boring and not immediately rewarding. He asked: what do we do to compensate? A student said: do a reframe, and keep the overarching goal in mind.",
+     "text": "I said that as adults there are necessary things that are boring and not immediately rewarding. I asked: what do we do to compensate? A student said: do a reframe, and keep the overarching goal in mind.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose gave an example in the voice of an inner talk: I hate sitting in front of spreadsheets for five hours, but if I do not do it my goal of a successful company is not going to happen.",
+     "text": "I gave an example in the voice of an inner talk: I hate sitting in front of spreadsheets for five hours, but if I do not do it my goal of a successful company is not going to happen.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "When does peak motivation happen, in the book as Jose summarized?",
+   "q": "When does peak motivation happen, in the book as I summarized?",
    "choices": [
     "At the edge of your current ability",
     "On easy tasks",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the book calls the greatest threat to success?",
+   "q": "What did I say the book calls the greatest threat to success?",
    "choices": [
     "Boredom",
     "Failure",

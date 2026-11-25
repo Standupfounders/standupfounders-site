@@ -4,7 +4,7 @@
  "title": "Learn business through stories",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Business books were hard",
    "lines": [
     {
-     "text": "Coming from a literature background, Jose said, he would pick up business books and go: oh my God, I don't even understand what they are talking about. He would look at what people were reading who read about finance and accounting, and get lost in dense texts.",
+     "text": "Coming from a literature background, I said, I would pick up business books and go: oh my God, I don't even understand what they are talking about. I would look at what people were reading who read about finance and accounting, and get lost in dense texts.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He spent more time going back and forth to the dictionary than reading, he said. He would get ten pages into a textbook and give up.",
+     "text": "I spent more time going back and forth to the dictionary than reading, I said. I would get ten pages into a textbook and give up.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,25 +39,25 @@
    "heading": "Stories teach the terms",
    "lines": [
     {
-     "text": "Then he decided to read literature about business: stories about entrepreneurs. I can totally understand the train of thought, he said. I can understand the journey. I'm understanding the terms because they're in context to a larger story.",
+     "text": "Then I decided to read literature about business: stories about entrepreneurs. I can totally understand the train of thought, I said. I can understand the journey. I'm understanding the terms because they're in context to a larger story.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What a great way to teach business, he said: by telling the stories. You identify with a story, and you learn the terms as you live the career. What is equity? What is a reverse merger?",
+     "text": "What a great way to teach business, I said: by telling the stories. You identify with a story, and you learn the terms as you live the career. What is equity? What is a reverse merger?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "In this book he now sees many lessons. You can see how the person goes from childhood to being a successful entrepreneur, and the tiny moments that opened up the rest of his life.",
+     "text": "In this book I now see many lessons. You can see how the person goes from childhood to being a successful entrepreneur, and the tiny moments that opened up the rest of his life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If we can identify the defining moments in our own life, Jose said, then we can say: this is a decision I need to make. A lot of people fail at being entrepreneurs because they just don't make the decision.",
+     "text": "If we can identify the defining moments in our own life, I said, then we can say: this is a decision I need to make. A lot of people fail at being entrepreneurs because they just don't make the decision.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "Where did Jose say the business terms made sense to him?",
+   "q": "Where did I say the business terms made sense to me?",
    "choices": [
     "In the context of a larger story",
     "In a dictionary",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a lot of people fail at as entrepreneurs?",
+   "q": "What did I say a lot of people fail at as entrepreneurs?",
    "choices": [
     "Making the decision",
     "Finding money",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What can we do with defining moments in our own life, Jose said?",
+   "q": "What can we do with defining moments in our own life, I said?",
    "choices": [
     "Identify them, to see which decision we need to make",
     "Forget them",

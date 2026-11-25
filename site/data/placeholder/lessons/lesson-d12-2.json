@@ -4,7 +4,7 @@
  "title": "Fit your words to the outlet",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,7 +39,7 @@
    "heading": "The audience's language",
    "lines": [
     {
-     "text": "Jose said that in a financial business magazine the words are revenue growth and return on investment, while in an artistic journal they are different, so you adapt your words.",
+     "text": "I said that in a financial business magazine the words are revenue growth and return on investment, while in an artistic journal they are different, so you adapt your words.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you do with your words?",
+   "q": "What did I say you do with your words?",
    "choices": [
     "Adapt them to the outlet",
     "Keep them the same",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What words did Jose say a business magazine uses?",
+   "q": "What words did I say a business magazine uses?",
    "choices": [
     "Revenue growth and return",
     "Colour and shape",

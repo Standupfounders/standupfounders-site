@@ -4,7 +4,7 @@
  "title": "Your bio and your filter",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "A bio in the third person",
    "lines": [
     {
-     "text": "Jose said that he took a student's bio, edited it and wrote an example to show how. He said to write it in the third person, as if you were someone else, and not to pull punches.",
+     "text": "I said that I took a student's bio, edited it and wrote an example to show how. I said to write it in the third person, as if you were someone else, and not to pull punches.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A sentence that filters",
    "lines": [
     {
-     "text": "Jose said that one sentence is where you start to filter people: your successes come from working with clients clearly focused on a certain result. You can be successful or unsuccessful with someone, and this tells them if they fit.",
+     "text": "I said that one sentence is where you start to filter people: your successes come from working with clients clearly focused on a certain result. You can be successful or unsuccessful with someone, and this tells them if they fit.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said you can politely say: you do not fit the profile of the clients I am successful with, and I cannot really help you at this stage.",
+     "text": "I said you can politely say: you do not fit the profile of the clients I am successful with, and I cannot really help you at this stage.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,13 +56,13 @@
    "heading": "One sentence",
    "lines": [
     {
-     "text": "Jose said you need one sentence describing what you do, the elevator sentence, and you can say it at a cocktail party or a restaurant when you bump into somebody.",
+     "text": "I said you need one sentence describing what you do, the elevator sentence, and you can say it at a cocktail party or a restaurant when you bump into somebody.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he went broad, then specific, then specific, and closed into something very specific with a lot of power, and then added leadership to show you are not only an individual.",
+     "text": "I said I went broad, then specific, then specific, and closed into something very specific with a lot of power, and then added leadership to show you are not only an individual.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to write your bio in?",
+   "q": "What did I say to write your bio in?",
    "choices": [
     "The third person",
     "The first person",

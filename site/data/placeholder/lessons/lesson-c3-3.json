@@ -4,7 +4,7 @@
  "title": "Picture it, tag its value",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Imagination creates the reality",
    "lines": [
     {
-     "text": "Jose said that elevating emotion sets an anchor, whether the event is imagined or not. He gave the example of a child who hears gossip that a best friend spoke badly of them, gets upset, summons the courage to confront the friend, and learns it was not true. The imagined event was as emotional as a real one.",
+     "text": "I said that elevating emotion sets an anchor, whether the event is imagined or not. I gave the example of a child who hears gossip that a best friend spoke badly of them, gets upset, summons the courage to confront the friend, and learns it was not true. The imagined event was as emotional as a real one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student asked why that works. Jose answered with a visualization: picture yourself thirsty, opening the refrigerator, grabbing a jar of water. What color is the jar, which hand? Your imagination created that reality.",
+     "text": "A student asked why that works. I answered with a visualization: picture yourself thirsty, opening the refrigerator, grabbing a jar of water. What color is the jar, which hand? Your imagination created that reality.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that the more emotionally engaging it is, the more likely you are to commit to the intention.",
+     "text": "I said that the more emotionally engaging it is, the more likely you are to commit to the intention.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Value tagging",
    "lines": [
     {
-     "text": "Jose said it is called value tagging: you determine the importance of some information. If something is important, such as a big deal, your emotional engagement is high, so your focus, visualization and imagination are high.",
+     "text": "I said it is called value tagging: you determine the importance of some information. If something is important, such as a big deal, your emotional engagement is high, so your focus, visualization and imagination are high.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call determining the importance of information?",
+   "q": "What did I call determining the importance of information?",
    "choices": [
     "Value tagging",
     "Filing",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens as emotional engagement rises?",
+   "q": "What did I say happens as emotional engagement rises?",
    "choices": [
     "The intention gets stronger",
     "You forget it",

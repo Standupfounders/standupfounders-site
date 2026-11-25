@@ -4,7 +4,7 @@
  "title": "Missionaries, not mercenaries",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Missionaries and mercenaries",
    "lines": [
     {
-     "text": "Jose said the book describes the two rocket founders as setting out on space endeavors as missionaries, not mercenaries. Jose read the phrase.",
+     "text": "I said the book describes the two rocket founders as setting out on space endeavors as missionaries, not mercenaries. I read the phrase.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "quote"
     },
     {
-     "text": "A mercenary, he said, is somebody who wants to make money for the sake of making money. They are not thinking about making money. They are totally on another planet, no pun intended.",
+     "text": "A mercenary, I said, is somebody who wants to make money for the sake of making money. They are not thinking about making money. They are totally on another planet, no pun intended.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Same mission, two approaches",
    "lines": [
     {
-     "text": "They have similar missions and common denominators, like the reusable rocket, Jose said. What is the difference in their approach? Like the two computer founders, one closed system and one open.",
+     "text": "They have similar missions and common denominators, like the reusable rocket, I said. What is the difference in their approach? Like the two computer founders, one closed system and one open.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,13 +57,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the author writes that one focused on creating the sensors and software to guide a rocket to a soft landing, which is his comfort zone: logistics and software. The other focused obsessively on the physics problem. They come from different strengths.",
+     "text": "I said the author writes that one focused on creating the sensors and software to guide a rocket to a soft landing, which is his comfort zone: logistics and software. The other focused obsessively on the physics problem. They come from different strengths.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They both understand that reducing weight is very important, he said. Lighter rockets get to orbit faster, and colder fuel lets you fit more fuel and get more power.",
+     "text": "They both understand that reducing weight is very important, I said. Lighter rockets get to orbit faster, and colder fuel lets you fit more fuel and get more power.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "How did Jose describe a mercenary?",
+   "q": "How did I describe a mercenary?",
    "choices": [
     "Someone who wants to make money for the sake of making money",
     "Someone who builds rockets",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the two founders had in common?",
+   "q": "What did I say the two founders had in common?",
    "choices": [
     "A similar mission, such as the reusable rocket",
     "The same strengths",

@@ -4,7 +4,7 @@
  "title": "Setting an anchor for someone else",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Evoke an anchor",
    "lines": [
     {
-     "text": "Jose said: now I will complicate it a little more. I ask you to evoke an anchor for somebody. Come up with one.",
+     "text": "I said: now I will complicate it a little more. I ask you to evoke an anchor for somebody. Come up with one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Shift the anchor",
    "lines": [
     {
-     "text": "Jose said that you cannot transfer an anchor from the taste to the description unless you make the transfer; then you cannot communicate it to other people. He then described a plate of fish so vividly the listeners could taste it.",
+     "text": "I said that you cannot transfer an anchor from the taste to the description unless you make the transfer; then you cannot communicate it to other people. I then described a plate of fish so vividly the listeners could taste it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that language of the senses, such as a delicate crust, a soft steaming flake, the balance of ocean and warmth and subtle seasoning, is what carries the anchor.",
+     "text": "I said that language of the senses, such as a delicate crust, a soft steaming flake, the balance of ocean and warmth and subtle seasoning, is what carries the anchor.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,13 +56,13 @@
    "heading": "A pattern interruption",
    "lines": [
     {
-     "text": "Jose described a call where he asked a question that the other person could not answer immediately, and the other tried to buy time, so he answered it himself with both. He said the pattern interruption triggered a little anxiety.",
+     "text": "I described a call where I asked a question that the other person could not answer immediately, and the other tried to buy time, so I answered it myself with both. I said the pattern interruption triggered a little anxiety.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that knowing about the person from research gives you more options to set an anchor. He gave transparency and responsibility to clients as what he wants to anchor.",
+     "text": "I said that knowing about the person from research gives you more options to set an anchor. I gave transparency and responsibility to clients as what I want to anchor.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you need to do with an anchor you want to share?",
+   "q": "What did I say you need to do with an anchor you want to share?",
    "choices": [
     "Transfer it into description",
     "Keep it private",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say knowing about the person gives you?",
+   "q": "What did I say knowing about the person gives you?",
    "choices": [
     "More options to set an anchor",
     "Less work",

@@ -4,7 +4,7 @@
  "title": "Authority and a steady mood",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The last chapter",
    "lines": [
     {
-     "text": "Jose said that the last chapter is about happiness and authority, which he had forgotten the author wrote like that. He said the author is pragmatic and yet talks about happiness, and asked whether following an authority-building path can lift your life's satisfaction.",
+     "text": "I said that the last chapter is about happiness and authority, which I had forgotten the author wrote like that. I said the author is pragmatic and yet talks about happiness, and asked whether following an authority-building path can lift your life's satisfaction.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when you have that kind of authority you tend to have internal happiness and optimism.",
+     "text": "I said that when you have that kind of authority you tend to have internal happiness and optimism.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that you do not want a leader where you wonder what mood they will be in today. He said that great entrepreneurs inspire, and that there is nothing more satisfying to a servant leader than empowering others.",
+     "text": "I said that you do not want a leader where you wonder what mood they will be in today. I said that great entrepreneurs inspire, and that there is nothing more satisfying to a servant leader than empowering others.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: people's past always tells you something about their future. You want to see in the past a trace that this person did this already, coached and helped others.",
+     "text": "I said: people's past always tells you something about their future. You want to see in the past a trace that this person did this already, coached and helped others.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the last chapter connects?",
+   "q": "What did I say the last chapter connects?",
    "choices": [
     "Authority and happiness",
     "Money and time",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a person's past?",
+   "q": "What did I say about a person's past?",
    "choices": [
     "It tells you something about their future",
     "It does not matter",

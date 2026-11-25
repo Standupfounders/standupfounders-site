@@ -4,7 +4,7 @@
  "title": "Specialist or generalist?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "What to think, or how",
    "lines": [
     {
-     "text": "Jose said he was enthusiastic about this chapter because of an academic subject: education and parenting, the common denominator that helps people be successful in their field, with two different lines of thought. He had been told before: that is preposterous.",
+     "text": "I said I was enthusiastic about this chapter because of an academic subject: education and parenting, the common denominator that helps people be successful in their field, with two different lines of thought. I had been told before: that is preposterous.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "One of the things he is philosophically against is so much specialization in schools that they teach you what to think instead of how to think.",
+     "text": "One of the things I am philosophically against is so much specialization in schools that they teach you what to think instead of how to think.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "The Renaissance idea",
    "lines": [
     {
-     "text": "Jose remembered that in college you had what they called university requirements: a number of hours in the arts, some in sciences, math courses. The goal was to be a well-rounded individual, a thinker who could see the world as a whole.",
+     "text": "I remembered that in college you had what they called university requirements: a number of hours in the arts, some in sciences, math courses. The goal was to be a well-rounded individual, a thinker who could see the world as a whole.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That comes from the Renaissance, he said, when the great figures combined math and science and art in their thought patterns and their creations, and understood the world through different disciplines.",
+     "text": "That comes from the Renaissance, I said, when the great figures combined math and science and art in their thought patterns and their creations, and understood the world through different disciplines.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the person in the book, when he broadens the vision of his company, goes from specialized to generalized. The cousins in the last chapter were narrower thinkers.",
+     "text": "I said the person in the book, when he broadens the vision of his company, goes from specialized to generalized. The cousins in the last chapter were narrower thinkers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "The two extremes",
    "lines": [
     {
-     "text": "There are two arguments, Jose said: you need to specialize to be successful, or, in the other, probably archaic, view, you are more generalized in your thinking.",
+     "text": "There are two arguments, I said: you need to specialize to be successful, or, in the other, probably archaic, view, you are more generalized in your thinking.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say he is philosophically against?",
+   "q": "What did I say I am philosophically against?",
    "choices": [
     "So much specialization that schools teach what to think instead of how to think",
     "Schools in general",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What was the goal of university requirements, as Jose remembered?",
+   "q": "What was the goal of university requirements, as I remembered?",
    "choices": [
     "To be a well-rounded individual",
     "To pass quickly",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What are the two extremes Jose described?",
+   "q": "What are the two extremes I described?",
    "choices": [
     "Tracking a child into one field, or letting them explore many",
     "Private and public school",

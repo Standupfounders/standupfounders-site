@@ -4,7 +4,7 @@
  "title": "How far are you willing to go?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,31 +22,31 @@
    "heading": "What's my relationship with money?",
    "lines": [
     {
-     "text": "As Jose retells the book, the author was at millions and millions of dollars, but his father had taught him to be very conscious of spending. He was an incredible operational manager with amazing budget controls. Every single dime was accounted for.",
+     "text": "As I retell the book, the author was at millions and millions of dollars, but his father had taught him to be very conscious of spending. He was an incredible operational manager with amazing budget controls. Every single dime was accounted for.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Anybody who does well in business, Jose said, has that level of detail. They are conscious of every single cent going into the business and out of the business. You need a lot of discipline.",
+     "text": "Anybody who does well in business, I said, has that level of detail. They are conscious of every single cent going into the business and out of the business. You need a lot of discipline.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You may make ten million dollars a year, he said, and before you know it you are spending ten million a year, because you inflated your expenses. Then you look and say: these expenses are out of control.",
+     "text": "You may make ten million dollars a year, I said, and before you know it you are spending ten million a year, because you inflated your expenses. Then you look and say: these expenses are out of control.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So understand yourself, he said. What are my limitations with money? What is my relationship with money? Am I somebody who loves to save, who is frugal and efficient? Or do I just spend it? What are my habits with money?",
+     "text": "So understand yourself, I said. What are my limitations with money? What is my relationship with money? Am I somebody who loves to save, who is frugal and efficient? Or do I just spend it? What are my habits with money?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A lot of us have limited belief systems about money, he said, because our parents said people who make money are terrible and unethical. So people have a negative belief system about making money. They think: if I have a lot of money, I must be a bad person. That limits them.",
+     "text": "A lot of us have limited belief systems about money, I said, because our parents said people who make money are terrible and unethical. So people have a negative belief system about making money. They think: if I have a lot of money, I must be a bad person. That limits them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,37 +57,37 @@
    "heading": "How far are you willing to go?",
    "lines": [
     {
-     "text": "Jose said a big takeaway is this: how far is each of us willing to go to be an entrepreneur? Are you going to be as crazy as the author, or seventy percent, or sixty, or thirty? Maybe you are not cut out to be an entrepreneur, and you would be better as somebody who works in a company.",
+     "text": "I said a big takeaway is this: how far is each of us willing to go to be an entrepreneur? Are you going to be as crazy as the author, or seventy percent, or sixty, or thirty? Maybe you are not cut out to be an entrepreneur, and you would be better as somebody who works in a company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You can be an entrepreneur and make a million or two, he said, but you can't make it unless you are taking risks. So analyze yourself. How much risk tolerance do I have? Am I going to go twenty miles an hour, fifty, or a hundred and fifty?",
+     "text": "You can be an entrepreneur and make a million or two, I said, but you can't make it unless you are taking risks. So analyze yourself. How much risk tolerance do I have? Am I going to go twenty miles an hour, fifty, or a hundred and fifty?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I have friends who say: I don't want to live like that, he said. One says he would be in a psychologist's office day and night. So you need to be happy with your pace. Am I pushing myself fast enough, or not at all?",
+     "text": "I have friends who say: I don't want to live like that, I said. One says he would be in a psychologist's office day and night. So you need to be happy with your pace. Am I pushing myself fast enough, or not at all?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Determining the pace is very important, Jose said. If you are happy with your pace, and conscious of your pace, then you are winning.",
+     "text": "Determining the pace is very important, I said. If you are happy with your pace, and conscious of your pace, then you are winning.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "And have financial goals in alignment with that pace, he said. You can't lie to yourself. You say: I want ten million by the end of the year, and then when you do the math you are at one million. That is not reality. You are outside of reality.",
+     "text": "And have financial goals in alignment with that pace, I said. You can't lie to yourself. You say: I want ten million by the end of the year, and then when you do the math you are at one million. That is not reality. You are outside of reality.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The common trait among successful entrepreneurs, he said, is that they do not believe there is a possibility of failure. A student agreed: that is literally the whole game.",
+     "text": "The common trait among successful entrepreneurs, I said, is that they do not believe there is a possibility of failure. A student agreed: that is literally the whole game.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -120,7 +120,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask about your pace?",
+   "q": "What did I ask about your pace?",
    "choices": [
     "Are you happy with it and conscious of it?",
     "Is it faster than your friends'?",
@@ -129,7 +129,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a goal that the math doesn't support?",
+   "q": "What did I say about a goal that the math doesn't support?",
    "choices": [
     "It is outside of reality",
     "It is fine",
@@ -138,7 +138,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is the common trait of successful entrepreneurs?",
+   "q": "What did I say is the common trait of successful entrepreneurs?",
    "choices": [
     "They do not believe there is a possibility of failure",
     "They never take risks",

@@ -4,7 +4,7 @@
  "title": "Rewards that fit your identity",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Short-term rewards for long-term goals",
    "lines": [
     {
-     "text": "Jose asked what short-term rewards can carry you toward a long-term goal, as when you start training for something that will take a year. A student said: enjoy the process more than the end result.",
+     "text": "I asked what short-term rewards can carry you toward a long-term goal, as when you start training for something that will take a year. A student said: enjoy the process more than the end result.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said the book gives a massage as a short-term reward after hard training.",
+     "text": "I said the book gives a massage as a short-term reward after hard training.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that what he learned is: do not reward a hard workout with a treat that goes against your identity. He said that is how we were programmed as children: if you eat your dinner, you get dessert.",
+     "text": "I said that what I learned is: do not reward a hard workout with a treat that goes against your identity. I said that is how we were programmed as children: if you eat your dinner, you get dessert.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say not to do after a hard workout?",
+   "q": "What did I say not to do after a hard workout?",
    "choices": [
     "Reward yourself against your identity",
     "Rest",

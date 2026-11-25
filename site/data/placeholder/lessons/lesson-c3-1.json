@@ -4,7 +4,7 @@
  "title": "Make it obvious",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said we can also call these triggers. He said the book talks about choice architecture, the design of the choices around you.",
+     "text": "I said we can also call these triggers. I said the book talks about choice architecture, the design of the choices around you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "Choice architecture",
    "lines": [
     {
-     "text": "Jose said that an office triggers people: I have to sit at my desk, pick up the phone, write emails. He said that is a reason people work in an office, and a leader who wants everyone in the office wants to control the choice architecture.",
+     "text": "I said that an office triggers people: I have to sit at my desk, pick up the phone, write emails. I said that is a reason people work in an office, and a leader who wants everyone in the office wants to control the choice architecture.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that in a supermarket, what is at eye level appeals more than what is at your feet, so placing things in strategic positions makes the choice more likely.",
+     "text": "I said that in a supermarket, what is at eye level appeals more than what is at your feet, so placing things in strategic positions makes the choice more likely.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said you can argue that habits change depending on the environment, the invisible hand that shapes human behavior: every habit is somehow context dependent.",
+     "text": "I said you can argue that habits change depending on the environment, the invisible hand that shapes human behavior: every habit is somehow context dependent.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call the design of the choices around you?",
+   "q": "What did I call the design of the choices around you?",
    "choices": [
     "Choice architecture",
     "A budget",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a supermarket?",
+   "q": "What did I say about a supermarket?",
    "choices": [
     "Things at eye level appeal more",
     "Everything sells equally",

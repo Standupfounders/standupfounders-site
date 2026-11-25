@@ -4,7 +4,7 @@
  "title": "Do not negotiate on values",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Values first",
    "lines": [
     {
-     "text": "A student said that the point he took away is: you do not want to negotiate on values, which he learned from Jose early on; if you are aligned on values and they are the highest priority, then other things follow.",
+     "text": "A student said that the point he took away is: you do not want to negotiate on values, which he learned from me early on; if you are aligned on values and they are the highest priority, then other things follow.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "Jose said that when you have a partner and you have your values and integrity, you do not even need to negotiate, and it is a very powerful and lasting situation because you care about each other.",
+     "text": "I said that when you have a partner and you have your values and integrity, you do not even need to negotiate, and it is a very powerful and lasting situation because you care about each other.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -36,16 +36,16 @@
    ]
   },
   {
-   "heading": "How Jose does it",
+   "heading": "How I do it",
    "lines": [
     {
-     "text": "Jose said that in a negotiation he does not say: this is what I think should happen, let us break it into percentages. He says: you and I have the same values and integrity, you come up with what you think is fair for everyone.",
+     "text": "I said that in a negotiation I do not say: this is what I think should happen, let us break it into percentages. I say: you and I have the same values and integrity, you come up with what you think is fair for everyone.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that if someone walks away from a negotiation with something that disturbed them, that is not conducive to a long-term relationship.",
+     "text": "I said that if someone walks away from a negotiation with something that disturbed them, that is not conducive to a long-term relationship.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that you have to be practical in negotiation, and that he explains what is sustainable for his company, not a greedy margin, and that they want long-term client relationships.",
+     "text": "I said that you have to be practical in negotiation, and that I explain what is sustainable for my company, not a greedy margin, and that they want long-term client relationships.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What does Jose ask the other side to propose?",
+   "q": "What do I ask the other side to propose?",
    "choices": [
     "What is fair for everyone",
     "A discount",

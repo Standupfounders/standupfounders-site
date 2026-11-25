@@ -4,7 +4,7 @@
  "title": "Pick something that you're genuinely interested in and get involved",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "He's no longer solely focused on making the money",
    "lines": [
     {
-     "text": "As Jose retells it, the author turned toward great figures of conservation, began making television about the planet, and started a nonprofit. Jose said: look at all the things this guy is accomplishing.",
+     "text": "As I retell it, the author turned toward great figures of conservation, began making television about the planet, and started a nonprofit. I said: look at all the things this guy is accomplishing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is amazing, Jose said, how he starts to ask: what are the global issues, and how do they bear on the sustainability of life on earth? He has more money now, so his perspective is changing. He is no longer solely focused on making the money. He knows he is going to make the money.",
+     "text": "It is amazing, I said, how he starts to ask: what are the global issues, and how do they bear on the sustainability of life on earth? He has more money now, so his perspective is changing. He is no longer solely focused on making the money. He knows he is going to make the money.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He told of a woman who runs a small nonprofit, struggling to make ends meet, teaching people about food and how it can help people who are ill. Jose said the group's company went to help for an afternoon.",
+     "text": "I told of a woman who runs a small nonprofit, struggling to make ends meet, teaching people about food and how it can help people who are ill. I said the group's company went to help for an afternoon.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,25 +45,25 @@
    "heading": "Pick something that you're genuinely interested in and get involved",
    "lines": [
     {
-     "text": "You don't need money to pick a cause and make the world a better place, Jose said. Mine, you all know, is that I am an educator. I will do everything I can to help people become better versions of themselves. I don't do it for money. I do it because it is a responsibility.",
+     "text": "You don't need money to pick a cause and make the world a better place, I said. Mine, you all know, is that I am an educator. I will do everything I can to help people become better versions of themselves. I don't do it for money. I do it because it is a responsibility.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So pick something you are genuinely interested in and get involved, he said. An hour a week. It is a beautiful thing to get involved with good causes.",
+     "text": "So pick something you are genuinely interested in and get involved, I said. An hour a week. It is a beautiful thing to get involved with good causes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What is beautiful, he said, is that now it is not just about the author making a bunch of money. Now he has global issues to attack. The world is bigger than just him and sailing. And I'm going to do my part. That is a world of significance. That is a world of purpose in life.",
+     "text": "What is beautiful, I said, is that now it is not just about the author making a bunch of money. Now he has global issues to attack. The world is bigger than just him and sailing. And I'm going to do my part. That is a world of significance. That is a world of purpose in life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He picks his battles, Jose said. He picks his goals. And he says: I'm going to do this.",
+     "text": "He picks his battles, I said. He picks his goals. And he says: I'm going to do this.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you don't need to pick a cause?",
+   "q": "What did I say you don't need to pick a cause?",
    "choices": [
     "Money",
     "Time",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "How much time did Jose suggest giving to a cause?",
+   "q": "How much time did I suggest giving to a cause?",
    "choices": [
     "An hour a week",
     "A day a week",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the author does with his goals?",
+   "q": "What did I say the author does with his goals?",
    "choices": [
     "Picks his battles and his goals",
     "Drops them",

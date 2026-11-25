@@ -4,7 +4,7 @@
  "title": "From I to we",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "From I to we",
    "lines": [
     {
-     "text": "Jose said that many leaders, especially young ones, use the word I a lot: I am doing this, I need you to do that. Instead use we: we are oriented, we care, we motivate and inspire each other.",
+     "text": "I said that many leaders, especially young ones, use the word I a lot: I am doing this, I need you to do that. Instead use we: we are oriented, we care, we motivate and inspire each other.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when you focus on the group you can share all your different processes to create a culture of working together with common habits.",
+     "text": "I said that when you focus on the group you can share all your different processes to create a culture of working together with common habits.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that the old-fashioned way is to celebrate the individual, and that this isolates people.",
+     "text": "I said that the old-fashioned way is to celebrate the individual, and that this isolates people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: I am pretty sure that the sisters in the book's story do not compete with each other; they focus so much on effort and process that they found a little secret of success. A group focus is a very different culture.",
+     "text": "I said: I am pretty sure that the sisters in the book's story do not compete with each other; they focus so much on effort and process that they found a little secret of success. A group focus is a very different culture.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that a leader should be aware of the person who is the I, the me, the my, and that a leader says: we care, we lift each other up, we are a resource to each other.",
+     "text": "I said that a leader should be aware of the person who is the I, the me, the my, and that a leader says: we care, we lift each other up, we are a resource to each other.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say young leaders use too often?",
+   "q": "What did I say young leaders use too often?",
    "choices": [
     "The word I",
     "The word we",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say celebrating the individual does?",
+   "q": "What did I say celebrating the individual does?",
    "choices": [
     "Isolates people",
     "Unites everyone",

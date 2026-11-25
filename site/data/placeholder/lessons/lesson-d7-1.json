@@ -4,7 +4,7 @@
  "title": "Urgency in minutes",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "A Monday ritual",
    "lines": [
     {
-     "text": "Jose said that on a Monday the question is what the first things are that your mind will engage in, and that one of his morning rituals is to start with it.",
+     "text": "I said that on a Monday the question is what the first things are that your mind will engage in, and that one of my morning rituals is to start with it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "Create the urgency",
    "lines": [
     {
-     "text": "Jose said that he has a number in his head by December and a financial goal to reach, and that he has to visualize, plan and structure, and create the urgency in seconds, minutes and hours.",
+     "text": "I said that I have a number in my head by December and a financial goal to reach, and that I have to visualize, plan and structure, and create the urgency in seconds, minutes and hours.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that creating a deadline for today means that you say: I have the next four or five days, and if I make this many calls and proposals, I am in the possibility of reaching it.",
+     "text": "I said that creating a deadline for today means that you say: I have the next four or five days, and if I make this many calls and proposals, I am in the possibility of reaching it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He added that it is the discipline of the minutes, hours and days, and that some people have other priorities in life that they do not want to let slip.",
+     "text": "I added that it is the discipline of the minutes, hours and days, and that some people have other priorities in life that they do not want to let slip.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say he creates?",
+   "q": "What did I say I create?",
    "choices": [
     "Urgency in seconds, minutes and hours",
     "Long holidays",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say it takes?",
+   "q": "What did I say it takes?",
    "choices": [
     "Discipline of minutes, hours and days",
     "Luck",

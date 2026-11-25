@@ -4,7 +4,7 @@
  "title": "One small change, kept",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "One coin",
    "lines": [
     {
-     "text": "Jose said that the chapter before the last talks about the coin: one positive change, like meditating for one minute or reading one page, is likely to deliver a noticeable difference. He said the effect of one small action repeated enough times is where we are.",
+     "text": "I said that the chapter before the last talks about the coin: one positive change, like meditating for one minute or reading one page, is likely to deliver a noticeable difference. I said the effect of one small action repeated enough times is where we are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Character is habit",
    "lines": [
     {
-     "text": "Jose said: if you think of a person's character, it is the sum of their habitual attitude to life. Through thought habits and physical habits we become virtues or vices. If you break down someone's small daily habits, that is who they are, and the power is that we can change it.",
+     "text": "I said: if you think of a person's character, it is the sum of their habitual attitude to life. Through thought habits and physical habits we become virtues or vices. If you break down someone's small daily habits, that is who they are, and the power is that we can change it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said we can learn a lot about people by living with them for a week: what they do in the morning, the afternoon and at night.",
+     "text": "I said we can learn a lot about people by living with them for a week: what they do in the morning, the afternoon and at night.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the underlying thing in the book is discipline and consistency, and that it is about the application. He called it a very practical roadmap and an instrument you use again and again: what are our habits in treating people, in expressing love, in work ethic?",
+     "text": "I said the underlying thing in the book is discipline and consistency, and that it is about the application. I called it a very practical roadmap and an instrument you use again and again: what are our habits in treating people, in expressing love, in work ethic?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say character is?",
+   "q": "What did I say character is?",
    "choices": [
     "The sum of a person's habitual attitude to life",
     "Their job",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the underlying thing in the book is?",
+   "q": "What did I say the underlying thing in the book is?",
    "choices": [
     "Discipline",
     "Speed",

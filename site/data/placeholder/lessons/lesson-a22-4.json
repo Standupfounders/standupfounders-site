@@ -4,7 +4,7 @@
  "title": "Public and private",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Public and private",
    "lines": [
     {
-     "text": "Jose said that a public company's chief executive cannot announce something that people can interpret in a way that costs them millions of dollars. There are a lot of rules with publicly traded companies about misrepresentation. He said the person in the book was not even aware, and now his private life was getting into his public life.",
+     "text": "I said that a public company's chief executive cannot announce something that people can interpret in a way that costs them millions of dollars. There are a lot of rules with publicly traded companies about misrepresentation. I said the person in the book was not even aware, and now his private life was getting into his public life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "A congruent brand",
    "lines": [
     {
-     "text": "Jose said we know a lot about the movie stars, because everybody focuses on them. Many are very conscious of how they develop their public brand, and some develop their private brand too.",
+     "text": "I said we know a lot about the movie stars, because everybody focuses on them. Many are very conscious of how they develop their public brand, and some develop their private brand too.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He gave an example of a well-known actor with a humble, very private persona. The photographers respect it. He has created a brand of the private and humble, so that you only hear good news about him.",
+     "text": "I gave an example of a well-known actor with a humble, very private persona. The photographers respect it. He has created a brand of the private and humble, so that you only hear good news about him.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Be aware of how to create your personal persona, Jose said, and make sure it is congruent with your public, personal and private life.",
+     "text": "Be aware of how to create your personal persona, I said, and make sure it is congruent with your public, personal and private life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: one hundred percent.",
+     "text": "I said: one hundred percent.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about statements by the head of a public company?",
+   "q": "What did I say about statements by the head of a public company?",
    "choices": [
     "They can cost people millions if misread",
     "They are always safe",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say your persona should be?",
+   "q": "What did I say your persona should be?",
    "choices": [
     "Congruent across public, personal and private",
     "Different in each place",

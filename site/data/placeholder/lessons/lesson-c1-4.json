@@ -4,7 +4,7 @@
  "title": "The elephant and the rider",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Conscious and subconscious",
    "lines": [
     {
-     "text": "Jose said that consciousness is the here and now, and the subconscious is everything else: past belief systems, negative events, things we do not address but that affect our decisions.",
+     "text": "I said that consciousness is the here and now, and the subconscious is everything else: past belief systems, negative events, things we do not address but that affect our decisions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He used the picture of an elephant and its rider: the subconscious is the elephant and the consciousness is the person on top, the pilot. The conscious changes the subconscious.",
+     "text": "I used the picture of an elephant and its rider: the subconscious is the elephant and the consciousness is the person on top, the pilot. The conscious changes the subconscious.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Repetition",
    "lines": [
     {
-     "text": "Jose said that to change it you associate the new behavior with the trigger, and what matters is repetition. Habits are repetition: gestures, phrases and things we associate with our mind that create an emotional response.",
+     "text": "I said that to change it you associate the new behavior with the trigger, and what matters is repetition. Habits are repetition: gestures, phrases and things we associate with our mind that create an emotional response.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: so why not create that emotional response daily? Jose said: that is the magic. What triggers am I going to use every single day that pump me up, inspire me, make me happy?",
+     "text": "A student said: so why not create that emotional response daily? I said: that is the magic. What triggers am I going to use every single day that pump me up, inspire me, make me happy?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that great warriors in history used mantras and songs and percussion to put themselves in a zone until the subconscious took over. This is his claim, and it needs a person to check the history.",
+     "text": "I said that great warriors in history used mantras and songs and percussion to put themselves in a zone until the subconscious took over. This is my claim, and it needs a person to check the history.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "In Jose's picture, what is the elephant?",
+   "q": "In my picture, what is the elephant?",
    "choices": [
     "The subconscious",
     "The consciousness",
@@ -122,7 +122,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say matters once you associate a behavior with a trigger?",
+   "q": "What did I say matters once you associate a behavior with a trigger?",
    "choices": [
     "Repetition",
     "Luck",

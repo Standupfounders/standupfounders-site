@@ -4,7 +4,7 @@
  "title": "I've got to control the lows",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "I've got to control the lows",
    "lines": [
     {
-     "text": "What kind of decisions are you going to make in your lows, Jose asked? A student answered: ones out of those feelings, which would probably be bad decisions.",
+     "text": "What kind of decisions are you going to make in your lows, I asked? A student answered: ones out of those feelings, which would probably be bad decisions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That's right, he said. I was a roller coaster in my twenties. I learned over the years: when I'm in the trough, when things are looking bad, I've got to control the lows and stay positive.",
+     "text": "That's right, I said. I was a roller coaster in my twenties. I learned over the years: when I'm in the trough, when things are looking bad, I've got to control the lows and stay positive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I would just do my mantras and my positive thinking, he said. It is discipline, not letting myself go to those lows.",
+     "text": "I would just do my mantras and my positive thinking, I said. It is discipline, not letting myself go to those lows.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -46,7 +46,7 @@
      "kind": "plain"
     },
     {
-     "text": "Good decisions come from good logical thinking, with your conviction, he said.",
+     "text": "Good decisions come from good logical thinking, with your conviction, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,13 +57,13 @@
    "heading": "A position of strength",
    "lines": [
     {
-     "text": "Jose asked: can I take a risk, suffer a crisis, and come out of it? What is my perspective? Am I going to make decisions from a position of strength, or from a position where I'm weakened and my perspective of myself is down and low?",
+     "text": "I asked: can I take a risk, suffer a crisis, and come out of it? What is my perspective? Am I going to make decisions from a position of strength, or from a position where I'm weakened and my perspective of myself is down and low?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student who works with hotel guests said: it's not a crisis unless you make it a crisis. Figure out what they need and get to the solution. Jose said you learn how to calm people down.",
+     "text": "A student who works with hotel guests said: it's not a crisis unless you make it a crisis. Figure out what they need and get to the solution. I said you learn how to calm people down.",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -74,19 +74,19 @@
    "heading": "Who stays on the boat with us?",
    "lines": [
     {
-     "text": "The takeaways, Jose said. Who are we in moments of crisis? How do we handle the highs and the lows? And what do we do to make decisions from a position of strength, from clarity, no matter what is happening in our external environment?",
+     "text": "The takeaways, I said. Who are we in moments of crisis? How do we handle the highs and the lows? And what do we do to make decisions from a position of strength, from clarity, no matter what is happening in our external environment?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asks people: what if we were in a lifeboat without food or water, all together? Who would be the leader? Who would panic? Who would sneak the food and not share it? How would we ration the water?",
+     "text": "I ask people: what if we were in a lifeboat without food or water, all together? Who would be the leader? Who would panic? Who would sneak the food and not share it? How would we ration the water?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Look around and analyze who is with you in those moments, he said. Who is with you in the lows? Who is with you in the company when it goes down? Who has those strong convictions to go all the way with you? Who stays on the boat with us?",
+     "text": "Look around and analyze who is with you in those moments, I said. Who is with you in the lows? Who is with you in the company when it goes down? Who has those strong convictions to go all the way with you? Who stays on the boat with us?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -128,7 +128,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say helps in the lows?",
+   "q": "What did I say helps in the lows?",
    "choices": [
     "Focusing on how you will make it work",
     "Waiting it out",
@@ -137,7 +137,7 @@
    "answer": 0
   },
   {
-   "q": "Which question did Jose say he asks people about a lifeboat?",
+   "q": "Which question did I say I ask people about a lifeboat?",
    "choices": [
     "Who would be the leader and who would panic?",
     "Who owns the boat?",

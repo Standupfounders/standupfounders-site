@@ -4,7 +4,7 @@
  "title": "We live with fear",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "He was worried",
    "lines": [
     {
-     "text": "Jose said the author writes that he was worried about the deal. He read a line.",
+     "text": "I said the author writes that he was worried about the deal. I read a line.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "quote"
     },
     {
-     "text": "A student said that in this chapter shareholders and investors wanted the internet badly, and he was just like: I don't get it, I'm too old. Jose said: he didn't understand it and was kind of resistant. But the other chief executive was thinking: this is a threat to our business.",
+     "text": "A student said that in this chapter shareholders and investors wanted the internet badly, and he was just like: I don't get it, I'm too old. I said: he didn't understand it and was kind of resistant. But the other chief executive was thinking: this is a threat to our business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "We live with fear",
    "lines": [
     {
-     "text": "Think about the threat, Jose said. Time magazine, for example. You are going to put the magazines on the internet for free. You make millions from the magazine, and now you are putting yourself out of business. Is that what is going on here?",
+     "text": "Think about the threat, I said. Time magazine, for example. You are going to put the magazines on the internet for free. You make millions from the magazine, and now you are putting yourself out of business. Is that what is going on here?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Think how scary traditional media found it, he said. As an entrepreneur, you are going to face fear. That is a natural reaction: fear of adapting, fear of defining a business model, fear of going out in the real world. We live with fear.",
+     "text": "Think how scary traditional media found it, I said. As an entrepreneur, you are going to face fear. That is a natural reaction: fear of adapting, fear of defining a business model, fear of going out in the real world. We live with fear.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They were delivering magazines all over the world, which is very costly, he said. Now with one click they can distribute to people's homes, bypassing the news stand. Newspapers said: wait a second, now the money I make from delivering is gone. Are people going to pay me the same? Think about changing your business model entirely.",
+     "text": "They were delivering magazines all over the world, which is very costly, I said. Now with one click they can distribute to people's homes, bypassing the news stand. Newspapers said: wait a second, now the money I make from delivering is gone. Are people going to pay me the same? Think about changing your business model entirely.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you will face as an entrepreneur?",
+   "q": "What did I say you will face as an entrepreneur?",
    "choices": [
     "Fear, a natural reaction",
     "Only success",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say traditional media found scary about the internet?",
+   "q": "What did I say traditional media found scary about the internet?",
    "choices": [
     "One click could bypass their distribution",
     "It was slow",

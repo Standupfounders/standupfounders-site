@@ -4,7 +4,7 @@
  "title": "Getting lost in the goal",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "What do you guys think of that statement?",
    "lines": [
     {
-     "text": "Jose read what the author's father once told him.",
+     "text": "I read what the author's father once told him.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,7 +40,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose asked the class: what do you think of that statement? Let's analyze it a little bit.",
+     "text": "I asked the class: what do you think of that statement? Let's analyze it a little bit.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -52,7 +52,7 @@
      "kind": "student"
     },
     {
-     "text": "Another said no, he set the wrong goals. He focused too much on money. Jose said: you're getting warm.",
+     "text": "Another said no, he set the wrong goals. He focused too much on money. I said: you're getting warm.",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -69,19 +69,19 @@
    "heading": "Getting lost in the goal",
    "lines": [
     {
-     "text": "Jose said there is something hiding in this quote, a deeper problem, and nobody had mentioned it.",
+     "text": "I said there is something hiding in this quote, a deeper problem, and nobody had mentioned it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I don't think it has got to do with goals at all, he said. We know he set other goals. He was buying companies. It wasn't good enough for him. He never had self-acceptance, and we learn that for the first time here.",
+     "text": "I don't think it has got to do with goals at all, I said. We know he set other goals. He was buying companies. It wasn't good enough for him. He never had self-acceptance, and we learn that for the first time here.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He was being chased by those ghosts, Jose said. He wasn't saying: I'm proud of who I am, I'm proud of what I've done.",
+     "text": "He was being chased by those ghosts, I said. He wasn't saying: I'm proud of who I am, I'm proud of what I've done.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -99,7 +99,7 @@
      "kind": "plain"
     },
     {
-     "text": "So it doesn't matter if you set the goal too high, he said, if you are not celebrating day to day, and not patting yourself on the back. Then no goal is going to be good enough.",
+     "text": "So it doesn't matter if you set the goal too high, I said, if you are not celebrating day to day, and not patting yourself on the back. Then no goal is going to be good enough.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -137,7 +137,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call not celebrating the little things?",
+   "q": "What did I call not celebrating the little things?",
    "choices": [
     "Getting lost in the goal",
     "Setting a low goal",
@@ -146,7 +146,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say was the deeper problem, not the height of the goals?",
+   "q": "What did I say was the deeper problem, not the height of the goals?",
    "choices": [
     "The goals were too easy",
     "A lack of self-acceptance",
@@ -155,7 +155,7 @@
    "answer": 1
   },
   {
-   "q": "What did Jose say happens if you never celebrate day to day?",
+   "q": "What did I say happens if you never celebrate day to day?",
    "choices": [
     "You reach the goal faster",
     "No goal is going to be good enough",

@@ -4,7 +4,7 @@
  "title": "Commitment devices",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Making bad habits hard",
    "lines": [
     {
-     "text": "Jose said that the chapter starts: sometimes success is less about making good habits easy and more about making bad habits hard. He read the book's definition of a commitment device: a choice you make in the present that controls your actions in the future. It lets you use good intentions before you fall victim to the temptation.",
+     "text": "I said that the chapter starts: sometimes success is less about making good habits easy and more about making bad habits hard. I read the book's definition of a commitment device: a choice you make in the present that controls your actions in the future. It lets you use good intentions before you fall victim to the temptation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -33,19 +33,19 @@
    "heading": "The examples",
    "lines": [
     {
-     "text": "Jose retold a story from the book about a writer who left himself with no suitable clothes to go outdoors, so he had to stay in his study until the novel was finished. He asked whether anyone had done something like this, a ritual or a mantra, such as I will not go to any parties until I finish.",
+     "text": "I retold a story from the book about a writer who left himself with no suitable clothes to go outdoors, so he had to stay in his study until the novel was finished. I asked whether anyone had done something like this, a ritual or a mantra, such as I will not go to any parties until I finish.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: we sometimes call it a penance. Jose said that organized religions are built around rituals for thoughts and habits. This is a general remark.",
+     "text": "A student said: we sometimes call it a penance. I said that organized religions are built around rituals for thoughts and habits. This is a general remark.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose described the book's story of a shop owner who found that staff were taking cash. He changed the environment to stop the behavior, with a cash register. It was an environmental change.",
+     "text": "I described the book's story of a shop owner who found that staff were taking cash. He changed the environment to stop the behavior, with a cash register. It was an environmental change.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -66,7 +66,7 @@
  },
  "check": [
   {
-   "q": "What is a commitment device, according to the book as Jose read it?",
+   "q": "What is a commitment device, according to the book as I read it?",
    "choices": [
     "A choice now that controls your actions later",
     "A tool for tracking time",
@@ -75,7 +75,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say success is sometimes less about?",
+   "q": "What did I say success is sometimes less about?",
    "choices": [
     "Making good habits easy",
     "Making bad habits hard",

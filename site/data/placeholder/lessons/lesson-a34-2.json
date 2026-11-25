@@ -4,7 +4,7 @@
  "title": "Three parts of strategy",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Three parts of strategy",
    "lines": [
     {
-     "text": "Jose said he splits strategy into three: intellectual capital, behavioural, and procedural. A lot of people in companies, if you ask them what the company strategy is, give ten different answers.",
+     "text": "I said I split strategy into three: intellectual capital, behavioural, and procedural. A lot of people in companies, if you ask them what the company strategy is, give ten different answers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: adapting your strategy is key. Who has the ability to adapt the strategy in the company?",
+     "text": "I said: adapting your strategy is key. Who has the ability to adapt the strategy in the company?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Definitions",
    "lines": [
     {
-     "text": "Jose said intellectual capital is identifying, evaluating and acting on intangible assets to gain a competitive advantage: using knowledge, experience and expertise systematically when you think strategically. He said he put the definition together from four or five sources.",
+     "text": "I said intellectual capital is identifying, evaluating and acting on intangible assets to gain a competitive advantage: using knowledge, experience and expertise systematically when you think strategically. I said I put the definition together from four or five sources.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The behavioural part involves a cognitive process, he said: thinking, knowing, memory, judging and problem solving. To understand a business strategically we have to have an adequate representation of the problem. A lot of times we don't identify the problem because we sugarcoat it.",
+     "text": "The behavioural part involves a cognitive process, I said: thinking, knowing, memory, judging and problem solving. To understand a business strategically we have to have an adequate representation of the problem. A lot of times we don't identify the problem because we sugarcoat it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The procedural part is the process of converting conceptual plans into action, achievable desired outcomes, he said. This is where the manual of operations comes in.",
+     "text": "The procedural part is the process of converting conceptual plans into action, achievable desired outcomes, I said. This is where the manual of operations comes in.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What three parts did Jose split strategy into?",
+   "q": "What three parts did I split strategy into?",
    "choices": [
     "Intellectual capital, behavioural and procedural",
     "Money, people and time",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the procedural part converts?",
+   "q": "What did I say the procedural part converts?",
    "choices": [
     "Conceptual plans into action",
     "Money into profit",

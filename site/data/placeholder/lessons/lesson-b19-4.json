@@ -4,7 +4,7 @@
  "title": "How am I a giver?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he has already been giving away money for a long time. What is interesting is that he doesn't just give it away. He wants people to use it the right way and steer it somewhere productive. Again, in the face of an obstacle, he's always thinking: what's the most efficient way?",
+     "text": "I said he has already been giving away money for a long time. What is interesting is that he doesn't just give it away. He wants people to use it the right way and steer it somewhere productive. Again, in the face of an obstacle, he's always thinking: what's the most efficient way?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,7 +40,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose read the author's line about giving.",
+     "text": "I read the author's line about giving.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,19 +57,19 @@
    "heading": "Money as energy",
    "lines": [
     {
-     "text": "The more that I gave, the more that I made. Think about that statement, Jose said. It is very cyclical. He sees money not as a resource that is limited. He sees it as unlimited.",
+     "text": "The more that I gave, the more that I made. Think about that statement, I said. It is very cyclical. He sees money not as a resource that is limited. He sees it as unlimited.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Think about language patterns, he said. We think of money as limited, finite. People talk about money sometimes as energy. You are moving in a direction, making money, doing proposals, meeting people, creating positive energy and attracting the money.",
+     "text": "Think about language patterns, I said. We think of money as limited, finite. People talk about money sometimes as energy. You are moving in a direction, making money, doing proposals, meeting people, creating positive energy and attracting the money.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You don't have to be a billionaire to be a giving person, he said. He has been giving for a long time, long before he was a billionaire. And not only his money: his time, helping people with management. That builds a lot of trust and charisma.",
+     "text": "You don't have to be a billionaire to be a giving person, I said. He has been giving for a long time, long before he was a billionaire. And not only his money: his time, helping people with management. That builds a lot of trust and charisma.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -81,7 +81,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he posed the question: how am I a giver? What do I do consistently to help others? You don't have to commit money necessarily. What do I do every day to help others? What do I say, and what do I do?",
+     "text": "I said I posed the question: how am I a giver? What do I do consistently to help others? You don't have to commit money necessarily. What do I do every day to help others? What do I say, and what do I do?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -114,7 +114,7 @@
  },
  "check": [
   {
-   "q": "What question did Jose pose from this chapter?",
+   "q": "What question did I pose from this chapter?",
    "choices": [
     "How am I a giver?",
     "How much do I own?",
@@ -123,7 +123,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you don't have to be to be a giving person?",
+   "q": "What did I say you don't have to be to be a giving person?",
    "choices": [
     "A billionaire",
     "Rich or poor",
@@ -132,7 +132,7 @@
    "answer": 0
   },
   {
-   "q": "How did Jose say some people talk about money?",
+   "q": "How did I say some people talk about money?",
    "choices": [
     "As energy",
     "As a game",

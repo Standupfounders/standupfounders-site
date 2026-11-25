@@ -4,7 +4,7 @@
  "title": "Are you congruent?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -51,7 +51,7 @@
    "heading": "Are you congruent?",
    "lines": [
     {
-     "text": "And I think that is the word, Jose said. Congruence. Are you congruent with your financial goals and your personal goals? Are you in the realm of reality, making it happen?",
+     "text": "And I think that is the word, I said. Congruence. Are you congruent with your financial goals and your personal goals? Are you in the realm of reality, making it happen?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,31 +63,31 @@
      "kind": "student"
     },
     {
-     "text": "It comes down to consistency, Jose said. It comes down to habits. It comes down to little tiny things.",
+     "text": "It comes down to consistency, I said. It comes down to habits. It comes down to little tiny things.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Failure is not one catastrophic event, he said. It is a lot of tiny little bad decisions that you made consistently that led you to the failure. Success is the same. It is a lot of little decisions that you make consistently well.",
+     "text": "Failure is not one catastrophic event, I said. It is a lot of tiny little bad decisions that you made consistently that led you to the failure. Success is the same. It is a lot of little decisions that you make consistently well.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Getting up in the morning, going to the gym, not eating junk food: all those little things contribute to success and failure, he said.",
+     "text": "Getting up in the morning, going to the gym, not eating junk food: all those little things contribute to success and failure, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he is infamous for looking into people's cars. A messy car, he says, is a sample of what is inside your brain. A messy house, a messy room: the clutter is relevant.",
+     "text": "I said I am infamous for looking into people's cars. A messy car, I say, is a sample of what is inside your brain. A messy house, a messy room: the clutter is relevant.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The more focused you are during your day, keeping your eye on daily objectives that lead you to the long term, the better, he said. A lot of us make a decision one day: today I'm going to be a world champion. Then two months go by, and you forgot about that decision. You didn't train hard every day.",
+     "text": "The more focused you are during your day, keeping your eye on daily objectives that lead you to the long term, the better, I said. A lot of us make a decision one day: today I'm going to be a world champion. Then two months go by, and you forgot about that decision. You didn't train hard every day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -120,7 +120,7 @@
  },
  "check": [
   {
-   "q": "What word did Jose use for matching your daily actions to your goal?",
+   "q": "What word did I use for matching your daily actions to your goal?",
    "choices": [
     "Congruence",
     "Luck",
@@ -129,7 +129,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say success and failure are made of?",
+   "q": "What did I say success and failure are made of?",
    "choices": [
     "A lot of tiny decisions made consistently",
     "One big event",
@@ -138,7 +138,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a messy car is a sample of?",
+   "q": "What did I say a messy car is a sample of?",
    "choices": [
     "What is inside your brain",
     "How rich you are",

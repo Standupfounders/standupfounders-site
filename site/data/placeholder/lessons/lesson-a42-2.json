@@ -4,7 +4,7 @@
  "title": "Will they stay?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: job security and stabilizing the company is a big deal. Otherwise you create a culture that is very dark and not very motivating, because it is fear everywhere.",
+     "text": "I said: job security and stabilizing the company is a big deal. Otherwise you create a culture that is very dark and not very motivating, because it is fear everywhere.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "The culture people already have",
    "lines": [
     {
-     "text": "Jose said: that is the culture of the company. Do I like the culture? If an established culture meets a completely different one, people say: I'm not ready to completely change my work environment. I would say the majority would not be willing to adapt.",
+     "text": "I said: that is the culture of the company. Do I like the culture? If an established culture meets a completely different one, people say: I'm not ready to completely change my work environment. I would say the majority would not be willing to adapt.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that you would probably be curious why a person left the company, and would ask: why did you quit, what was the problem?",
+     "text": "I said that you would probably be curious why a person left the company, and would ask: why did you quit, what was the problem?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a culture of fear is?",
+   "q": "What did I say a culture of fear is?",
    "choices": [
     "Dark and not motivating",
     "Efficient",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the majority of people would not be willing to do?",
+   "q": "What did I say the majority of people would not be willing to do?",
    "choices": [
     "Completely change their work environment",
     "Take a day off",

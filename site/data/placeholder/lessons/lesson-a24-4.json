@@ -4,7 +4,7 @@
  "title": "Be a good guest",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,25 +39,25 @@
    "heading": "Listen, then give",
    "lines": [
     {
-     "text": "Jose said: you could take a wrong turn, so it is about not taking risk in those relationships at the beginning. You have to become a good listener. And you also have to ask: what can I bring to this person? How can I be a giving person?",
+     "text": "I said: you could take a wrong turn, so it is about not taking risk in those relationships at the beginning. You have to become a good listener. And you also have to ask: what can I bring to this person? How can I be a giving person?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Being sensitive to people's needs, he said, whether it is business or not, only opens doors. I think a lot of big problems between governments come from a lack of sensitivity and from not stopping to listen to other people's concerns, especially in hostile situations.",
+     "text": "Being sensitive to people's needs, I said, whether it is business or not, only opens doors. I think a lot of big problems between governments come from a lack of sensitivity and from not stopping to listen to other people's concerns, especially in hostile situations.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Your demeanour, the way you carry yourself, the heightened awareness and listening: these are a big skill set when you go international, he said.",
+     "text": "Your demeanour, the way you carry yourself, the heightened awareness and listening: these are a big skill set when you go international, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that if you are a business that is growing and want to go to different countries, you are going to be on a hundred and fifty mile an hour learning curve on how to deal with different countries, governments and people.",
+     "text": "I said that if you are a business that is growing and want to go to different countries, you are going to be on a hundred and fifty mile an hour learning curve on how to deal with different countries, governments and people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you have to become, at the start?",
+   "q": "What did I say you have to become, at the start?",
    "choices": [
     "A good listener",
     "A good talker",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say only opens doors?",
+   "q": "What did I say only opens doors?",
    "choices": [
     "Sensitivity to people's needs",
     "Pushing harder",

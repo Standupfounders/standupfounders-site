@@ -4,7 +4,7 @@
  "title": "What is my balance?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Be conscious of the balance",
    "lines": [
     {
-     "text": "The message, Jose said, is to be conscious of the balance. Do you want a family? Do you want to be a husband? Do you want to be a good father?",
+     "text": "The message, I said, is to be conscious of the balance. Do you want a family? Do you want to be a husband? Do you want to be a good father?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If all you want to do is work, he said, then don't have kids and don't get married, because you are not really making a conscious choice.",
+     "text": "If all you want to do is work, I said, then don't have kids and don't get married, because you are not really making a conscious choice.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,7 +40,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose spoke of anchors. The anchors we drag, he said, we might not be conscious of at a certain moment in our life, but they will come back without a doubt.",
+     "text": "I spoke of anchors. The anchors we drag, I said, we might not be conscious of at a certain moment in our life, but they will come back without a doubt.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
    "heading": "The way you speak to your children",
    "lines": [
     {
-     "text": "He said he asks his own kids all the time: how can I be a better father?",
+     "text": "I said I ask my own kids all the time: how can I be a better father?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The way you speak to your children, he said, is the way they speak to themselves when they are adults. It becomes their inner voice.",
+     "text": "The way you speak to your children, I said, is the way they speak to themselves when they are adults. It becomes their inner voice.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -69,7 +69,7 @@
      "kind": "plain"
     },
     {
-     "text": "Sometimes he has caught himself and said: I apologize. I'm irritated. It's not coming from anything you did. It's my issues, my anxiety.",
+     "text": "Sometimes I have caught myself and said: I apologize. I'm irritated. It's not coming from anything you did. It's my issues, my anxiety.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,7 +80,7 @@
    "heading": "What is my balance?",
    "lines": [
     {
-     "text": "If you keep thinking of long-term goals and you are not focused on the process and the day-to-day celebration, he said, you can get lost in those goals.",
+     "text": "If you keep thinking of long-term goals and you are not focused on the process and the day-to-day celebration, I said, you can get lost in those goals.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -92,19 +92,19 @@
      "kind": "plain"
     },
     {
-     "text": "Some of us as entrepreneurs are born with a little chip, he said. There is a lot of collateral damage. You thrive from risk. You thrive from the anxiety.",
+     "text": "Some of us as entrepreneurs are born with a little chip, I said. There is a lot of collateral damage. You thrive from risk. You thrive from the anxiety.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What is my balance, he asked: emotionally, intellectually, and with the people around me? The people around you probably suffer more, so your relationships are very important to pay attention to.",
+     "text": "What is my balance, I asked: emotionally, intellectually, and with the people around me? The people around you probably suffer more, so your relationships are very important to pay attention to.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That is the magic of reading these kinds of books, he said. You see how other people make choices. Either I choose to be a good father or an absent father. Either a good husband or not.",
+     "text": "That is the magic of reading these kinds of books, I said. You see how other people make choices. Either I choose to be a good father or an absent father. Either a good husband or not.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -137,7 +137,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens to the way you speak to your children?",
+   "q": "What did I say happens to the way you speak to your children?",
    "choices": [
     "They forget it",
     "It becomes their inner voice",
@@ -146,7 +146,7 @@
    "answer": 1
   },
   {
-   "q": "What did Jose say entrepreneurs often thrive on?",
+   "q": "What did I say entrepreneurs often thrive on?",
    "choices": [
     "Rest",
     "Risk and anxiety",
@@ -155,7 +155,7 @@
    "answer": 1
   },
   {
-   "q": "What did Jose say to do when a harsh voice is in your head?",
+   "q": "What did I say to do when a harsh voice is in your head?",
    "choices": [
     "Work harder",
     "Go back to gratefulness and breathing",

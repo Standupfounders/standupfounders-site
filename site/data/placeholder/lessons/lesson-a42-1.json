@@ -4,7 +4,7 @@
  "title": "Who is really working?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Who is working?",
    "lines": [
     {
-     "text": "Jose said that in this chapter the person feels people are hiding in what they do, that there is a lot of inefficiency, and that there is no real pragmatism or direction in how features get developed. He compares the number of reports in his other companies with the new one.",
+     "text": "I said that in this chapter the person feels people are hiding in what they do, that there is a lot of inefficiency, and that there is no real pragmatism or direction in how features get developed. He compares the number of reports in his other companies with the new one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose asked: if you had two thousand engineers and the owner says you don't need that many, fire them and go down to a hundred and fifty, what are the dangers? How would you do it? How do you sift through two thousand positions and find out who is doing good work and who isn't?",
+     "text": "I asked: if you had two thousand engineers and the owner says you don't need that many, fire them and go down to a hundred and fifty, what are the dangers? How would you do it? How do you sift through two thousand positions and find out who is doing good work and who isn't?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: when you go through people's job descriptions they should be very aware of their KPIs and hitting them, and you do audits of what they do day to day, hour to hour. Otherwise people will hide. I call them paper shufflers. They talk in abstractions, not in numbers.",
+     "text": "I said: when you go through people's job descriptions they should be very aware of their KPIs and hitting them, and you do audits of what they do day to day, hour to hour. Otherwise people will hide. I call them paper shufflers. They talk in abstractions, not in numbers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What are you doing from eight to nine, nine to ten, ten to eleven? I would sit with them and do an audit of their time, he said. You find out very quickly who is hiding.",
+     "text": "What are you doing from eight to nine, nine to ten, ten to eleven? I would sit with them and do an audit of their time, I said. You find out very quickly who is hiding.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,7 +74,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: another thing I see a lot is experts at getting other people to do their jobs, taking credit from somebody else. They structure themselves so they are held accountable for something they don't do. A manual of operations in a very granular way, going into specific tasks, makes me comfortable. Job descriptions that don't go into specifics are a problem.",
+     "text": "I said: another thing I see a lot is experts at getting other people to do their jobs, taking credit from somebody else. They structure themselves so they are held accountable for something they don't do. A manual of operations in a very granular way, going into specific tasks, makes me comfortable. Job descriptions that don't go into specifics are a problem.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call people who talk in abstractions, not numbers?",
+   "q": "What did I call people who talk in abstractions, not numbers?",
    "choices": [
     "Paper shufflers",
     "Leaders",
@@ -131,9 +131,9 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a granular manual of operations does?",
+   "q": "What did I say a granular manual of operations does?",
    "choices": [
-    "Makes him comfortable",
+    "Makes me comfortable",
     "Slows people down",
     "Hides problems"
    ],

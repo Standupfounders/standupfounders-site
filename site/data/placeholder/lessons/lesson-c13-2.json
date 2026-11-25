@@ -4,7 +4,7 @@
  "title": "Where accountability starts",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Where it starts",
    "lines": [
     {
-     "text": "Jose asked when accountability for our habits starts. A student answered: from six months old, depending on what the baby sees.",
+     "text": "I asked when accountability for our habits starts. A student answered: from six months old, depending on what the baby sees.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said it starts in childhood: parents from an early age structure the concept of accountability, and the momentum carries into adulthood. He said he was not criticizing parents in general.",
+     "text": "I said it starts in childhood: parents from an early age structure the concept of accountability, and the momentum carries into adulthood. I said I was not criticizing parents in general.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Guilt and shame",
    "lines": [
     {
-     "text": "A student said: the awareness of my bad habits is driven by guilt. Jose asked: who installed that guilt?",
+     "text": "A student said: the awareness of my bad habits is driven by guilt. I asked: who installed that guilt?",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: the parents are taking responsibility from you. They are not giving you choices, which makes you less responsible and, later, less confident to decide on your own.",
+     "text": "I said: the parents are taking responsibility from you. They are not giving you choices, which makes you less responsible and, later, less confident to decide on your own.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Give the choice",
    "lines": [
     {
-     "text": "Jose described two kinds of parents: one says do this, the other says you have a choice, you can be organized or disorganized. The second shifts the responsibility and decision to the child.",
+     "text": "I described two kinds of parents: one says do this, the other says you have a choice, you can be organized or disorganized. The second shifts the responsibility and decision to the child.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked what a parent is doing when they ask: why are you thinking about going out without a coat? A student said: giving the chance to think and make a decision. Another said: questioning the thought process to make it seem reasonable.",
+     "text": "I asked what a parent is doing when they ask: why are you thinking about going out without a coat? A student said: giving the chance to think and make a decision. Another said: questioning the thought process to make it seem reasonable.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say starts in childhood?",
+   "q": "What did I say starts in childhood?",
    "choices": [
     "The concept of accountability for habits",
     "The first job",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say taking away choices does?",
+   "q": "What did I say taking away choices does?",
    "choices": [
     "Makes you less responsible",
     "Makes you wiser",

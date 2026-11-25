@@ -4,7 +4,7 @@
  "title": "Protect yourself in a committee",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The bigger company",
    "lines": [
     {
-     "text": "Jose said: you form a committee and that is where your biggest challenge will come from. People will say: I want to be the leader. You are a small company, and you sit with a company a hundred times bigger who says: I'll be the president of this committee, I'll talk to the senator.",
+     "text": "I said: you form a committee and that is where your biggest challenge will come from. People will say: I want to be the leader. You are a small company, and you sit with a company a hundred times bigger who says: I'll be the president of this committee, I'll talk to the senator.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How do you protect yourself? A student said: number one is to bring value. Jose said: everybody brings value. Number two, the student said, leverage by having the relationship with the politician.",
+     "text": "How do you protect yourself? A student said: number one is to bring value. I said: everybody brings value. Number two, the student said, leverage by having the relationship with the politician.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "The messenger with a plan",
    "lines": [
     {
-     "text": "Jose said: now we are getting somewhere. You have a special relationship with the senator and you keep that at bay. You are the messenger. You gain the trust of the president of the committee.",
+     "text": "I said: now we are getting somewhere. You have a special relationship with the senator and you keep that at bay. You are the messenger. You gain the trust of the president of the committee.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "plain"
     },
     {
-     "text": "They will want their Christmas list, he said. You add what they want. But you already have a specific strategy. At the beginning of negotiations you have to get the buy-in from the big industry players.",
+     "text": "They will want their Christmas list, I said. You add what they want. But you already have a specific strategy. At the beginning of negotiations you have to get the buy-in from the big industry players.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Where the opposition comes from",
    "lines": [
     {
-     "text": "Number two: where will the red tape come from? Not people, Jose said, organizations. There will be a world of opposition. When you pass a law in the senate you will have senators who send missiles to you.",
+     "text": "Number two: where will the red tape come from? Not people, I said, organizations. There will be a world of opposition. When you pass a law in the senate you will have senators who send missiles to you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Identify who will come at you. A student named the contractors who lay rock and the dredging contractors. Jose said: those are the little guys. Who is bigger? Environmental organizations.",
+     "text": "Identify who will come at you. A student named the contractors who lay rock and the dredging contractors. I said: those are the little guys. Who is bigger? Environmental organizations.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call the role you keep with the senator?",
+   "q": "What did I call the role you keep with the senator?",
    "choices": [
     "The messenger",
     "The boss",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you need before the first meeting with industry people?",
+   "q": "What did I say you need before the first meeting with industry people?",
    "choices": [
     "A plan that is already sold, which you can add to",
     "A blank page",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say red tape comes from?",
+   "q": "What did I say red tape comes from?",
    "choices": [
     "Organizations",
     "Individuals only",

@@ -4,7 +4,7 @@
  "title": "Product first, margins always",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Sales or product?",
    "lines": [
     {
-     "text": "Jose said the person asked his cousins: are you a sales organization, or are you focused on the product? In his head, the product comes first.",
+     "text": "I said the person asked his cousins: are you a sales organization, or are you focused on the product? In his head, the product comes first.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The cousins were proud that they were out selling, but it isn't sustainable unless you have a really good product, Jose said. There are two types of people: salespeople and product people. The clients will come if you have a good product. If you're selling without one, you get into danger.",
+     "text": "The cousins were proud that they were out selling, but it isn't sustainable unless you have a really good product, I said. There are two types of people: salespeople and product people. The clients will come if you have a good product. If you're selling without one, you get into danger.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "A bottle that won a prize",
    "lines": [
     {
-     "text": "Jose told of an uncle who had a water-bottling plant. He won a prize in Europe for the best bottle, a hybrid between round and square. The water came from a family farm and was beautiful.",
+     "text": "I told of an uncle who had a water-bottling plant. He won a prize in Europe for the best bottle, a hybrid between round and square. The water came from a family farm and was beautiful.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,13 +56,13 @@
    "heading": "Margins and volume",
    "lines": [
     {
-     "text": "A student said the person in the book is always thinking about the product and how to enhance it. Jose said: he is also thinking about the margins. One of the first things I ask about a business is: what are the margins?",
+     "text": "A student said the person in the book is always thinking about the product and how to enhance it. I said: he is also thinking about the margins. One of the first things I ask about a business is: what are the margins?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "His brother-in-law owned fast food franchises, which work on a five percent margin, he said. If you don't do something right, you're losing money. They work on volume. A bigger margin is a more forgiving business.",
+     "text": "My brother-in-law owned fast food franchises, which work on a five percent margin, I said. If you don't do something right, you're losing money. They work on volume. A bigger margin is a more forgiving business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about a product and sales?",
+   "q": "What did I say about a product and sales?",
    "choices": [
     "The clients will come if you have a good product",
     "Sales matter most",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is a more forgiving business?",
+   "q": "What did I say is a more forgiving business?",
    "choices": [
     "One with a bigger margin",
     "One with a smaller margin",

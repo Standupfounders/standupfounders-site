@@ -4,7 +4,7 @@
  "title": "Pass it on by leading and asking",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Regulate yourself first",
    "lines": [
     {
-     "text": "Jose said you cannot regulate other people until you are regulating yourself, because people catch on. He said leaders need that strong strategic internal map.",
+     "text": "I said you cannot regulate other people until you are regulating yourself, because people catch on. I said leaders need that strong strategic internal map.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He used the example of a drive to school with the children: how do you move from your own heightened, regulated state to your children, and how do you transfer it in your company? A student said: lead by example. Without being a leader, the practices will crumble.",
+     "text": "I used the example of a drive to school with the children: how do you move from your own heightened, regulated state to your children, and how do you transfer it in your company? A student said: lead by example. Without being a leader, the practices will crumble.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Significance for them",
    "lines": [
     {
-     "text": "Jose said that you help people see that the habits are going toward a higher goal, that you ask questions, and that you make the mundane significant by asking questions that are significant for them, not for you.",
+     "text": "I said that you help people see that the habits are going toward a higher goal, that you ask questions, and that you make the mundane significant by asking questions that are significant for them, not for you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: if I talk to an employee about productivity without understanding what is significant to them, I deliver it ineffectively. Jose said people then think you are arrogant, because you are not engaging them.",
+     "text": "A student said: if I talk to an employee about productivity without understanding what is significant to them, I deliver it ineffectively. I said people then think you are arrogant, because you are not engaging them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "Listening and questions",
    "lines": [
     {
-     "text": "Jose said: ninety percent is listening, and the ten percent that is left is asking questions.",
+     "text": "I said: ninety percent is listening, and the ten percent that is left is asking questions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you cannot regulate before yourself?",
+   "q": "What did I say you cannot regulate before yourself?",
    "choices": [
     "Other people",
     "The weather",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say listening is?",
+   "q": "What did I say listening is?",
    "choices": [
     "Ninety percent",
     "Ten percent",

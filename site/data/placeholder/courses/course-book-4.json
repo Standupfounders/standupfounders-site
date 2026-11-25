@@ -2,10 +2,10 @@
  "schema": 1,
  "id": "course-book-4",
  "slug": "book-4",
- "title": "Jose's analysis of a book we are still naming",
+ "title": "Authority and Personal Brand",
  "label": "Course 4",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
- "outcome": "A fourth course, built from Jose's group calls on one book about authority and personal brand, in the order of the calls. The book is not named yet. Modules are added one at a time.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "My reading of one book about authority and personal brand, in the order of the calls. We look at a niche, the speed of trust, your story, referrals, earned media, content and public speaking. Built from my group calls.",
  "season_note": "A suggested run of about 20 weeks. Suggested dates only: nothing locks.",
  "weeks": 20,
  "modules": [
@@ -1257,5 +1257,7 @@
   }
  ],
  "slots": [],
- "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+ "page_text": "Each module is my analysis of a book on authority and personal brand. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice.",
+ "public_title": "Authority and Personal Brand",
+ "public_outcome": "My reading of one book about authority and personal brand, in the order of the calls. We look at a niche, the speed of trust, your story, referrals, earned media, content and public speaking. Built from my group calls."
 }

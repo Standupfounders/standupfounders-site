@@ -4,7 +4,7 @@
  "title": "The weight of the last word",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A council that doesn't start",
    "lines": [
     {
-     "text": "A student said: I think it is interesting to see the flip in mindset on monitoring content. Jose said: here is a person who criticized the big content companies about censorship, and all of a sudden he is on the other side of the fence, dealing with the issue.",
+     "text": "A student said: I think it is interesting to see the flip in mindset on monitoring content. I said: here is a person who criticized the big content companies about censorship, and all of a sudden he is on the other side of the fence, dealing with the issue.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose read a line from the book about falsehoods on social media.",
+     "text": "I read a line from the book about falsehoods on social media.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,7 +40,7 @@
      "kind": "quote"
     },
     {
-     "text": "Jose said: disinformation was a problem, as were scams, fraud and hate speech, and there is a big economic conflict of interest, because advertisers don't want to be in a toxic space. Then he comes up with the idea of a content moderation council, and it doesn't get off the ground.",
+     "text": "I said: disinformation was a problem, as were scams, fraud and hate speech, and there is a big economic conflict of interest, because advertisers don't want to be in a toxic space. Then he comes up with the idea of a content moderation council, and it doesn't get off the ground.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -69,7 +69,7 @@
      "kind": "student"
     },
     {
-     "text": "Think about the impact of making the ultimate calls on this global medium, Jose said, and of that kind of power to say: you can say what you want, you can't say what you want.",
+     "text": "Think about the impact of making the ultimate calls on this global medium, I said, and of that kind of power to say: you can say what you want, you can't say what you want.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens to the council?",
+   "q": "What did I say happens to the council?",
    "choices": [
     "It doesn't get off the ground",
     "It succeeds at once",

@@ -4,7 +4,7 @@
  "title": "No external excuses",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "The line down the paper",
    "lines": [
     {
-     "text": "Jose asked: imagine saying to your salespeople: I'm not going to allow you to give me any excuses that have anything to do with anything external. If you want to talk about your barriers internally, why you feel you can't do something, a negative belief system, a lack of control internally, then we can talk.",
+     "text": "I asked: imagine saying to your salespeople: I'm not going to allow you to give me any excuses that have anything to do with anything external. If you want to talk about your barriers internally, why you feel you can't do something, a negative belief system, a lack of control internally, then we can talk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "A student said: I think it would help in some regard, but it doesn't necessarily empower people to grind it out day to day. Then, after Jose explained it again, the student said: it makes total sense, I just misunderstood you the first round.",
+     "text": "A student said: I think it would help in some regard, but it doesn't necessarily empower people to grind it out day to day. Then, after I explained it again, the student said: it makes total sense, I just misunderstood you the first round.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Balance",
    "lines": [
     {
-     "text": "Jose said: we have external data and assessments, what the market is doing and the pricing. We're not talking about that. We are talking about what you are doing to empower yourself so that you achieve results. I personally let excuses get thrown at me once in a while, but what matters is that you don't have the ability or you don't have the will. It's an internal problem way before it's an external one.",
+     "text": "I said: we have external data and assessments, what the market is doing and the pricing. We're not talking about that. We are talking about what you are doing to empower yourself so that you achieve results. I personally let excuses get thrown at me once in a while, but what matters is that you don't have the ability or you don't have the will. It's an internal problem way before it's an external one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said: before any of that, we want to get to the belief system of that person: either they believe or they don't. A student said: as a leader you have to reinforce that you believe they can do it, otherwise they wouldn't be there.",
+     "text": "I said: before any of that, we want to get to the belief system of that person: either they believe or they don't. A student said: as a leader you have to reinforce that you believe they can do it, otherwise they wouldn't be there.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,13 +74,13 @@
    "heading": "Cut it, or teach it?",
    "lines": [
     {
-     "text": "Jose said: the person in the book says: I don't have time to coach this person, I have to cut them out. He is cut and dry and doesn't even tolerate it, which is why his organizations are efficient. It isn't my style, or the style of a lot of people in my world, because we are in teaching, and we like to empower people. Even if they make five percent progress and need ninety-five, we are happy with five.",
+     "text": "I said: the person in the book says: I don't have time to coach this person, I have to cut them out. He is cut and dry and doesn't even tolerate it, which is why his organizations are efficient. It isn't my style, or the style of a lot of people in my world, because we are in teaching, and we like to empower people. Even if they make five percent progress and need ninety-five, we are happy with five.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: as a leader it is part of what you have to do to make unpopular decisions for the general good of the unit. Jose said: you have to take a stance, and not let yourself get washed away by distractions. A student said: there is a balance to it, and Jose agreed.",
+     "text": "A student said: as a leader it is part of what you have to do to make unpopular decisions for the general good of the unit. I said: you have to take a stance, and not let yourself get washed away by distractions. A student said: there is a balance to it, and I agreed.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say he will listen to?",
+   "q": "What did I say he will listen to?",
    "choices": [
     "Anything internal, to help achieve anything external",
     "Any excuse",
@@ -131,11 +131,11 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about his own style?",
+   "q": "What did I say about my own style?",
    "choices": [
-    "He teaches and empowers, and is happy with small progress",
-    "He cuts at once",
-    "He ignores people"
+    "I teach and empower, and am happy with small progress",
+    "I cut at once",
+    "I ignore people"
    ],
    "answer": 0
   }

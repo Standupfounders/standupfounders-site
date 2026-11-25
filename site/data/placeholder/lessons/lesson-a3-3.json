@@ -4,7 +4,7 @@
  "title": "See what is in front of you",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Inattentional blindness",
    "lines": [
     {
-     "text": "We have what he called inattentional blindness, Jose said. It is right in front of your eyes, but you are preoccupied with something else, so you don't focus on it, and you don't get a chance to be in the right place at the right time and meet the right person.",
+     "text": "We have what he called inattentional blindness, I said. It is right in front of your eyes, but you are preoccupied with something else, so you don't focus on it, and you don't get a chance to be in the right place at the right time and meet the right person.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Look at the fascination, Jose said, of the person in the book at the airport, looking at the luggage going round on the belt. We look at a belt and think: I'm just looking for my bag. He saw something totally different: somebody should solve that problem.",
+     "text": "Look at the fascination, I said, of the person in the book at the airport, looking at the luggage going round on the belt. We look at a belt and think: I'm just looking for my bag. He saw something totally different: somebody should solve that problem.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Seeing what others don't",
    "lines": [
     {
-     "text": "He gave another example: a famous founder who took a calligraphy class and saw something different from every other student. He saw the round edges, the perfection, and visualized how a computer should look. Design is everywhere around you, Jose said. Develop that awareness.",
+     "text": "I gave another example: a famous founder who took a calligraphy class and saw something different from every other student. He saw the round edges, the perfection, and visualized how a computer should look. Design is everywhere around you, I said. Develop that awareness.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Hardware and software",
    "lines": [
     {
-     "text": "He liked hardware as well as software, Jose said. Back then, one famous computer maker built a closed computer: you could not go in and change the parts. Another company made software and didn't care if you put it in fifty thousand different computers. There was a closed system and an open system, and open-source developers believed everything should be shared.",
+     "text": "He liked hardware as well as software, I said. Back then, one famous computer maker built a closed computer: you could not go in and change the parts. Another company made software and didn't care if you put it in fifty thousand different computers. There was a closed system and an open system, and open-source developers believed everything should be shared.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Generally you have hardware people or software people, but you don't have both. He had both abilities, Jose said, like the left and the right brain. He decides on the internet, sustainable energy and space travel.",
+     "text": "Generally you have hardware people or software people, but you don't have both. He had both abilities, I said, like the left and the right brain. He decides on the internet, sustainable energy and space travel.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say inattentional blindness is?",
+   "q": "What did I say inattentional blindness is?",
    "choices": [
     "It is right in front of your eyes but you are preoccupied with something else",
     "Not being able to see",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about people who have both hardware and software skills?",
+   "q": "What did I say about people who have both hardware and software skills?",
    "choices": [
     "Generally you don't have both",
     "Everybody has both",

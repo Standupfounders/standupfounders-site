@@ -4,7 +4,7 @@
  "title": "A model that fits the mission",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Remodelling a house",
    "lines": [
     {
-     "text": "Jose said it is the first time the person is grabbing a company that he had no part in building. It is like remodelling a house, not building one from scratch. He is going outside his comfort zone into a company whose process and data he doesn't understand.",
+     "text": "I said it is the first time the person is grabbing a company that he had no part in building. It is like remodelling a house, not building one from scratch. He is going outside his comfort zone into a company whose process and data he doesn't understand.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Does he have the skill set intellectually, academically, to build it into a powerhouse? Jose said he is very enthusiastic to follow the learning curve of what he will do with the company.",
+     "text": "Does he have the skill set intellectually, academically, to build it into a powerhouse? I said he is very enthusiastic to follow the learning curve of what he will do with the company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "The revenue model",
    "lines": [
     {
-     "text": "A student said that there are paid membership tiers at three prices: it is how they are siphoning out valid accounts. Jose said: I thought it was straight advertising.",
+     "text": "A student said that there are paid membership tiers at three prices: it is how they are siphoning out valid accounts. I said: I thought it was straight advertising.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said the person bought the platform wanting an objective news source. We have learned in the past, with a famous magazine and newspaper companies, that advertising can contaminate objective journalism. That is a conflict for him philosophically: advertisers kind of skewing the news.",
+     "text": "I said the person bought the platform wanting an objective news source. We have learned in the past, with a famous magazine and newspaper companies, that advertising can contaminate objective journalism. That is a conflict for him philosophically: advertisers kind of skewing the news.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So I think he is going to look for other revenue models that are not advertising, he said. That will be very interesting. It is his personal opinion.",
+     "text": "So I think he is going to look for other revenue models that are not advertising, I said. That will be very interesting. It is my personal opinion.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Integrity and money",
    "lines": [
     {
-     "text": "Will he develop a news outlet where the advertising money will not contaminate the integrity of the journalism? That is the philosophical question, Jose said. It is like being in the stands and watching a person on a racetrack that has never been run before.",
+     "text": "Will he develop a news outlet where the advertising money will not contaminate the integrity of the journalism? That is the philosophical question, I said. It is like being in the stands and watching a person on a racetrack that has never been run before.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: advertising runs everything. Jose said: we are living in very exciting times to watch him and see how he evolves it.",
+     "text": "A student said: advertising runs everything. I said: we are living in very exciting times to watch him and see how he evolves it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say buying an existing company is like?",
+   "q": "What did I say buying an existing company is like?",
    "choices": [
     "Remodelling a house, not building one from scratch",
     "Starting a new house",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say can contaminate objective journalism?",
+   "q": "What did I say can contaminate objective journalism?",
    "choices": [
     "Advertising",
     "Reading",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the philosophical question is?",
+   "q": "What did I say the philosophical question is?",
    "choices": [
     "Whether a news outlet can avoid the contamination of the journalism's integrity by advertising money",
     "Which colour to use",

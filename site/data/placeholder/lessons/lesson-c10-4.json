@@ -4,7 +4,7 @@
  "title": "Four laws and their opposites",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Create good habits",
    "lines": [
     {
-     "text": "Jose summarized: to create good habits, make it obvious, make it attractive, make it easy and make it satisfying.",
+     "text": "I summarized: to create good habits, make it obvious, make it attractive, make it easy and make it satisfying.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "To break bad habits, he said, invert them: make it invisible, make it unattractive, make it difficult and make it unsatisfying.",
+     "text": "To break bad habits, I said, invert them: make it invisible, make it unattractive, make it difficult and make it unsatisfying.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A leader's inventory",
    "lines": [
     {
-     "text": "He said that as a leader you do an inventory: how am I going to make it obvious, attractive and easy for someone to pick up the phone and make forty calls? How is it a symbol of a higher calling and not just simple tasks?",
+     "text": "I said that as a leader you do an inventory: how am I going to make it obvious, attractive and easy for someone to pick up the phone and make forty calls? How is it a symbol of a higher calling and not just simple tasks?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: what is the personal symbol, and what is invested in your name?",
+     "text": "I asked: what is the personal symbol, and what is invested in your name?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What are the four laws for good habits, as Jose summarized?",
+   "q": "What are the four laws for good habits, as I summarized?",
    "choices": [
     "Obvious, attractive, easy, satisfying",
     "Fast, loud, cheap, large",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "How do you break a bad habit, according to Jose's summary?",
+   "q": "How do you break a bad habit, according to my summary?",
    "choices": [
     "Invert the four laws",
     "Ignore it",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a leader does?",
+   "q": "What did I say a leader does?",
    "choices": [
     "An inventory of how to make it obvious, attractive and easy",
     "A budget",

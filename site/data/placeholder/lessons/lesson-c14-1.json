@@ -4,7 +4,7 @@
  "title": "Pick your field",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Two bodies, two sports",
    "lines": [
     {
-     "text": "Jose described the book's opening: two elite athletes in different sports, whose bodies differ a great deal, yet whose legs are about the same size. Their genetics suited each sport. He asked what the main point is.",
+     "text": "I described the book's opening: two elite athletes in different sports, whose bodies differ a great deal, yet whose legs are about the same size. Their genetics suited each sport. I asked what the main point is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Context decides",
    "lines": [
     {
-     "text": "Jose said that your competence depends on the context, and when the environment changes, so do the qualities that determine success. It applies to medicine, law and business, not only sports.",
+     "text": "I said that your competence depends on the context, and when the environment changes, so do the qualities that determine success. It applies to medicine, law and business, not only sports.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked why people do not simply choose what they are good at. A student said: other people, societies, and impressions of what is more successful. People put themselves in a hole they do not fit in.",
+     "text": "I asked why people do not simply choose what they are good at. A student said: other people, societies, and impressions of what is more successful. People put themselves in a hole they do not fit in.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say competence depends on?",
+   "q": "What did I say competence depends on?",
    "choices": [
     "The context",
     "The title",

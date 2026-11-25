@@ -4,7 +4,7 @@
  "title": "Label the feeling",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Emotions are means",
    "lines": [
     {
-     "text": "Jose said that chapter 3 is about not denying or ignoring emotions: good negotiators identify and influence them. They are not obstacles, they are means.",
+     "text": "I said that chapter 3 is about not denying or ignoring emotions: good negotiators identify and influence them. They are not obstacles, they are means.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said that labeling is stating what they are feeling. Jose said: it is spotting their feelings, turning them into words, and calmly repeating them back, validating by acknowledging.",
+     "text": "A student said that labeling is stating what they are feeling. I said: it is spotting their feelings, turning them into words, and calmly repeating them back, validating by acknowledging.",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -39,19 +39,19 @@
    "heading": "How to say it",
    "lines": [
     {
-     "text": "Jose said you can say: it seems like you are a little frustrated; it sounds like you are having a bad day; it looks like you are upset with the situation. He said to keep a back door, because they may say do not tell me what I feel.",
+     "text": "I said you can say: it seems like you are a little frustrated; it sounds like you are having a bad day; it looks like you are upset with the situation. I said to keep a back door, because they may say do not tell me what I feel.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He gave a positive label: it seems like people put you in front of this deal because you are the only one able to get it done, and I am happy it is you I am working with.",
+     "text": "I gave a positive label: it seems like people put you in front of this deal because you are the only one able to get it done, and I am happy it is you I am working with.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He added that after a label you can stay silent, and that we are all tempted to fill silence by talking.",
+     "text": "I added that after a label you can stay silent, and that we are all tempted to fill silence by talking.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: you cannot fake it. The whole thing is being authentic and really paying attention.",
+     "text": "I said: you cannot fake it. The whole thing is being authentic and really paying attention.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say good negotiators do with emotions?",
+   "q": "What did I say good negotiators do with emotions?",
    "choices": [
     "Identify and influence them",
     "Ignore them",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to keep after a label?",
+   "q": "What did I say to keep after a label?",
    "choices": [
     "A back door",
     "A loud voice",

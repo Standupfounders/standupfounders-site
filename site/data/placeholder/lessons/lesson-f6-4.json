@@ -4,7 +4,7 @@
  "title": "Trust and emotional safety",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "A trust pattern",
    "lines": [
     {
-     "text": "Jose said that trust is a big part of leadership, and that as a leader you want to create a trust pattern. He said that safety is saying: I will make sure that you are very successful no matter what.",
+     "text": "I said that trust is a big part of leadership, and that as a leader you want to create a trust pattern. I said that safety is saying: I will make sure that you are very successful no matter what.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -33,7 +33,7 @@
    "heading": "Your own safety",
    "lines": [
     {
-     "text": "Jose said that his emotional safety is always intact, whatever the circumstances, even in a hostile environment.",
+     "text": "I said that my emotional safety is always intact, whatever the circumstances, even in a hostile environment.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,13 +50,13 @@
    "heading": "Not winning or losing",
    "lines": [
     {
-     "text": "Jose said that the trick is creating patterns where you are not stuck in winning or losing, so that you break the pattern of we failed.",
+     "text": "I said that the trick is creating patterns where you are not stuck in winning or losing, so that you break the pattern of we failed.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that after every meeting people say what a fun and pleasant person that was, and he has a pattern of creating and controlling his communication that is always consistent. This is his own account.",
+     "text": "I said that after every meeting people say what a fun and pleasant person that was, and I have a pattern of creating and controlling my communication that is always consistent. This is my own account.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is a big part of leadership?",
+   "q": "What did I say is a big part of leadership?",
    "choices": [
     "Trust",
     "Speed",
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he is not stuck in?",
+   "q": "What did I say I am not stuck in?",
    "choices": [
     "Winning or losing",
     "Planning",

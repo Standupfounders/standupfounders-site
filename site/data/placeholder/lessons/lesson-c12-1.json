@@ -4,7 +4,7 @@
  "title": "Two jars and a calendar",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The two jars",
    "lines": [
     {
-     "text": "Jose retold a story from the book: a salesman put a set number of paperclips in one jar, and each time he made a call he moved one to another jar. The visual helped him make the calls and keep a record. Jose said the chapter is all about recording.",
+     "text": "I retold a story from the book: a salesman put a set number of paperclips in one jar, and each time he made a call he moved one to another jar. The visual helped him make the calls and keep a record. I said the chapter is all about recording.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that by using the habit the salesman grew his income and later landed a bigger job. He said there is a lot to be said for a habit tracker.",
+     "text": "I said that by using the habit the salesman grew his income and later landed a bigger job. I said there is a lot to be said for a habit tracker.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the chapter is all about?",
+   "q": "What did I say the chapter is all about?",
    "choices": [
     "Recording",
     "Rewards",

@@ -4,7 +4,7 @@
  "title": "I'm going to explain it in very simple terms",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "He goes very, very fast",
    "lines": [
     {
-     "text": "Jose said this is a really dense chapter. We really have to prepare to even begin to discuss it. He goes very, very fast, and there is a lot more background to what he is doing than the narrative of the book.",
+     "text": "I said this is a really dense chapter. We really have to prepare to even begin to discuss it. He goes very, very fast, and there is a lot more background to what he is doing than the narrative of the book.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you don't understand the language, he said, it gets more complicated and you feel a little lost. So it is a good opportunity to learn the language and the business concepts of what he is doing.",
+     "text": "If you don't understand the language, I said, it gets more complicated and you feel a little lost. So it is a good opportunity to learn the language and the business concepts of what he is doing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "The list of words",
    "lines": [
     {
-     "text": "Jose gave a list of words to look up: antitrust, the difference between a broadcast network and a cable network, what a news bureau is, the big three networks, what an IPO is when a company goes public, and what a reverse merger is.",
+     "text": "I gave a list of words to look up: antitrust, the difference between a broadcast network and a cable network, what a news bureau is, the big three networks, what an IPO is when a company goes public, and what a reverse merger is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He suggested searching the company's timeline on an encyclopedia site, so you can see the progression of the acquisitions.",
+     "text": "I suggested searching the company's timeline on an encyclopedia site, so you can see the progression of the acquisitions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,19 +62,19 @@
    "heading": "I had no idea what was happening",
    "lines": [
     {
-     "text": "I was a literature teacher, Jose said. I was not a business professor. But in my twenties, at twenty-five or twenty-six, I was the founder of a company that went public on the Nasdaq.",
+     "text": "I was a literature teacher, I said. I was not a business professor. But in my twenties, at twenty-five or twenty-six, I was the founder of a company that went public on the Nasdaq.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I had no idea what was happening, honestly, he said. I had a lot of older people around me who tried to explain it to me. So I went through a learning curve, as you are going through now with me in this book.",
+     "text": "I had no idea what was happening, honestly, I said. I had a lot of older people around me who tried to explain it to me. So I went through a learning curve, as you are going through now with me in this book.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is beautiful that we are reading the story, he said, and at the same time getting all this mechanical business knowledge. As entrepreneurs you will be able to talk about these terms with fluency.",
+     "text": "It is beautiful that we are reading the story, I said, and at the same time getting all this mechanical business knowledge. As entrepreneurs you will be able to talk about these terms with fluency.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you feel if you don't understand the language?",
+   "q": "What did I say you feel if you don't understand the language?",
    "choices": [
     "A little lost",
     "Confident",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he was in his twenties?",
+   "q": "What did I say I was in my twenties?",
    "choices": [
     "The founder of a company that went public on the Nasdaq",
     "A banker",
@@ -125,11 +125,11 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the older people who explained things to him?",
+   "q": "What did I say about the older people who explained things to me?",
    "choices": [
-    "They tried to explain it, and he went through a learning curve",
-    "They did it all for him",
-    "They ignored him"
+    "They tried to explain it, and I went through a learning curve",
+    "They did it all for me",
+    "They ignored me"
    ],
    "answer": 0
   }

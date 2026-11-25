@@ -4,7 +4,7 @@
  "title": "Build the glasses",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Holding your convictions",
    "lines": [
     {
-     "text": "One of the hardest things as an entrepreneur is keeping your convictions when everybody tells you: you cannot build rockets, you cannot do this, Jose said. If you are doing something new, something nobody has done, you are going to suffer self-doubt.",
+     "text": "One of the hardest things as an entrepreneur is keeping your convictions when everybody tells you: you cannot build rockets, you cannot do this, I said. If you are doing something new, something nobody has done, you are going to suffer self-doubt.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "He said he has suffered that in tiny ways compared to these people: people close to him thought he had gone off the deep end, and he hears from them: why can't you just sit still? You cannot let that rocky road take you away.",
+     "text": "I said I have suffered that in tiny ways compared to these people: people close to me thought I had gone off the deep end, and I hear from them: why can't you just sit still? You cannot let that rocky road take you away.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
      "kind": "student"
     },
     {
-     "text": "Jose said it depends on the business. Sometimes you can show the data: this is my vision and this is the evidence. But what if you don't have data? He buys real estate in very remote places, with no comparables within a hundred miles, and people say: we may as well be on Mars.",
+     "text": "I said it depends on the business. Sometimes you can show the data: this is my vision and this is the evidence. But what if you don't have data? I buy real estate in very remote places, with no comparables within a hundred miles, and people say: we may as well be on Mars.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So he shows a small proof of concept: what are the characteristics of this land that other land doesn't have, and what market is under it? If you don't have the data, build the criteria for people to see what you're seeing. Don't expect them to see it right away.",
+     "text": "So I show a small proof of concept: what are the characteristics of this land that other land doesn't have, and what market is under it? If you don't have the data, build the criteria for people to see what you're seeing. Don't expect them to see it right away.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It's like the movies in 3D, he said. You take people to your movie and give them the glasses. You build the glasses of what they are going to see, and you get better and better and test it.",
+     "text": "It's like the movies in 3D, I said. You take people to your movie and give them the glasses. You build the glasses of what they are going to see, and you get better and better and test it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,19 +74,19 @@
    "heading": "The learning curve",
    "lines": [
     {
-     "text": "Can you be wrong? Yes, he said: you can believe in something that doesn't have value, or it does but you cannot realistically monetize it. A student added: monetize in different ways.",
+     "text": "Can you be wrong? Yes, I said: you can believe in something that doesn't have value, or it does but you cannot realistically monetize it. A student added: monetize in different ways.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I've run into businesses where the idea was brilliant and everybody got it, he said. But nobody saw the learning curve of what it takes for a company to adapt to the new technology, and the millions of dollars it took for people to change their behavior.",
+     "text": "I've run into businesses where the idea was brilliant and everybody got it, I said. But nobody saw the learning curve of what it takes for a company to adapt to the new technology, and the millions of dollars it took for people to change their behavior.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "People naturally resist new technology. Adopting a large software system could take two years before the company runs on all cylinders, he said. Who is going to pick up that bill?",
+     "text": "People naturally resist new technology. Adopting a large software system could take two years before the company runs on all cylinders, I said. Who is going to pick up that bill?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -119,7 +119,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you can do if you have no data?",
+   "q": "What did I say you can do if you have no data?",
    "choices": [
     "Build the criteria so people can see what you see",
     "Give up",
@@ -128,7 +128,7 @@
    "answer": 0
   },
   {
-   "q": "What image did Jose use for showing people your vision?",
+   "q": "What image did I use for showing people your vision?",
    "choices": [
     "Giving them the 3D glasses",
     "A map",
@@ -137,7 +137,7 @@
    "answer": 0
   },
   {
-   "q": "What did nobody see in the brilliant ideas Jose mentioned?",
+   "q": "What did nobody see in the brilliant ideas I mentioned?",
    "choices": [
     "The learning curve and the cost of changing behavior",
     "The price",

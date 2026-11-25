@@ -4,7 +4,7 @@
  "title": "Your own rules",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Terms and private rules",
    "lines": [
     {
-     "text": "Jose said that the social network has terms of service, and the right to suspend accounts on violation, and what counts as a violation is not concrete. It is interpreted in many ways. He said we should all go and read the terms, which are totally open to interpretation.",
+     "text": "I said that the social network has terms of service, and the right to suspend accounts on violation, and what counts as a violation is not concrete. It is interpreted in many ways. I said we should all go and read the terms, which are totally open to interpretation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "My own company",
    "lines": [
     {
-     "text": "Jose said that as leaders, as entrepreneurs, I believe you have to take a position, because we are what we listen to, what we read and what we write. Censorship can be as simple as saying in your company, as I'm guilty of: I don't want any negative comments.",
+     "text": "I said that as leaders, as entrepreneurs, I believe you have to take a position, because we are what we listen to, what we read and what we write. Censorship can be as simple as saying in your company, as I'm guilty of: I don't want any negative comments.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It's all possibility thinking, no impossibility thinking, no negative comments, no victimization, he said. A student said: you're not taking away people's rights by doing that, because they have the right not to participate in this company.",
+     "text": "It's all possibility thinking, no impossibility thinking, no negative comments, no victimization, I said. A student said: you're not taking away people's rights by doing that, because they have the right not to participate in this company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said: and if a government says that, you're saying they have the right to leave the country? A student said: I disagree with any system where you do not have the choice. Another said: there's a choice in every decision.",
+     "text": "I said: and if a government says that, you're saying they have the right to leave the country? A student said: I disagree with any system where you do not have the choice. Another said: there's a choice in every decision.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you have to take as a leader?",
+   "q": "What did I say you have to take as a leader?",
    "choices": [
     "A position",
     "A holiday",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What example of censorship in a company did Jose give about himself?",
+   "q": "What example of censorship in a company did I give about myself?",
    "choices": [
     "Saying: I don't want any negative comments",
     "Banning email",

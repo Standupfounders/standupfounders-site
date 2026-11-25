@@ -4,7 +4,7 @@
  "title": "Build a balanced board",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Why a board",
    "lines": [
     {
-     "text": "Jose said that, as entrepreneurs and in a company, the formation of a board of directors is necessary, because it is very scary for investors not to have a board set up. You want a balanced board. A typical board is five to seven members, always an uneven number, so that when you vote you don't get gridlocked between two groups.",
+     "text": "I said that, as entrepreneurs and in a company, the formation of a board of directors is necessary, because it is very scary for investors not to have a board set up. You want a balanced board. A typical board is five to seven members, always an uneven number, so that when you vote you don't get gridlocked between two groups.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A balanced board",
    "lines": [
     {
-     "text": "Jose said: people have to see that you are surrounded by people who have experience in the industry. You want a managing director responsible for overseeing the whole business, executive directors who manage finance, sales and operations, and maybe a non-executive director.",
+     "text": "I said: people have to see that you are surrounded by people who have experience in the industry. You want a managing director responsible for overseeing the whole business, executive directors who manage finance, sales and operations, and maybe a non-executive director.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The non-executive director might be someone who has been successful in the industry and gives strategic advice, he said. You generally also want a person who audits the financials and gives an opinion on financial reporting and internal processes.",
+     "text": "The non-executive director might be someone who has been successful in the industry and gives strategic advice, I said. You generally also want a person who audits the financials and gives an opinion on financial reporting and internal processes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Start with advisors",
    "lines": [
     {
-     "text": "Whenever I see a young entrepreneur starting a business, Jose said, the first thing they need is a board of advisors, who help them look at the right fundamentals. Board of advisors can be seen as mentors. Not having one is a bad sign.",
+     "text": "Whenever I see a young entrepreneur starting a business, I said, the first thing they need is a board of advisors, who help them look at the right fundamentals. Board of advisors can be seen as mentors. Not having one is a bad sign.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Typically venture capital firms create the boards for the entrepreneur, he said, and it gets into the bylaws and the shareholders. The bylaws can be a hundred pages long or much shorter.",
+     "text": "Typically venture capital firms create the boards for the entrepreneur, I said, and it gets into the bylaws and the shareholders. The bylaws can be a hundred pages long or much shorter.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "Why did Jose say a board has an uneven number of members?",
+   "q": "Why did I say a board has an uneven number of members?",
    "choices": [
     "To avoid a gridlocked vote",
     "To save money",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a young entrepreneur needs first?",
+   "q": "What did I say a young entrepreneur needs first?",
    "choices": [
     "A board of advisors",
     "A big office",

@@ -4,7 +4,7 @@
  "title": "Intent needs structure and people",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: you can have intent, but you are on a little island unless you turn it into action, habits and structure, and surround yourself with people who have the same intent and are predicting where they want to go. He said you need accountability systems.",
+     "text": "I said: you can have intent, but you are on a little island unless you turn it into action, habits and structure, and surround yourself with people who have the same intent and are predicting where they want to go. I said you need accountability systems.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: people who are regimented keep their structure wherever they are. They go and have fun, but they follow their structure, and a beautiful environment can almost balance their internal drive.",
+     "text": "I said: people who are regimented keep their structure wherever they are. They go and have fun, but they follow their structure, and a beautiful environment can almost balance their internal drive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you are on without action?",
+   "q": "What did I say you are on without action?",
    "choices": [
     "A little island",
     "A path",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you need with others?",
+   "q": "What did I say you need with others?",
    "choices": [
     "Accountability systems",
     "More meetings",

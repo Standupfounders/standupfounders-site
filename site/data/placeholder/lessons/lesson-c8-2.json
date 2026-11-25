@@ -4,7 +4,7 @@
  "title": "Models of excellence",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Models of excellence",
    "lines": [
     {
-     "text": "Jose said that we are committed to the quest of finding models of excellence in everything: in business, in parenting, in philosophy. We build habits by imitating models, and we can learn from other people's experience instead of our own, which cuts the time.",
+     "text": "I said that we are committed to the quest of finding models of excellence in everything: in business, in parenting, in philosophy. We build habits by imitating models, and we can learn from other people's experience instead of our own, which cuts the time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that the key is to take the good and leave the bad, and to say: I am the last person you should follow as an example. Take my strengths, leave the rest.",
+     "text": "I said that the key is to take the good and leave the bad, and to say: I am the last person you should follow as an example. Take my strengths, leave the rest.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Prime your environment",
    "lines": [
     {
-     "text": "Jose said that the book talks about priming your environment around the people and things you admire, and designing a world where it is easy to do what is right. He said we set unrealistic expectations of relationships, such as ten things we want in the other person, when maybe you get three and find the rest elsewhere.",
+     "text": "I said that the book talks about priming your environment around the people and things you admire, and designing a world where it is easy to do what is right. I said we set unrealistic expectations of relationships, such as ten things we want in the other person, when maybe you get three and find the rest elsewhere.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when you are around people with values and integrity, it is easy to be in a positive world.",
+     "text": "I said that when you are around people with values and integrity, it is easy to be in a positive world.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to do with a model?",
+   "q": "What did I say to do with a model?",
    "choices": [
     "Take the good and leave the bad",
     "Copy everything",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say cuts the time to learn?",
+   "q": "What did I say cuts the time to learn?",
    "choices": [
     "Learning from other people's experience",
     "Working harder",

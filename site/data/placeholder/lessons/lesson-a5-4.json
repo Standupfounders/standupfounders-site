@@ -4,7 +4,7 @@
  "title": "Disruptive or fragmented?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "How scalable is it?",
    "lines": [
     {
-     "text": "Why is it important to understand this when you start a business? he asked. How scalable is it? How much growth potential does it have? Are you disrupting an industry, or solving a problem an entire industry hasn't recognized yet?",
+     "text": "Why is it important to understand this when you start a business? I asked. How scalable is it? How much growth potential does it have? Are you disrupting an industry, or solving a problem an entire industry hasn't recognized yet?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Venture capital groups use a lot of catchy words, he said, but one is: we're looking for mission-driven, problem-solving entrepreneurs. Everybody wants the unicorn, a business with a massive market solving a problem with natural demand.",
+     "text": "Venture capital groups use a lot of catchy words, I said, but one is: we're looking for mission-driven, problem-solving entrepreneurs. Everybody wants the unicorn, a business with a massive market solving a problem with natural demand.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "Not disruptive, but fragmented",
    "lines": [
     {
-     "text": "Jose used his own company as an example. When it first came to him, he said, it was described as a very large problem. But what we do isn't new: there is no barrier to entry and anyone else could do it. I don't have a secret sauce.",
+     "text": "I used my own company as an example. When it first came to me, I said, it was described as a very large problem. But what we do isn't new: there is no barrier to entry and anyone else could do it. I don't have a secret sauce.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "At an industry convention he saw the players: big ones, small ones. He realized it is a very fragmented industry, a stable one, not a disruptive one. You can't replace the services with something more technology-driven; you have to go and do the job.",
+     "text": "At an industry convention I saw the players: big ones, small ones. I realized it is a very fragmented industry, a stable one, not a disruptive one. You can't replace the services with something more technology-driven; you have to go and do the job.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student asked: what is the difference between fragmented and disruptive? Jose said fragmented means lots of tiny companies spread out, each in its own tiny business, where consolidation hasn't happened yet. Disruption is solving a problem the big players don't address, or giving an inefficient industry a more efficient process.",
+     "text": "A student asked: what is the difference between fragmented and disruptive? I said fragmented means lots of tiny companies spread out, each in its own tiny business, where consolidation hasn't happened yet. Disruption is solving a problem the big players don't address, or giving an inefficient industry a more efficient process.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,19 +62,19 @@
    "heading": "The opportunity in fragmentation",
    "lines": [
     {
-     "text": "Fragmentation is not disruptive, he said. What a venture investor would say is: this is right for consolidation. The opportunity is rolling up these companies, creating systems so the services are standardized, and teaching a thousand little companies best practices so they run more efficiently.",
+     "text": "Fragmentation is not disruptive, I said. What a venture investor would say is: this is right for consolidation. The opportunity is rolling up these companies, creating systems so the services are standardized, and teaching a thousand little companies best practices so they run more efficiently.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You could go to a large private equity fund, he said, with a sales system and a technology to run the operations, and say: we'd like to raise money to buy these companies and create a franchise, because their operations are inefficient. I'm giving you another example of an opportunity that is not disruption.",
+     "text": "You could go to a large private equity fund, I said, with a sales system and a technology to run the operations, and say: we'd like to raise money to buy these companies and create a franchise, because their operations are inefficient. I'm giving you another example of an opportunity that is not disruption.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Be realistic about the growth of what you are doing, he said. If you don't have the possibility of growing into a billion-dollar business, you have to accept that you are in a ten or twenty million dollar business.",
+     "text": "Be realistic about the growth of what you are doing, I said. If you don't have the possibility of growing into a billion-dollar business, you have to accept that you are in a ten or twenty million dollar business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a fragmented industry has?",
+   "q": "What did I say a fragmented industry has?",
    "choices": [
     "Lots of tiny companies, with no consolidation yet",
     "One giant company",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What is the opportunity in a fragmented industry, as Jose put it?",
+   "q": "What is the opportunity in a fragmented industry, as I put it?",
    "choices": [
     "Consolidation: roll up and standardize",
     "Disruption of everything",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to be about growth?",
+   "q": "What did I say to be about growth?",
    "choices": [
     "Realistic",
     "Hopeful",

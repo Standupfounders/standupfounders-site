@@ -4,7 +4,7 @@
  "title": "Listening without prejudice",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Attention and openness",
    "lines": [
     {
-     "text": "Jose said there are two things: paying attention is to something external, concentrating is to something internal. When the two come together, you are truly absorbing.",
+     "text": "I said there are two things: paying attention is to something external, concentrating is to something internal. When the two come together, you are truly absorbing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said the foundation is being open, hoping to understand their viewpoint. Jose said: how many of us listen but are not really open? We are closed, waiting for them to stop talking so that we can start talking.",
+     "text": "A student said the foundation is being open, hoping to understand their viewpoint. I said: how many of us listen but are not really open? We are closed, waiting for them to stop talking so that we can start talking.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Judging makes you vulnerable",
    "lines": [
     {
-     "text": "Jose said he listens without prejudice. He puts his own frame down and looks through the other person's perspective. If you do judge, you are vulnerable, and it has nothing to do with the other person. It has to do with your own mind.",
+     "text": "I said I listen without prejudice. I put my own frame down and look through the other person's perspective. If you do judge, you are vulnerable, and it has nothing to do with the other person. It has to do with your own mind.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said it does not mean you will be best friends with that person. Let's not go to extremes.",
+     "text": "I said it does not mean you will be best friends with that person. Let's not go to extremes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said that people want to feel heard, and the listener who hears people out has a lot of influence and power just by being open-minded. Jose said: the silence becomes the power.",
+     "text": "A student said that people want to feel heard, and the listener who hears people out has a lot of influence and power just by being open-minded. I said: the silence becomes the power.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "Hard listening",
    "lines": [
     {
-     "text": "Jose asked: what about a person who does not communicate? How do you share differences of opinion without making people feel criticized? How do you make sure both sides are heard? How do you not undermine somebody else's message?",
+     "text": "I asked: what about a person who does not communicate? How do you share differences of opinion without making people feel criticized? How do you make sure both sides are heard? How do you not undermine somebody else's message?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say paying attention is directed at?",
+   "q": "What did I say paying attention is directed at?",
    "choices": [
     "Something external",
     "Something internal",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say becomes the power?",
+   "q": "What did I say becomes the power?",
    "choices": [
     "The silence",
     "The volume",

@@ -4,7 +4,7 @@
  "title": "Five statements and a promise",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Practise out loud",
    "lines": [
     {
-     "text": "Jose asked a student to present a deck as if to a client, and said he would give a cue to stop and analyze it, so the group could collaborate on how the presentation is built.",
+     "text": "I asked a student to present a deck as if to a client, and said I would give a cue to stop and analyze it, so the group could collaborate on how the presentation is built.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A concise message",
    "lines": [
     {
-     "text": "Jose said that a student's sentence was very concise and specific, and to write it down. He said the aim is to have no more than a few points.",
+     "text": "I said that a student's sentence was very concise and specific, and to write it down. I said the aim is to have no more than a few points.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said: take five statements from the presentation, remembering simple, repeatable, relevant. He said that you could call the opening a promise: our promise in this presentation is to show you how we see the relationship.",
+     "text": "I said: take five statements from the presentation, remembering simple, repeatable, relevant. I said that you could call the opening a promise: our promise in this presentation is to show you how we see the relationship.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to do with a presentation?",
+   "q": "What did I say to do with a presentation?",
    "choices": [
     "Reduce it to five statements",
     "Make it longer",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you could call the opening?",
+   "q": "What did I say you could call the opening?",
    "choices": [
     "A promise",
     "A joke",

@@ -4,7 +4,7 @@
  "title": "When did it start?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "How do you deal with stress?",
    "lines": [
     {
-     "text": "Jose said that how do you deal with the stress is one of his favourite questions. All of us will have different strategies. Not one thing is right. I use certain things that to somebody else may not work at all.",
+     "text": "I said that how do you deal with the stress is one of my favourite questions. All of us will have different strategies. Not one thing is right. I use certain things that to somebody else may not work at all.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He told what a man once told him. When you are having this intense emotion or this incredible feeling of stress and getting into that dark negative space, ask yourself: when did it start? What was I thinking right before it started? Think of that image, those words.",
+     "text": "I told what a man once told me. When you are having this intense emotion or this incredible feeling of stress and getting into that dark negative space, ask yourself: when did it start? What was I thinking right before it started? Think of that image, those words.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Identify it, replace it",
    "lines": [
     {
-     "text": "Then you can identify the trigger, Jose said. Once you identify when it started, you say: this is what set me off. Then you replace it with the positive images, with something that triggers: this is why I'm doing it, this is my mission, I'm surrounded by wonderful people, I have the fortitude, and I have the choice to feel awesome and inspired.",
+     "text": "Then you can identify the trigger, I said. Once you identify when it started, you say: this is what set me off. Then you replace it with the positive images, with something that triggers: this is why I'm doing it, this is my mission, I'm surrounded by wonderful people, I have the fortitude, and I have the choice to feel awesome and inspired.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,7 +50,7 @@
    "heading": "Body and journal",
    "lines": [
     {
-     "text": "Jose said physical fitness and wellness have an impact on mental wellness. A student wondered whether someone doesn't feel he has time for foundational practices like meditation or exercise. Jose said that being overweight, sluggish, not eating or hydrating properly all have a direct effect on mental ability.",
+     "text": "I said physical fitness and wellness have an impact on mental wellness. A student wondered whether someone doesn't feel he has time for foundational practices like meditation or exercise. I said that being overweight, sluggish, not eating or hydrating properly all have a direct effect on mental ability.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -67,13 +67,13 @@
    "heading": "Choose your demeanour",
    "lines": [
     {
-     "text": "The important thing, Jose said, is to be aware and catch ourselves. My demeanour needs to change around my loved ones, because I am experiencing high anxiety. It doesn't need to carry over to the rest of my life. I am choosing the feelings I want. Easier said than done.",
+     "text": "The important thing, I said, is to be aware and catch ourselves. My demeanour needs to change around my loved ones, because I am experiencing high anxiety. It doesn't need to carry over to the rest of my life. I am choosing the feelings I want. Easier said than done.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said it is easy to get snappy and bitter and impatient, and let the momentum of that anxiety affect good relationships. We can be powerful, effective and vulnerable, and it comes down to self-discipline of our emotional landscape and recognizing triggers.",
+     "text": "I said it is easy to get snappy and bitter and impatient, and let the momentum of that anxiety affect good relationships. We can be powerful, effective and vulnerable, and it comes down to self-discipline of our emotional landscape and recognizing triggers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -106,7 +106,7 @@
  },
  "check": [
   {
-   "q": "What questions did the man tell Jose to ask in a dark feeling?",
+   "q": "What questions did the man tell me to ask in a dark feeling?",
    "choices": [
     "When did it start and what was I thinking before?",
     "Who is to blame?",
@@ -124,7 +124,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say we choose?",
+   "q": "What did I say we choose?",
    "choices": [
     "The feelings we want and our demeanour",
     "The weather",

@@ -4,7 +4,7 @@
  "title": "You got to fight",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "I'm gonna tell a little anecdote",
    "lines": [
     {
-     "text": "Jose said he did not ask permission, but he would tell a little anecdote. When we started the company, we realized something unfortunate was going on. His ex-partners were trying to steal, and they stole, a very big client base of jobs that belonged to the company.",
+     "text": "I said I did not ask permission, but I would tell a little anecdote. When we started the company, we realized something unfortunate was going on. My ex-partners were trying to steal, and they stole, a very big client base of jobs that belonged to the company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "There were two ways to go about it, he said. The company was counting an enormous amount of money. I won't get into the details.",
+     "text": "There were two ways to go about it, I said. The company was counting an enormous amount of money. I won't get into the details.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "You don't give up",
    "lines": [
     {
-     "text": "So we sued them, he said, and so far we have won the lawsuit. Eventually there is a very big check coming.",
+     "text": "So we sued them, I said, and so far we have won the lawsuit. Eventually there is a very big check coming.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "But you don't give up, he said. That is what we are learning from the author right now.",
+     "text": "But you don't give up, I said. That is what we are learning from the author right now.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -82,7 +82,7 @@
  },
  "check": [
   {
-   "q": "What did Jose tell his partner to do?",
+   "q": "What did I tell my partner to do?",
    "choices": [
     "Fight",
     "Sit with arms crossed",
@@ -91,7 +91,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say it was?",
+   "q": "What did I say it was?",
    "choices": [
     "A principles thing",
     "A money thing",
@@ -100,7 +100,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about giving up?",
+   "q": "What did I say about giving up?",
    "choices": [
     "You don't give up",
     "Sometimes you should",

@@ -4,7 +4,7 @@
  "title": "Expectation builds confidence",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,13 +28,13 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said: he expects unquestioned beliefs. A student said it probably builds confidence in people. Jose said: that is exactly what it does. It gives people confidence when you say: I will not accept external excuses, this year you will make the number, and we will talk about how.",
+     "text": "I said: he expects unquestioned beliefs. A student said it probably builds confidence in people. I said: that is exactly what it does. It gives people confidence when you say: I will not accept external excuses, this year you will make the number, and we will talk about how.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that a relentless belief commands your nervous system and all the possibilities you have in the present and the future. He said the leader probably does it by accident, not by analysis.",
+     "text": "I said that a relentless belief commands your nervous system and all the possibilities you have in the present and the future. I said the leader probably does it by accident, not by analysis.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: I am not judging which culture was right. A leader who moves to another company changes its culture, because he has a system that he knows works.",
+     "text": "I said: I am not judging which culture was right. A leader who moves to another company changes its culture, because he has a system that he knows works.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that in a long partnership you hold a positive belief about the person and endure hardships together. A student said: it is a choice to have a positive belief system.",
+     "text": "I said that in a long partnership you hold a positive belief about the person and endure hardships together. A student said: it is a choice to have a positive belief system.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say an unquestioned expectation gives people?",
+   "q": "What did I say an unquestioned expectation gives people?",
    "choices": [
     "Confidence",
     "Fear only",

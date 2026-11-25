@@ -4,7 +4,7 @@
  "title": "Fake it, with an ethical line",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -34,13 +34,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said there is a massive lesson in that. Every major founder we have read about, or will read about, faked it till they made it. But there is an ethical line you cannot cross.",
+     "text": "I said there is a massive lesson in that. Every major founder we have read about, or will read about, faked it till they made it. But there is an ethical line you cannot cross.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So where is that line, he asked, where you visualize, and have the intention, and believe in something you haven't done yet? That's the lesson.",
+     "text": "So where is that line, I asked, where you visualize, and have the intention, and believe in something you haven't done yet? That's the lesson.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
    "heading": "An exercise",
    "lines": [
     {
-     "text": "He said he loves an exercise with entrepreneurs. Spend the entire day, amongst ourselves and not outside the circle, lying about who you are and what you do. You are a famous doctor, a famous writer. It has to be the dream.",
+     "text": "I said I love an exercise with entrepreneurs. Spend the entire day, amongst ourselves and not outside the circle, lying about who you are and what you do. You are a famous doctor, a famous writer. It has to be the dream.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "People ask: what have you published? Ten novels, you say, and you describe the novels. It gives you the flexibility to imagine exactly who you want to be and what you want to do. It's an incredibly liberating exercise, he said.",
+     "text": "People ask: what have you published? Ten novels, you say, and you describe the novels. It gives you the flexibility to imagine exactly who you want to be and what you want to do. It's an incredibly liberating exercise, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "There is a thin line between imagination and reality, Jose said, and entrepreneurs deal with that line all the time, pushing the boundaries of what people call reality. For the first time the person in the book sees visualization become real.",
+     "text": "There is a thin line between imagination and reality, I said, and entrepreneurs deal with that line all the time, pushing the boundaries of what people call reality. For the first time the person in the book sees visualization become real.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you cannot cross?",
+   "q": "What did I say you cannot cross?",
    "choices": [
     "An ethical line",
     "A river",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the line between imagination and reality?",
+   "q": "What did I say about the line between imagination and reality?",
    "choices": [
     "It is thin, and entrepreneurs deal with it all the time",
     "It is thick",

@@ -4,7 +4,7 @@
  "title": "A question for each preference",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,7 +39,7 @@
    "heading": "An exercise",
    "lines": [
     {
-     "text": "Jose picked someone to analyze the personality of a person none of them knew well. He said that he saw the person adapt and think of the future and of where the market is going, and so he read him as intuitive.",
+     "text": "I picked someone to analyze the personality of a person none of them knew well. He said that he saw the person adapt and think of the future and of where the market is going, and so he read him as intuitive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the exercise was?",
+   "q": "What did I say the exercise was?",
    "choices": [
     "Analyzing someone from what you have seen",
     "Guessing a name",

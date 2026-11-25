@@ -4,7 +4,7 @@
  "title": "Can you carry the weight?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Picking up strays",
    "lines": [
     {
-     "text": "Jose said that as a teacher he is the classic one who picks up strays. His wife says: who is this sleeping on the couch now? He says: he'll stay a couple of weeks and I'll help him. And she will tell him: he's not going to make it, or he is.",
+     "text": "I said that as a teacher I am the classic one who picks up strays. My wife says: who is this sleeping on the couch now? I say: he'll stay a couple of weeks and I'll help him. And she will tell me: he's not going to make it, or he is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "One of the big questions, he said, is: do I have the time, the energy, the resources to carry this weight? A lot of us who take these roles fix the external and neglect the internal. We neglect our own homes and families.",
+     "text": "One of the big questions, I said, is: do I have the time, the energy, the resources to carry this weight? A lot of us who take these roles fix the external and neglect the internal. We neglect our own homes and families.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Quality time with your children",
    "lines": [
     {
-     "text": "Being parents is a massive commitment, Jose said, but you have to be very disciplined. I'm going to spend five or six real hours with my child, not on the phone, not doing business. It's a luxury to be able to do that, so you plan your whole life around it.",
+     "text": "Being parents is a massive commitment, I said, but you have to be very disciplined. I'm going to spend five or six real hours with my child, not on the phone, not doing business. It's a luxury to be able to do that, so you plan your whole life around it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "For ten or twelve years, he said, I couldn't take meetings after three in the afternoon, because I was taking my children to their jiu-jitsu training. A five-hour deal every day for twelve years. You have to be specific about your commitment.",
+     "text": "For ten or twelve years, I said, I couldn't take meetings after three in the afternoon, because I was taking my children to their jiu-jitsu training. A five-hour deal every day for twelve years. You have to be specific about your commitment.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,13 +56,13 @@
    "heading": "When it is never enough",
    "lines": [
     {
-     "text": "When you take on a person with personality problems or psychological issues, he said, what is my time commitment? What can I give? I have had people who got angry and resentful that I couldn't spend more time with them. They absorb more and more, and when you take it away, you become the enemy.",
+     "text": "When you take on a person with personality problems or psychological issues, I said, what is my time commitment? What can I give? I have had people who got angry and resentful that I couldn't spend more time with them. They absorb more and more, and when you take it away, you become the enemy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "In relationships where they are takers, because they have massive levels of anxiety, you will not help them by giving and giving. It will never be enough. If you don't help them get out of the hole on their own, he said, you will not do it by giving.",
+     "text": "In relationships where they are takers, because they have massive levels of anxiety, you will not help them by giving and giving. It will never be enough. If you don't help them get out of the hole on their own, I said, you will not do it by giving.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What question did Jose ask about carrying a person?",
+   "q": "What question did I ask about carrying a person?",
    "choices": [
     "Do I have the time, energy and resources to carry this weight?",
     "Do they like me?",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you become when you take time away from a taker?",
+   "q": "What did I say you become when you take time away from a taker?",
    "choices": [
     "The enemy",
     "The hero",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about being a parent?",
+   "q": "What did I say about being a parent?",
    "choices": [
     "You must plan your whole life around the quality time",
     "It happens by itself",

@@ -4,7 +4,7 @@
  "title": "A niche and an identity",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A small niche",
    "lines": [
     {
-     "text": "Jose said that if you want to become an expert in a field, you pick one particular thing. He said that his own is a very small niche in the world of real estate, which has dozens of businesses. A specific niche attracts specific people.",
+     "text": "I said that if you want to become an expert in a field, you pick one particular thing. I said that my own is a very small niche in the world of real estate, which has dozens of businesses. A specific niche attracts specific people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that he wears different hats, such as teacher or investment banker, and has to be careful not to mix the different hats, identities, brands and messages.",
+     "text": "I said that I wear different hats, such as teacher or investment banker, and have to be careful not to mix the different hats, identities, brands and messages.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "An identity people can see",
    "lines": [
     {
-     "text": "Jose used the film character who is a professor in the classroom and becomes an adventurer when he packs his bag. He said that in this book you will develop a solid identity of who you are, so that you can attract people to you.",
+     "text": "I used the film character who is a professor in the classroom and becomes an adventurer when I pack my bag. I said that in this book you will develop a solid identity of who you are, so that you can attract people to you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: I like what the introduction says about leading from out front, not from behind. Jose said: being visible.",
+     "text": "A student said: I like what the introduction says about leading from out front, not from behind. I said: being visible.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Servant leadership",
    "lines": [
     {
-     "text": "Jose said that he believes in servant leadership. As a teacher you are a servant to your students: you learn collaboratively with them and help them discover who they are, and you are a follower of them.",
+     "text": "I said that I believe in servant leadership. As a teacher you are a servant to your students: you learn collaboratively with them and help them discover who they are, and you are a follower of them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about hats?",
+   "q": "What did I say about hats?",
    "choices": [
     "Do not mix the different hats and messages",
     "Wear all at once",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a teacher is?",
+   "q": "What did I say a teacher is?",
    "choices": [
     "A servant to students",
     "A boss of students",

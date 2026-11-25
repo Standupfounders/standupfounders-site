@@ -4,7 +4,7 @@
  "title": "My dialogue is going to be determined by the questions that I ask",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "He's making him adapt",
    "lines": [
     {
-     "text": "Jose said the author gave his son a choice, as he retells the book: go to one capital city or another. He was throwing him into a pretty extreme experience. He is just like his father. He is making him adapt.",
+     "text": "I said the author gave his son a choice, as he retells the book: go to one capital city or another. He was throwing him into a pretty extreme experience. He is just like his father. He is making him adapt.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said the son is already learning from his father: I'm just going to go with an open mind. Let's get everybody together. Let's open a dialogue.",
+     "text": "I said the son is already learning from his father: I'm just going to go with an open mind. Let's get everybody together. Let's open a dialogue.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "What would you suggest?",
    "lines": [
     {
-     "text": "Jose set an exercise. Imagine you are sitting at a table with the leaders of a country in deep conflict with yours. You are there for a social meeting. Maybe you have an agenda. Maybe you don't. What would be your attitude?",
+     "text": "I set an exercise. Imagine you are sitting at a table with the leaders of a country in deep conflict with yours. You are there for a social meeting. Maybe you have an agenda. Maybe you don't. What would be your attitude?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: I would try to be as peaceful as possible, to gain their perspective, so I understood where they were coming from. Jose said: how much we have to gain by being good listeners and suspending judgment.",
+     "text": "A student said: I would try to be as peaceful as possible, to gain their perspective, so I understood where they were coming from. I said: how much we have to gain by being good listeners and suspending judgment.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose asked: if you have that kind of opportunity, are you going to freeze, or take the opportunity to learn? You don't want to be the person who is quiet. You want to be inquisitive, asking questions, growing empathy between the two sides.",
+     "text": "I asked: if you have that kind of opportunity, are you going to freeze, or take the opportunity to learn? You don't want to be the person who is quiet. You want to be inquisitive, asking questions, growing empathy between the two sides.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "My dialogue is going to be determined by the questions that I ask",
    "lines": [
     {
-     "text": "Does this help in business, Jose asked? A student said: you are learning more about the person you are talking to, even if you are just doing business with someone. Jose said: you need to learn who they are.",
+     "text": "Does this help in business, I asked? A student said: you are learning more about the person you are talking to, even if you are just doing business with someone. I said: you need to learn who they are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,19 +80,19 @@
      "kind": "plain"
     },
     {
-     "text": "When I'm in these situations, Jose said, I have to suspend judgment. I have to listen. I have to be almost like a journalist, and develop really good questions. My dialogue is going to be determined by the questions that I ask. Those questions aren't going to be charged. They aren't going to be judgmental. They are going to be open.",
+     "text": "When I'm in these situations, I said, I have to suspend judgment. I have to listen. I have to be almost like a journalist, and develop really good questions. My dialogue is going to be determined by the questions that I ask. Those questions aren't going to be charged. They aren't going to be judgmental. They are going to be open.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student told of a family member who was asked, in a tense moment, to be the bridge between two sides. Jose said: it is not about the language. It is about understanding, suspending judgment, and being able to have the responsibility of carrying the message without contaminating the message.",
+     "text": "A student told of a family member who was asked, in a tense moment, to be the bridge between two sides. I said: it is not about the language. It is about understanding, suspending judgment, and being able to have the responsibility of carrying the message without contaminating the message.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose's tip for a dense chapter: look up the timeline first. Write down on a piece of paper what happened when. That will be very helpful before you read.",
+     "text": "My tip for a dense chapter: look up the timeline first. Write down on a piece of paper what happened when. That will be very helpful before you read.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -125,7 +125,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say his dialogue is determined by?",
+   "q": "What did I say his dialogue is determined by?",
    "choices": [
     "The questions he asks",
     "The answers he gives",
@@ -134,7 +134,7 @@
    "answer": 0
   },
   {
-   "q": "What kind of questions did Jose say to ask?",
+   "q": "What kind of questions did I say to ask?",
    "choices": [
     "Open, not charged or judgmental",
     "Short and sharp",
@@ -143,7 +143,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is not about the language when you are a bridge between two sides?",
+   "q": "What did I say is not about the language when you are a bridge between two sides?",
    "choices": [
     "Understanding, suspending judgment and carrying the message",
     "Grammar",

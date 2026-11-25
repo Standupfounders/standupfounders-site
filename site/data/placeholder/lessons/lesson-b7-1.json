@@ -4,7 +4,7 @@
  "title": "We were breaking one of the golden rules",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "We were breaking one of the golden rules",
    "lines": [
     {
-     "text": "Jose said the author's opening comment caught his attention.",
+     "text": "I said the author's opening comment caught his attention.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,13 +34,13 @@
      "kind": "quote"
     },
     {
-     "text": "What do you think of that statement, Jose asked? A student said: it seems sure to fail if they don't have the capital. Jose said: not necessarily. He is aware. In his head he is saying: I'm breaking a golden rule.",
+     "text": "What do you think of that statement, I asked? A student said: it seems sure to fail if they don't have the capital. I said: not necessarily. He is aware. In his head he is saying: I'm breaking a golden rule.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He knows the risk, Jose said, so he knows he has to go into action. He was used to losing money. But this is the first time he doesn't have much of a runway.",
+     "text": "He knows the risk, I said, so he knows he has to go into action. He was used to losing money. But this is the first time he doesn't have much of a runway.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
    "heading": "Everything has a risk",
    "lines": [
     {
-     "text": "You cannot always be just optimistic, Jose said, and neglect the downsides of the business. In a venture capital meeting, which I've been to dozens of, if anybody says there is no risk in this business, they'll kick you out of the office immediately.",
+     "text": "You cannot always be just optimistic, I said, and neglect the downsides of the business. In a venture capital meeting, which I've been to dozens of, if anybody says there is no risk in this business, they'll kick you out of the office immediately.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Everything has a risk, he said. It is all about how you plan for it. The more comfortable you are discussing risk, the more comfortable an investor will be. You have your plan B and your plan C. People want to see that you have different doors in case some doors close.",
+     "text": "Everything has a risk, I said. It is all about how you plan for it. The more comfortable you are discussing risk, the more comfortable an investor will be. You have your plan B and your plan C. People want to see that you have different doors in case some doors close.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As an entrepreneur, he said, a huge ability is to be just as optimistic, have the momentum, stick to your guns and your convictions, but at the same time be aware of the risks and dangers without losing any enthusiasm. That is a big balance.",
+     "text": "As an entrepreneur, I said, a huge ability is to be just as optimistic, have the momentum, stick to your guns and your convictions, but at the same time be aware of the risks and dangers without losing any enthusiasm. That is a big balance.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,13 +80,13 @@
    "heading": "A market maker",
    "lines": [
     {
-     "text": "As Jose retells the chapter, the author realized no bank would lend, because banks want established, predictable businesses. He was doing something for the very first time.",
+     "text": "As I retell the chapter, the author realized no bank would lend, because banks want established, predictable businesses. He was doing something for the very first time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "There is a name for that, Jose said. It is called a market maker. A market maker is somebody who creates a market that doesn't exist. He is creating a market of people who watch news twenty-four seven.",
+     "text": "There is a name for that, I said. It is called a market maker. A market maker is somebody who creates a market that doesn't exist. He is creating a market of people who watch news twenty-four seven.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -119,7 +119,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens in a venture capital meeting if you say there is no risk?",
+   "q": "What did I say happens in a venture capital meeting if you say there is no risk?",
    "choices": [
     "They kick you out of the office",
     "They invest at once",
@@ -128,7 +128,7 @@
    "answer": 0
   },
   {
-   "q": "What is a market maker, according to Jose?",
+   "q": "What is a market maker, according to me?",
    "choices": [
     "Somebody who creates a market that doesn't exist",
     "Somebody who sells in a market",
@@ -137,7 +137,7 @@
    "answer": 0
   },
   {
-   "q": "What balance did Jose say is a huge ability for an entrepreneur?",
+   "q": "What balance did I say is a huge ability for an entrepreneur?",
    "choices": [
     "Optimistic and aware of the risks at once",
     "Cautious and silent",

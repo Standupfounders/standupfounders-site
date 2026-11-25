@@ -4,7 +4,7 @@
  "title": "Even when you fail on the way",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,25 +22,25 @@
    "heading": "Out of ten things, I failed nine",
    "lines": [
     {
-     "text": "I've had extremely low lows, Jose said. I joke with you guys: out of the ten things I've done in my life, I think I failed nine.",
+     "text": "I've had extremely low lows, I said. I joke with you guys: out of the ten things I've done in my life, I think I failed nine.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He told of a digital advertising agency he started in his twenties. He thought it was going to do very well. It ended up not working out.",
+     "text": "I told of a digital advertising agency I started in my twenties. I thought it was going to do very well. It ended up not working out.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "But then it became part of my business model in whatever I do, he said. I never thought: I'm never going to use this again. Even if it fails, it is part of my skill set. It is part of the process of where I want to go.",
+     "text": "But then it became part of my business model in whatever I do, I said. I never thought: I'm never going to use this again. Even if it fails, it is part of my skill set. It is part of the process of where I want to go.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When he later ran a fishing tourism business, he said, digital advertising was how he got his clients to come fishing and pay.",
+     "text": "When I later ran a fishing tourism business, I said, digital advertising was how I got my clients to come fishing and pay.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
    "heading": "Even when you fail on the way",
    "lines": [
     {
-     "text": "Everything you do on the way, even when you fail on the way, the process and what you are learning is the most important thing, he said.",
+     "text": "Everything you do on the way, even when you fail on the way, the process and what you are learning is the most important thing, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "plain"
     },
     {
-     "text": "You have to control the lows, he said. You cannot let your mind go there. What kind of decisions are you going to make in your lows?",
+     "text": "You have to control the lows, I said. You cannot let your mind go there. What kind of decisions are you going to make in your lows?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "How many of ten things did Jose joke he failed?",
+   "q": "How many of ten things did I joke I failed?",
    "choices": [
     "Three",
     "Nine",
@@ -104,16 +104,16 @@
    "answer": 1
   },
   {
-   "q": "What happened to the failed digital advertising agency, in his story?",
+   "q": "What happened to the failed digital advertising agency, in my story?",
    "choices": [
-    "It became part of his business model",
+    "It became part of my business model",
     "He sold it",
     "He forgot it"
    ],
    "answer": 0
   },
   {
-   "q": "What question did he say to ask to gain perspective?",
+   "q": "What question did I say to ask to gain perspective?",
    "choices": [
     "What will the neighbours say?",
     "What am I going to think about this in ten years?",

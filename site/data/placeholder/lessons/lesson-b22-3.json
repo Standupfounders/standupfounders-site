@@ -4,7 +4,7 @@
  "title": "He focuses on the two billion he kept",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "He doesn't focus on the eight billion dollars he lost",
    "lines": [
     {
-     "text": "He starts another business at sixty-five, Jose said. What a guy. Jose read the author's line about his plans.",
+     "text": "He starts another business at sixty-five, I said. What a guy. I read the author's line about his plans.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose reads it, the author said he had no plans to retire yet. Part of his plan B was to make sure that if he left the company he had a business to work in, in addition to his philanthropy. He gives a tribute to a longtime friend who had died, and he makes fun of a health scare with his heart. He doesn't dwell on it.",
+     "text": "As I read it, the author said he had no plans to retire yet. Part of his plan B was to make sure that if he left the company he had a business to work in, in addition to his philanthropy. He gives a tribute to a longtime friend who had died, and he makes fun of a health scare with his heart. He doesn't dwell on it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "He focuses on the two billion he kept",
    "lines": [
     {
-     "text": "He doesn't focus on the eight billion dollars he lost, Jose said. He focuses on the two billion he kept. What an attitude. This man does not go down.",
+     "text": "He doesn't focus on the eight billion dollars he lost, I said. He focuses on the two billion he kept. What an attitude. This man does not go down.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I'm sure on his deathbed he's going to say something like: I had a great ride, Jose said. That goes to show an element of success is being grateful for every day.",
+     "text": "I'm sure on his deathbed he's going to say something like: I had a great ride, I said. That goes to show an element of success is being grateful for every day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the author focuses on?",
+   "q": "What did I say the author focuses on?",
    "choices": [
     "The two billion he kept",
     "The eight billion he lost",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say an element of success is?",
+   "q": "What did I say an element of success is?",
    "choices": [
     "Being grateful for every day",
     "Never failing",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the author started at sixty-five?",
+   "q": "What did I say the author started at sixty-five?",
    "choices": [
     "Another business",
     "Retirement",

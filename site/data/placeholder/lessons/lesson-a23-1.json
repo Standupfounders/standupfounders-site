@@ -4,7 +4,7 @@
  "title": "The map of the landmines",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The public relations manager",
    "lines": [
     {
-     "text": "Jose said that the person in the book has to make an apology, and that his public relations manager tells him: you have to kill this nonsense, we have to make a statement. Such managers play a critical role in the perception of public figures.",
+     "text": "I said that the person in the book has to make an apology, and that his public relations manager tells him: you have to kill this nonsense, we have to make a statement. Such managers play a critical role in the perception of public figures.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Good ones write scripts for their candidates, he said. They tell them what to wear and what not to wear, what to say. They are very involved in the public persona of whoever the celebrity is.",
+     "text": "Good ones write scripts for their candidates, I said. They tell them what to wear and what not to wear, what to say. They are very involved in the public persona of whoever the celebrity is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "The map",
    "lines": [
     {
-     "text": "As one individual, Jose said, you can't see the big picture of everything around you. He told of going to a meeting where he pulled a public relations manager he knew aside and asked: who's here?",
+     "text": "As one individual, I said, you can't see the big picture of everything around you. I told of going to a meeting where I pulled a public relations manager I knew aside and asked: who's here?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Know the interviewer's intent",
    "lines": [
     {
-     "text": "If you're with the media, Jose said, you need to know whether they are going to angle. Media is all over the place, from the far left to the far right. We need to know the intent of journalists, because there is always a political side, whatever your business.",
+     "text": "If you're with the media, I said, you need to know whether they are going to angle. Media is all over the place, from the far left to the far right. We need to know the intent of journalists, because there is always a political side, whatever your business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said they didn't think there was an initial intent; he was looking for something to spin into a bigger story. Jose gave his own take, that the consequence was alarming, and that he thought the intent was malign. He added it was only his take.",
+     "text": "A student said they didn't think there was an initial intent; he was looking for something to spin into a bigger story. I gave my own take, that the consequence was alarming, and that I thought the intent was malign. I added it was only my take.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say good public relations managers do?",
+   "q": "What did I say good public relations managers do?",
    "choices": [
     "Write scripts and tell you what to say and wear",
     "Avoid the press",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did the manager in Jose's story map?",
+   "q": "What did the manager in my story map?",
    "choices": [
     "The people in the room who are on your side and not",
     "The menu",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you need to know about journalists?",
+   "q": "What did I say you need to know about journalists?",
    "choices": [
     "Their intent",
     "Their age",

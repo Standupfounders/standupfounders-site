@@ -4,7 +4,7 @@
  "title": "Catalysts, not experts",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Catalysts",
    "lines": [
     {
-     "text": "Jose said that in this chapter two rival founders are going at each other. Both disrupted industries through passion, innovation and force of will. One's instinct was to push and surge and drive people toward insane deadlines, even if it meant taking risks.",
+     "text": "I said that in this chapter two rival founders are going at each other. Both disrupted industries through passion, innovation and force of will. One's instinct was to push and surge and drive people toward insane deadlines, even if it meant taking risks.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The other was skeptical of the first one's practice of spending hours in engineering meetings, making technical decisions and issuing abrupt orders. There is some gossip from former employees that his interventions were unhelpful. Jose said: take it with a grain of salt.",
+     "text": "The other was skeptical of the first one's practice of spending hours in engineering meetings, making technical decisions and issuing abrupt orders. There is some gossip from former employees that his interventions were unhelpful. I said: take it with a grain of salt.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How can one man in four companies have the depth of engineering knowledge to take part in the technical decisions? Some of these engineers have gone through thirty years of schooling. Jose said: that is what this class is about.",
+     "text": "How can one man in four companies have the depth of engineering knowledge to take part in the technical decisions? Some of these engineers have gone through thirty years of schooling. I said: that is what this class is about.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: they are catalysts for other people's intellect. He did not have the educational experience to build rockets, so when he sits in the meeting he is probably the one who knows the least of the super technical things. Jose said this is open for discussion.",
+     "text": "I said: they are catalysts for other people's intellect. He did not have the educational experience to build rockets, so when he sits in the meeting he is probably the one who knows the least of the super technical things. I said this is open for discussion.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call the leaders in the story?",
+   "q": "What did I call the leaders in the story?",
    "choices": [
     "Catalysts for other people's intellect",
     "Technicians",

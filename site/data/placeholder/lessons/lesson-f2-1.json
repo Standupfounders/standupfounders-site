@@ -4,7 +4,7 @@
  "title": "Anchors and choosing your reaction",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Negative and positive anchors",
    "lines": [
     {
-     "text": "Jose said that a negative anchor might be a father, a coach or a teacher who created a negative moment, so that now you lack confidence in a subject. There are also positive anchors.",
+     "text": "I said that a negative anchor might be a father, a coach or a teacher who created a negative moment, so that now you lack confidence in a subject. There are also positive anchors.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that as adults we regulate those moments: in NLP one of the main ideas is that you decide for yourself how you react to the events in your life.",
+     "text": "I said that as adults we regulate those moments: in NLP one of the main ideas is that you decide for yourself how you react to the events in your life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that you have to allow yourself to make adjustments, and not second-guess yourself, but be intuitive.",
+     "text": "I said that you have to allow yourself to make adjustments, and not second-guess yourself, but be intuitive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you decide in NLP?",
+   "q": "What did I say you decide in NLP?",
    "choices": [
     "How you react to events",
     "What events happen",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about adjustments?",
+   "q": "What did I say about adjustments?",
    "choices": [
     "Allow yourself to make them",
     "Avoid them",

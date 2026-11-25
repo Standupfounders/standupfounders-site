@@ -4,7 +4,7 @@
  "title": "Identify the anchor",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Anchors",
    "lines": [
     {
-     "text": "There is a saying I have said before on the calls, Jose said: show me a successful adult and I'll show you a successful child. We have anchors in our life, emotional, physical or verbal, events that define who we are.",
+     "text": "There is a saying I have said before on the calls, I said: show me a successful adult and I'll show you a successful child. We have anchors in our life, emotional, physical or verbal, events that define who we are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: do we ever escape the traumas we had from our childhood and the things that define us as adults? What strategies do we have?",
+     "text": "I asked: do we ever escape the traumas we had from our childhood and the things that define us as adults? What strategies do we have?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,25 +56,25 @@
    "heading": "Identify it, stop it",
    "lines": [
     {
-     "text": "I have read good books on this, Jose said. Neurolinguistic programming is about recognizing negative anchors and positive anchors. The first thing is identification: that's not me, that's my father coming out on me, or that's a traumatic event.",
+     "text": "I have read good books on this, I said. Neurolinguistic programming is about recognizing negative anchors and positive anchors. The first thing is identification: that's not me, that's my father coming out on me, or that's a traumatic event.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He told of a business man who snapped at him, yelling, and then stopped himself: I'm sorry, that was out of place. I went bankrupt over this issue, fighting with partners. It gave me an allergy. Moments like that come up from the subconscious, Jose said.",
+     "text": "I told of a business man who snapped at me, yelling, and then stopped himself: I'm sorry, that was out of place. I went bankrupt over this issue, fighting with partners. It gave me an allergy. Moments like that come up from the subconscious, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "We have to be aware of those negative anchors because they will get us, he said. Identify it, stop it, and say: that's not me, that's not my choice.",
+     "text": "We have to be aware of those negative anchors because they will get us, I said. Identify it, stop it, and say: that's not me, that's not my choice.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is also a discipline to wake up every day inspired, he said: I'm grateful I'm alive, I'm working. Nobody wants to see the leader who is up and down in deep depressions or a bad mood. Everybody wants the leader who is inspired and looking for positive outcomes.",
+     "text": "It is also a discipline to wake up every day inspired, I said: I'm grateful I'm alive, I'm working. Nobody wants to see the leader who is up and down in deep depressions or a bad mood. Everybody wants the leader who is inspired and looking for positive outcomes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call events that define who we are?",
+   "q": "What did I call events that define who we are?",
    "choices": [
     "Anchors",
     "Chains",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What is the first thing, according to Jose, in dealing with a negative anchor?",
+   "q": "What is the first thing, according to me, in dealing with a negative anchor?",
    "choices": [
     "Identification",
     "Avoidance",

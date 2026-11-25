@@ -4,7 +4,7 @@
  "title": "The assumptions behind the numbers",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Structure for the classes",
    "lines": [
     {
-     "text": "Jose said that a student was organizing the classes into lesson plans and themes, which he is not good at, because he goes off the cuff. Without structure, another teacher who came in would not know what is going on.",
+     "text": "I said that a student was organizing the classes into lesson plans and themes, which he is not good at, because he goes off the cuff. Without structure, another teacher who came in would not know what is going on.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -33,13 +33,13 @@
    "heading": "A plan needs a road",
    "lines": [
     {
-     "text": "Jose said that you can have a business plan and financial numbers and engineers, but who cares about the numbers if your assumptions behind them are wrong?",
+     "text": "I said that you can have a business plan and financial numbers and engineers, but who cares about the numbers if your assumptions behind them are wrong?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that a big dream with no bridges, no roads and no infrastructure connecting it is only a destination with no process to get there.",
+     "text": "I said that a big dream with no bridges, no roads and no infrastructure connecting it is only a destination with no process to get there.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,7 +50,7 @@
    "heading": "Prejudice",
    "lines": [
     {
-     "text": "Jose gave an example of prejudice: this boss is terrible, I will get him. He said that is prejudice, a judgment before you have listened.",
+     "text": "I gave an example of prejudice: this boss is terrible, I will get him. I said that is prejudice, a judgment before you have listened.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -83,7 +83,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about assumptions?",
+   "q": "What did I say about assumptions?",
    "choices": [
     "If they are wrong the numbers do not matter",
     "Numbers always win",
@@ -92,7 +92,7 @@
    "answer": 0
   },
   {
-   "q": "What did he say a dream without roads is?",
+   "q": "What did I say a dream without roads is?",
    "choices": [
     "A destination with no process",
     "A plan",
@@ -101,7 +101,7 @@
    "answer": 0
   },
   {
-   "q": "What did he call a judgment before listening?",
+   "q": "What did I call a judgment before listening?",
    "choices": [
     "Prejudice",
     "Insight",

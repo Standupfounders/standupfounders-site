@@ -4,7 +4,7 @@
  "title": "Direction, power and speed",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Direction",
    "lines": [
     {
-     "text": "Jose said that if the person gets out of the direction of the big goal, he won't get to his mission, and his momentum will slow. You are reinventing another process. That is where the danger is.",
+     "text": "I said that if the person gets out of the direction of the big goal, he won't get to his mission, and his momentum will slow. You are reinventing another process. That is where the danger is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is like construction, he said. I have three friends who lost millions of dollars because they did developments and allowed the architects to do custom houses. Every house is different, and even if you charge more per square metre you lose, because you are reinventing the foundations and the roof and the pool. You always miscalculate.",
+     "text": "It is like construction, I said. I have three friends who lost millions of dollars because they did developments and allowed the architects to do custom houses. Every house is different, and even if you charge more per square metre you lose, because you are reinventing the foundations and the roof and the pool. You always miscalculate.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Power, direction, speed",
    "lines": [
     {
-     "text": "When you change direction and do something different from your process, you lose focus, and then you lose the power and the speed, he said. By power I mean the power of habits, the power of process.",
+     "text": "When you change direction and do something different from your process, you lose focus, and then you lose the power and the speed, I said. By power I mean the power of habits, the power of process.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "plain"
     },
     {
-     "text": "I am very conscious of the power, the direction and speed of our actions, he said. Am I going the right direction? Am I getting momentum or stopping? Am I sticking to a process, or building custom houses and starting all over again?",
+     "text": "I am very conscious of the power, the direction and speed of our actions, I said. Am I going the right direction? Am I getting momentum or stopping? Am I sticking to a process, or building custom houses and starting all over again?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens when you reinvent a process each time?",
+   "q": "What did I say happens when you reinvent a process each time?",
    "choices": [
     "You miscalculate and can lose money",
     "You always win",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose mean by power?",
+   "q": "What did I mean by power?",
    "choices": [
     "The power of habits and process",
     "Money",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens if you start and stop in different directions?",
+   "q": "What did I say happens if you start and stop in different directions?",
    "choices": [
     "You lose momentum",
     "You gain speed",

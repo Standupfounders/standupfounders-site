@@ -4,7 +4,7 @@
  "title": "The hangman's noose",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said there is an incredible line in the book, and read it, stressing the word but.",
+     "text": "I said there is an incredible line in the book, and read it, stressing the word but.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,7 +40,7 @@
      "kind": "quote"
     },
     {
-     "text": "He is about to go into personal bankruptcy and is borrowing money, Jose said. And he told people close to him that nobody should lose their house because of what he put in. The book depicts how much he was under, and Jose said his tolerance for stress is high but that year almost pushed him past his limits.",
+     "text": "He is about to go into personal bankruptcy and is borrowing money, I said. And he told people close to him that nobody should lose their house because of what he put in. The book depicts how much he was under, and I said his tolerance for stress is high but that year almost pushed him past his limits.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
    "heading": "What do you do?",
    "lines": [
     {
-     "text": "What is your life jacket in a crisis? Jose asked. Mentally, where do you go? How do you act in front of other people? He said we know how the person acts: he puts a mask on and says: I'm the leader, I've got to have optimism.",
+     "text": "What is your life jacket in a crisis? I asked. Mentally, where do you go? How do you act in front of other people? I said we know how the person acts: he puts a mask on and says: I'm the leader, I've got to have optimism.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the foundation of the groundbreaking entrepreneur is a core belief: there is a possibility that I can fail, but I'm going to keep going at all costs. We need to study ourselves: do I have that trait, and can I build it if I don't?",
+     "text": "I said the foundation of the groundbreaking entrepreneur is a core belief: there is a possibility that I can fail, but I'm going to keep going at all costs. We need to study ourselves: do I have that trait, and can I build it if I don't?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
  },
  "check": [
   {
-   "q": "What question did Jose ask about crisis?",
+   "q": "What question did I ask about crisis?",
    "choices": [
     "What is your life jacket in a crisis?",
     "What is your budget?",
@@ -120,7 +120,7 @@
    "answer": 0
   },
   {
-   "q": "What core belief did Jose name?",
+   "q": "What core belief did I name?",
    "choices": [
     "I may fail, but I'll keep going at all costs",
     "I will never fail",

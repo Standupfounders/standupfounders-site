@@ -4,7 +4,7 @@
  "title": "Triggers in your surroundings",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Read the environment",
    "lines": [
     {
-     "text": "Jose said that the first thing he does when he gets into a car is check how clean it is, because it is a direct reflection of habits. If you were about to invest ten million, would you give it to someone whose car is full of empty bottles and old clothes?",
+     "text": "I said that the first thing I do when I get into a car is check how clean it is, because it is a direct reflection of habits. If you were about to invest ten million, would you give it to someone whose car is full of empty bottles and old clothes?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he looks at a person's house: the structure, the objects, the books, even the dishes and the food. A student said: it is a direct reflection of their current mental state.",
+     "text": "I said I look at a person's house: the structure, the objects, the books, even the dishes and the food. A student said: it is a direct reflection of their current mental state.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said the overall system in the book is not just business, but everything you do. Your physical surroundings and objects reflect your internal consciousness.",
+     "text": "I said the overall system in the book is not just business, but everything you do. Your physical surroundings and objects reflect your internal consciousness.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Triggers and anchors",
    "lines": [
     {
-     "text": "He said the rituals we have each day are symbolic and have habit-forming power: a pick and shovel is a symbol of hard work; a coffee mug is a symbol of the morning pep.",
+     "text": "I said the rituals we have each day are symbolic and have habit-forming power: a pick and shovel is a symbol of hard work; a coffee mug is a symbol of the morning pep.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that anchors are things that happened in the past, positive or negative, emotional events, and things around us can trigger those memories. A negative anchor might be junk food in the morning that comes from childhood.",
+     "text": "I said that anchors are things that happened in the past, positive or negative, emotional events, and things around us can trigger those memories. A negative anchor might be junk food in the morning that comes from childhood.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose gave the example of coming home to the same couch, with a beer and the television, so that seeing the couch triggers the thought pattern. When you travel you are removed from those triggers, so you have more flexibility to change habits.",
+     "text": "I gave the example of coming home to the same couch, with a beer and the television, so that seeing the couch triggers the thought pattern. When you travel you are removed from those triggers, so you have more flexibility to change habits.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,13 +74,13 @@
    "heading": "Triggers you build",
    "lines": [
     {
-     "text": "Jose asked a student for positive triggers in the morning. The student named the coffee machine, a sunrise run and the dog's leash, and said what each stands for.",
+     "text": "I asked a student for positive triggers in the morning. The student named the coffee machine, a sunrise run and the dog's leash, and said what each stands for.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that he purposely creates triggers: motivational words on the wall, a collage of memories with his children, books. He wants every little thing to light a flame. He said leaders of a team want to create those triggers too, whether a word, an image or a physical object.",
+     "text": "I said that I purposely create triggers: motivational words on the wall, a collage of memories with my children, books. I want every little thing to light a flame. I said leaders of a team want to create those triggers too, whether a word, an image or a physical object.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a clean or messy car is a reflection of?",
+   "q": "What did I say a clean or messy car is a reflection of?",
    "choices": [
     "Habits",
     "Luck",
@@ -122,7 +122,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens when you travel?",
+   "q": "What did I say happens when you travel?",
    "choices": [
     "You are removed from your usual triggers",
     "You gain more triggers",
@@ -131,11 +131,11 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about how he sets up his space?",
+   "q": "What did I say about how I set up my space?",
    "choices": [
-    "He purposely creates triggers",
-    "He keeps it empty",
-    "He hides everything"
+    "I purposely create triggers",
+    "I keep it empty",
+    "I hide everything"
    ],
    "answer": 0
   }

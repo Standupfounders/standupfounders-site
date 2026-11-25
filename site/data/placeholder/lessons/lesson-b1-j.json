@@ -4,7 +4,7 @@
  "title": "Even when you fail on the way",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,31 +22,31 @@
    "heading": "One time I was with my grandparents",
    "lines": [
     {
-     "text": "Jose asked everyone to think for a second: how do you define love?",
+     "text": "I asked everyone to think for a second: how do you define love?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "One time, he said, I was with my grandparents, and I was in high school. I went to their house because it was right next to the school. I was at a boarding school.",
+     "text": "One time, I said, I was with my grandparents, and I was in high school. I went to their house because it was right next to the school. I was at a boarding school.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "One day he saw them, one reading the paper on one side, the other on the other side. They would do the same thing over and over again, for years.",
+     "text": "One day I saw them, one reading the paper on one side, the other on the other side. They would do the same thing over and over again, for years.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "One day he decided to ask: Grandpa and Grandma, can you put the papers down? How do you define love between you?",
+     "text": "One day I decided to ask: Grandpa and Grandma, can you put the papers down? How do you define love between you?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They laughed and looked at him, he said, and wanted to go back to the paper. Look at this little kid asking silly questions.",
+     "text": "They laughed and looked at me, I said, and wanted to go back to the paper. Look at this little kid asking silly questions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,13 +63,13 @@
      "kind": "plain"
     },
     {
-     "text": "They weren't overly loving people, Jose said. They came from the Great Depression. They were pretty cold, very structured and regimented, black and white.",
+     "text": "They weren't overly loving people, I said. They came from the Great Depression. They were pretty cold, very structured and regimented, black and white.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How much of that is going to influence our lives, he asked? Are we going to be people who define love and show love? What is the limit of love? Is there such a thing as showing too much love to your children, or to a husband or a wife?",
+     "text": "How much of that is going to influence our lives, I asked? Are we going to be people who define love and show love? What is the limit of love? Is there such a thing as showing too much love to your children, or to a husband or a wife?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -100,16 +100,16 @@
  },
  "check": [
   {
-   "q": "What did Jose ask his grandparents to do?",
+   "q": "What did I ask my grandparents to do?",
    "choices": [
     "Put the papers down",
     "Come to dinner",
-    "Write him a letter"
+    "Write me a letter"
    ],
    "answer": 0
   },
   {
-   "q": "What did they tell him love is?",
+   "q": "What did they tell me love is?",
    "choices": [
     "Just a feeling; they feel each other's presence",
     "A business",
@@ -118,7 +118,7 @@
    "answer": 0
   },
   {
-   "q": "What question did Jose end with?",
+   "q": "What question did I end with?",
    "choices": [
     "Is there such a thing as showing too much love?",
     "Who taught you to read?",

@@ -4,7 +4,7 @@
  "title": "Anybody in the public has access to buy your company",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "What does going public do?",
    "lines": [
     {
-     "text": "A student asked: do you have to be a publicly traded company to be on the stock market? Jose said: yes. There are reporting requirements and minimum revenues.",
+     "text": "A student asked: do you have to be a publicly traded company to be on the stock market? I said: yes. There are reporting requirements and minimum revenues.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Another asked: is the benefit of going public so you can create that market cap for yourself? Jose said: yes. What it does is give you access to capital, because anybody can buy your stock.",
+     "text": "Another asked: is the benefit of going public so you can create that market cap for yourself? I said: yes. What it does is give you access to capital, because anybody can buy your stock.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that, when you buy a stock, there are systems with reporting requirements, and a digital ledger tells you how much stock you bought, at what price and at what time. As people buy a stock that is performing well, more people can buy it, and anybody around the world can access it.",
+     "text": "I said that, when you buy a stock, there are systems with reporting requirements, and a digital ledger tells you how much stock you bought, at what price and at what time. As people buy a stock that is performing well, more people can buy it, and anybody around the world can access it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Anybody in the public has access to buy your company",
    "lines": [
     {
-     "text": "If you are a private company, Jose said, you don't have that kind of access. You are going person to person or business to business. That is a totally different game. Here, somebody you don't know at all has access to buy your company stock.",
+     "text": "If you are a private company, I said, you don't have that kind of access. You are going person to person or business to business. That is a totally different game. Here, somebody you don't know at all has access to buy your company stock.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Before you go public, he said, investment banks do the underwriting. They do the paperwork, present the company and fix the price you go public at. All of this is heavily regulated by the securities regulator, because in the old days somebody could just take off with the money. Now you can look at the balance sheet of a company, so you know what you are buying.",
+     "text": "Before you go public, I said, investment banks do the underwriting. They do the paperwork, present the company and fix the price you go public at. All of this is heavily regulated by the securities regulator, because in the old days somebody could just take off with the money. Now you can look at the balance sheet of a company, so you know what you are buying.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He gave an example of a company whose stock rose while it was losing millions of dollars a year. People investing weren't checking that. They said: this is a great company, they're all over the world. Jose said that a friend of his who runs hotels does the math in his head: how many beds, what is the turnover, what is the occupancy rate. Looking at the fundamentals, he said there is no way it works.",
+     "text": "I gave an example of a company whose stock rose while it was losing millions of dollars a year. People investing weren't checking that. They said: this is a great company, they're all over the world. I said that a friend of mine who runs hotels does the math in his head: how many beds, what is the turnover, what is the occupancy rate. Looking at the fundamentals, he said there is no way it works.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say going public gives a company?",
+   "q": "What did I say going public gives a company?",
    "choices": [
     "Access to capital",
     "A new name",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say investment banks do before a company goes public?",
+   "q": "What did I say investment banks do before a company goes public?",
    "choices": [
     "The underwriting: the paperwork, the presentation and the price",
     "The advertising",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What fundamentals did Jose's friend work out in his head for hotels?",
+   "q": "What fundamentals did my friend work out in his head for hotels?",
    "choices": [
     "Beds, turnover and occupancy",
     "Colors and logos",

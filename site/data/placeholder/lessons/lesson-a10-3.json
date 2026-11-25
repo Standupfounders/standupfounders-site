@@ -4,7 +4,7 @@
  "title": "Find your investors",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,25 +22,25 @@
    "heading": "A brainstorm",
    "lines": [
     {
-     "text": "Jose asked a student to go through the process in front of everyone. We need money, we will run out in six months. He can get desperate and look for money anywhere, but who are we looking for?",
+     "text": "I asked a student to go through the process in front of everyone. We need money, we will run out in six months. He can get desperate and look for money anywhere, but who are we looking for?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The student said: people who have invested in erosion-mitigation companies, the closest thing to it, then pitch them. Jose asked what words they would put into a search. He helped: private equity, green infrastructure, environmental infrastructure.",
+     "text": "The student said: people who have invested in erosion-mitigation companies, the closest thing to it, then pitch them. I asked what words they would put into a search. He helped: private equity, green infrastructure, environmental infrastructure.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Do you want venture capital, private equity or angel investors? Jose said he would go for all of them. A student added family offices.",
+     "text": "Do you want venture capital, private equity or angel investors? I said he would go for all of them. A student added family offices.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I like to read a lot of press releases, he said. Add PR to the search words and see whether a managing partner is saying: we're actively looking to invest in this space.",
+     "text": "I like to read a lot of press releases, I said. Add PR to the search words and see whether a managing partner is saying: we're actively looking to invest in this space.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
    "heading": "Read the sector",
    "lines": [
     {
-     "text": "First look at what the industry is doing, he said. Is it fragmented, with a lot of little companies and no big one rolling them up? What is the biggest company and its revenue? Are the big-money players getting good returns? Align with the ones looking at swallowing up companies in the sector.",
+     "text": "First look at what the industry is doing, I said. Is it fragmented, with a lot of little companies and no big one rolling them up? What is the biggest company and its revenue? Are the big-money players getting good returns? Align with the ones looking at swallowing up companies in the sector.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,13 +74,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose agreed, and told how a young colleague printed cards with no company and went to a landscaping convention. He met a man who gave him fifty thousand dollars to open an office. Jose met a company he later merged with at a convention too.",
+     "text": "I agreed, and told how a young colleague printed cards with no company and went to a landscaping convention. He met a man who gave him fifty thousand dollars to open an office. I met a company he later merged with at a convention too.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It's intimidating, he said: eighteen hundred companies on a floor. Do the research before you go, see who is going to be there, have a specific goal, and write to people ahead: I'd love to have a cup of coffee, or invite you to dinner.",
+     "text": "It's intimidating, I said: eighteen hundred companies on a floor. Do the research before you go, see who is going to be there, have a specific goal, and write to people ahead: I'd love to have a cup of coffee, or invite you to dinner.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose add to his search to find press releases?",
+   "q": "What did I add to his search to find press releases?",
    "choices": [
     "The letters PR",
     "The word free",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to do before a convention?",
+   "q": "What did I say to do before a convention?",
    "choices": [
     "Research who will be there and have a specific goal",
     "Print more cards",

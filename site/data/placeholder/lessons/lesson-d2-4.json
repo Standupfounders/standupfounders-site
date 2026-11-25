@@ -4,7 +4,7 @@
  "title": "Personal brand and company brand",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that the authority of the media outlets became fragmented in viewers' minds, and people began a search for information. He said that the author's thesis is that you cannot divorce the corporate brand from the personal brand.",
+     "text": "I said that the authority of the media outlets became fragmented in viewers' minds, and people began a search for information. I said that the author's thesis is that you cannot divorce the corporate brand from the personal brand.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Both brands",
    "lines": [
     {
-     "text": "Jose read a passage in which the strategy to build only one is based on two misguided notions, such as that an institution is more sustainable if not built on a person, and that building both a corporate brand and a leader's brand dilutes both. A student first heard it as a warning against doing both, and Jose read it again.",
+     "text": "I read a passage in which the strategy to build only one is based on two misguided notions, such as that an institution is more sustainable if not built on a person, and that building both a corporate brand and a leader's brand dilutes both. A student first heard it as a warning against doing both, and I read it again.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that you have to work on both: you as a person, a leader and the founder, with your credibility and trust, and the company and what gives it credibility. He used a famous founder and his company as an example of one that cannot be separated.",
+     "text": "I said that you have to work on both: you as a person, a leader and the founder, with your credibility and trust, and the company and what gives it credibility. I used a famous founder and his company as an example of one that cannot be separated.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the author's thesis is?",
+   "q": "What did I say the author's thesis is?",
    "choices": [
     "You cannot divorce the corporate brand from the personal brand",
     "Only the company matters",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say became fragmented?",
+   "q": "What did I say became fragmented?",
    "choices": [
     "The authority of media outlets",
     "Prices",

@@ -4,7 +4,7 @@
  "title": "An anchor is a stored association",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "What an anchor is",
    "lines": [
     {
-     "text": "Jose said: an anchor is a stored association. You associate wearing that shirt with being on top of your game, and when you go out you feel good. Anybody have a shirt like that?",
+     "text": "I said: an anchor is a stored association. You associate wearing that shirt with being on top of your game, and when you go out you feel good. Anybody have a shirt like that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Your senses",
    "lines": [
     {
-     "text": "Jose asked the group to look around their rooms for positive anchors. He said that you have kinesthetic anchors, smells and tastes, and that your senses lead you to anchors and triggers.",
+     "text": "I asked the group to look around their rooms for positive anchors. I said that you have kinesthetic anchors, smells and tastes, and that your senses lead you to anchors and triggers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that he has to control his own emotions because he is vulnerable to them, and that some days he is different from others.",
+     "text": "I said that I have to control my own emotions because I am vulnerable to them, and that some days I am different from others.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call an anchor?",
+   "q": "What did I call an anchor?",
    "choices": [
     "A stored association",
     "A rule",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say senses lead you to?",
+   "q": "What did I say senses lead you to?",
    "choices": [
     "Anchors and triggers",
     "Mistakes",

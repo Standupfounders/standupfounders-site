@@ -2,10 +2,10 @@
  "schema": 1,
  "id": "course-book-1",
  "slug": "book-1",
- "title": "Jose's analysis of a book we are still naming",
+ "title": "Defining Moments, Risk and Decisions",
  "label": "Course 1",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
- "outcome": "A first course, built from Jose's group calls on one book, in the book's order. The book is not named yet.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "My reading of one book about an entrepreneur's life, in the book's order. We look at the moments that shape a person, how risk is taken, partners and advisors, raising money, and the people around you. Built from my group calls.",
  "season_note": "A suggested run of about 56 weeks. Suggested dates only: nothing locks.",
  "weeks": 56,
  "modules": [
@@ -21,26 +21,44 @@
      "kind": "section",
      "title": "What Stand Up is and how to use it",
      "minutes": 10,
-     "idea": "Placeholder: a short welcome, how a section works, how saving works. Written for someone with no starting point."
+     "idea": "A short video on how a lesson works: one idea, one sitting, then your own writing.",
+     "video": {
+      "src": "media/standup-video1-how-a-lesson-works-16x9-narrated-v3-fp3.mp4",
+      "label": "How a lesson works",
+      "transcript": "Good morning. This is Stand Up. Here is how a lesson works. One idea. One sitting. About nine minutes. That's it. Then you write. Five minutes. It's saved only in this browser. Three questions. A study aid, not a test. Look again at the ones you missed. Done? Mark it done. Not ready? Skip it, come back. No hurry. Stand Up. Education, not advice.",
+      "captions": "media/standup-video1-how-a-lesson-works-16x9-narrated-v3-fp3.en.vtt"
+     }
     },
     {
      "id": "i-st2",
      "kind": "section",
      "title": "How this course is built",
      "minutes": 10,
-     "idea": "Placeholder: books, modules, sections, and the suggested pace. Nothing locks."
+     "idea": "How the course is laid out, and how your place is saved so you can pick it up again.",
+     "video": {
+      "src": "media/standup-video2-pick-up-where-you-left-off-16x9-narrated-v4.mp4",
+      "label": "Pick up where you left off",
+      "transcript": "Close the tab. Life happens. Right? Come back, and the page remembers where you were. Saved in this browser. One click. Straight back to your lesson. Stand Up. Get up. Pick it up again.",
+      "captions": "media/standup-video2-pick-up-where-you-left-off-16x9-narrated-v4.en.vtt"
+     }
     },
     {
      "id": "i-st3",
      "kind": "workshop",
      "title": "Where I am starting",
      "minutes": 10,
-     "idea": "Placeholder: three short lines about where you are today.",
+     "idea": "Three short lines about where you are today.",
      "steps": [
-      "Placeholder: what I am building or want to build.",
-      "Placeholder: what I already know.",
-      "Placeholder: what I want from this course."
-     ]
+      "What I am building or want to build.",
+      "What I already know.",
+      "What I want from this course."
+     ],
+     "video": {
+      "src": "media/standup-video3-your-own-pace-16x9-narrated-v3-fp3.mp4",
+      "label": "Your own pace",
+      "transcript": "Your start date. Your pace. Pick a day, or start today. Every date counts from there. Twelve weeks is a suggestion. Nothing locks. There are no deadlines. Ahead. On track. A bit behind. No deadlines. Your pace. Nothing locks. Stand Up.",
+      "captions": "media/standup-video3-your-own-pace-16x9-narrated-v3-fp3.en.vtt"
+     }
     }
    ]
   },
@@ -3199,7 +3217,7 @@
      "kind": "section",
      "title": "What is wealth?",
      "minutes": 9,
-     "idea": "What is wealth? Jose: doing what you want, when you want, with who you want, as long as you want. Wealth is what you don't see. Are you enjoying a thing more than you worry about it?",
+     "idea": "What is wealth? I say: doing what you want, when you want, with who you want, as long as you want. Wealth is what you don't see. Are you enjoying a thing more than you worry about it?",
      "lesson": "lesson-s1"
     },
     {
@@ -3237,9 +3255,9 @@
     {
      "id": "i-j",
      "kind": "journey",
-     "title": "Journey: a story from Jose",
+     "title": "Journey: a story from me",
      "minutes": 10,
-     "idea": "Jose's own story of a map of phone calls and the second business hiding in it.",
+     "idea": "My own story of a map of phone calls and the second business hiding in it.",
      "lesson": "lesson-journey"
     },
     {
@@ -5185,5 +5203,7 @@
   }
  ],
  "slots": [],
- "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+ "page_text": "Each module is my analysis of a book on an entrepreneur's life. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice.",
+ "public_title": "Defining Moments, Risk and Decisions",
+ "public_outcome": "My reading of one book about an entrepreneur's life, in the book's order. We look at the moments that shape a person, how risk is taken, partners and advisors, raising money, and the people around you. Built from my group calls."
 }

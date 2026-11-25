@@ -4,7 +4,7 @@
  "title": "Success is a lot of tiny little decisions",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "What was the turning point?",
    "lines": [
     {
-     "text": "A student asked: what was the biggest move that accelerated him? Jose said: I met a man who talked about six or seven moments that defined his life. Those moments, he capitalized on. They triggered his emotions, which became actions, which became decisions.",
+     "text": "A student asked: what was the biggest move that accelerated him? I said: I met a man who talked about six or seven moments that defined his life. Those moments, he capitalized on. They triggered his emotions, which became actions, which became decisions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If we scan the book for the defining moments, Jose said: the four-year-old taken to boarding school, abandonment issues, a negative moment that taught him to be independent. Being bullied taught him to defend himself, which became: I'm going to fight against the government and the monopolies.",
+     "text": "If we scan the book for the defining moments, I said: the four-year-old taken to boarding school, abandonment issues, a negative moment that taught him to be independent. Being bullied taught him to defend himself, which became: I'm going to fight against the government and the monopolies.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Success is a lot of tiny little decisions",
    "lines": [
     {
-     "text": "What I learn from people like this, Jose said, is that I'm always paying attention to what they say, but more importantly, what decisions they make. When I meet somebody I'm always trying to find the critical decisions they made in their life.",
+     "text": "What I learn from people like this, I said, is that I'm always paying attention to what they say, but more importantly, what decisions they make. When I meet somebody I'm always trying to find the critical decisions they made in their life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,13 +57,13 @@
      "kind": "plain"
     },
     {
-     "text": "I'm always looking at people's habits, he said. Do they get up in the morning? Do they work out? Is their house neat? Is their car neat? Are they structured? Are they always waking up with a positive mindset? If I see a lot of bad decisions during their day, consistently, that scares me.",
+     "text": "I'm always looking at people's habits, I said. Do they get up in the morning? Do they work out? Is their house neat? Is their car neat? Are they structured? Are they always waking up with a positive mindset? If I see a lot of bad decisions during their day, consistently, that scares me.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Same with relationships, he said. If you are not working at a relationship every single day, it goes into neglect. Same with being a father or a mother.",
+     "text": "Same with relationships, I said. If you are not working at a relationship every single day, it goes into neglect. Same with being a father or a mother.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say success and failure are made of?",
+   "q": "What did I say success and failure are made of?",
    "choices": [
     "A lot of tiny decisions made every day",
     "One big decision",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say defining moments trigger?",
+   "q": "What did I say defining moments trigger?",
    "choices": [
     "Emotions that become actions that become decisions",
     "Nothing",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he looks at in people?",
+   "q": "What did I say I look at in people?",
    "choices": [
     "Their habits and the decisions they make",
     "Their titles",

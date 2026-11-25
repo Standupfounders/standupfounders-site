@@ -4,7 +4,7 @@
  "title": "Styles of negotiator and types of person",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Breaking down the types",
    "lines": [
     {
-     "text": "Jose said that analysts can be more introverted than extroverted, but not necessarily; the S is the list maker, the T is the high thinker. Then he turned to the accommodator and said you can see how the personality test breaks down further.",
+     "text": "I said that analysts can be more introverted than extroverted, but not necessarily; the S is the list maker, the T is the high thinker. Then I turned to the accommodator and said you can see how the personality test breaks down further.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He described one type as creative, enthusiastic and people-focused, who love to inspire and motivate others, and are always championing things.",
+     "text": "I described one type as creative, enthusiastic and people-focused, who love to inspire and motivate others, and are always championing things.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Know the test's purpose",
    "lines": [
     {
-     "text": "Jose said that the purpose of the test is to do it in five minutes, that is how fast you should do it, and he has given the group the test in meetings.",
+     "text": "I said that the purpose of the test is to do it in five minutes, that is how fast you should do it, and I have given the group the test in meetings.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said to read biographies of people who have the same personality as you.",
+     "text": "I said to read biographies of people who have the same personality as you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the test's purpose is?",
+   "q": "What did I say the test's purpose is?",
    "choices": [
     "To place a person quickly",
     "To grade people",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did he say to read?",
+   "q": "What did I say to read?",
    "choices": [
     "Biographies of people with your personality",
     "Only manuals",
@@ -98,7 +98,7 @@
   {
    "q": "What kind of description is the type list?",
    "choices": [
-    "Jose's, not a diagnosis",
+    "Mine, not a diagnosis",
     "A medical result",
     "A law"
    ],

@@ -4,7 +4,7 @@
  "title": "Recurring revenue",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "The model",
    "lines": [
     {
-     "text": "Jose said that the person in the book plans, as Jose understands it, to make money from user subscriptions and data licensing, and to build a platform that verifies people's identity, so he can sell it to content creators. What do you think? You may not know these business models, but we should be able to analyze them and make assumptions.",
+     "text": "I said that the person in the book plans, as I understand it, to make money from user subscriptions and data licensing, and to build a platform that verifies people's identity, so he can sell it to content creators. What do you think? You may not know these business models, but we should be able to analyze them and make assumptions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Why subscriptions",
    "lines": [
     {
-     "text": "Jose asked: why is he attracted to the subscription model? Where has he seen it before? A student said: in satellite internet, and a subscription on cars too.",
+     "text": "I asked: why is he attracted to the subscription model? Where has he seen it before? A student said: in satellite internet, and a subscription on cars too.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he has seen valuations where a company's subscription base gets a number: four million subscribers, and each subscriber is worth a dollar, two or three. People feel comfortable valuing a company using subscribers.",
+     "text": "I said I have seen valuations where a company's subscription base gets a number: four million subscribers, and each subscriber is worth a dollar, two or three. People feel comfortable valuing a company using subscribers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about valuing companies?",
+   "q": "What did I say about valuing companies?",
    "choices": [
     "Some are valued by subscribers",
     "None are",

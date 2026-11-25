@@ -4,7 +4,7 @@
  "title": "Habits that fit your wiring",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Five traits",
    "lines": [
     {
-     "text": "Jose listed the book's five categories: openness to experience, conscientiousness, extroversion, agreeableness and neuroticism, with the poles curious or cautious, organized or spontaneous, outgoing or reserved, friendly or detached, and anxious or calm.",
+     "text": "I listed the book's five categories: openness to experience, conscientiousness, extroversion, agreeableness and neuroticism, with the poles curious or cautious, organized or spontaneous, outgoing or reserved, friendly or detached, and anxious or calm.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Habits that fit",
    "lines": [
     {
-     "text": "Jose said a takeaway is to build habits that work for your personality. As an introvert you do not get into a job where you talk to people all day with nowhere to recover; extroverts gain energy talking to people.",
+     "text": "I said a takeaway is to build habits that work for your personality. As an introvert you do not get into a job where you talk to people all day with nowhere to recover; extroverts gain energy talking to people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said you also need hours that are not social: paperwork, planning, strategy. He said to channel the anxiety into productive behavior, such as the early morning hours when nobody is talking to you.",
+     "text": "I said you also need hours that are not social: paperwork, planning, strategy. I said to channel the anxiety into productive behavior, such as the early morning hours when nobody is talking to you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "Where anxiety comes from",
    "lines": [
     {
-     "text": "Jose asked where an entrepreneur's anxiety comes from. Students said: the future, a chaos of thoughts, a lack of control, the unknown. Jose said that if we do not identify where it comes from, we cannot reflect on it.",
+     "text": "I asked where an entrepreneur's anxiety comes from. Students said: the future, a chaos of thoughts, a lack of control, the unknown. I said that if we do not identify where it comes from, we cannot reflect on it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a takeaway is?",
+   "q": "What did I say a takeaway is?",
    "choices": [
     "Build habits that work for your personality",
     "Copy someone else",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say we need to identify?",
+   "q": "What did I say we need to identify?",
    "choices": [
     "Where our anxiety comes from",
     "Where we live",

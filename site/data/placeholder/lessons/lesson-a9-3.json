@@ -4,7 +4,7 @@
  "title": "Failure is the currency",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked who had a story about failure and what they learned. A student said: usually, if I fail, it's because I don't have enough knowledge. So I keep researching and getting better. It's about how you talk to yourself and the people around you, and using your resources. I've failed a lot because I tried to do too much myself.",
+     "text": "I asked who had a story about failure and what they learned. A student said: usually, if I fail, it's because I don't have enough knowledge. So I keep researching and getting better. It's about how you talk to yourself and the people around you, and using your resources. I've failed a lot because I tried to do too much myself.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "Document the failures",
    "lines": [
     {
-     "text": "Jose said the person does what the student hit on: he documents the failures. It is literally being scientific about failing. Why did I fail? What were the reasons? How do we backtrack and analyze what happened?",
+     "text": "I said the person does what the student hit on: he documents the failures. It is literally being scientific about failing. Why did I fail? What were the reasons? How do we backtrack and analyze what happened?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Writing everything down, every single little process, was one of the biggest lessons I learned in my life, he said, so you can go back and do an audit: where did we go wrong?",
+     "text": "Writing everything down, every single little process, was one of the biggest lessons I learned in my life, I said, so you can go back and do an audit: where did we go wrong?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He is running into risks because there is no history for him, Jose said. Rocket building was subsidized by the government, and he is not. He is burning money and he doesn't have a cushion, so if he doesn't make it work, he is done.",
+     "text": "He is running into risks because there is no history for him, I said. Rocket building was subsidized by the government, and he is not. He is burning money and he doesn't have a cushion, so if he doesn't make it work, he is done.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the person does with failures?",
+   "q": "What did I say the person does with failures?",
    "choices": [
     "Documents them and audits what went wrong",
     "Forgets them",

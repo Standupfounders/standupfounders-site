@@ -4,7 +4,7 @@
  "title": "Visualize without leaving the present",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Picture it",
    "lines": [
     {
-     "text": "Jose asked: you are thirsty and you want a glass of water; you open the refrigerator, what do you see? He used it to show how a picture appears when you need something.",
+     "text": "I asked: you are thirsty and you want a glass of water; you open the refrigerator, what do you see? I used it to show how a picture appears when you need something.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that an athlete who has spent a year building toward a race and stands on the blocks waiting for the gun is living the visualization they have built.",
+     "text": "I said that an athlete who has spent a year building toward a race and stands on the blocks waiting for the gun is living the visualization they have built.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Manifestation or discipline",
    "lines": [
     {
-     "text": "Jose said that there is a word people use, manifestation, which he does not like to use: you predict something will happen and it does. To him it is mental discipline dedicated to doing something over and over.",
+     "text": "I said that there is a word people use, manifestation, which I do not like to use: you predict something will happen and it does. To me it is mental discipline dedicated to doing something over and over.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said to be careful if you are constantly visualizing, because you can visualize and not be in the present.",
+     "text": "I said to be careful if you are constantly visualizing, because you can visualize and not be in the present.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say manifestation really is?",
+   "q": "What did I say manifestation really is?",
    "choices": [
     "Mental discipline done over and over",
     "Magic",
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose warn about visualizing?",
+   "q": "What did I warn about visualizing?",
    "choices": [
     "You can be absent from the present",
     "It is bad",

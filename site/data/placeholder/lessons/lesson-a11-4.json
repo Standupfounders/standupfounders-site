@@ -4,7 +4,7 @@
  "title": "Tell new hires the truth",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Tell new hires the truth",
    "lines": [
     {
-     "text": "Jose said the person in the book meets a designer who vibes with him: cool, collected, with self-confidence and polite humility. There are certain people who can vibe with him a little more.",
+     "text": "I said the person in the book meets a designer who vibes with him: cool, collected, with self-confidence and polite humility. There are certain people who can vibe with him a little more.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Then he hires his right-hand person, Jose said, a clay modeler and engineer. He tells him the truth: this is a garage van, and we may go bankrupt. But he says if he is hardcore about building rockets, this is easier than rockets. And the man says: I'm all in.",
+     "text": "Then he hires his right-hand person, I said, a clay modeler and engineer. He tells him the truth: this is a garage van, and we may go bankrupt. But he says if he is hardcore about building rockets, this is easier than rockets. And the man says: I'm all in.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Design is engineering",
    "lines": [
     {
-     "text": "Jose said that a man who had thrived in the battery work made a statement about the boss, and read it.",
+     "text": "I said that a man who had thrived in the battery work made a statement about the boss, and read it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What must industrial design connect, according to the line Jose read?",
+   "q": "What must industrial design connect, according to the line I read?",
    "choices": [
     "The looks of a product to its engineering",
     "The price to the cost",

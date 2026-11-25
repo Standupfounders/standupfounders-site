@@ -4,7 +4,7 @@
  "title": "When you give too much",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: it is like a buoy carrying weight; after a while the buoy goes under the water. He asked: is it the buoy's problem, or the problem of the people coming?",
+     "text": "I said: it is like a buoy carrying weight; after a while the buoy goes under the water. I asked: is it the buoy's problem, or the problem of the people coming?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "A possible root",
    "lines": [
     {
-     "text": "Jose said that, going back to the NLP ideas, a need to help everyone can come from an old hurt that has not been healed, such as criticism in childhood. This is his view, not a diagnosis, and a person with the right training should read this lesson.",
+     "text": "I said that, going back to the NLP ideas, a need to help everyone can come from an old hurt that has not been healed, such as criticism in childhood. This is my view, not a diagnosis, and a person with the right training should read this lesson.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,7 +50,7 @@
    "heading": "Profile the people you keep",
    "lines": [
     {
-     "text": "Jose said that you have to profile the people you will have long-term relationships with, and that it sounds cold. He asked: could I live in the same household with that person for five years?",
+     "text": "I said that you have to profile the people you will have long-term relationships with, and that it sounds cold. I asked: could I live in the same household with that person for five years?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that someone may have professional values and not personal ones, and that their true nature will come through in the business. He said to pay attention to intuition and to red flags, and not to ignore them.",
+     "text": "I said that someone may have professional values and not personal ones, and that their true nature will come through in the business. I said to pay attention to intuition and to red flags, and not to ignore them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -106,7 +106,7 @@
  },
  "check": [
   {
-   "q": "What image did Jose use?",
+   "q": "What image did I use?",
    "choices": [
     "A buoy carrying weight",
     "A ladder",
@@ -115,7 +115,7 @@
    "answer": 0
   },
   {
-   "q": "What filter question did Jose ask?",
+   "q": "What filter question did I ask?",
    "choices": [
     "Could I live with them for five years",
     "Do they pay on time",
@@ -124,7 +124,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to pay attention to?",
+   "q": "What did I say to pay attention to?",
    "choices": [
     "Intuition and red flags",
     "Only price",

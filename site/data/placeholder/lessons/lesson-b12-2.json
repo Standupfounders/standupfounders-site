@@ -4,7 +4,7 @@
  "title": "At the top of the funnel is your gross revenue",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "At the top of the funnel is your gross revenue",
    "lines": [
     {
-     "text": "Jose explained revenue. Gross revenue doesn't mean profit, he said. It is the total money you are making. Imagine a funnel. At the top is your gross revenue. At the bottom is what you keep after expenses and taxes: your net profit.",
+     "text": "I explained revenue. Gross revenue doesn't mean profit, I said. It is the total money you are making. Imagine a funnel. At the top is your gross revenue. At the bottom is what you keep after expenses and taxes: your net profit.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose retells the chapter, the author's company had revenue of about two hundred and eighty million dollars, while the network he wanted to buy had about five billion. So he had to go and raise money.",
+     "text": "As I retell the chapter, the author's company had revenue of about two hundred and eighty million dollars, while the network he wanted to buy had about five billion. So he had to go and raise money.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A multiple",
    "lines": [
     {
-     "text": "He explained multiples. Say a design studio nets a hundred thousand dollars a year. You look at what people have paid for design studios. There is generally a standard for that industry. It may get three times the net, so three hundred thousand dollars for the value of the business.",
+     "text": "I explained multiples. Say a design studio nets a hundred thousand dollars a year. You look at what people have paid for design studios. There is generally a standard for that industry. It may get three times the net, so three hundred thousand dollars for the value of the business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said a company that is publicly traded normally gets higher multiples. As Jose tells it, the author's stock was trading at high multiples, so his company's market value was several hundred million dollars.",
+     "text": "I said a company that is publicly traded normally gets higher multiples. As I tell it, the author's stock was trading at high multiples, so his company's market value was several hundred million dollars.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What is at the top of Jose's funnel?",
+   "q": "What is at the top of my funnel?",
    "choices": [
     "Gross revenue",
     "Net profit",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What is at the bottom of Jose's funnel?",
+   "q": "What is at the bottom of my funnel?",
    "choices": [
     "Net profit, what you keep after expenses",
     "Total sales",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a multiple is used for?",
+   "q": "What did I say a multiple is used for?",
    "choices": [
     "Valuing a business as a number of times its net",
     "Counting employees",

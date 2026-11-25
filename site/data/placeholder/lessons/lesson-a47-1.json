@@ -4,7 +4,7 @@
  "title": "Four questions for a business in trouble",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The exercise",
    "lines": [
     {
-     "text": "Jose said: you have been brought into the boardroom. How do we fix the business model? Where is the money going to come from? He wanted everyone to force themselves to build a pragmatic business model, as entrepreneurs do.",
+     "text": "I said: you have been brought into the boardroom. How do we fix the business model? Where is the money going to come from? I wanted everyone to force themselves to build a pragmatic business model, as entrepreneurs do.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said this is the kind of exercise entrepreneurs have to get used to: how to get out of a crisis, and how to look at a problem from many different angles despite the crisis.",
+     "text": "I said this is the kind of exercise entrepreneurs have to get used to: how to get out of a crisis, and how to look at a problem from many different angles despite the crisis.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose pulled out what he heard: first, what assets does the business have, such as its users? Second, what assets did the owner develop in the past, such as skills and people? Third, what are we good at? Fourth, what could be a unique proposition that nobody else is doing, with the assets we have?",
+     "text": "I pulled out what I heard: first, what assets does the business have, such as its users? Second, what assets did the owner develop in the past, such as skills and people? Third, what are we good at? Fourth, what could be a unique proposition that nobody else is doing, with the assets we have?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the structure of problem-solving is what matters, because it works in all our businesses. We have to engage as entrepreneurs in systematic thinking, and not get distracted by things that are not productive.",
+     "text": "I said the structure of problem-solving is what matters, because it works in all our businesses. We have to engage as entrepreneurs in systematic thinking, and not get distracted by things that are not productive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What was the first of Jose's four questions?",
+   "q": "What was the first of my four questions?",
    "choices": [
     "What assets does the business have",
     "Who is to blame",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the structure of problem-solving works in?",
+   "q": "What did I say the structure of problem-solving works in?",
    "choices": [
     "All our businesses",
     "Only one industry",

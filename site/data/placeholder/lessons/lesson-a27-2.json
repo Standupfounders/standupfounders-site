@@ -4,7 +4,7 @@
  "title": "Owning the result",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "What is his criteria?",
    "lines": [
     {
-     "text": "Jose asked: what is the criteria for pushing the limit, for making it shorter? He is not a stainless steel engineer. A student said: I think it is honestly curiosity, the childlike play: stainless works here and we don't have to press it, we could roll it. At the first-principles level it could be the same.",
+     "text": "I asked: what is the criteria for pushing the limit, for making it shorter? He is not a stainless steel engineer. A student said: I think it is honestly curiosity, the childlike play: stainless works here and we don't have to press it, we could roll it. At the first-principles level it could be the same.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,25 +39,25 @@
    "heading": "Owning the result",
    "lines": [
     {
-     "text": "I'm reading between the lines, Jose said, and I'd like to see more evidence. I think he judges people on whether they are prepared to own the result. He asks: is this person going to take accountability and ownership of the result?",
+     "text": "I'm reading between the lines, I said, and I'd like to see more evidence. I think he judges people on whether they are prepared to own the result. He asks: is this person going to take accountability and ownership of the result?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "His example: I say: you need to make this decision today. I give you alternatives. Are you comfortable with a quota of four million dollars this month? You say: no, I can do two or three. I'm judging you on how you take ownership of the result.",
+     "text": "My example: I say: you need to make this decision today. I give you alternatives. Are you comfortable with a quota of four million dollars this month? You say: no, I can do two or three. I'm judging you on how you take ownership of the result.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He doesn't look at tasks like other people do, Jose said. He goes beyond completing the task. Are you going to be responsible for the result?",
+     "text": "He doesn't look at tasks like other people do, I said. He goes beyond completing the task. Are you going to be responsible for the result?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student agreed: extreme ownership within his organization. Jose said: his organization is all about owning the results. He expects high-impact behaviours and decisions, not low or medium impact.",
+     "text": "A student agreed: extreme ownership within his organization. I said: his organization is all about owning the results. He expects high-impact behaviours and decisions, not low or medium impact.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say he thinks the person judges people on?",
+   "q": "What did I say I think the person judges people on?",
    "choices": [
     "Whether they will own the result",
     "Whether they finish tasks",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the person does beyond completing the task?",
+   "q": "What did I say the person does beyond completing the task?",
    "choices": [
     "Asks if you will be responsible for the result",
     "Checks the clock",

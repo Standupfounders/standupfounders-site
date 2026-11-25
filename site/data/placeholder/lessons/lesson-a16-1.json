@@ -4,7 +4,7 @@
  "title": "The cost to acquire a customer",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "No upfront cost",
    "lines": [
     {
-     "text": "Jose said the person in the book told his cousins he wanted a business that could help humanity and address climate change. He did not say: I want to make money. The advice was: get into the solar industry.",
+     "text": "I said the person in the book told his cousins he wanted a business that could help humanity and address climate change. He did not say: I want to make money. The advice was: get into the solar industry.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the problem with the business model was that they put panels in for customers with no upfront cost. You have a capital expense to buy and install them, and no upfront fee, so you use a lot of cash to acquire customers.",
+     "text": "I said the problem with the business model was that they put panels in for customers with no upfront cost. You have a capital expense to buy and install them, and no upfront fee, so you use a lot of cash to acquire customers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "The cost to acquire a customer",
    "lines": [
     {
-     "text": "That is one of the things I talk about a lot, Jose said: what is your cost to acquire a customer? A lot of people don't know it. The person who walks into a store and pulls something off the shelf cost you a ton of money you may not be aware of: the rent, the people, the ads.",
+     "text": "That is one of the things I talk about a lot, I said: what is your cost to acquire a customer? A lot of people don't know it. The person who walks into a store and pulls something off the shelf cost you a ton of money you may not be aware of: the rent, the people, the ads.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "His own rough example, he said: I spend a hundred thousand dollars a year on advertising to bring people to a tourism website. If twenty percent of the visitors book a trip, I divide the hundred thousand by the number who came. That is a very rough estimate of my cost to acquire a customer just on the advertising side.",
+     "text": "My own rough example, I said: I spend a hundred thousand dollars a year on advertising to bring people to a tourism website. If twenty percent of the visitors book a trip, I divide the hundred thousand by the number who came. That is a very rough estimate of my cost to acquire a customer just on the advertising side.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If nobody knows your brand, he said, your cost will be higher. If you have a new technology nobody has heard of, it will be higher still. You have to be very realistic.",
+     "text": "If nobody knows your brand, I said, your cost will be higher. If you have a new technology nobody has heard of, it will be higher still. You have to be very realistic.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "Losing money on purpose",
    "lines": [
     {
-     "text": "He said a large social network lost money for over ten years, funded by its stock price on the promise of advertising. Management were all about grabbing market share. The finance people divided what it cost to acquire the users and projected the return. That is great if you have a lot of cash to wait. If you don't, you have a big problem.",
+     "text": "I said a large social network lost money for over ten years, funded by its stock price on the promise of advertising. Management were all about grabbing market share. The finance people divided what it cost to acquire the users and projected the return. That is great if you have a lot of cash to wait. If you don't, you have a big problem.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a lot of people do not know?",
+   "q": "What did I say a lot of people do not know?",
    "choices": [
     "Their cost to acquire a customer",
     "Their address",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a brand nobody knows?",
+   "q": "What did I say about a brand nobody knows?",
    "choices": [
     "The cost will be higher",
     "The cost will be lower",

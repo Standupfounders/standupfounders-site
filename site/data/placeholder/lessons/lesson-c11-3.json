@@ -4,7 +4,7 @@
  "title": "Habit or identity first",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Chicken or egg",
    "lines": [
     {
-     "text": "Jose asked: where are the negative habits coming from? Adopted by accident, or deeply rooted in identity? A student said: our habits can become part of our identity. When you say I am a person who exercises and force yourself to go, you feel good, and it carries you.",
+     "text": "I asked: where are the negative habits coming from? Adopted by accident, or deeply rooted in identity? A student said: our habits can become part of our identity. When you say I am a person who exercises and force yourself to go, you feel good, and it carries you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose asked the chicken-and-egg question: habit then identity, or identity then habit? A student said they work in tandem: instead of I am terrible at names, say I will learn how, repeat the name, use it in a sentence, and then you say I am someone who is good at names.",
+     "text": "I asked the chicken-and-egg question: habit then identity, or identity then habit? A student said they work in tandem: instead of I am terrible at names, say I will learn how, repeat the name, use it in a sentence, and then you say I am someone who is good at names.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Survival patterns",
    "lines": [
     {
-     "text": "Jose said that he believes habits come from identity patterns, including survival patterns of fight or flight. A habit can become a survival pattern, self-destructive behavior rooted in a negative belief system, or it can come from a positive belief system and an inner voice that guides you.",
+     "text": "I said that I believe habits come from identity patterns, including survival patterns of fight or flight. A habit can become a survival pattern, self-destructive behavior rooted in a negative belief system, or it can come from a positive belief system and an inner voice that guides you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that people from hard times may keep a preservation mode all their lives, and their habits are about survival.",
+     "text": "I said that people from hard times may keep a preservation mode all their lives, and their habits are about survival.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say habits can become?",
+   "q": "What did I say habits can become?",
    "choices": [
     "A survival pattern",
     "A holiday",

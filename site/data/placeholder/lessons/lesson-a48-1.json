@@ -4,7 +4,7 @@
  "title": "A filter and a choice",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "A filter",
    "lines": [
     {
-     "text": "Jose asked what we can learn from the mentality behind the cuts. A student said: he did not want anyone who was not hardcore or extraordinary.",
+     "text": "I asked what we can learn from the mentality behind the cuts. A student said: he did not want anyone who was not hardcore or extraordinary.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose described a story from the book: staff who had made a big effort to come into the office were kept waiting, hungry, for hours. He asked why it might be on purpose, and said: as a filter. It tests people's ability to handle adversity.",
+     "text": "I described a story from the book: staff who had made a big effort to come into the office were kept waiting, hungry, for hours. I asked why it might be on purpose, and said: as a filter. It tests people's ability to handle adversity.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: when he had people opt in instead of opt out. Jose said: what a great filter that is.",
+     "text": "A student said: when he had people opt in instead of opt out. I said: what a great filter that is.",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -45,19 +45,19 @@
    "heading": "A choice moves the weight",
    "lines": [
     {
-     "text": "By giving them a choice, Jose said, he removes the responsibility from himself and shifts it to them. You are making a decision. This is the choice you are making.",
+     "text": "By giving them a choice, I said, he removes the responsibility from himself and shifts it to them. You are making a decision. This is the choice you are making.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that many people will say: he's the boss, he pays me. A million things can get in the way of a true answer, so the question is whether they say: I really believe in it, I'm in, I'm opting in.",
+     "text": "I said that many people will say: he's the boss, he pays me. A million things can get in the way of a true answer, so the question is whether they say: I really believe in it, I'm in, I'm opting in.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: if you give someone the alternative, not as a trap, you will read their answer or they will give you an honest one. Jose said that is difficult, because people often do not give you honest answers.",
+     "text": "A student said: if you give someone the alternative, not as a trap, you will read their answer or they will give you an honest one. I said that is difficult, because people often do not give you honest answers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call the long wait in the story?",
+   "q": "What did I call the long wait in the story?",
    "choices": [
     "A filter",
     "A mistake",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What does giving people a choice do, according to Jose?",
+   "q": "What does giving people a choice do, according to me?",
    "choices": [
     "Shifts the responsibility to them",
     "Removes all risk",

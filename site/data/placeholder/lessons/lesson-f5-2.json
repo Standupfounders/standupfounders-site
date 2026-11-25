@@ -4,7 +4,7 @@
  "title": "Repeat the words you want to believe",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Repetition",
    "lines": [
     {
-     "text": "Jose said that he learned to repeat to himself: I am confident, I will train hard, I will go to the state meet. He learned repetition, because in swimming you follow the black line up and down.",
+     "text": "I said that I learned to repeat to myself: I am confident, I will train hard, I will go to the state meet. I learned repetition, because in swimming you follow the black line up and down.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -33,7 +33,7 @@
    "heading": "A practice",
    "lines": [
     {
-     "text": "He said that you can repeat words like a rhythm so that they become the voice you hear instead of the old one.",
+     "text": "I said that you can repeat words like a rhythm so that they become the voice you hear instead of the old one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -72,16 +72,16 @@
  },
  "check": [
   {
-   "q": "What did Jose learn to do in swimming?",
+   "q": "What did I learn to do in swimming?",
    "choices": [
-    "Repeat words to himself",
+    "Repeat words to myself",
     "Skip training",
     "Race less"
    ],
    "answer": 0
   },
   {
-   "q": "What did he say repetition replaces?",
+   "q": "What did I say repetition replaces?",
    "choices": [
     "The old voice",
     "The water",
@@ -90,7 +90,7 @@
    "answer": 0
   },
   {
-   "q": "Where did he say you follow a black line?",
+   "q": "Where did I say you follow a black line?",
    "choices": [
     "In swimming",
     "In running",

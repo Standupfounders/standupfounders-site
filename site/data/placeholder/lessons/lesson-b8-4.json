@@ -4,7 +4,7 @@
  "title": "A very thin line between confidence and your perception of risk",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "A very thin line between confidence and your perception of risk",
    "lines": [
     {
-     "text": "Jose pointed to the author's words about two big corporations coming at him.",
+     "text": "I pointed to the author's words about two big corporations coming at him.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,19 +40,19 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the author has an overabundance of confidence. He believes it is real: he has shown it time and again, even in life and death situations. But there is a balance between confidence and being irrational about it.",
+     "text": "I said the author has an overabundance of confidence. He believes it is real: he has shown it time and again, even in life and death situations. But there is a balance between confidence and being irrational about it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I've met people who are very confident but irrational, he said. They aren't taking calculated risks, and then they over-leverage. He knew a real estate investor who owned a lot of apartments, and when the market crashed in 2008 he went bankrupt.",
+     "text": "I've met people who are very confident but irrational, I said. They aren't taking calculated risks, and then they over-leverage. I knew a real estate investor who owned a lot of apartments, and when the market crashed in 2008 he went bankrupt.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Your confidence cannot be disrespectful to the risks, Jose said. The minute you lose respect and lose that fear, and the ability to see the negative coming, that is key. It is a very thin line.",
+     "text": "Your confidence cannot be disrespectful to the risks, I said. The minute you lose respect and lose that fear, and the ability to see the negative coming, that is key. It is a very thin line.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,19 +63,19 @@
    "heading": "Speed of information is not mastery of information",
    "lines": [
     {
-     "text": "When is it too much risk, and when is it too little, he asked? If you take too little, you are probably not growing as fast as you should. Too much, and you have a chance of failing. Where is that line?",
+     "text": "When is it too much risk, and when is it too little, I asked? If you take too little, you are probably not growing as fast as you should. Too much, and you have a chance of failing. Where is that line?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What we cannot do, he said, is not be accountable, not have defined goals, and lie to ourselves. That is the big one.",
+     "text": "What we cannot do, I said, is not be accountable, not have defined goals, and lie to ourselves. That is the big one.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The speed of information today is abundant, he said. You scroll Instagram, Facebook, the news. We confuse the speed of information with mastery of information. We think because we are getting the speed, we are getting the mastery. We're not.",
+     "text": "The speed of information today is abundant, I said. You scroll Instagram, Facebook, the news. We confuse the speed of information with mastery of information. We think because we are getting the speed, we are getting the mastery. We're not.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -87,13 +87,13 @@
      "kind": "plain"
     },
     {
-     "text": "A student pointed to the author's line about going up against two big companies, like a tiny country going up against two superpowers, and winning. Jose read on: at the time we were charging fifteen cents a month per subscriber for one service, but they were going to offer both of their channels for free.",
+     "text": "A student pointed to the author's line about going up against two big companies, like a tiny country going up against two superpowers, and winning. I read on: at the time we were charging fifteen cents a month per subscriber for one service, but they were going to offer both of their channels for free.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Can you imagine the stress of that, Jose said? Today we just assume a subscription model was born out of the blue. It was not. The author was a big part of defining a business model that didn't exist before.",
+     "text": "Can you imagine the stress of that, I said? Today we just assume a subscription model was born out of the blue. It was not. The author was a big part of defining a business model that didn't exist before.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -126,7 +126,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say your confidence cannot be?",
+   "q": "What did I say your confidence cannot be?",
    "choices": [
     "Disrespectful to the risks",
     "Large",
@@ -135,7 +135,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say we confuse with mastery of information?",
+   "q": "What did I say we confuse with mastery of information?",
    "choices": [
     "The speed of information",
     "The price of information",
@@ -144,7 +144,7 @@
    "answer": 0
   },
   {
-   "q": "What three things did Jose say we cannot do?",
+   "q": "What three things did I say we cannot do?",
    "choices": [
     "Not be accountable, not have defined goals, and lie to ourselves",
     "Spend, borrow and sell",

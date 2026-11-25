@@ -4,7 +4,7 @@
  "title": "Neutralize the negative",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said you combine the two with a repertoire of transitions: even though you are angry, you give me a surprising sense of confidence. Now I am leading.",
+     "text": "I said you combine the two with a repertoire of transitions: even though you are angry, you give me a surprising sense of confidence. Now I am leading.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,19 +56,19 @@
    "heading": "Do not defend, do not blame",
    "lines": [
     {
-     "text": "Jose said that when someone attacks, we tend to defend and throw back, and that is a lack of discipline. In relationships we blame before we even understand where the other person is coming from.",
+     "text": "I said that when someone attacks, we tend to defend and throw back, and that is a lack of discipline. In relationships we blame before we even understand where the other person is coming from.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that it is very difficult to say I disagree, and showed the group a way to avoid saying it.",
+     "text": "I said that it is very difficult to say I disagree, and showed the group a way to avoid saying it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that great leaders expect surprises, and cannot let the surprises throw them off their game.",
+     "text": "I said that great leaders expect surprises, and cannot let the surprises throw them off their game.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say defending and blaming show?",
+   "q": "What did I say defending and blaming show?",
    "choices": [
     "A lack of discipline",
     "Strength",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say great leaders expect?",
+   "q": "What did I say great leaders expect?",
    "choices": [
     "Surprises",
     "Nothing",

@@ -4,7 +4,7 @@
  "title": "Ten minutes at dinner",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Ten minutes at dinner",
    "lines": [
     {
-     "text": "Jose set an exercise: you are in the environmental business, thrown into a dinner with a senator, you have ten minutes. Give me the top five things that would make them say: I want a follow-up meeting.",
+     "text": "I set an exercise: you are in the environmental business, thrown into a dinner with a senator, you have ten minutes. Give me the top five things that would make them say: I want a follow-up meeting.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said to tighten it: first, their state. Second, what data would you collect to state the overall impact?",
+     "text": "I said to tighten it: first, their state. Second, what data would you collect to state the overall impact?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Those are great talking points, Jose said. That is the grassroots: you can say thirty thousand people in your state are dealing with an erosion problem. He said he was making the numbers up for the exercise. And then: what would you do next?",
+     "text": "Those are great talking points, I said. That is the grassroots: you can say thirty thousand people in your state are dealing with an erosion problem. I said I was making the numbers up for the exercise. And then: what would you do next?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Never lead with what you gain",
    "lines": [
     {
-     "text": "A student suggested offering to do the work cheaper and giving savings to a cause of the senator's choosing. Jose said that you would be kicked out. The most catastrophic thing you can do is talk about how you will gain money from it.",
+     "text": "A student suggested offering to do the work cheaper and giving savings to a cause of the senator's choosing. I said that you would be kicked out. The most catastrophic thing you can do is talk about how you will gain money from it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It's a given that you want something out of it, he said. The protocol, in the countries I know, is that you wait for the person to say: you could help me in this area. You let them say it.",
+     "text": "It's a given that you want something out of it, I said. The protocol, in the countries I know, is that you wait for the person to say: you could help me in this area. You let them say it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is the most catastrophic thing to do with a senator?",
+   "q": "What did I say is the most catastrophic thing to do with a senator?",
    "choices": [
     "Talk about how you will gain money",
     "Prepare data",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you represent?",
+   "q": "What did I say you represent?",
    "choices": [
     "A whole sector, not only your company",
     "Only yourself",

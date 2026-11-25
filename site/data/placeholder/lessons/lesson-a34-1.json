@@ -4,7 +4,7 @@
  "title": "Thirty turns",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "A game and its life lessons",
    "lines": [
     {
-     "text": "Jose said that out of all these chapters the thing that struck him most was a video game that the person in the book plays with his brother and the people in his life, and that they call its life lessons. It took him a while to understand what was going on in the game. He went into it and played a little, just to see why it is so addictive.",
+     "text": "I said that out of all these chapters the thing that struck me most was a video game that the person in the book plays with his brother and the people in his life, and that they call its life lessons. It took me a while to understand what was going on in the game. I went into it and played a little, just to see why it is so addictive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "The lessons",
    "lines": [
     {
-     "text": "Jose listed the lessons from the book: as a kid you play a strategy game, your mother unplugs it, and then you play life itself as if it were a game. Do not fear losing, because you will lose. It will hurt the first fifty times, and when you get used to losing, you play with less emotion, become more fearless and take more risks.",
+     "text": "I listed the lessons from the book: as a kid you play a strategy game, your mother unplugs it, and then you play life itself as if it were a game. Do not fear losing, because you will lose. It will hurt the first fifty times, and when you get used to losing, you play with less emotion, become more fearless and take more risks.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The third lesson, he said, is to be proactive. There is a difference between reacting and strategic thinking. A lot of times we go through life reacting instead of planning ahead, and strategy is all about planning ahead.",
+     "text": "The third lesson, I said, is to be proactive. There is a difference between reacting and strategic thinking. A lot of times we go through life reacting instead of planning ahead, and strategy is all about planning ahead.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "In the game you only get thirty turns, he said, so you have to optimize each turn. It is an exhaustible asset. He said: where is the balance, where is the line as entrepreneurs?",
+     "text": "In the game you only get thirty turns, I said, so you have to optimize each turn. It is an exhaustible asset. I said: where is the balance, where is the line as entrepreneurs?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose list as a lesson from the game?",
+   "q": "What did I list as a lesson from the game?",
    "choices": [
     "Do not fear losing, because you will lose",
     "Never play",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is the difference between reacting and strategy?",
+   "q": "What did I say is the difference between reacting and strategy?",
    "choices": [
     "Strategy is planning ahead",
     "Strategy is speed",

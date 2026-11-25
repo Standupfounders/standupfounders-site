@@ -4,7 +4,7 @@
  "title": "Direction before speed",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Mission",
    "lines": [
     {
-     "text": "Jose said: whatever we think about as entrepreneurs, we stay true to our mission regardless of the crisis. If we vary from that mission and those convictions, that is when we get into trouble.",
+     "text": "I said: whatever we think about as entrepreneurs, we stay true to our mission regardless of the crisis. If we vary from that mission and those convictions, that is when we get into trouble.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when the people who pull in the other direction leave, there is one less obstacle to completing the mission.",
+     "text": "I said that when the people who pull in the other direction leave, there is one less obstacle to completing the mission.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Starting against buying in",
    "lines": [
     {
-     "text": "Jose said it is very different starting a business, with your own team and culture, and going into a business that already exists. You inherit a culture that has been doing it for ten or fifteen years, and the resistance can be a lot more than you bargained for.",
+     "text": "I said it is very different starting a business, with your own team and culture, and going into a business that already exists. You inherit a culture that has been doing it for ten or fifteen years, and the resistance can be a lot more than you bargained for.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,19 +50,19 @@
    "heading": "Direction before speed",
    "lines": [
     {
-     "text": "Jose said: you can't have speed before process. You can't have speed before direction. As entrepreneurs we go fast, but we do not have efficient direction.",
+     "text": "I said: you can't have speed before process. You can't have speed before direction. As entrepreneurs we go fast, but we do not have efficient direction.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When he said power, he meant what creates combustion: all the parts fitting together, the processes defined to the granular level. A student put it as force or energy that has to be guided through a process.",
+     "text": "When I said power, I meant what creates combustion: all the parts fitting together, the processes defined to the granular level. A student put it as force or energy that has to be guided through a process.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said we can learn from a gardener, from the person who mows the lawn and from artists. A student added that work ethic can be learned from any walk of life.",
+     "text": "I said we can learn from a gardener, from the person who mows the lawn and from artists. A student added that work ethic can be learned from any walk of life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you can't have before direction?",
+   "q": "What did I say you can't have before direction?",
    "choices": [
     "Speed",
     "Money",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens when you vary from your mission?",
+   "q": "What did I say happens when you vary from your mission?",
    "choices": [
     "You get into trouble",
     "You grow",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is very different from starting a business?",
+   "q": "What did I say is very different from starting a business?",
    "choices": [
     "Going into an existing one",
     "Selling one",

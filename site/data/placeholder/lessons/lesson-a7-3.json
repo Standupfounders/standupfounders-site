@@ -4,7 +4,7 @@
  "title": "You create your environment",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Product of your environment",
    "lines": [
     {
-     "text": "Jose said there is a bit of truth that you are the product of your environment, but you are also in control of creating that environment.",
+     "text": "I said there is a bit of truth that you are the product of your environment, but you are also in control of creating that environment.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Shared values",
    "lines": [
     {
-     "text": "Jose asked: who is the positive force in your life, and who is the negative one? A student said they now had a new purpose, a child, and were preparing to provide a safety net.",
+     "text": "I asked: who is the positive force in your life, and who is the negative one? A student said they now had a new purpose, a child, and were preparing to provide a safety net.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As we get older we develop deep relationships, he said. Every one of my friends has one common denominator: we were dedicated parents, not by paying for the best schools, but by the amount of time and the deep relationships we built with our children.",
+     "text": "As we get older we develop deep relationships, I said. Every one of my friends has one common denominator: we were dedicated parents, not by paying for the best schools, but by the amount of time and the deep relationships we built with our children.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I know I'm going to have a successful business relationship when we see eye to eye on parenting, he said. When I haven't, it has been a disaster. The two don't have to correlate, but in my experience, people who aren't good parents are a warning sign for me.",
+     "text": "I know I'm going to have a successful business relationship when we see eye to eye on parenting, I said. When I haven't, it has been a disaster. The two don't have to correlate, but in my experience, people who aren't good parents are a warning sign for me.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,7 +80,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: it's all a balance.",
+     "text": "I said: it's all a balance.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about environment?",
+   "q": "What did I say about environment?",
    "choices": [
     "You are a product of it, but you are in control of creating it",
     "It cannot be changed",

@@ -4,7 +4,7 @@
  "title": "Out of the silo",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Cognitive entrenchment",
    "lines": [
     {
-     "text": "There is a concept called cognitive entrenchment, Jose said: you are used to thinking a particular way, and even when you get new evidence that it is not efficient, you keep doing it anyway. Why do I keep doing the same thing? Why do I have this resistance to change?",
+     "text": "There is a concept called cognitive entrenchment, I said: you are used to thinking a particular way, and even when you get new evidence that it is not efficient, you keep doing it anyway. Why do I keep doing the same thing? Why do I have this resistance to change?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that people like these have experiential flexibility, an incredible flexibility.",
+     "text": "I said that people like these have experiential flexibility, an incredible flexibility.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Getting out of the day to day",
    "lines": [
     {
-     "text": "Jose described a scene from the chapter: the founder asks an engineer a question that has nothing to do with the engineer's day: how many photons were collected by the satellite's panels against how many could usefully be shot down to earth? He said it is irrelevant to the man's day to day.",
+     "text": "I described a scene from the chapter: the founder asks an engineer a question that has nothing to do with the engineer's day: how many photons were collected by the satellite's panels against how many could usefully be shot down to earth? I said it is irrelevant to the man's day to day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said: he is getting him out of that specialization and that narrow focus and telling him to step back and see the bigger picture. A student said: it is another potential win, completely off his radar.",
+     "text": "I said: he is getting him out of that specialization and that narrow focus and telling him to step back and see the bigger picture. A student said: it is another potential win, completely off his radar.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He is teaching them how to build the scaffolding, not the building, Jose said. A student said: he is teaching him the why behind his thoughts.",
+     "text": "He is teaching them how to build the scaffolding, not the building, I said. A student said: he is teaching him the why behind his thoughts.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,13 +68,13 @@
    "heading": "Silos",
    "lines": [
     {
-     "text": "Jose said that in the old telecom days everybody was separated into different units: video, data switching, local networks. They are very sensitive to companies getting into trenches, or silos, because then you aren't looking at the big picture and can't use resources within your own company.",
+     "text": "I said that in the old telecom days everybody was separated into different units: video, data switching, local networks. They are very sensitive to companies getting into trenches, or silos, because then you aren't looking at the big picture and can't use resources within your own company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You end up with a gap between strategy and operation because you can't synthesize it on your own. That is why he says: I want design and manufacture to be one. A student said: that is pivotal. Jose said we want broad, diverse experiences so that we can develop range.",
+     "text": "You end up with a gap between strategy and operation because you can't synthesize it on your own. That is why he says: I want design and manufacture to be one. A student said: that is pivotal. I said we want broad, diverse experiences so that we can develop range.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call keeping a way of thinking despite new evidence?",
+   "q": "What did I call keeping a way of thinking despite new evidence?",
    "choices": [
     "Cognitive entrenchment",
     "Good habit",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you teach people: the scaffolding or the building?",
+   "q": "What did I say you teach people: the scaffolding or the building?",
    "choices": [
     "The scaffolding",
     "The building",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say silos cause?",
+   "q": "What did I say silos cause?",
    "choices": [
     "A gap between strategy and operation",
     "More profit",

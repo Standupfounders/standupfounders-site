@@ -4,7 +4,7 @@
  "title": "Practise it small, say we, give credit",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "We, not you or I",
    "lines": [
     {
-     "text": "Jose said: always use we, never you or I. We can make this happen. You only use you when you are not even using you; you just say it seems like.",
+     "text": "I said: always use we, never you or I. We can make this happen. You only use you when you are not even using you; you just say it seems like.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student asked about it when someone says we and it is really my problem. Jose said: authenticity, but be careful, because you want a team situation.",
+     "text": "A student asked about it when someone says we and it is really my problem. I said: authenticity, but be careful, because you want a team situation.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "He said to always give other people the credit: every time we do something with you, success is inevitable.",
+     "text": "I said to always give other people the credit: every time we do something with you, success is inevitable.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: you have to really care, because people pick it up if you do not.",
+     "text": "I said: you have to really care, because people pick it up if you do not.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to always use?",
+   "q": "What did I say to always use?",
    "choices": [
     "We",
     "I",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say people pick up on?",
+   "q": "What did I say people pick up on?",
    "choices": [
     "Whether you really care",
     "Your accent",

@@ -4,7 +4,7 @@
  "title": "Move people, encourage risk",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Move people across",
    "lines": [
     {
-     "text": "Jose said that the person will grab one person from one company and put them in another. That is called cross-functional cooperation, he said, but he does it between two totally different companies.",
+     "text": "I said that the person will grab one person from one company and put them in another. That is called cross-functional cooperation, I said, but he does it between two totally different companies.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Encouraging risk",
    "lines": [
     {
-     "text": "I've never read about a management style where he encourages risk, Jose said. I don't want to go by the rules. We are the rules. Most people fear that risk, and he pushes them to take initiative, to innovate, to calculate the risk.",
+     "text": "I've never read about a management style where he encourages risk, I said. I don't want to go by the rules. We are the rules. Most people fear that risk, and he pushes them to take initiative, to innovate, to calculate the risk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,13 +68,13 @@
    "heading": "The surge",
    "lines": [
     {
-     "text": "He calls it the surge, Jose said, when he goes on a mission with a hyper-mode deadline that is impossible, and everybody has to be on it, working around the clock. A student said it is constant start-up culture: you have to perform under pressure consistently, and you don't get out of work mode.",
+     "text": "He calls it the surge, I said, when he goes on a mission with a hyper-mode deadline that is impossible, and everybody has to be on it, working around the clock. A student said it is constant start-up culture: you have to perform under pressure consistently, and you don't get out of work mode.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He is always keeping people on their toes, Jose said, excited and not comfortable, because he knows comfort is the enemy.",
+     "text": "He is always keeping people on their toes, I said, excited and not comfortable, because he knows comfort is the enemy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call moving people between teams?",
+   "q": "What did I call moving people between teams?",
    "choices": [
     "Cross-functional cooperation",
     "Layoffs",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say people do when they say 'those are the rules'?",
+   "q": "What did I say people do when they say 'those are the rules'?",
    "choices": [
     "Shift responsibility to something else",
     "Take ownership",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the person knows is the enemy?",
+   "q": "What did I say the person knows is the enemy?",
    "choices": [
     "Comfort",
     "Money",

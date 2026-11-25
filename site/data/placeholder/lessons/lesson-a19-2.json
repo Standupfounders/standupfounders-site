@@ -4,7 +4,7 @@
  "title": "What a politician needs",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A global service, many governments",
    "lines": [
     {
-     "text": "Jose said that a company that sells a service worldwide is dealing with every government in the world. If he pulls a satellite signal down in his country, the company pays taxes there and he pays taxes there. They are doing political lobbying in every country.",
+     "text": "I said that a company that sells a service worldwide is dealing with every government in the world. If he pulls a satellite signal down in his country, the company pays taxes there and he pays taxes there. They are doing political lobbying in every country.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You as entrepreneurs are going to have to understand how that all works, he said, and turned it into a learning lesson.",
+     "text": "You as entrepreneurs are going to have to understand how that all works, I said, and turned it into a learning lesson.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said: they want to be elected. They want to grow their constituents and their pool of favourable voters. So go through a checklist. First, understand the political platform of a senator: what they are running on.",
+     "text": "I said: they want to be elected. They want to grow their constituents and their pool of favourable voters. So go through a checklist. First, understand the political platform of a senator: what they are running on.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,19 +62,19 @@
    "heading": "They sample, and they have a team",
    "lines": [
     {
-     "text": "They sample the industry, he said. They sit with the chamber of commerce and ask what frustrates them. The cattle people say: the last government cut our subsidies from fifteen percent to five, and we want them back. Another group wants subsidies on imported fertilizer.",
+     "text": "They sample the industry, I said. They sit with the chamber of commerce and ask what frustrates them. The cattle people say: the last government cut our subsidies from fifteen percent to five, and we want them back. Another group wants subsidies on imported fertilizer.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They do a needs assessment in each industry where they are strong, then formulate a plan. That is when the lies come, to be blunt, he said: people talk about things they have no control over, with no commitment. The more granular a senator is about solutions, with a team, the more credible.",
+     "text": "They do a needs assessment in each industry where they are strong, then formulate a plan. That is when the lies come, to be blunt, I said: people talk about things they have no control over, with no commitment. The more granular a senator is about solutions, with a team, the more credible.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: they are not individuals, they're a conduit of information. Jose said: a lot of people assume one person calls the shots. They have whole teams, different industries feeding them information, and someone to say: this is your position on this issue.",
+     "text": "A student said: they are not individuals, they're a conduit of information. I said: a lot of people assume one person calls the shots. They have whole teams, different industries feeding them information, and someone to say: this is your position on this issue.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say politicians want?",
+   "q": "What did I say politicians want?",
    "choices": [
     "To be elected and to grow their constituents",
     "To be left alone",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose tell you to understand first?",
+   "q": "What did I tell you to understand first?",
    "choices": [
     "The senator's political platform",
     "The senator's age",

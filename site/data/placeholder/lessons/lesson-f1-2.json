@@ -4,7 +4,7 @@
  "title": "Decide often, fail small",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Decisions and probability",
    "lines": [
     {
-     "text": "Jose said that you can make a decision and interpret things in your favor, you can be comfortable being uncomfortable, and comfortable adapting continually.",
+     "text": "I said that you can make a decision and interpret things in your favor, you can be comfortable being uncomfortable, and comfortable adapting continually.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that from a probability standpoint, if you are making decisions all the time, even wrong ones, you will eventually make the right one and you will learn.",
+     "text": "I said that from a probability standpoint, if you are making decisions all the time, even wrong ones, you will eventually make the right one and you will learn.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Two mindsets",
    "lines": [
     {
-     "text": "Jose described two mindsets in a business owner: one that wants to grow, take risks and decide, and another that has not felt the power to decide because of the responsibility of being the custodian of the business.",
+     "text": "I described two mindsets in a business owner: one that wants to grow, take risks and decide, and another that has not felt the power to decide because of the responsibility of being the custodian of the business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,13 +50,13 @@
    "heading": "Feedback, not failure",
    "lines": [
     {
-     "text": "Jose said that there is no need for shame: it is only feedback, only adjustments. He asked how long it takes before your ego knocks on the door: three failures, four, seven?",
+     "text": "I said that there is no need for shame: it is only feedback, only adjustments. I asked how long it takes before your ego knocks on the door: three failures, four, seven?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that the first part is identifying how you manage your thoughts, then identifying other people's thoughts and limiting beliefs, and then more. He said happiness is discipline: you have the choice to wake up and call it the most extraordinary day.",
+     "text": "I said that the first part is identifying how you manage your thoughts, then identifying other people's thoughts and limiting beliefs, and then more. I said happiness is discipline: you have the choice to wake up and call it the most extraordinary day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a wrong decision is?",
+   "q": "What did I say a wrong decision is?",
    "choices": [
     "Feedback",
     "Failure",
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens if you decide all the time?",
+   "q": "What did I say happens if you decide all the time?",
    "choices": [
     "You eventually decide right and learn",
     "You lose",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happiness is?",
+   "q": "What did I say happiness is?",
    "choices": [
     "Discipline",
     "Luck",

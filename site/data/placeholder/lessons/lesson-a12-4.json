@@ -4,7 +4,7 @@
  "title": "Learn what you don't like",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Push into what you don't like",
    "lines": [
     {
-     "text": "One of the things I learned in my twenties, Jose said, is your ability to learn something new. He is learning everything on the fly. Sometimes we set limitations in ourselves.",
+     "text": "One of the things I learned in my twenties, I said, is your ability to learn something new. He is learning everything on the fly. Sometimes we set limitations in ourselves.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Push yourself to the limit of understanding things you're not comfortable understanding, he said. When you start reading a technical book you have no interest in, that is when you need to learn the most. You have to become flexible and adapt to different knowledge bases.",
+     "text": "Push yourself to the limit of understanding things you're not comfortable understanding, I said. When you start reading a technical book you have no interest in, that is when you need to learn the most. You have to become flexible and adapt to different knowledge bases.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he can pick up a foreign text that has nothing to do with his business, and then go into a business he knows nothing about and in two or three weeks absorb enough to understand the broad strokes of an industry or a problem.",
+     "text": "I said I can pick up a foreign text that has nothing to do with my business, and then go into a business I know nothing about and in two or three weeks absorb enough to understand the broad strokes of an industry or a problem.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "The swimmer",
    "lines": [
     {
-     "text": "It's like swimming, he said. Some of the best freestylers and butterflyers got better at freestyle by swimming other strokes, especially butterfly. You never know what will come from learning something else.",
+     "text": "It's like swimming, I said. Some of the best freestylers and butterflyers got better at freestyle by swimming other strokes, especially butterfly. You never know what will come from learning something else.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that is a key thing: understanding your learning style, and how you will absorb information as efficiently as possible, is paramount to success as an entrepreneur.",
+     "text": "I said that is a key thing: understanding your learning style, and how you will absorb information as efficiently as possible, is paramount to success as an entrepreneur.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Some learn by getting out there and butting their head against the wall until they make it, he said, and I know plenty of people like that. A student said: baptism by fire almost always works.",
+     "text": "Some learn by getting out there and butting their head against the wall until they make it, I said, and I know plenty of people like that. A student said: baptism by fire almost always works.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to do with subjects you are not comfortable with?",
+   "q": "What did I say to do with subjects you are not comfortable with?",
    "choices": [
     "Push yourself to understand them",
     "Avoid them",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is paramount to success as an entrepreneur?",
+   "q": "What did I say is paramount to success as an entrepreneur?",
    "choices": [
     "Understanding your learning style",
     "A big budget",

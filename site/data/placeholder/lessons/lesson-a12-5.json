@@ -4,7 +4,7 @@
  "title": "Where does my business fit?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -45,7 +45,7 @@
    "heading": "Where does my business fit?",
    "lines": [
     {
-     "text": "Jose said the person is maturing in his value proposition, and the way he presents it as promising for slower-moving companies. The question for us is: where does my business fit in the value proposition of the massive companies around me?",
+     "text": "I said the person is maturing in his value proposition, and the way he presents it as promising for slower-moving companies. The question for us is: where does my business fit in the value proposition of the massive companies around me?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What question did Jose ask about big companies?",
+   "q": "What question did I ask about big companies?",
    "choices": [
     "Where does my business fit in their value proposition?",
     "How big are they?",

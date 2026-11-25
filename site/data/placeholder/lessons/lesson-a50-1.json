@@ -4,7 +4,7 @@
  "title": "Systems first",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Systems first",
    "lines": [
     {
-     "text": "Jose said that people tell you: you are doing too many things at once, you should not diversify, stick to what you know. He called those rules crap. The instruction should be: if you start a new business, what system have you already created that you can replicate?",
+     "text": "I said that people tell you: you are doing too many things at once, you should not diversify, stick to what you know. I called those rules crap. The instruction should be: if you start a new business, what system have you already created that you can replicate?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said that there are two styles, people first and systems first. For years he was people first, and over the years he has become systems first.",
+     "text": "I said that there are two styles, people first and systems first. For years I was people first, and over the years I have become systems first.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Draw the blueprint first",
    "lines": [
     {
-     "text": "Jose said that a system is agnostic to the business: the content is different but the form is pretty much the same. If you bring somebody in early without a defined system and strategy, you run into chaos, because they cannot see what you imagine.",
+     "text": "I said that a system is agnostic to the business: the content is different but the form is pretty much the same. If you bring somebody in early without a defined system and strategy, you run into chaos, because they cannot see what you imagine.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: he draws the blueprint before bringing anybody in. Jose said: like building a house in your head, then asking who does the foundation, the doors, the windows, the roof.",
+     "text": "A student said: he draws the blueprint before bringing anybody in. I said: like building a house in your head, then asking who does the foundation, the doors, the windows, the roof.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that when he reads a business plan he looks for a granular system, and a general plan with big ideas and big budgets scares him, because no one has thought out every step and everything will hit us by surprise.",
+     "text": "I said that when I read a business plan I look for a granular system, and a general plan with big ideas and big budgets scares me, because no one has thought out every step and everything will hit us by surprise.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the instruction should be for starting a new business?",
+   "q": "What did I say the instruction should be for starting a new business?",
    "choices": [
     "Replicate a system you already have",
     "Hire first",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens if you bring somebody in early without a defined system?",
+   "q": "What did I say happens if you bring somebody in early without a defined system?",
    "choices": [
     "Chaos",
     "Success",
@@ -108,10 +108,10 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a general business plan with only big ideas?",
+   "q": "What did I say about a general business plan with only big ideas?",
    "choices": [
-    "It scares him",
-    "He loves it",
+    "It scares me",
+    "I love it",
     "It is enough"
    ],
    "answer": 0

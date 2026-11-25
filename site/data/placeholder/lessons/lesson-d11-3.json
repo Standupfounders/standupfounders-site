@@ -4,7 +4,7 @@
  "title": "Push and pull",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Push and pull",
    "lines": [
     {
-     "text": "Jose said that chapter 11 is about push and pull. Pushing is when you have a story and push it into a media channel, and it is much harder: you tell a journalist, I really want you to publish this.",
+     "text": "I said that chapter 11 is about push and pull. Pushing is when you have a story and push it into a media channel, and it is much harder: you tell a journalist, I really want you to publish this.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said to put your publicist's details when you publish, and not your own name.",
+     "text": "I said to put your publicist's details when you publish, and not your own name.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Pull",
    "lines": [
     {
-     "text": "Jose said you want to go to a channel that is interested in what you do as a professional, and not sell them something. You want coverage on your expertise.",
+     "text": "I said you want to go to a channel that is interested in what you do as a professional, and not sell them something. You want coverage on your expertise.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "Know the editor",
    "lines": [
     {
-     "text": "Jose said: show you understand the type of articles they write and their audience, and that you know their value proposition.",
+     "text": "I said: show you understand the type of articles they write and their audience, and that you know their value proposition.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say pushing is?",
+   "q": "What did I say pushing is?",
    "choices": [
     "Pushing your story into a channel",
     "Waiting for a call",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to show an editor?",
+   "q": "What did I say to show an editor?",
    "choices": [
     "That you know their audience",
     "Your price",

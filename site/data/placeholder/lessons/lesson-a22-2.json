@@ -4,7 +4,7 @@
  "title": "Internal or external?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Internal or external",
    "lines": [
     {
-     "text": "Jose asked: after you reach a goal, how does it get validated in your thought process? You say: I reached it, I celebrated it. Is it all internal, or external as well?",
+     "text": "I asked: after you reach a goal, how does it get validated in your thought process? You say: I reached it, I celebrated it. Is it all internal, or external as well?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Moving targets",
    "lines": [
     {
-     "text": "Jose said that another entrepreneur once told him one of the problems he realized in life was that his father never set his goals high enough. I always set my goals as moving targets, so that I could achieve, and achieve, and achieve.",
+     "text": "I said that another entrepreneur once told me one of the problems he realized in life was that his father never set his goals high enough. I always set my goals as moving targets, so that I could achieve, and achieve, and achieve.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As an overachiever, he said, which entrepreneurship and overachieving are very related, you have to analyze: once I reach that success, is it ninety percent internal, where I am celebrating, or is ninety percent some external force that I'm not in control of?",
+     "text": "As an overachiever, I said, which entrepreneurship and overachieving are very related, you have to analyze: once I reach that success, is it ninety percent internal, where I am celebrating, or is ninety percent some external force that I'm not in control of?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose ask about reaching a goal?",
+   "q": "What did I ask about reaching a goal?",
    "choices": [
     "How does it get validated: inside or outside?",
     "How much does it cost?",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did the entrepreneur Jose quoted say about his goals?",
+   "q": "What did the entrepreneur I quoted say about his goals?",
    "choices": [
     "He set them as moving targets",
     "He never set goals",

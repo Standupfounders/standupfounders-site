@@ -4,7 +4,7 @@
  "title": "Change language and the cue",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Change language",
    "lines": [
     {
-     "text": "Jose asked how you know whether someone will change. He described sustain language, which is noncommittal, such as I am not sure I can do that, and change language, which is committal.",
+     "text": "I asked how you know whether someone will change. I described sustain language, which is noncommittal, such as I am not sure I can do that, and change language, which is committal.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that a leader can attach change language to a cue, such as the morning coffee: I am determined to prioritize and to delegate. I will do it. I am capable of doing it.",
+     "text": "I said that a leader can attach change language to a cue, such as the morning coffee: I am determined to prioritize and to delegate. I will do it. I am capable of doing it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he likes words on the walls and affirmations, and that people laugh at them, but he believes they can be triggers. He said to use a lot of little to-do lists.",
+     "text": "I said I like words on the walls and affirmations, and that people laugh at them, but I believe they can be triggers. I said to use a lot of little to-do lists.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that with repetition you are becoming the cue, you are becoming the trigger. He said that understanding somebody else's cues, triggers and habits is very powerful, because you can attach positive, mission-oriented thought patterns and shared goals to them.",
+     "text": "I said that with repetition you are becoming the cue, you are becoming the trigger. I said that understanding somebody else's cues, triggers and habits is very powerful, because you can attach positive, mission-oriented thought patterns and shared goals to them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call noncommittal language?",
+   "q": "What did I call noncommittal language?",
    "choices": [
     "Sustain language",
     "Change language",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say repetition makes you?",
+   "q": "What did I say repetition makes you?",
    "choices": [
     "The cue",
     "The boss",

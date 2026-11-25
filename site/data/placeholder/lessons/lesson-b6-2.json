@@ -4,7 +4,7 @@
  "title": "They're gonna get greedy",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Who's gonna give them the 15 cents?",
    "lines": [
     {
-     "text": "How does he think he will produce it cheaper? A student said: charge a fifteen cent fee per subscriber per month. Jose said: that's how he thinks he will make money. A subscription model.",
+     "text": "How does he think he will produce it cheaper? A student said: charge a fifteen cent fee per subscriber per month. I said: that's how he thinks he will make money. A subscription model.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Who is going to give them the fifteen cents, Jose asked? The household pays. And where does the money flow? To the cable company. So they collect fifteen cents a subscriber for the content he runs on his network.",
+     "text": "Who is going to give them the fifteen cents, I asked? The household pays. And where does the money flow? To the cable company. So they collect fifteen cents a subscriber for the content he runs on his network.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Of course they're gonna get greedy",
    "lines": [
     {
-     "text": "Do you think they will sit around and give him millions of dollars for his fifteen cents, Jose asked? They will say: this guy is making millions sending his content through our networks, through fiber we paid to lay. Of course they are going to get greedy.",
+     "text": "Do you think they will sit around and give him millions of dollars for his fifteen cents, I asked? They will say: this guy is making millions sending his content through our networks, through fiber we paid to lay. Of course they are going to get greedy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "plain"
     },
     {
-     "text": "So this is going to be a fight, Jose said. It is not going to be an easy one for him. Today those networks own movie studios. It is a much more democratic situation than back then, when it was straight monopolies.",
+     "text": "So this is going to be a fight, I said. It is not going to be an easy one for him. Today those networks own movie studios. It is a much more democratic situation than back then, when it was straight monopolies.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "That's just perception",
    "lines": [
     {
-     "text": "How is he going to make it cheaper? A student said: he doesn't do it in New York. Jose said: not really the answer. Everybody thought a news company had to be in New York. That is just perception.",
+     "text": "How is he going to make it cheaper? A student said: he doesn't do it in New York. I said: not really the answer. Everybody thought a news company had to be in New York. That is just perception.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the cable companies will be?",
+   "q": "What did I say the cable companies will be?",
    "choices": [
     "Greedy, of course",
     "Generous",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about everybody thinking a news company had to be in New York?",
+   "q": "What did I say about everybody thinking a news company had to be in New York?",
    "choices": [
     "That is just perception",
     "That is a rule",

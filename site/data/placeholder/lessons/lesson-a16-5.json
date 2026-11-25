@@ -4,7 +4,7 @@
  "title": "Know your numbers",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Founders know the numbers",
    "lines": [
     {
-     "text": "A student said the questions an investor asks are: what is your burn rate, what is your cost of acquisition, what are your margins? Jose said: if you blank out on one of those, the meeting's over. A student said: founders always have to know the numbers.",
+     "text": "A student said the questions an investor asks are: what is your burn rate, what is your cost of acquisition, what are your margins? I said: if you blank out on one of those, the meeting's over. A student said: founders always have to know the numbers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The person in the book didn't have this fluency at the beginning, Jose said. He is getting it from the merry-go-round of starting a business, and another, and another. As we read the book we should get on that merry-go-round: I've been here before, I can see the margins, I can see the barriers to entry.",
+     "text": "The person in the book didn't have this fluency at the beginning, I said. He is getting it from the merry-go-round of starting a business, and another, and another. As we read the book we should get on that merry-go-round: I've been here before, I can see the margins, I can see the barriers to entry.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "The fantasy world",
    "lines": [
     {
-     "text": "I know a lot of people who live in the fantasy world, he said. They say: I've got massive margins. What is massive? A student said eighty percent is unusual and outlandish.",
+     "text": "I know a lot of people who live in the fantasy world, I said. They say: I've got massive margins. What is massive? A student said eighty percent is unusual and outlandish.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said some clothing distributors he knows work on margins of two or three hundred percent gross. It is a stable business but super competitive. A student said: people always want clothes, but it is highly competitive.",
+     "text": "I said some clothing distributors I know work on margins of two or three hundred percent gross. It is a stable business but super competitive. A student said: people always want clothes, but it is highly competitive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You also have to look at the industry and ask whether it has growth, he said. Is the market share getting bigger or smaller? He said logistics, warehouses and shipping are growing, while department stores are closing.",
+     "text": "You also have to look at the industry and ask whether it has growth, I said. Is the market share getting bigger or smaller? I said logistics, warehouses and shipping are growing, while department stores are closing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,19 +74,19 @@
      "kind": "plain"
     },
     {
-     "text": "The person will see you in a different light, he said. They will think: this person is interested in the financial well-being of my company.",
+     "text": "The person will see you in a different light, I said. They will think: this person is interested in the financial well-being of my company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When I am doing joint ventures, he said, the first thing I do is go to the balance sheet and read the financials: what are their margins, where are their growth opportunities? Then I call the CEO and say: I admire how you are chasing these opportunities. Somebody will pick up the phone.",
+     "text": "When I am doing joint ventures, I said, the first thing I do is go to the balance sheet and read the financials: what are their margins, where are their growth opportunities? Then I call the CEO and say: I admire how you are chasing these opportunities. Somebody will pick up the phone.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you don't get used to looking at the financials, you're driving blind, he said.",
+     "text": "If you don't get used to looking at the financials, you're driving blind, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -119,7 +119,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens if you blank out on a key number in front of an investor?",
+   "q": "What did I say happens if you blank out on a key number in front of an investor?",
    "choices": [
     "The meeting's over",
     "They try again",
@@ -128,7 +128,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to read before calling a possible partner?",
+   "q": "What did I say to read before calling a possible partner?",
    "choices": [
     "The balance sheet and financials",
     "Their blog",
@@ -137,7 +137,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you are if you don't read the financials?",
+   "q": "What did I say you are if you don't read the financials?",
    "choices": [
     "Driving blind",
     "Careful",

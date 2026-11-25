@@ -4,7 +4,7 @@
  "title": "Stock doesn't necessarily mean the value of a company",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Why did they not see what was going on?",
    "lines": [
     {
-     "text": "Jose read a line from the author about the merger.",
+     "text": "I read a line from the author about the merger.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,13 +34,13 @@
      "kind": "quote"
     },
     {
-     "text": "A student asked: if he didn't like the idea, why did he agree and sign? Why didn't he see the red flags? Jose said: it is amazing that very smart people, billionaires, didn't see what was going on.",
+     "text": "A student asked: if he didn't like the idea, why did he agree and sign? Why didn't he see the red flags? I said: it is amazing that very smart people, billionaires, didn't see what was going on.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose's explanation for the author: number one, he's on the board with no power anymore. Number two, he is going through a divorce, and I think his mind wasn't totally there. And the most obvious thing: nobody understood how to value the internet.",
+     "text": "My explanation for the author: number one, he's on the board with no power anymore. Number two, he is going through a divorce, and I think his mind wasn't totally there. And the most obvious thing: nobody understood how to value the internet.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
    "heading": "Stock doesn't necessarily mean the value of a company",
    "lines": [
     {
-     "text": "The author says he never understood how an internet access company had such a market cap, because it was mainly dial-up accounts, Jose said. He believed that in time they would use the cable for broadband.",
+     "text": "The author says he never understood how an internet access company had such a market cap, because it was mainly dial-up accounts, I said. He believed that in time they would use the cable for broadband.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose explained how it became almost like a hostile takeover. In a huge merger there are teams, investment banks, lawyers. They valued the company on its market cap and the current stock, but the stock was inflated. Multiplied by the outstanding shares, the valuation said they were worth more than the older company.",
+     "text": "I explained how it became almost like a hostile takeover. In a huge merger there are teams, investment banks, lawyers. They valued the company on its market cap and the current stock, but the stock was inflated. Multiplied by the outstanding shares, the valuation said they were worth more than the older company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Stock doesn't necessarily mean the value of a company, he said. It is an indication of the perception of the market. Generally the net revenue and the health of the company, the balance sheet, reflect the stock price, but not necessarily.",
+     "text": "Stock doesn't necessarily mean the value of a company, I said. It is an indication of the perception of the market. Generally the net revenue and the health of the company, the balance sheet, reflect the stock price, but not necessarily.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say stock is an indication of?",
+   "q": "What did I say stock is an indication of?",
    "choices": [
     "The perception of the market",
     "The exact value of the company",
@@ -111,7 +111,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to do when a stock is really flying?",
+   "q": "What did I say to do when a stock is really flying?",
    "choices": [
     "Breathe, calm down and go to the balance sheet",
     "Buy more",
@@ -120,7 +120,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say nobody understood at the time?",
+   "q": "What did I say nobody understood at the time?",
    "choices": [
     "How to value the internet",
     "How to read",

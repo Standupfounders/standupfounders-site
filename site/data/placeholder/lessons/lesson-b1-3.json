@@ -4,7 +4,7 @@
  "title": "He saves the positive",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "He saves the positive",
    "lines": [
     {
-     "text": "In class, Jose read what the author wrote after losing his father.",
+     "text": "In class, I read what the author wrote after losing his father.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,25 +34,25 @@
      "kind": "quote"
     },
     {
-     "text": "The author went on to say that his father's company was his father's life work, that he loved it, and that what he wanted most was for it to be saved. Those are very big statements, Jose said. It shows that mentally he took himself to a positive place.",
+     "text": "The author went on to say that his father's company was his father's life work, that he loved it, and that what he wanted most was for it to be saved. Those are very big statements, I said. It shows that mentally he took himself to a positive place.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "But let's think for a second, he said. What would have happened if he had gone to a negative place? What are the negatives he could have gone into?",
+     "text": "But let's think for a second, I said. What would have happened if he had gone to a negative place? What are the negatives he could have gone into?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He was twenty-four. His father had said he was too young to take a big role. So what support system does he have, Jose asked? A student said: he doesn't. He just has himself, and the principles he learned from his dad.",
+     "text": "He was twenty-four. His father had said he was too young to take a big role. So what support system does he have, I asked? A student said: he doesn't. He just has himself, and the principles he learned from his dad.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "Jose agreed. That's it. He only has himself, and the biggest influence in his entire life is now gone.",
+     "text": "I agreed. That's it. He only has himself, and the biggest influence in his entire life is now gone.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,31 +63,31 @@
    "heading": "His mental positive anchor",
    "lines": [
     {
-     "text": "Jose asked: what in his childhood contributed to that confidence? A student said: all the times he was on his own at school and had to figure it out.",
+     "text": "I asked: what in his childhood contributed to that confidence? A student said: all the times he was on his own at school and had to figure it out.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "Jose added that the father put him in positions where he had to adapt on his own. So the father created an independent person.",
+     "text": "I added that the father put him in positions where he had to adapt on his own. So the father created an independent person.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He saves the positive of what the father wanted to do, Jose said, not the negative. He uses that as his mental positive anchor to continue. That is really critical.",
+     "text": "He saves the positive of what the father wanted to do, I said, not the negative. He uses that as his mental positive anchor to continue. That is really critical.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The author says he was a nervous wreck and his head was spinning. Jose said he is very aware of the challenges and of his emotional state, but he doesn't let himself brood in it and stay in it.",
+     "text": "The author says he was a nervous wreck and his head was spinning. I said he is very aware of the challenges and of his emotional state, but he doesn't let himself brood in it and stay in it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "In times of massive pressure, he said, he is going to show up. Those are decisions we make in our life. You can look at pressure in many ways.",
+     "text": "In times of massive pressure, I said, he is going to show up. Those are decisions we make in our life. You can look at pressure in many ways.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -120,7 +120,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call the positive thing the author kept from his father?",
+   "q": "What did I call the positive thing the author kept from his father?",
    "choices": [
     "His mental positive anchor",
     "His secret plan",
@@ -138,7 +138,7 @@
    "answer": 1
   },
   {
-   "q": "What did Jose say the author did not do with his emotions?",
+   "q": "What did I say the author did not do with his emotions?",
    "choices": [
     "Feel them",
     "Let himself brood in them and stay in them",

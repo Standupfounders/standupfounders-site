@@ -4,7 +4,7 @@
  "title": "What gives impact",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Impact, noticed later",
    "lines": [
     {
-     "text": "Jose said there are things in what we discuss that will give us a lot of impact. It is difficult to notice what gives us impact: you heard something that called your attention, and maybe three or four months later you notice it was a catalyst for you becoming a certain way.",
+     "text": "I said there are things in what we discuss that will give us a lot of impact. It is difficult to notice what gives us impact: you heard something that called your attention, and maybe three or four months later you notice it was a catalyst for you becoming a certain way.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It can be sudden, it can happen over a period of time, it can be surprising, he said. It's not the amount of communication or content. It's about grasping the impact these concepts have on us. My goal is for us to collaborate so these concepts have major impact in our lives.",
+     "text": "It can be sudden, it can happen over a period of time, it can be surprising, I said. It's not the amount of communication or content. It's about grasping the impact these concepts have on us. My goal is for us to collaborate so these concepts have major impact in our lives.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A leadership style",
    "lines": [
     {
-     "text": "Jose said that in this chapter we see again good displays of the person's leadership. A student said: he wanted to make sure he was doing something different. They chose an outer frame of steel instead of pinning things down to a frame from the inside.",
+     "text": "I said that in this chapter we see again good displays of the person's leadership. A student said: he wanted to make sure he was doing something different. They chose an outer frame of steel instead of pinning things down to a frame from the inside.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I want to come out and make a confession, Jose said. His leadership style is interesting to me because he focuses on experimentation, on pushing the limits, on ambition. He has tremendous agility. Even when people disagree he has intuition and pushes the limits.",
+     "text": "I want to come out and make a confession, I said. His leadership style is interesting to me because he focuses on experimentation, on pushing the limits, on ambition. He has tremendous agility. Even when people disagree he has intuition and pushes the limits.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Teaching or solving?",
    "lines": [
     {
-     "text": "Jose said to a student who works on their own: you can look up and call me, and I can offer you feedback and what I would do. But in the end, what am I doing as a leader? Am I teaching you to find solutions, or am I finding the solutions for you?",
+     "text": "I said to a student who works on their own: you can look up and call me, and I can offer you feedback and what I would do. But in the end, what am I doing as a leader? Am I teaching you to find solutions, or am I finding the solutions for you?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about noticing impact?",
+   "q": "What did I say about noticing impact?",
    "choices": [
     "You may notice it months later",
     "You notice it at once",
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the person's leadership focuses on?",
+   "q": "What did I say the person's leadership focuses on?",
    "choices": [
     "Experimentation, pushing limits and ambition",
     "Safety and rules",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What question did Jose ask himself as a leader?",
+   "q": "What question did I ask myself as a leader?",
    "choices": [
     "Am I teaching you to find solutions or finding them for you?",
     "Am I paid enough?",

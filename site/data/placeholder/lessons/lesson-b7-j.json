@@ -4,7 +4,7 @@
  "title": "I learned a lot of business through people's stories",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "I learned a lot of business through people's stories",
    "lines": [
     {
-     "text": "Jose said you have to get the book. Otherwise you will be kind of lost. If you don't read it, you are not going to get anything out of it.",
+     "text": "I said you have to get the book. Otherwise you will be kind of lost. If you don't read it, you are not going to get anything out of it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is one of the things I tell people all the time, he said. I learned a lot of business through people's stories, and learning from their mistakes, their good decisions and bad decisions.",
+     "text": "It is one of the things I tell people all the time, I said. I learned a lot of business through people's stories, and learning from their mistakes, their good decisions and bad decisions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I didn't go to business school, he said. But I have been in business all my life. I went and studied literature. I had to go through a learning curve on my own, and one of the ways I learned a lot was listening to people's stories.",
+     "text": "I didn't go to business school, I said. But I have been in business all my life. I went and studied literature. I had to go through a learning curve on my own, and one of the ways I learned a lot was listening to people's stories.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "A story about how somebody grew a business",
    "lines": [
     {
-     "text": "It is a lot more exciting, he said, than if I were to give you a financial management book from a university and we went into the technicalities of finance, versus telling a story about how somebody grew a business.",
+     "text": "It is a lot more exciting, I said, than if I were to give you a financial management book from a university and we went into the technicalities of finance, versus telling a story about how somebody grew a business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he prepares for class every single day to give valuable lessons. And you are definitely not going to be an entrepreneur if you are not at a speed of learning that is adequate to handle all this.",
+     "text": "I said I prepare for class every single day to give valuable lessons. And you are definitely not going to be an entrepreneur if you are not at a speed of learning that is adequate to handle all this.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -82,7 +82,7 @@
  },
  "check": [
   {
-   "q": "How did Jose say he learned a lot of business?",
+   "q": "How did I say I learned a lot of business?",
    "choices": [
     "Through people's stories and their mistakes and decisions",
     "Through business school",
@@ -91,7 +91,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose study?",
+   "q": "What did I study?",
    "choices": [
     "Literature",
     "Engineering",
@@ -100,7 +100,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a story is, compared with a finance textbook?",
+   "q": "What did I say a story is, compared with a finance textbook?",
    "choices": [
     "A lot more exciting",
     "Less useful",

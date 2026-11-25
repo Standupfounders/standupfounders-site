@@ -4,7 +4,7 @@
  "title": "Your voice becomes their voice",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Your voice becomes their voice",
    "lines": [
     {
-     "text": "Jose said that one of his favorite sayings with education and children is that the way you speak to your children becomes their inner voice. He is careful about it because he wants them to have belief in themselves and take the risk.",
+     "text": "I said that one of my favorite sayings with education and children is that the way you speak to your children becomes their inner voice. I am careful about it because I want them to have belief in themselves and take the risk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the same thing applies in our communication style: empowering people, listening to people, agreeing with people.",
+     "text": "I said the same thing applies in our communication style: empowering people, listening to people, agreeing with people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Listening to each person",
    "lines": [
     {
-     "text": "Jose said that if you are a manager, listening, observation and documentation are key, because they give you the needs assessment of each person. Attention to each person's limitation is like a teacher who is not so worried about the curriculum that she misses the student.",
+     "text": "I said that if you are a manager, listening, observation and documentation are key, because they give you the needs assessment of each person. Attention to each person's limitation is like a teacher who is not so worried about the curriculum that she misses the student.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Another said that refusing to let people discuss something at all is the most dangerous form of limiting speech, because the listener will take the message as they want anyway. Jose agreed: this starts with us, and with being a good listener without prejudice.",
+     "text": "Another said that refusing to let people discuss something at all is the most dangerous form of limiting speech, because the listener will take the message as they want anyway. I agreed: this starts with us, and with being a good listener without prejudice.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say becomes a child's inner voice?",
+   "q": "What did I say becomes a child's inner voice?",
    "choices": [
     "The way you speak to them",
     "The toys they have",

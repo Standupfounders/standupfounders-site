@@ -4,7 +4,7 @@
  "title": "Who gets your time",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "The buoy",
    "lines": [
     {
-     "text": "There are people who bring no value to our business life, Jose said, and sometimes we lose a lot of time with them. It's okay to love someone and enjoy relaxing with them, but do an inventory of the people in your life and what they bring, and how you prioritize them.",
+     "text": "There are people who bring no value to our business life, I said, and sometimes we lose a lot of time with them. It's okay to love someone and enjoy relaxing with them, but do an inventory of the people in your life and what they bring, and how you prioritize them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "We are like buoys, he said. We carry people we love and want to help, but a buoy will stop floating if too much weight is on top. Can I carry this? Do I have the time to help this person? A student said: that they are doing something to help themselves in the area they ask for help in.",
+     "text": "We are like buoys, I said. We carry people we love and want to help, but a buoy will stop floating if too much weight is on top. Can I carry this? Do I have the time to help this person? A student said: that they are doing something to help themselves in the area they ask for help in.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He told of a young man he has known for years who said: I want to learn and work with you. He lasted two months, was distracted a lot, and Jose had to sit down with him and tell him the truth. He said he cannot help someone who is not making the decision.",
+     "text": "I told of a young man I have known for years who said: I want to learn and work with you. He lasted two months, was distracted a lot, and I had to sit down with him and tell him the truth. I said I cannot help someone who is not making the decision.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: study the patterns of people who always come to you with urgency. After a while you may find it is a pattern, an inability to use critical thinking to deal with a problem themselves.",
+     "text": "I said: study the patterns of people who always come to you with urgency. After a while you may find it is a pattern, an inability to use critical thinking to deal with a problem themselves.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "Fear, a double-edged sword",
    "lines": [
     {
-     "text": "It is a double-edged sword, he said, with the way the person in the book manages people. People fear him, and the fear drives intensity: I've got to stay focused. But people are afraid to make decisions, so they don't take risks.",
+     "text": "It is a double-edged sword, I said, with the way the person in the book manages people. People fear him, and the fear drives intensity: I've got to stay focused. But people are afraid to make decisions, so they don't take risks.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I always say to people: I want you to make a mistake, he said. Be comfortable making mistakes.",
+     "text": "I always say to people: I want you to make a mistake, I said. Be comfortable making mistakes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What image did Jose use for carrying people?",
+   "q": "What image did I use for carrying people?",
    "choices": [
     "A buoy that sinks if it carries too much weight",
     "A bridge",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about fear in a team?",
+   "q": "What did I say about fear in a team?",
    "choices": [
     "It drives intensity but people avoid risks",
     "It always helps",

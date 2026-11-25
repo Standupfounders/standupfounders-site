@@ -4,7 +4,7 @@
  "title": "Hire for belief",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Belief in yourself",
    "lines": [
     {
-     "text": "Jose asked a student for a predominant positive belief. The student said: be confident in what I can do and what I can deliver. Jose said: that belief is empowering. Everything else is a distraction: who cares about the past, excuses, external things.",
+     "text": "I asked a student for a predominant positive belief. The student said: be confident in what I can do and what I can deliver. I said: that belief is empowering. Everything else is a distraction: who cares about the past, excuses, external things.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said it is the belief in yourself that comes first, not the mission. A student agreed: the belief in yourself is really all that matters.",
+     "text": "I said it is the belief in yourself that comes first, not the mission. A student agreed: the belief in yourself is really all that matters.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Hiring for belief",
    "lines": [
     {
-     "text": "Jose said: if you interview and talk about the company and the job description, you are talking about external things. Get to the core of who the person is, and how they transform the pain of an experience into something empowering, or whether they find external excuses.",
+     "text": "I said: if you interview and talk about the company and the job description, you are talking about external things. Get to the core of who the person is, and how they transform the pain of an experience into something empowering, or whether they find external excuses.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,13 +57,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: someone with a negative belief system, even a good person with good values, has a chink in the armor. If they flail, you are in danger of drowning with them, or they say it is not my fault and blame something external.",
+     "text": "I said: someone with a negative belief system, even a good person with good values, has a chink in the armor. If they flail, you are in danger of drowning with them, or they say it is not my fault and blame something external.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that where the belief comes from is a bigger subject: upbringing, moments of success, attributing success to your work ethic and values.",
+     "text": "I said that where the belief comes from is a bigger subject: upbringing, moments of success, attributing success to your work ethic and values.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say comes first?",
+   "q": "What did I say comes first?",
    "choices": [
     "Belief in yourself",
     "The mission",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a typical interview talks about?",
+   "q": "What did I say a typical interview talks about?",
    "choices": [
     "External things like the job description",
     "Belief systems",

@@ -4,7 +4,7 @@
  "title": "No off switch",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "No off switch",
    "lines": [
     {
-     "text": "There is another big lesson in this chapter, Jose said, and it has to do with the personality of an entrepreneur. Entrepreneurs don't cause pressure, they inflict pressure on other people. They create a lot of collateral damage in relationships and friendships. I call it the hurricane personality.",
+     "text": "There is another big lesson in this chapter, I said, and it has to do with the personality of an entrepreneur. Entrepreneurs don't cause pressure, they inflict pressure on other people. They create a lot of collateral damage in relationships and friendships. I call it the hurricane personality.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Does this guy have an off switch? he asked. How would you like to deal with someone with no off switch? If you are married to an entrepreneur, you are going to suffer: no vacation, no Sunday.",
+     "text": "Does this guy have an off switch? I asked. How would you like to deal with someone with no off switch? If you are married to an entrepreneur, you are going to suffer: no vacation, no Sunday.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "What is a day off?",
    "lines": [
     {
-     "text": "A student said they read recently that you can take a day off from work, but you shouldn't take a day off from learning. Jose asked each of them: what is a day off? For one, it was not designing; for another, not producing or making calls; not reading any books or thinking about anything entrepreneurial.",
+     "text": "A student said they read recently that you can take a day off from work, but you shouldn't take a day off from learning. I asked each of them: what is a day off? For one, it was not designing; for another, not producing or making calls; not reading any books or thinking about anything entrepreneurial.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose asked: so what do you think about on a Sunday? A student said their mind always comes back to it, but they watch sports in their free time. Jose said you have to pick something that distracts you, otherwise your mind goes right back to that passion.",
+     "text": "I asked: so what do you think about on a Sunday? A student said their mind always comes back to it, but they watch sports in their free time. I said you have to pick something that distracts you, otherwise your mind goes right back to that passion.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Another student said: make what you do for work something you enjoy and constantly want to be better at, because then you are working all the time and never working. Jose said: that is exactly my point.",
+     "text": "Another student said: make what you do for work something you enjoy and constantly want to be better at, because then you are working all the time and never working. I said: that is exactly my point.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,25 +62,25 @@
    "heading": "The psychological side",
    "lines": [
     {
-     "text": "When somebody says I need a vacation, I have nothing to talk about with that person, Jose said. My idea of fun and of a vacation doesn't exist as something separate from what I do. It's his view, and he says so.",
+     "text": "When somebody says I need a vacation, I have nothing to talk about with that person, I said. My idea of fun and of a vacation doesn't exist as something separate from what I do. It's my view, and I say so.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Most people, he said, are in corporate jobs with a salary and a small raise, reporting to the boss. That is the normal American dream: a good job, a nice car, a mortgage. They don't teach you in college to be an entrepreneur, they teach you to go get a job.",
+     "text": "Most people, I said, are in corporate jobs with a salary and a small raise, reporting to the boss. That is the normal American dream: a good job, a nice car, a mortgage. They don't teach you in college to be an entrepreneur, they teach you to go get a job.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You can learn business all day from books, he said, but you cannot ignore the psychological challenge: the psychological fortitude and the risk tolerance. You need to be prepared. If you're not, you're not going to make it.",
+     "text": "You can learn business all day from books, I said, but you cannot ignore the psychological challenge: the psychological fortitude and the risk tolerance. You need to be prepared. If you're not, you're not going to make it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How far do you want to go? Jose asked. You can dip your little toes in, he said, or you can take a baseball bat and say: I'm taking everything down today. I can't make you hungry like that. You have that fire, or you don't.",
+     "text": "How far do you want to go? I asked. You can dip your little toes in, I said, or you can take a baseball bat and say: I'm taking everything down today. I can't make you hungry like that. You have that fire, or you don't.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call the entrepreneur's personality in this chapter?",
+   "q": "What did I call the entrepreneur's personality in this chapter?",
    "choices": [
     "The hurricane personality",
     "The calm personality",
@@ -122,7 +122,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say college teaches?",
+   "q": "What did I say college teaches?",
    "choices": [
     "How to go get a job",
     "How to start a company",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you need besides business knowledge?",
+   "q": "What did I say you need besides business knowledge?",
    "choices": [
     "Psychological fortitude and risk tolerance",
     "More books",

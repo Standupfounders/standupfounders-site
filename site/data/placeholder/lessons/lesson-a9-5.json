@@ -4,7 +4,7 @@
  "title": "Where are you on the scale?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Do or die",
    "lines": [
     {
-     "text": "Part of this journey is being comfortable with crisis situations, especially when you're doing something new, Jose said. As you get older you mitigate your risk more and take less risk. But your nature as an entrepreneur is to see value before anybody else.",
+     "text": "Part of this journey is being comfortable with crisis situations, especially when you're doing something new, I said. As you get older you mitigate your risk more and take less risk. But your nature as an entrepreneur is to see value before anybody else.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "We see entrepreneurs who bail, he said: they raise money and leave investors hanging. A core thing is: somebody invests in you, puts their faith in you. If you have that fortitude, those people stay through thick and thin. It's do or die, until you make it.",
+     "text": "We see entrepreneurs who bail, I said: they raise money and leave investors hanging. A core thing is: somebody invests in you, puts their faith in you. If you have that fortitude, those people stay through thick and thin. It's do or die, until you make it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Making it once",
    "lines": [
     {
-     "text": "Because you made it once doesn't mean you will make it again, he said. A lot of us make that mistake: I had success, it will be easier. It's not.",
+     "text": "Because you made it once doesn't mean you will make it again, I said. A lot of us make that mistake: I had success, it will be easier. It's not.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "We are always driven by fear, Jose said, which isn't a bad thing. That fear has to become vigilance: due diligence, paying attention, hyper-focus. It has to be consistent and relentless.",
+     "text": "We are always driven by fear, I said, which isn't a bad thing. That fear has to become vigilance: due diligence, paying attention, hyper-focus. It has to be consistent and relentless.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,19 +62,19 @@
    "heading": "Where are you on the scale?",
    "lines": [
     {
-     "text": "A student said the person has the exact personality type of an entrepreneur: black or white, a hundred percent in or out. Jose said: on a scale of one to ten, he is at a nine or ten. Where are we? A two, a three, a four? Where are we comfortable? Am I too comfortable? Am I not pushing enough?",
+     "text": "A student said the person has the exact personality type of an entrepreneur: black or white, a hundred percent in or out. I said: on a scale of one to ten, he is at a nine or ten. Where are we? A two, a three, a four? Where are we comfortable? Am I too comfortable? Am I not pushing enough?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How much do I influence the people around me? he asked. Am I inspirational? What is my tone of voice, my enthusiasm? Are people looking at me thinking: this person is mission-driven, at all costs?",
+     "text": "How much do I influence the people around me? I asked. Am I inspirational? What is my tone of voice, my enthusiasm? Are people looking at me thinking: this person is mission-driven, at all costs?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It's about being so aware of where you are and how you create standards for yourself, he said. He has a standard, and an immense, positive self-belief, and doesn't waver from it even through the pain.",
+     "text": "It's about being so aware of where you are and how you create standards for yourself, I said. He has a standard, and an immense, positive self-belief, and doesn't waver from it even through the pain.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about having succeeded once?",
+   "q": "What did I say about having succeeded once?",
    "choices": [
     "It doesn't mean you will make it again",
     "It makes the next time easy",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say fear should become?",
+   "q": "What did I say fear should become?",
    "choices": [
     "Vigilance",
     "Silence",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What scale did Jose use?",
+   "q": "What scale did I use?",
    "choices": [
     "One to ten, from comfortable to all-in",
     "A to F",

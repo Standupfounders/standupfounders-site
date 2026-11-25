@@ -4,7 +4,7 @@
  "title": "Cross-training",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Two athletes, two upbringings",
    "lines": [
     {
-     "text": "Jose said that what is making the person in the book successful, apart from his process-oriented thinking, is another factor with massive consequences. He compared two famous athletes, a golfer and a tennis player, and said he knew the story.",
+     "text": "I said that what is making the person in the book successful, apart from his process-oriented thinking, is another factor with massive consequences. I compared two famous athletes, a golfer and a tennis player, and said I knew the story.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When the tennis player was a small child, Jose said, the parents took him to every sport he wanted: soccer, baseball. He experimented for a few years, then chose tennis and developed a love of it.",
+     "text": "When the tennis player was a small child, I said, the parents took him to every sport he wanted: soccer, baseball. He experimented for a few years, then chose tennis and developed a love of it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "The orchestra",
    "lines": [
     {
-     "text": "Think of an orchestra, Jose said. One person plays only the violin all their life and knows their part. The composer or conductor knows what every instrument has to do, and integrates them to create the masterpiece.",
+     "text": "Think of an orchestra, I said. One person plays only the violin all their life and knows their part. The composer or conductor knows what every instrument has to do, and integrates them to create the masterpiece.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "A student said: his knowledge base is so broad that he can see patterns between two different things that others can't, because his base is larger. Jose said: you did it better than me, that is the statement I wasn't getting to.",
+     "text": "A student said: his knowledge base is so broad that he can see patterns between two different things that others can't, because his base is larger. I said: you did it better than me, that is the statement I wasn't getting to.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,19 +68,19 @@
    "heading": "Cross-training",
    "lines": [
     {
-     "text": "As a former swimmer, Jose said, the coaches in the early nineties and eighties said you had to swim twenty kilometres a day. Then they realized it is about the heart rate, not the distance. Then the myth that lifting weights would make you slow and bulky turned out to be false.",
+     "text": "As a former swimmer, I said, the coaches in the early nineties and eighties said you had to swim twenty kilometres a day. Then they realized it is about the heart rate, not the distance. Then the myth that lifting weights would make you slow and bulky turned out to be false.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A freestyler gets better by swimming butterfly, he said, because it builds other muscles. They realized the strength of cross-training. You don't get better at one stroke unless you integrate a lot of other things.",
+     "text": "A freestyler gets better by swimming butterfly, I said, because it builds other muscles. They realized the strength of cross-training. You don't get better at one stroke unless you integrate a lot of other things.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The more narrow your perspective, the fewer advantages you have, he said.",
+     "text": "The more narrow your perspective, the fewer advantages you have, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the tennis player's parents did?",
+   "q": "What did I say the tennis player's parents did?",
    "choices": [
     "Took him to every sport he wanted before he chose",
     "Chose tennis for him",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about narrow perspective?",
+   "q": "What did I say about narrow perspective?",
    "choices": [
     "The more narrow, the fewer advantages",
     "It is always best",

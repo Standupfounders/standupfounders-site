@@ -4,7 +4,7 @@
  "title": "Ask the question that creates the product",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Is it possible?",
    "lines": [
     {
-     "text": "Jose described an inventor who asked: there are devices that are this big and use tapes; is it possible to make it smaller, lighter and beautiful, something you carry in your pocket? He said the question created a market.",
+     "text": "I described an inventor who asked: there are devices that are this big and use tapes; is it possible to make it smaller, lighter and beautiful, something you carry in your pocket? I said the question created a market.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that in the old days the news was on from six to seven, and a viewer who missed it had to wait until the next day, so someone saw a need to watch it any time.",
+     "text": "I said that in the old days the news was on from six to seven, and a viewer who missed it had to wait until the next day, so someone saw a need to watch it any time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said there were massive consequences to that one decision, and that the black swan is just a name; the main thing is to be aware of it.",
+     "text": "I said there were massive consequences to that one decision, and that the black swan is just a name; the main thing is to be aware of it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a black swan is?",
+   "q": "What did I say a black swan is?",
    "choices": [
     "Just a name",
     "A bird",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What matters most, he said?",
+   "q": "What matters most, I said?",
    "choices": [
     "Being aware of it",
     "Luck",

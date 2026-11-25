@@ -4,7 +4,7 @@
  "title": "Argue the other side",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Argue the other side",
    "lines": [
     {
-     "text": "Jose said: I am going to play devil's advocate, just for the sake of debate. Show me a medium that has had no limits ever in the history of the world. It is all judgment-based: what is right and what is wrong.",
+     "text": "I said: I am going to play devil's advocate, just for the sake of debate. Show me a medium that has had no limits ever in the history of the world. It is all judgment-based: what is right and what is wrong.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that being aware and on our toes about these issues is a positive thing.",
+     "text": "I said that being aware and on our toes about these issues is a positive thing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say he was playing?",
+   "q": "What did I say I was playing?",
    "choices": [
     "Devil's advocate",
     "Hide and seek",

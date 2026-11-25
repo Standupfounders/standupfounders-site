@@ -4,7 +4,7 @@
  "title": "Mirror calmly when someone is angry",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "What mirroring is",
    "lines": [
     {
-     "text": "Jose said that the chapter talks about mirroring: when someone is angry, what should your demeanor be? Mirroring means matching gestures, tone and pace.",
+     "text": "I said that the chapter talks about mirroring: when someone is angry, what should your demeanor be? Mirroring means matching gestures, tone and pace.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,13 +50,13 @@
    "heading": "Keep control",
    "lines": [
     {
-     "text": "Jose said: even if I am getting fired, I know why, and the person did not make me feel bad about it. Do you not want to have control of that?",
+     "text": "I said: even if I am getting fired, I know why, and the person did not make me feel bad about it. Do you not want to have control of that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that in that interaction you are aligning their potential with their discipline, and their perception with their actions.",
+     "text": "I said that in that interaction you are aligning their potential with their discipline, and their perception with their actions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say mirroring is?",
+   "q": "What did I say mirroring is?",
    "choices": [
     "Matching gestures, tone and pace",
     "Arguing back",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you align?",
+   "q": "What did I say you align?",
    "choices": [
     "Potential with discipline",
     "Time with money",

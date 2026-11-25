@@ -4,7 +4,7 @@
  "title": "Calculated risk",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,13 +28,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he realizes he needs money, but he doesn't let money be a distraction to the mission. He understands it is a consequence of the mission.",
+     "text": "I said he realizes he needs money, but he doesn't let money be a distraction to the mission. He understands it is a consequence of the mission.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Let's pay attention to the evidence of how he mitigates risk, Jose said. It comes across as: I'll risk everything, like the poker game where he kept doubling until he won and then walked away with the money. But I think he is very calculated in his risk.",
+     "text": "Let's pay attention to the evidence of how he mitigates risk, I said. It comes across as: I'll risk everything, like the poker game where he kept doubling until he won and then walked away with the money. But I think he is very calculated in his risk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "The idiot index",
    "lines": [
     {
-     "text": "A student found the evidence: how he thinks about cost against the overall cost of everything. Jose read the passage from the book.",
+     "text": "A student found the evidence: how he thinks about cost against the overall cost of everything. I read the passage from the book.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "quote"
     },
     {
-     "text": "So he is mitigating risk, Jose said. He is not just going and buying a rocket that is overpriced. He asks what the components are, and what the carbon fibre, the metal and the fuel cost. I'm not going to believe anything at face value.",
+     "text": "So he is mitigating risk, I said. He is not just going and buying a rocket that is overpriced. He asks what the components are, and what the carbon fibre, the metal and the fuel cost. I'm not going to believe anything at face value.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about how the person treats money?",
+   "q": "What did I say about how the person treats money?",
    "choices": [
     "It is a consequence of the mission, not a distraction",
     "It is the mission",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the person's risk?",
+   "q": "What did I say about the person's risk?",
    "choices": [
     "It is very calculated",
     "It is reckless",

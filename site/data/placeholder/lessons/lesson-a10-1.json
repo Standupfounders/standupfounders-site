@@ -4,7 +4,7 @@
  "title": "Not all money is good money",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "The people who put in the money",
    "lines": [
     {
-     "text": "When we are entrepreneurs and we have capital needs, Jose said, we are going to be subject to the personalities of the people who invested with us. What could go wrong when you are raising money?",
+     "text": "When we are entrepreneurs and we have capital needs, I said, we are going to be subject to the personalities of the people who invested with us. What could go wrong when you are raising money?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked: what criteria could we come up with for choosing? A student said: outside of capital, what value can you bring to my company?",
+     "text": "I asked: what criteria could we come up with for choosing? A student said: outside of capital, what value can you bring to my company?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Talk philosophy first",
    "lines": [
     {
-     "text": "Number one, Jose said: does this firm believe in my mission? It's not just the money. You have to get to a philosophical level.",
+     "text": "Number one, I said: does this firm believe in my mission? It's not just the money. You have to get to a philosophical level.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When I meet a venture firm, or help a young company meet one, the first meeting should only be on a philosophical level, he said. It should not even go into the numbers. Don't contaminate the meeting by talking about the investment opportunity. Talk about what you are all about.",
+     "text": "When I meet a venture firm, or help a young company meet one, the first meeting should only be on a philosophical level, I said. It should not even go into the numbers. Don't contaminate the meeting by talking about the investment opportunity. Talk about what you are all about.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you don't make that connection in the first talk, chances are that firm is not for you, he said. In that first meeting you will also learn that the person doesn't care about the long-term mission, and that will come to haunt you later, because they won't be sensitive to the challenges ahead.",
+     "text": "If you don't make that connection in the first talk, chances are that firm is not for you, I said. In that first meeting you will also learn that the person doesn't care about the long-term mission, and that will come to haunt you later, because they won't be sensitive to the challenges ahead.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the first meeting with an investor should be?",
+   "q": "What did I say the first meeting with an investor should be?",
    "choices": [
     "Philosophical, with no numbers",
     "All numbers",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you may learn if the investor doesn't care about the mission?",
+   "q": "What did I say you may learn if the investor doesn't care about the mission?",
    "choices": [
     "It will come to haunt you later",
     "Nothing",

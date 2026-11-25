@@ -4,7 +4,7 @@
  "title": "He's looking into the future",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he would read the author's reasoning.",
+     "text": "I said I would read the author's reasoning.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,13 +40,13 @@
      "kind": "quote"
     },
     {
-     "text": "He's looking into the future, Jose said. This is strategic thinking. And psychologically, fear is driving him. Just like when he was a little kid adapting to different schools. His vision of what could happen is driving him.",
+     "text": "He's looking into the future, I said. This is strategic thinking. And psychologically, fear is driving him. Just like when he was a little kid adapting to different schools. His vision of what could happen is driving him.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Is that fear reasonable? Jose asked. A student said: yes, the big studios all do it now. Jose said: his fear was very visionary, because the networks ended up buying the content companies.",
+     "text": "Is that fear reasonable? I asked. A student said: yes, the big studios all do it now. I said: his fear was very visionary, because the networks ended up buying the content companies.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,25 +57,25 @@
    "heading": "Everybody is allowed to use the fiber now",
    "lines": [
     {
-     "text": "Jose said streaming services now produce their own content, which gives them margins, and also buy content. We no longer have those monopoly practices. Anybody can stream any channel through the modem. It created an enormous amount of wealth. YouTube is a network now.",
+     "text": "I said streaming services now produce their own content, which gives them margins, and also buy content. We no longer have those monopoly practices. Anybody can stream any channel through the modem. It created an enormous amount of wealth. YouTube is a network now.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: who still watches cable? A student said: only for live sports. Jose said: the market has fragmented. There are so many more choices that it is not consolidated in massive monopolies. There is very little barrier to entry now.",
+     "text": "I asked: who still watches cable? A student said: only for live sports. I said: the market has fragmented. There are so many more choices that it is not consolidated in massive monopolies. There is very little barrier to entry now.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So what does a big company do when a new technology like the internet comes along, he asked? They partner, they joint venture, they acquire, they merge. Jose gave two examples: a social network buying a photo app because that is where the younger people were, and a search company buying a video site, because people wanted to go right to video.",
+     "text": "So what does a big company do when a new technology like the internet comes along, I asked? They partner, they joint venture, they acquire, they merge. I gave two examples: a social network buying a photo app because that is where the younger people were, and a search company buying a video site, because people wanted to go right to video.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It's all about keeping them in your little corral, he said, in your little swimming pool of revenue.",
+     "text": "It's all about keeping them in your little corral, I said, in your little swimming pool of revenue.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -108,7 +108,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is driving the author psychologically?",
+   "q": "What did I say is driving the author psychologically?",
    "choices": [
     "Fear of what could happen",
     "Greed",
@@ -117,7 +117,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say has happened to the market for channels?",
+   "q": "What did I say has happened to the market for channels?",
    "choices": [
     "It has fragmented, with very little barrier to entry",
     "It has consolidated",
@@ -126,7 +126,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say big companies do when a new technology threatens them?",
+   "q": "What did I say big companies do when a new technology threatens them?",
    "choices": [
     "Partner, joint venture, acquire or merge",
     "Stay still",

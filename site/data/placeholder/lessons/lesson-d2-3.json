@@ -4,7 +4,7 @@
  "title": "Winning trust back",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: go backwards and lay everything out: the progression, the intent you had, what derailed it and why you did not get a result. The best thing is to write a letter with full transparency in the process.",
+     "text": "I said: go backwards and lay everything out: the progression, the intent you had, what derailed it and why you did not get a result. The best thing is to write a letter with full transparency in the process.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Integrity and results",
    "lines": [
     {
-     "text": "Jose said that you cannot have people question your integrity. You can have intent and integrity, but people misread the integrity when you do not get the results and you miscommunicated the process, so they say you are dishonest.",
+     "text": "I said that you cannot have people question your integrity. You can have intent and integrity, but people misread the integrity when you do not get the results and you miscommunicated the process, so they say you are dishonest.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that it happens to the best of us, that intent does not always go as planned, and that what matters is communication and transparency.",
+     "text": "I said that it happens to the best of us, that intent does not always go as planned, and that what matters is communication and transparency.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is the best thing to do?",
+   "q": "What did I say is the best thing to do?",
    "choices": [
     "Write a letter with full transparency",
     "Ignore it",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say people misread?",
+   "q": "What did I say people misread?",
    "choices": [
     "Integrity, when results do not arrive",
     "The price",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you cannot have?",
+   "q": "What did I say you cannot have?",
    "choices": [
     "People questioning your integrity",
     "Friends",

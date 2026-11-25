@@ -4,7 +4,7 @@
  "title": "Memory management",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "From negative to empowering",
    "lines": [
     {
-     "text": "Jose asked: could every negative thing that has happened to you empower you? A student said: you can learn from it, and the example of someone who sees a harmful home life and decides not to repeat it.",
+     "text": "I asked: could every negative thing that has happened to you empower you? A student said: you can learn from it, and the example of someone who sees a harmful home life and decides not to repeat it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that some people come from very negative backgrounds and it empowers them: they break the generational cycle. He said the habit did not start with the physical act, it started with the mental act, so how do we catch it?",
+     "text": "I said that some people come from very negative backgrounds and it empowers them: they break the generational cycle. I said the habit did not start with the physical act, it started with the mental act, so how do we catch it?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Memory management",
    "lines": [
     {
-     "text": "Jose said that you have to manage your memories: am I remembering this in a way that is productive to me today? He said the productive way to keep a painful memory is to understand why the person acted as they did. Otherwise the memory becomes an anchor and a trigger.",
+     "text": "I said that you have to manage your memories: am I remembering this in a way that is productive to me today? I said the productive way to keep a painful memory is to understand why the person acted as they did. Otherwise the memory becomes an anchor and a trigger.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you have to manage?",
+   "q": "What did I say you have to manage?",
    "choices": [
     "Your memories",
     "Your calendar only",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What can an unmanaged memory become, according to Jose?",
+   "q": "What can an unmanaged memory become, according to me?",
    "choices": [
     "An anchor and a trigger",
     "A prize",

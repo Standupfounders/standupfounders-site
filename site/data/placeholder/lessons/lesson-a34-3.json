@@ -4,7 +4,7 @@
  "title": "Problems have patterns",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Symptoms and patterns",
    "lines": [
     {
-     "text": "A student said: the symptoms against diagnosing the actual problem. Jose said: very good. Problems have patterns, and when you analyze patterns you get into if-then scenarios: if I do this, the outcome is this.",
+     "text": "A student said: the symptoms against diagnosing the actual problem. I said: very good. Problems have patterns, and when you analyze patterns you get into if-then scenarios: if I do this, the outcome is this.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If-then problem solutions give us an idea of how we can solve problems, he said, and of coming up with alternative solutions.",
+     "text": "If-then problem solutions give us an idea of how we can solve problems, I said, and of coming up with alternative solutions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A supplier raises the price",
    "lines": [
     {
-     "text": "Jose gave an example from his own company: we had a problem with a material we use to solve an erosion problem. The supplier has been going up and up in price. We believe that because they don't have a well-defined business model, they are trying to solve the problem by increasing the price of their product, which hurts our business in a particular area.",
+     "text": "I gave an example from my own company: we had a problem with a material we use to solve an erosion problem. The supplier has been going up and up in price. We believe that because they don't have a well-defined business model, they are trying to solve the problem by increasing the price of their product, which hurts our business in a particular area.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So how do we solve it? We solved it by becoming strategic about it, he said. Can we replace the material? What price can we get? Are we committing any patent infringement with a new material? We ask these questions to attack the problem.",
+     "text": "So how do we solve it? We solved it by becoming strategic about it, I said. Can we replace the material? What price can we get? Are we committing any patent infringement with a new material? We ask these questions to attack the problem.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say effective problem solvers see?",
+   "q": "What did I say effective problem solvers see?",
    "choices": [
     "Patterns",
     "Rules",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose do about the supplier raising prices?",
+   "q": "What did I do about the supplier raising prices?",
    "choices": [
     "Asked whether the material could be replaced and at what price",
     "Paid it",

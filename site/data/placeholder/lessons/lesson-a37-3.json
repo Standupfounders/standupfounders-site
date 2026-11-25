@@ -4,7 +4,7 @@
  "title": "Data without opinion",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,13 +39,13 @@
    "heading": "No room for interpretation",
    "lines": [
     {
-     "text": "Jose said: that is fascinating. You are saying that you should have a communication channel that only presents data. There is no room for opinions. Maybe you could also get people to vote, just using the data, to indicate whether somebody is doing a good job or a bad job.",
+     "text": "I said: that is fascinating. You are saying that you should have a communication channel that only presents data. There is no room for opinions. Maybe you could also get people to vote, just using the data, to indicate whether somebody is doing a good job or a bad job.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: I don't hate that. An opinion-free platform. Jose said: the minute you throw in opinions, that is where it gets political and you get an interpretation. A platform that doesn't have room for interpretation, that is completely data-driven, is a very interesting concept.",
+     "text": "A student said: I don't hate that. An opinion-free platform. I said: the minute you throw in opinions, that is where it gets political and you get an interpretation. A platform that doesn't have room for interpretation, that is completely data-driven, is a very interesting concept.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,13 +56,13 @@
    "heading": "The greater good, whole not part",
    "lines": [
     {
-     "text": "Jose said that he likes to think the well-being of anybody is equally valuable, whatever the culture or the country. You cannot compare the well-being of one group of people with another. Whatever you do has to be equally valuable to everybody: the whole, not the part.",
+     "text": "I said that I like to think the well-being of anybody is equally valuable, whatever the culture or the country. You cannot compare the well-being of one group of people with another. Whatever you do has to be equally valuable to everybody: the whole, not the part.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I think a lot of the causes of wars is when we get into these people against these people, he said. That is not acting for the greater good, it is acting on specific criteria segregated by religion and race.",
+     "text": "I think a lot of the causes of wars is when we get into these people against these people, I said. That is not acting for the greater good, it is acting on specific criteria segregated by religion and race.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens when you add opinions?",
+   "q": "What did I say happens when you add opinions?",
    "choices": [
     "It gets political and interpretation comes in",
     "It gets clearer",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say anything you do has to be?",
+   "q": "What did I say anything you do has to be?",
    "choices": [
     "Equally valuable to everybody: the whole, not the part",
     "Valuable to your team",

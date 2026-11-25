@@ -4,7 +4,7 @@
  "title": "Be findable and different",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Externalize who you are",
    "lines": [
     {
-     "text": "Jose said that people look at leaders to see how relevant they are in their industry, but if you do not externalize it, with articles, a website, news releases or a video channel, nobody will know. He said: go to Google and type your name in and see what comes up. That is your external brand.",
+     "text": "I said that people look at leaders to see how relevant they are in their industry, but if you do not externalize it, with articles, a website, news releases or a video channel, nobody will know. I said: go to Google and type your name in and see what comes up. That is your external brand.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that people go and look for information about what you value, and that you have to differentiate yourself: your activities drive the results that define you. He said the same goes for your company.",
+     "text": "I said that people go and look for information about what you value, and that you have to differentiate yourself: your activities drive the results that define you. I said the same goes for your company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Keep learning",
    "lines": [
     {
-     "text": "Jose said that after school the question is how your learning continues: through the books you read and the people you have. A student said that a few books he read after college changed who he is, in health, diet and personal finance, and he did not learn them in school.",
+     "text": "I said that after school the question is how your learning continues: through the books you read and the people you have. A student said that a few books he read after college changed who he is, in health, diet and personal finance, and he did not learn them in school.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that he has six or seven books going at once and reads several times what he read in a master's degree. This is his claim and is to be verified.",
+     "text": "I said that I have six or seven books going at once and read several times what I read in a master's degree. This is my claim and is to be verified.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Spot the genuine learner",
    "lines": [
     {
-     "text": "Jose said that a curious person asks what you do and what you plan to do with it, not how much money you make, and you can recognize someone interested in what you do and who you are.",
+     "text": "I said that a curious person asks what you do and what you plan to do with it, not how much money you make, and you can recognize someone interested in what you do and who you are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that there are two kinds of people: those who say this is a problem or blame others, and those who say I can solve it and ask what process to fix. He called it a culture of accountability.",
+     "text": "I said that there are two kinds of people: those who say this is a problem or blame others, and those who say I can solve it and ask what process to fix. I called it a culture of accountability.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say to do to see your external brand?",
+   "q": "What did I say to do to see your external brand?",
    "choices": [
     "Type your name into a search engine",
     "Ask a friend",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say drives the results that define you?",
+   "q": "What did I say drives the results that define you?",
    "choices": [
     "Your activities",
     "Your age",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What kind of question did Jose say a curious person asks?",
+   "q": "What kind of question did I say a curious person asks?",
    "choices": [
     "What do you plan to do with it",
     "How much do you earn",

@@ -4,7 +4,7 @@
  "title": "Profile your audience",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that profiling can be more specific, as detectives profile a person, going through a process of interviewing and learning the inputs. He said that a book on the behavior of deceivers is useful for business.",
+     "text": "I said that profiling can be more specific, as detectives profile a person, going through a process of interviewing and learning the inputs. I said that a book on the behavior of deceivers is useful for business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Start broad",
    "lines": [
     {
-     "text": "Jose said: you cannot have authority unless you profile the person.",
+     "text": "I said: you cannot have authority unless you profile the person.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "Learning styles",
    "lines": [
     {
-     "text": "Jose said that a very safe start is understanding the learning styles and personality traits, such as abstract and random against concrete and sequential.",
+     "text": "I said that a very safe start is understanding the learning styles and personality traits, such as abstract and random against concrete and sequential.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you cannot have without profiling?",
+   "q": "What did I say you cannot have without profiling?",
    "choices": [
     "Authority",
     "Money",

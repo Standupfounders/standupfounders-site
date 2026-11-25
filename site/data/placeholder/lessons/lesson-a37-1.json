@@ -4,7 +4,7 @@
  "title": "Who decides what is harmful?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Who decides what is harmful?",
    "lines": [
     {
-     "text": "Jose said the group would continue yesterday's discussion, taking two positions, with him as devil's advocate. The person in the book plays with the idea of buying a social network, because he believes freedom of speech is important. A friend asked: should it be like a telephone system where the words that go in one end come out the same at the other?",
+     "text": "I said the group would continue yesterday's discussion, taking two positions, with me as devil's advocate. The person in the book plays with the idea of buying a social network, because he believes freedom of speech is important. A friend asked: should it be like a telephone system where the words that go in one end come out the same at the other?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,13 +34,13 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said that paternalism is the idea that there is justification for interfering with somebody's liberty for their own good. He asked: what if somebody tweets that they are about to harm a thousand people?",
+     "text": "I said that paternalism is the idea that there is justification for interfering with somebody's liberty for their own good. I asked: what if somebody tweets that they are about to harm a thousand people?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: who determines harmful? Jose said: it could be that everybody agrees a tweet is very dangerous. The student said: so there is a vote. Jose said: very complicated, who picks the judges?",
+     "text": "A student said: who determines harmful? I said: it could be that everybody agrees a tweet is very dangerous. The student said: so there is a vote. I said: very complicated, who picks the judges?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: that is the dilemma. But is there content that should be cut off as harmful and irresponsible to publish? A student said: if you give that line power, where does it get drawn?",
+     "text": "I said: that is the dilemma. But is there content that should be cut off as harmful and irresponsible to publish? A student said: if you give that line power, where does it get drawn?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say paternalism is?",
+   "q": "What did I say paternalism is?",
    "choices": [
     "Interfering with somebody's liberty for their own good",
     "Giving advice",

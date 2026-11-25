@@ -4,7 +4,7 @@
  "title": "Exposure that is not a sale",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Transactional or not",
    "lines": [
     {
-     "text": "Jose said that we are used to the call to action, the sales funnel, send us an email, and that is transactional. The author says to build a base of non-transactional exposure to who you are and what you do.",
+     "text": "I said that we are used to the call to action, the sales funnel, send us an email, and that is transactional. The author says to build a base of non-transactional exposure to who you are and what you do.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that owning your media channel means you have your website and your podcast, a channel you can move to different places.",
+     "text": "I said that owning your media channel means you have your website and your podcast, a channel you can move to different places.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that there is where you get research on what they are thinking, and the momentum, and that the author's contention is that getting them to buy straight away is a much harder uphill battle.",
+     "text": "I said that there is where you get research on what they are thinking, and the momentum, and that the author's contention is that getting them to buy straight away is a much harder uphill battle.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is transactional?",
+   "q": "What did I say is transactional?",
    "choices": [
     "The call to action and sales funnel",
     "A free article",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the author's contention is?",
+   "q": "What did I say the author's contention is?",
    "choices": [
     "Selling straight away is an uphill battle",
     "Selling is easy",

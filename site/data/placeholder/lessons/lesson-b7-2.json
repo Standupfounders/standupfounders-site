@@ -4,7 +4,7 @@
  "title": "Proof of concept",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Strike when they aren't expecting it",
    "lines": [
     {
-     "text": "As Jose retells it, the author compared his launch plan to a famous general's desert campaign in the Second World War: strike when they aren't expecting it, overrun their lines, capture the fuel, and carry on. His plan for financing the channel was similar.",
+     "text": "As I retell it, the author compared his launch plan to a famous general's desert campaign in the Second World War: strike when they aren't expecting it, overrun their lines, capture the fuel, and carry on. His plan for financing the channel was similar.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is interesting that he uses a metaphor of war, Jose said. He says: I have to get enough traction that people know I have a proof of concept. Then I'll be able to sell advertising and raise more money, and my options will open.",
+     "text": "It is interesting that he uses a metaphor of war, I said. He says: I have to get enough traction that people know I have a proof of concept. Then I'll be able to sell advertising and raise more money, and my options will open.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,25 +39,25 @@
    "heading": "Proof of concept",
    "lines": [
     {
-     "text": "Proof of concept is something entrepreneurs deal with, Jose said. Venture capitalists will ask: do you have a proof of concept? You took your idea and developed it. Maybe you have clients already. You have a business model that is proven. You have evidence. You have a market, with the margins you considered.",
+     "text": "Proof of concept is something entrepreneurs deal with, I said. Venture capitalists will ask: do you have a proof of concept? You took your idea and developed it. Maybe you have clients already. You have a business model that is proven. You have evidence. You have a market, with the margins you considered.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The game of an entrepreneur, he said, is to grow your business as much as you can, because as you grow, your valuation goes up.",
+     "text": "The game of an entrepreneur, I said, is to grow your business as much as you can, because as you grow, your valuation goes up.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Many venture capital negotiations go like this, he said. Step one: I'll get to a thousand clients, netting a hundred dollars each. Then ten thousand. After these milestones my valuation will be two million, and after the next ones, thirty million. As you accomplish the targets you agreed on, your valuation moves up. They are not buying at the price you started with.",
+     "text": "Many venture capital negotiations go like this, I said. Step one: I'll get to a thousand clients, netting a hundred dollars each. Then ten thousand. After these milestones my valuation will be two million, and after the next ones, thirty million. As you accomplish the targets you agreed on, your valuation moves up. They are not buying at the price you started with.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The author wants to avoid loans, Jose said, and to bootstrap as much as he can. He is very aware of exactly the money he needs, so he has more options.",
+     "text": "The author wants to avoid loans, I said, and to bootstrap as much as he can. He is very aware of exactly the money he needs, so he has more options.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a proof of concept is?",
+   "q": "What did I say a proof of concept is?",
    "choices": [
     "You developed the idea and have evidence, a market and margins",
     "A drawing of the idea",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say goes up as you grow your business?",
+   "q": "What did I say goes up as you grow your business?",
    "choices": [
     "Your valuation",
     "Your rent",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the author wants to avoid?",
+   "q": "What did I say the author wants to avoid?",
    "choices": [
     "Loans",
     "Customers",

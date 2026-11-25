@@ -4,7 +4,7 @@
  "title": "Who do you hang around?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Calling an old friend",
    "lines": [
     {
-     "text": "Jose said the person in the book looks up his college buddy after the big sale. The friend was the party animal who said: let's get a house and create our own rules, and then they turned the partying into a business.",
+     "text": "I said the person in the book looks up his college buddy after the big sale. The friend was the party animal who said: let's get a house and create our own rules, and then they turned the partying into a business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: it was about reinvigorating that thinking outside the box. Under the pressure of a company you have to think within certain parameters. Jose said: that's exactly how I read it. He wants to get away from the business and the politics and go back to being a kid.",
+     "text": "A student said: it was about reinvigorating that thinking outside the box. Under the pressure of a company you have to think within certain parameters. I said: that's exactly how I read it. He wants to get away from the business and the politics and go back to being a kid.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "There is some purity in it, he said. This friend doesn't care how much money he has. He is just the buddy from college. We gravitate to nurturing relationships with people who knew us when money and politics weren't an issue.",
+     "text": "There is some purity in it, I said. This friend doesn't care how much money he has. He is just the buddy from college. We gravitate to nurturing relationships with people who knew us when money and politics weren't an issue.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
      "kind": "plain"
     },
     {
-     "text": "Judging is one of the most tragic things in human beings, Jose said, because when you judge you don't proceed. You can judge someone who has three traits you don't like, but maybe they have one or two you can learn from, and you shut off that perception.",
+     "text": "Judging is one of the most tragic things in human beings, I said, because when you judge you don't proceed. You can judge someone who has three traits you don't like, but maybe they have one or two you can learn from, and you shut off that perception.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It's not just friends, he said. It could be parents, uncles, a girlfriend or a spouse. How much does their judgment penetrate your sense of purpose and your ambitions?",
+     "text": "It's not just friends, I said. It could be parents, uncles, a girlfriend or a spouse. How much does their judgment penetrate your sense of purpose and your ambitions?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you hang out every weekend with people who are partying all the time, chances are you won't be too inspired in your ventures. If you hang out with people who are purpose-driven, motivated every day, with the right habits, you get inspired as well. That's easier said than done, he said.",
+     "text": "If you hang out every weekend with people who are partying all the time, chances are you won't be too inspired in your ventures. If you hang out with people who are purpose-driven, motivated every day, with the right habits, you get inspired as well. That's easier said than done, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about judging?",
+   "q": "What did I say about judging?",
    "choices": [
     "When you judge, you don't proceed",
     "It keeps you safe",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "Who did Jose say your judges can be?",
+   "q": "Who did I say your judges can be?",
    "choices": [
     "Friends, parents, uncles, a spouse",
     "Only strangers",

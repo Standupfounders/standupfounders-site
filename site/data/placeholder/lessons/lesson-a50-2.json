@@ -4,7 +4,7 @@
  "title": "The first dollar",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that his one yardstick is: when are you making your first dollar? People come with plans for everything, but where is the priority for the money, and when does it come in? A lot of great ideas stall before that first dollar.",
+     "text": "I said that my one yardstick is: when are you making your first dollar? People come with plans for everything, but where is the priority for the money, and when does it come in? A lot of great ideas stall before that first dollar.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Tinkerers and frequency",
    "lines": [
     {
-     "text": "Jose said he calls them the tinkerers, or the paper pushers: they plan and plan and then tinker, but they do not go get the money.",
+     "text": "I said I call them the tinkerers, or the paper pushers: they plan and plan and then tinker, but they do not go get the money.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the frequency of risk-taking and decision-making will eventually take you into the wealth of possibilities. It is all about going out and trying over and over again.",
+     "text": "I said the frequency of risk-taking and decision-making will eventually take you into the wealth of possibilities. It is all about going out and trying over and over again.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What was Jose's one yardstick?",
+   "q": "What was my one yardstick?",
    "choices": [
     "When is your first dollar",
     "How many pages is the plan",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call people who plan and plan but do not go get the money?",
+   "q": "What did I call people who plan and plan but do not go get the money?",
    "choices": [
     "Tinkerers",
     "Leaders",

@@ -4,7 +4,7 @@
  "title": "The million-dollar question",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A hard question",
    "lines": [
     {
-     "text": "Jose said that one of his favorite questions to ask in an interview is: how are you going to make a million dollars in six months? Walk me through the steps. Everybody stops and goes quiet.",
+     "text": "I said that one of my favorite questions to ask in an interview is: how are you going to make a million dollars in six months? Walk me through the steps. Everybody stops and goes quiet.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that people either answer I cannot do it, or they begin to think of the steps, and that the thinking is what he wants to see.",
+     "text": "I said that people either answer I cannot do it, or they begin to think of the steps, and that the thinking is what I want to see.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Your black swan",
    "lines": [
     {
-     "text": "Jose asked a student: what has been a black swan for you, from the origin of your business? The word is the book's name for an unlikely event with large effects.",
+     "text": "I asked a student: what has been a black swan for you, from the origin of your business? The word is the book's name for an unlikely event with large effects.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What interview question did Jose ask?",
+   "q": "What interview question did I ask?",
    "choices": [
     "How would you make a million in six months",
     "What is your salary",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call an unlikely event with large effects?",
+   "q": "What did I call an unlikely event with large effects?",
    "choices": [
     "A black swan",
     "A blue chip",

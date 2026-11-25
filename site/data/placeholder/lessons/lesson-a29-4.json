@@ -4,7 +4,7 @@
  "title": "Anxiety, faith and imagination",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Three stages",
    "lines": [
     {
-     "text": "Jose said he gave a student books by a philosopher who is one of his favourites and who is a little more positive than the three. They were more black and white. This one was all about the gray area.",
+     "text": "I said I gave a student books by a philosopher who is one of my favourites and who is a little more positive than the three. They were more black and white. This one was all about the gray area.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He separated man into three stages, Jose said: the aesthetic, the ethical and the religious. The aesthetic is the appreciation of beauty and art, part of growing up. But you can stay in it, and it will eventually affect your ethical stage, what is right and what is wrong. The last stage is the religious: faith.",
+     "text": "He separated man into three stages, I said: the aesthetic, the ethical and the religious. The aesthetic is the appreciation of beauty and art, part of growing up. But you can stay in it, and it will eventually affect your ethical stage, what is right and what is wrong. The last stage is the religious: faith.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Faith in faith itself",
    "lines": [
     {
-     "text": "Jose said that on your deathbed, as the pessimists see it, my life is meaningless, there is no afterlife. This philosopher would say: I'm going into a beautiful alternative reality. Having that faith, that ambition, is drawn from the aesthetic stage.",
+     "text": "I said that on your deathbed, as the pessimists see it, my life is meaningless, there is no afterlife. This philosopher would say: I'm going into a beautiful alternative reality. Having that faith, that ambition, is drawn from the aesthetic stage.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said faith can lead you to define love, to believe in beauty and truth. Faith is the glue that creates relationships among people, and a common ground to say: look at that beautiful window, that beautiful flower.",
+     "text": "I said faith can lead you to define love, to believe in beauty and truth. Faith is the glue that creates relationships among people, and a common ground to say: look at that beautiful window, that beautiful flower.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,19 +62,19 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that there are such few books, conversations and experiences with our fathers and mothers in childhood that define the rest of our life. It is almost like somebody takes a picture of us and it is frozen, but becomes thematic.",
+     "text": "I said that there are such few books, conversations and experiences with our fathers and mothers in childhood that define the rest of our life. It is almost like somebody takes a picture of us and it is frozen, but becomes thematic.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said this philosopher believed that anxiety is a necessary thing for human existence, to understand free will, the will to make a decision. Anxiety drives us.",
+     "text": "I said this philosopher believed that anxiety is a necessary thing for human existence, to understand free will, the will to make a decision. Anxiety drives us.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that the person in the book sorts out his anxiety by using science fiction to create reality through technology, to push the boundaries of reality. That is how he soothes it.",
+     "text": "I said that the person in the book sorts out his anxiety by using science fiction to create reality through technology, to push the boundaries of reality. That is how he soothes it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What three stages did Jose name?",
+   "q": "What three stages did I name?",
    "choices": [
     "The aesthetic, the ethical and the religious",
     "The young, the middle and the old",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say anxiety is, in the philosopher's view?",
+   "q": "What did I say anxiety is, in the philosopher's view?",
    "choices": [
     "A necessary thing that drives us",
     "A disease only",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say faith is?",
+   "q": "What did I say faith is?",
    "choices": [
     "The glue that creates relationships",
     "A rule",

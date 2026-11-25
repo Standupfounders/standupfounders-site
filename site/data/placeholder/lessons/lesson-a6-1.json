@@ -4,7 +4,7 @@
  "title": "Two sides of the page",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,19 +28,19 @@
      "kind": "student"
     },
     {
-     "text": "Imagine you draw a line down the middle of a page, Jose said. On one side is the mad scientist: visionary, intuitive, goal-oriented, seeing the future. On the other side are the operational people who help you get there. There will always be that division.",
+     "text": "Imagine you draw a line down the middle of a page, I said. On one side is the mad scientist: visionary, intuitive, goal-oriented, seeing the future. On the other side are the operational people who help you get there. There will always be that division.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He used the personality test: intuitive people and sensors. Sensors are in the here and now. A person with fifty things to do today gets great anxiety from someone who only talks about the future of banking.",
+     "text": "I used the personality test: intuitive people and sensors. Sensors are in the here and now. A person with fifty things to do today gets great anxiety from someone who only talks about the future of banking.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "We have to learn to balance that, he said.",
+     "text": "We have to learn to balance that, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
    "heading": "Nuggets of gold",
    "lines": [
     {
-     "text": "He gets on a mission, Jose said, and on the way he finds little nuggets of gold. You have a vision for a business and on the road you find an opportunity: oh my God, I didn't see this.",
+     "text": "He gets on a mission, I said, and on the way he finds little nuggets of gold. You have a vision for a business and on the road you find an opportunity: oh my God, I didn't see this.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "His example: a payment system built on email that became the core business, and a company that wanted to colonize another planet found itself with a satellite business. The road takes you off the road, he said, to a destination where you say: I just found something.",
+     "text": "My example: a payment system built on email that became the core business, and a company that wanted to colonize another planet found itself with a satellite business. The road takes you off the road, I said, to a destination where you say: I just found something.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -69,7 +69,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he has seen what happens to a company when the innovation leaves and only corporate people doing daily tasks are left.",
+     "text": "I said I have seen what happens to a company when the innovation leaves and only corporate people doing daily tasks are left.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
  },
  "check": [
   {
-   "q": "How did Jose describe the visionary side?",
+   "q": "How did I describe the visionary side?",
    "choices": [
     "Mad scientist, intuitive, goal-oriented, seeing the future",
     "Careful and slow",
@@ -120,7 +120,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call the opportunities found along the way to a mission?",
+   "q": "What did I call the opportunities found along the way to a mission?",
    "choices": [
     "Nuggets of gold",
     "Mistakes",

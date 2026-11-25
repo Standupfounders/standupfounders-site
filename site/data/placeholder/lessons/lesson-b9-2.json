@@ -4,7 +4,7 @@
  "title": "There's nothing better than both parties win",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,25 +22,25 @@
    "heading": "There's nothing better than both parties win",
    "lines": [
     {
-     "text": "As Jose retells it, the other side wanted twenty-five million dollars and would go away. Jose said: think of the stress. He is still losing money, and now he needs to cough up another twenty-five million.",
+     "text": "As I retell it, the other side wanted twenty-five million dollars and would go away. I said: think of the stress. He is still losing money, and now he needs to cough up another twenty-five million.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They settled on the twenty-five million, he said, and we know the author knows how to negotiate terms. You learn an incredible amount of wisdom from negotiating terms. Maybe you don't have all the money, but you can negotiate terms so that both parties win.",
+     "text": "They settled on the twenty-five million, I said, and we know the author knows how to negotiate terms. You learn an incredible amount of wisdom from negotiating terms. Maybe you don't have all the money, but you can negotiate terms so that both parties win.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "One thing I really like about him is that he is always fair, Jose said. He doesn't have the attitude of: I won the negotiation, they lost. He defends himself if he is attacked, but he is always fair and just. There is nothing better than both parties win.",
+     "text": "One thing I really like about him is that he is always fair, I said. He doesn't have the attitude of: I won the negotiation, they lost. He defends himself if he is attacked, but he is always fair and just. There is nothing better than both parties win.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose read a line from the author after the settlement.",
+     "text": "I read a line from the author after the settlement.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -52,13 +52,13 @@
      "kind": "quote"
     },
     {
-     "text": "What a great statement, Jose said. He is very conscious of all the things he is achieving, and he is very happy with his achievements.",
+     "text": "What a great statement, I said. He is very conscious of all the things he is achieving, and he is very happy with his achievements.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said one thing they took away was that the author is very aware of cost, even in his personal life. Jose agreed.",
+     "text": "A student said one thing they took away was that the author is very aware of cost, even in his personal life. I agreed.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -91,7 +91,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you can negotiate if you don't have all the money?",
+   "q": "What did I say you can negotiate if you don't have all the money?",
    "choices": [
     "Terms",
     "Interest",
@@ -100,7 +100,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the author in a negotiation?",
+   "q": "What did I say about the author in a negotiation?",
    "choices": [
     "He is always fair",
     "He always wins everything",
@@ -109,7 +109,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is better than anything else in a deal?",
+   "q": "What did I say is better than anything else in a deal?",
    "choices": [
     "Both parties win",
     "Winning big",

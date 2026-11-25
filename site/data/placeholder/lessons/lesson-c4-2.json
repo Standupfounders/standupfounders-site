@@ -4,7 +4,7 @@
  "title": "Presence and attention",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Presence",
    "lines": [
     {
-     "text": "Jose said that when you travel for the first time there is a purity and simplicity, because you are paying attention to the senses. Everything around you normally fights for your attention and pulls it to work in a particular way.",
+     "text": "I said that when you travel for the first time there is a purity and simplicity, because you are paying attention to the senses. Everything around you normally fights for your attention and pulls it to work in a particular way.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when you are present and the usual stimulus is gone, your attention can seize opportunity, because your subconscious is maximized and your conscious mind concentrates.",
+     "text": "I said that when you are present and the usual stimulus is gone, your attention can seize opportunity, because your subconscious is maximized and your conscious mind concentrates.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "A strategy",
    "lines": [
     {
-     "text": "Jose asked for a strategy. A student said: tune into the moment, meditate, appreciate. Jose said that in meditation you are making the subconscious conscious.",
+     "text": "I asked for a strategy. A student said: tune into the moment, meditate, appreciate. I said that in meditation you are making the subconscious conscious.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "plain"
     },
     {
-     "text": "He said: when you lose it, notice quickly and bring yourself back. You know you are getting better when you keep attention longer, and when you notice faster.",
+     "text": "I said: when you lose it, notice quickly and bring yourself back. You know you are getting better when you keep attention longer, and when you notice faster.",
      "mark": "N",
      "cue": "",
      "kind": "student"
@@ -62,7 +62,7 @@
    "heading": "Repetition of the good",
    "lines": [
     {
-     "text": "Jose said that repetition is probably the most effective strategy: you can beat yourself up over the money you should have made, or say: I have been successful in this situation before, I have felt this stress before. I will turn it in a positive direction and go into possibility thinking.",
+     "text": "I said that repetition is probably the most effective strategy: you can beat yourself up over the money you should have made, or say: I have been successful in this situation before, I have felt this stress before. I will turn it in a positive direction and go into possibility thinking.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens when you are present and free of stimulus?",
+   "q": "What did I say happens when you are present and free of stimulus?",
    "choices": [
     "Your attention can seize opportunity",
     "You get bored",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is probably the most effective strategy?",
+   "q": "What did I say is probably the most effective strategy?",
    "choices": [
     "Repetition",
     "Complaining",

@@ -4,7 +4,7 @@
  "title": "Global nomads",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Global nomads",
    "lines": [
     {
-     "text": "Jose asked: why is the first friend he makes a man like this? A student said: because he's well traveled and culturally diverse, and he complements him. Jose said: there is a very interesting phenomenon with children who have grown up in different cultures. They are called global nomads.",
+     "text": "I asked: why is the first friend he makes a man like this? A student said: because he's well traveled and culturally diverse, and he complements him. I said: there is a very interesting phenomenon with children who have grown up in different cultures. They are called global nomads.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A global nomad is somebody who has lived in more than two countries in their life, he said. They develop an identity around having moved. A student said it makes you less of a nationalist and more of a globalist. Jose said: you're more culturally suspended, because your identity is not attached to a specific country or culture.",
+     "text": "A global nomad is somebody who has lived in more than two countries in their life, I said. They develop an identity around having moved. A student said it makes you less of a nationalist and more of a globalist. I said: you're more culturally suspended, because your identity is not attached to a specific country or culture.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "Monocultural and multicultural",
    "lines": [
     {
-     "text": "That has a big impact on your relationships with people who have grown up in the same small town their whole life, Jose said. A monocultural person has had the same friends their whole life, so their adaptation to change is generally slower. There is natural conflict, because the multicultural person sees things on a more global level.",
+     "text": "That has a big impact on your relationships with people who have grown up in the same small town their whole life, I said. A monocultural person has had the same friends their whole life, so their adaptation to change is generally slower. There is natural conflict, because the multicultural person sees things on a more global level.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A specific example, he said: a multicultural person discloses personal information without considering it a risk. The monocultural person thinks: why is this person telling me their whole life story in five minutes?",
+     "text": "A specific example, I said: a multicultural person discloses personal information without considering it a risk. The monocultural person thinks: why is this person telling me their whole life story in five minutes?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose retells it, the author meets the person closest to his own reality: a mix of countries, thinking multiculturally and in the big picture. They start to play games that simulate reality, and a student said their goals outside the game are very different from a person of one culture: they are thinking at a much higher level.",
+     "text": "As I retell it, the author meets the person closest to his own reality: a mix of countries, thinking multiculturally and in the big picture. They start to play games that simulate reality, and a student said their goals outside the game are very different from a person of one culture: they are thinking at a much higher level.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call someone who has lived in more than two countries?",
+   "q": "What did I call someone who has lived in more than two countries?",
    "choices": [
     "A global nomad",
     "A traveler",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a monocultural person's adaptation to change is generally?",
+   "q": "What did I say a monocultural person's adaptation to change is generally?",
    "choices": [
     "Slower",
     "Faster",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a multicultural person does with personal information?",
+   "q": "What did I say a multicultural person does with personal information?",
    "choices": [
     "Discloses it without considering it a risk",
     "Hides it",

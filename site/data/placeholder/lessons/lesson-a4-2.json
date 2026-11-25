@@ -4,7 +4,7 @@
  "title": "Founder or CEO?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,13 +28,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked: are the founders of a big technology company, scientists and coders, necessarily CEO material? You can be a founder, he said, but not necessarily the CEO, which is a totally different skill set.",
+     "text": "I asked: are the founders of a big technology company, scientists and coders, necessarily CEO material? You can be a founder, I said, but not necessarily the CEO, which is a totally different skill set.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Running a company of fifty thousand people is not the same as running a start-up with an idea and ten employees, he said. It's night and day. Maybe someone has the title so they can make management decisions and stick to strategy, and a chief operating officer behind the scenes does the day to day.",
+     "text": "Running a company of fifty thousand people is not the same as running a start-up with an idea and ten employees, I said. It's night and day. Maybe someone has the title so they can make management decisions and stick to strategy, and a chief operating officer behind the scenes does the day to day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Don't be insecure",
    "lines": [
     {
-     "text": "So that is the second lesson, he said: don't ever be insecure as an entrepreneur that you're not the CEO of your company. You could hire somebody to run it, and you stick to strategy, ideas and the direction of the company. It could be counterproductive for you to be the day-to-day manager.",
+     "text": "So that is the second lesson, I said: don't ever be insecure as an entrepreneur that you're not the CEO of your company. You could hire somebody to run it, and you stick to strategy, ideas and the direction of the company. It could be counterproductive for you to be the day-to-day manager.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Be where you are most effective, he said, and don't be afraid to put people who are smarter than you in the key positions. But be very careful. He told of a founder who hired the head of a soft-drink company as CEO, who ended up turning on him: he was not a visionary. The founder was fired from his own company.",
+     "text": "Be where you are most effective, I said, and don't be afraid to put people who are smarter than you in the key positions. But be very careful. I told of a founder who hired the head of a soft-drink company as CEO, who ended up turning on him: he was not a visionary. The founder was fired from his own company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about founders and CEOs?",
+   "q": "What did I say about founders and CEOs?",
    "choices": [
     "A founder is not necessarily the CEO; it is a different skill set",
     "They are always the same",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to do about being CEO?",
+   "q": "What did I say to do about being CEO?",
    "choices": [
     "Don't be insecure about not being CEO; stick to strategy",
     "Always be CEO",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose warn about when putting a smarter person in a key role?",
+   "q": "What did I warn about when putting a smarter person in a key role?",
    "choices": [
     "Be very careful who you pick",
     "Do not pay them",

@@ -4,7 +4,7 @@
  "title": "Your strengths and your gaps",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A round of strengths",
    "lines": [
     {
-     "text": "Jose asked each person: what is your strength as a leader, and your lack of strength? One student said empathy is a strength and the frequency of communication is a weakness. Another said adaptability and situational awareness.",
+     "text": "I asked each person: what is your strength as a leader, and your lack of strength? One student said empathy is a strength and the frequency of communication is a weakness. Another said adaptability and situational awareness.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that he asked this because we need to analyze: am I a back-end person who keeps the data under control, or a front-end person who can sit with someone and make an emotional and rational connection?",
+     "text": "I said that I asked this because we need to analyze: am I a back-end person who keeps the data under control, or a front-end person who can sit with someone and make an emotional and rational connection?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -36,16 +36,16 @@
    ]
   },
   {
-   "heading": "Jose's own weaknesses",
+   "heading": "My own weaknesses",
    "lines": [
     {
-     "text": "Jose said he can talk about his weaknesses more easily than his strengths. He said he can switch from the empathetic, servant leader to just get this done and become insensitive, and that he has a tendency to switch off while someone talks. Every day he reminds himself to be a better listener.",
+     "text": "I said I can talk about my weaknesses more easily than my strengths. I said I can switch from the empathetic, servant leader to just get this done and become insensitive, and that I have a tendency to switch off while someone talks. Every day I remind myself to be a better listener.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that he focuses on strategy and talks little about operations, so he puts people in place for the day-to-day who remind him of the schedule and milestones. He said he struggles with administrative tasks.",
+     "text": "I said that I focus on strategy and talk little about operations, so I put people in place for the day-to-day who remind me of the schedule and milestones. I said I struggle with administrative tasks.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask each person?",
+   "q": "What did I ask each person?",
    "choices": [
     "Their strength and their lack of strength",
     "Their salary",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he does about day-to-day operations?",
+   "q": "What did I say I do about day-to-day operations?",
    "choices": [
     "Puts people in place for them",
     "Does them all",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he reminds himself to be?",
+   "q": "What did I say I remind myself to be?",
    "choices": [
     "A better listener",
     "A louder speaker",

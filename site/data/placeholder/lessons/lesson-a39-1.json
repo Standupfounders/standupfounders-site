@@ -4,7 +4,7 @@
  "title": "Walking along the beach",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Learning that is not an obligation",
    "lines": [
     {
-     "text": "Jose said that a lot had happened in the last two weeks and he wanted to reflect on last year and this year: what is it about stand-up and about reading and learning that changes our perspective? When we read, how do we extract meaning from the books? How is it relevant in your life? How does it change you?",
+     "text": "I said that a lot had happened in the last two weeks and I wanted to reflect on last year and this year: what is it about stand-up and about reading and learning that changes our perspective? When we read, how do we extract meaning from the books? How is it relevant in your life? How does it change you?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is not an obligation, he said. We are programmed that way in education, which is the problem I have with my own kids' school. Guys, don't let school make you feel the concept of learning is an obligation. If you don't want to read something, don't read it.",
+     "text": "It is not an obligation, I said. We are programmed that way in education, which is the problem I have with my own kids' school. Guys, don't let school make you feel the concept of learning is an obligation. If you don't want to read something, don't read it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "A walk along the beach",
    "lines": [
     {
-     "text": "Jose said that when he reads, he reads five or six books at once, and that you find interconnecting things between them, which is exciting. He gave a metaphor: imagine you are walking along a beach, and that is passing the pages of a book.",
+     "text": "I said that when I read, I read five or six books at once, and that you find interconnecting things between them, which is exciting. I gave a metaphor: imagine you are walking along a beach, and that is passing the pages of a book.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Every step along an empty beach you are looking down for specific things that jump out at you, he said: maybe white shells, maybe brown, something you have never found before. How frequently do you take those walks? That is constantly learning and not having limitations.",
+     "text": "Every step along an empty beach you are looking down for specific things that jump out at you, I said: maybe white shells, maybe brown, something you have never found before. How frequently do you take those walks? That is constantly learning and not having limitations.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say learning should not be?",
+   "q": "What did I say learning should not be?",
    "choices": [
     "An obligation",
     "A habit",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose compare passing the pages of a book to?",
+   "q": "What did I compare passing the pages of a book to?",
    "choices": [
     "Walking along a beach",
     "Climbing a hill",

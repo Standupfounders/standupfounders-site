@@ -4,7 +4,7 @@
  "title": "Business is like a road",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Streamline",
    "lines": [
     {
-     "text": "Jose said that, in a small team, you are vulnerable to getting into the wrong deal. If you get into the wrong deal it could be a year of your time. You don't have a year of time.",
+     "text": "I said that, in a small team, you are vulnerable to getting into the wrong deal. If you get into the wrong deal it could be a year of your time. You don't have a year of time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What are the criteria when big companies buy a company, he asked? How quickly does it improve my bottom line? And how are the company's processes already aligned with my processes?",
+     "text": "What are the criteria when big companies buy a company, I asked? How quickly does it improve my bottom line? And how are the company's processes already aligned with my processes?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you have momentum and you've got your staff, he said, be careful not to be in a business that changes your existing processes. Use your existing processes to gain more revenue. Keep that streamline and add more revenue using it.",
+     "text": "If you have momentum and you've got your staff, I said, be careful not to be in a business that changes your existing processes. Use your existing processes to gain more revenue. Keep that streamline and add more revenue using it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Business is like a road",
    "lines": [
     {
-     "text": "Business is like a road, Jose said. When they build a road, first they put rock on it, then thinner rock, then they wet it and compact the dirt, then gravel, then the thick tar. They are layering the road. We layer in business too, because we want the car to keep going along that road and get momentum.",
+     "text": "Business is like a road, I said. When they build a road, first they put rock on it, then thinner rock, then they wet it and compact the dirt, then gravel, then the thick tar. They are layering the road. We layer in business too, because we want the car to keep going along that road and get momentum.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,13 +68,13 @@
    "heading": "Leadership is about accountability, and it starts with yourself",
    "lines": [
     {
-     "text": "Jose summed up: so far we have gone into personal leadership, belief systems, and now strategy and operations. Leadership is about accountability, and it starts with yourself.",
+     "text": "I summed up: so far we have gone into personal leadership, belief systems, and now strategy and operations. Leadership is about accountability, and it starts with yourself.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you are not accountable to yourself, he said, and you are blaming people and circumstances and victimizing yourself, you are never going to get anywhere. The author had a lot of opportunities to victimize himself. The networks had a monopoly. They were lobbying against him.",
+     "text": "If you are not accountable to yourself, I said, and you are blaming people and circumstances and victimizing yourself, you are never going to get anywhere. The author had a lot of opportunities to victimize himself. The networks had a monopoly. They were lobbying against him.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -100,14 +100,14 @@
   "steps": [
    "Write the road you have been building: your process, your clients, your momentum.",
    "Write a new opportunity you are considering.",
-   "Ask Jose's questions: does it build my current business, make me stronger, give me leverage, give me security?",
+   "Ask my questions: does it build my current business, make me stronger, give me leverage, give me security?",
    "Write what it would change in your existing process.",
    "Decide: add it to your road, or leave it."
   ]
  },
  "check": [
   {
-   "q": "What did Jose say a wrong deal could cost a small team?",
+   "q": "What did I say a wrong deal could cost a small team?",
    "choices": [
     "A year of time",
     "A little money",
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose compare business to?",
+   "q": "What did I compare business to?",
    "choices": [
     "A road that is layered so the car keeps momentum",
     "A river",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say leadership starts with?",
+   "q": "What did I say leadership starts with?",
    "choices": [
     "Being accountable to yourself",
     "Being rich",

@@ -4,7 +4,7 @@
  "title": "Have to, or get to",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that parents can accidentally anchor negative things: I can not wait for the weekend, I hate my boss. He said that if you do not interpret what happens to you, you become a victim of circumstance.",
+     "text": "I said that parents can accidentally anchor negative things: I can not wait for the weekend, I hate my boss. I said that if you do not interpret what happens to you, you become a victim of circumstance.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the word equanimity means the ability to maintain an evenness of temperament in good or bad situations, and that we can learn to elevate emotion in a positive way. Without regulating, we let boredom run into a negative spiral.",
+     "text": "I said the word equanimity means the ability to maintain an evenness of temperament in good or bad situations, and that we can learn to elevate emotion in a positive way. Without regulating, we let boredom run into a negative spiral.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say equanimity is?",
+   "q": "What did I say equanimity is?",
    "choices": [
     "Evenness of temperament",
     "Speed",

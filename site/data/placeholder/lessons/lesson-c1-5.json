@@ -4,7 +4,7 @@
  "title": "Replace, don't just remove",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,13 +28,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he likes replacing them: when you have energy in one direction, keep going with the energy, but channel it somewhere else. Recognizing what is triggering it is key.",
+     "text": "I said I like replacing them: when you have energy in one direction, keep going with the energy, but channel it somewhere else. Recognizing what is triggering it is key.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he plays classical music as a trigger to be productive and to sit at his desk, not listen to the phone. Pick something powerful that insulates you from negative triggers.",
+     "text": "I said I play classical music as a trigger to be productive and to sit at my desk, not listen to the phone. Pick something powerful that insulates you from negative triggers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose prefer to do with a negative habit?",
+   "q": "What did I prefer to do with a negative habit?",
    "choices": [
     "Replace it",
     "Ignore it",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is key?",
+   "q": "What did I say is key?",
    "choices": [
     "Recognizing what is triggering it",
     "Willpower alone",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose use as a trigger to be productive?",
+   "q": "What did I use as a trigger to be productive?",
    "choices": [
     "Classical music",
     "A phone alarm",

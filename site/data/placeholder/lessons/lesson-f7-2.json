@@ -4,7 +4,7 @@
  "title": "A steady mood is influence",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Your mood",
    "lines": [
     {
-     "text": "Jose asked: what matters most to you at this moment in time? He said that it is the power of being intentional.",
+     "text": "I asked: what matters most to you at this moment in time? I said that it is the power of being intentional.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that you cannot be influential if you are going up and down in your moods, and that students in college who have this under control will have people coming to them.",
+     "text": "I said that you cannot be influential if you are going up and down in your moods, and that students in college who have this under control will have people coming to them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "An amazing day for them",
    "lines": [
     {
-     "text": "Jose said that people will have ups and downs at the beginning, this is a bad day or an amazing day, and asked: how do you get someone for whom every day is amazing when they see you?",
+     "text": "I said that people will have ups and downs at the beginning, this is a bad day or an amazing day, and asked: how do you get someone for whom every day is amazing when they see you?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked about a small gesture that makes someone feel good first thing in the morning, such as at breakfast time, and said that is how you lift people up.",
+     "text": "I asked about a small gesture that makes someone feel good first thing in the morning, such as at breakfast time, and said that is how you lift people up.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you cannot be with swinging moods?",
+   "q": "What did I say you cannot be with swinging moods?",
    "choices": [
     "Influential",
     "Honest",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose ask?",
+   "q": "What did I ask?",
    "choices": [
     "What matters most to you now",
     "What time it is",

@@ -4,7 +4,7 @@
  "title": "Choosing a publicist",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,7 +39,7 @@
    "heading": "On the hook for results",
    "lines": [
     {
-     "text": "Jose said that if a publicist is abstract and noncommittal about results, you are in danger of losing your money. You want them specific about your audience and how they will get results.",
+     "text": "I said that if a publicist is abstract and noncommittal about results, you are in danger of losing your money. You want them specific about your audience and how they will get results.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "A good sign",
    "lines": [
     {
-     "text": "Jose said that a good publicist takes a big interest in your background, goals and messaging, and if they are not interested in learning who you are, that is a warning sign.",
+     "text": "I said that a good publicist takes a big interest in your background, goals and messaging, and if they are not interested in learning who you are, that is a warning sign.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about a publicist who is abstract on results?",
+   "q": "What did I say about a publicist who is abstract on results?",
    "choices": [
     "You are in danger of losing your money",
     "They are the best",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is a good sign?",
+   "q": "What did I say is a good sign?",
    "choices": [
     "Interest in your background and goals",
     "A long contract",

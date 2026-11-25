@@ -4,7 +4,7 @@
  "title": "Control the process",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Control the process",
    "lines": [
     {
-     "text": "Jose said the person in the book kept tight control of the manufacturing process, even when many companies sent their factories abroad. That is quality control.",
+     "text": "I said the person in the book kept tight control of the manufacturing process, even when many companies sent their factories abroad. That is quality control.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He told of a friend, a partner and mentor, who had a fishing-reel business. A well-known reel maker moved all its manufacturing abroad, and the friend said: the reels will never be the same, so get all the old ones you can. The quality control wasn't there, Jose said, and a competitor took the market.",
+     "text": "I told of a friend, a partner and mentor, who had a fishing-reel business. A well-known reel maker moved all its manufacturing abroad, and the friend said: the reels will never be the same, so get all the old ones you can. The quality control wasn't there, I said, and a competitor took the market.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "A closed system, and the factory as the product",
    "lines": [
     {
-     "text": "Jose said the famous founder criticized the software-only company because anyone could install its software on thousands of computers, whose hardware could be terrible. I believe in a closed system, he said: nobody can install software on my computer, and I have a tight control over the end result and the user interface.",
+     "text": "I said the famous founder criticized the software-only company because anyone could install its software on thousands of computers, whose hardware could be terrible. I believe in a closed system, he said: nobody can install software on my computer, and I have a tight control over the end result and the user interface.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "plain"
     },
     {
-     "text": "He leaves no room for error, Jose said. He has ultimate control of all the process. I have never seen an entrepreneur with this level of control. A student added: engineering and the design team are one, and so are design and manufacturing.",
+     "text": "He leaves no room for error, I said. He has ultimate control of all the process. I have never seen an entrepreneur with this level of control. A student added: engineering and the design team are one, and so are design and manufacturing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the person kept control of?",
+   "q": "What did I say the person kept control of?",
    "choices": [
     "The manufacturing process",
     "The logo",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happened to the reel maker's quality after it moved?",
+   "q": "What did I say happened to the reel maker's quality after it moved?",
    "choices": [
     "The quality control wasn't there",
     "It improved",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is tiny compared to designing the factory?",
+   "q": "What did I say is tiny compared to designing the factory?",
    "choices": [
     "Designing the car",
     "Naming it",

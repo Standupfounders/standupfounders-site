@@ -4,7 +4,7 @@
  "title": "Your brand is like real estate",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The parallel",
    "lines": [
     {
-     "text": "Jose said that the chapter draws a parallel between real estate and your personal brand, and that as we get older we see the importance of passive income, because one day we will not be able to work. You want your money working for you and not depend on you doing something physically.",
+     "text": "I said that the chapter draws a parallel between real estate and your personal brand, and that as we get older we see the importance of passive income, because one day we will not be able to work. You want your money working for you and not depend on you doing something physically.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said to be consistent with your brand: how you get your name out, your brand equity, your brand DNA, and your expertise, with a collection of books that build it.",
+     "text": "I said to be consistent with your brand: how you get your name out, your brand equity, your brand DNA, and your expertise, with a collection of books that build it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that the author's message is simple: publish a book because that will give you authority. He said all of us have to have a simple one-liner.",
+     "text": "I said that the author's message is simple: publish a book because that will give you authority. I said all of us have to have a simple one-liner.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you want your money to do?",
+   "q": "What did I say you want your money to do?",
    "choices": [
     "Work for you",
     "Sleep",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say all of us have to have?",
+   "q": "What did I say all of us have to have?",
    "choices": [
     "A simple one-liner",
     "A long speech",

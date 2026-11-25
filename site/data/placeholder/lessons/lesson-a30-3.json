@@ -4,7 +4,7 @@
  "title": "Rising above bias",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Rising above bias",
    "lines": [
     {
-     "text": "Jose said: the common denominator of these people is that they are trying to rise above people's individual biases. He asked: does this guy have a bias? A student said: and he does that through challenging them. Jose said: that's exactly what he's doing.",
+     "text": "I said: the common denominator of these people is that they are trying to rise above people's individual biases. I asked: does this guy have a bias? A student said: and he does that through challenging them. I said: that's exactly what he's doing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose gave an example. When I go to the mechanic, he said, I am immediately on alert, because he will lift the hood and quickly realize I know nothing. How do I protect myself? He says: this is two thousand dollars. I'll ask questions to see if he is lying, and use a totally different knowledge base to judge whether I am choosing the right mechanic.",
+     "text": "I gave an example. When I go to the mechanic, I said, I am immediately on alert, because he will lift the hood and quickly realize I know nothing. How do I protect myself? I say: this is two thousand dollars. I'll ask questions to see if he is lying, and use a totally different knowledge base to judge whether I am choosing the right mechanic.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That is the essence of how these people can run multiple businesses, he said.",
+     "text": "That is the essence of how these people can run multiple businesses, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Packages of knowledge",
    "lines": [
     {
-     "text": "Jose said that educational systems package knowledge into little packages, engineering 101, 102, and give you five years of engineering. It becomes meaningful and easy to remember and creates a structure for you. What happens to that?",
+     "text": "I said that educational systems package knowledge into little packages, engineering 101, 102, and give you five years of engineering. It becomes meaningful and easy to remember and creates a structure for you. What happens to that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said he can go on tangents and throw things on a wall and the students have to synthesize. Schools want you to leave with a knowledge base, so they organize it in chunks. Some schools go the opposite way and leave it open.",
+     "text": "I said I can go on tangents and throw things on a wall and the students have to synthesize. Schools want you to leave with a knowledge base, so they organize it in chunks. Some schools go the opposite way and leave it open.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say these leaders try to rise above?",
+   "q": "What did I say these leaders try to rise above?",
    "choices": [
     "Individual biases",
     "Rivals",
@@ -99,11 +99,11 @@
    "answer": 0
   },
   {
-   "q": "How did Jose protect himself with a mechanic?",
+   "q": "How did I protect myself with a mechanic?",
    "choices": [
-    "He asked questions and used another knowledge base",
-    "He paid at once",
-    "He left"
+    "I asked questions and used another knowledge base",
+    "I paid at once",
+    "I left"
    ],
    "answer": 0
   },

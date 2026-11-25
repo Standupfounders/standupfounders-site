@@ -4,7 +4,7 @@
  "title": "No barriers to entry",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "If I control the access, I control the content",
    "lines": [
     {
-     "text": "What kind of company would you buy, Jose asked, if you were the other chief executive, considering the times and the monopolies of the big three networks? A student said: a video streaming business. Jose said: way too soon. People are logging into dial-up. You had a modem and a little box. A student said: they want more distribution around the world.",
+     "text": "What kind of company would you buy, I asked, if you were the other chief executive, considering the times and the monopolies of the big three networks? A student said: a video streaming business. I said: way too soon. People are logging into dial-up. You had a modem and a little box. A student said: they want more distribution around the world.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Very good, Jose said. Somebody in distribution, giving people access to the internet. The assumption is: if I control the access, I'm going to control the content. If I control the cables going to people's homes, I control the television. That is how an internet access company comes into the picture.",
+     "text": "Very good, I said. Somebody in distribution, giving people access to the internet. The assumption is: if I control the access, I'm going to control the content. If I control the cables going to people's homes, I control the television. That is how an internet access company comes into the picture.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,31 +39,31 @@
    "heading": "No barriers to entry",
    "lines": [
     {
-     "text": "That company was providing a service using the infrastructure of the telecoms, Jose said. It didn't own the phone line or the cable. It owned the software that gives you a signal, and it did the billing. It did not own a physical asset.",
+     "text": "That company was providing a service using the infrastructure of the telecoms, I said. It didn't own the phone line or the cable. It owned the software that gives you a signal, and it did the billing. It did not own a physical asset.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They misjudged it, he said. They thought this was a company that was really flying. The growth blinded them. But there were no barriers to entry for other people to get into that business. That was the biggest lesson.",
+     "text": "They misjudged it, I said. They thought this was a company that was really flying. The growth blinded them. But there were no barriers to entry for other people to get into that business. That was the biggest lesson.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Barriers to entry, he said, means there is something that stops others. A search company has one: its search algorithm. Nobody can come up with it. Here, there was no barrier. Everybody could become an internet service provider. I happened to be one of the first, in Panama. It's just a server. It became a commodity.",
+     "text": "Barriers to entry, I said, means there is something that stops others. A search company has one: its search algorithm. Nobody can come up with it. Here, there was no barrier. Everybody could become an internet service provider. I happened to be one of the first, in Panama. It's just a server. It became a commodity.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A company that is not turning a profit is buying a company that is profitable, in the billions, he said. And a company with decades in existence is getting bought by a company less than ten years old. You see how it was fertile ground for this catastrophic event to occur.",
+     "text": "A company that is not turning a profit is buying a company that is profitable, in the billions, I said. And a company with decades in existence is getting bought by a company less than ten years old. You see how it was fertile ground for this catastrophic event to occur.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The lesson, he said: stick to the fundamentals. Never get blinded by the hype. Learn the fundamentals of your business, the net revenue. And the way you value a company is the net revenue times a multiple.",
+     "text": "The lesson, I said: stick to the fundamentals. Never get blinded by the hype. Learn the fundamentals of your business, the net revenue. And the way you value a company is the net revenue times a multiple.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say was the biggest lesson about the access company?",
+   "q": "What did I say was the biggest lesson about the access company?",
    "choices": [
     "There were no barriers to entry",
     "It was too slow",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a barrier to entry means?",
+   "q": "What did I say a barrier to entry means?",
    "choices": [
     "Something that stops others from getting into the business",
     "A fee",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the lesson is?",
+   "q": "What did I say the lesson is?",
    "choices": [
     "Stick to the fundamentals and don't get blinded by hype",
     "Buy first, ask later",

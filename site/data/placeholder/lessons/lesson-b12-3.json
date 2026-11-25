@@ -4,7 +4,7 @@
  "title": "It's not strictly profit and a multiple",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "They raise capital, and they structure the deal",
    "lines": [
     {
-     "text": "What do investment bankers do, Jose asked? A student said: they raise capital. Jose said: very good. And they structure the deal, because it is complicated. They get the lawyers and the contracts. They have to overturn every single rock.",
+     "text": "What do investment bankers do, I asked? A student said: they raise capital. I said: very good. And they structure the deal, because it is complicated. They get the lawyers and the contracts. They have to overturn every single rock.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Another thing investment banks do, he said, is value the company. They come up with a number. People say valuations are strictly profit and a multiple. That is not true. I've seen transactions where the branding of a company was relevant. The image it has. The projections it has. The management it has.",
+     "text": "Another thing investment banks do, I said, is value the company. They come up with a number. People say valuations are strictly profit and a multiple. That is not true. I've seen transactions where the branding of a company was relevant. The image it has. The projections it has. The management it has.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "A hostile takeover",
    "lines": [
     {
-     "text": "Jose explained a hostile takeover. Imagine a company with shareholders. Somebody wants to buy it, goes behind the president's back, and starts buying voting stock. All of a sudden the president realizes the buyer owns a majority. The buyer can go to a shareholders meeting and fire the board, including the president, and take over the company.",
+     "text": "I explained a hostile takeover. Imagine a company with shareholders. Somebody wants to buy it, goes behind the president's back, and starts buying voting stock. All of a sudden the president realizes the buyer owns a majority. The buyer can go to a shareholders meeting and fire the board, including the president, and take over the company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "There is voting stock and non-voting stock, he said. You can own a small share of a company and still control the majority of the votes. That is where you have to be very careful.",
+     "text": "There is voting stock and non-voting stock, I said. You can own a small share of a company and still control the majority of the votes. That is where you have to be very careful.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "They feared the news division",
    "lines": [
     {
-     "text": "Jose read a line from the author about what he saw in this fight.",
+     "text": "I read a line from the author about what he saw in this fight.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
      "kind": "quote"
     },
     {
-     "text": "We start to learn the power of the media, Jose said. A bank backer left the deal because he was afraid of an investigative show. They could expose the hostile takeover, and he would be made out to be the bad guy and could lose a lot of business.",
+     "text": "We start to learn the power of the media, I said. A bank backer left the deal because he was afraid of an investigative show. They could expose the hostile takeover, and he would be made out to be the bad guy and could lose a lot of business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say investment bankers do besides raise capital?",
+   "q": "What did I say investment bankers do besides raise capital?",
    "choices": [
     "Structure the deal and value the company",
     "Run the company",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say valuations are not strictly?",
+   "q": "What did I say valuations are not strictly?",
    "choices": [
     "Profit and a multiple",
     "Opinions",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a hostile takeover can do to a president who loses the votes?",
+   "q": "What did I say a hostile takeover can do to a president who loses the votes?",
    "choices": [
     "The buyer can fire the board and take over",
     "Nothing",

@@ -1,10 +1,10 @@
 {
  "schema": 1,
  "id": "lesson-journey",
- "title": "Journey: a story from Jose",
+ "title": "Journey: a story from me",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "A map of the world",
    "lines": [
     {
-     "text": "Jose said that when he was in the telecommunications business, he was in long distance. He asked the class to picture a map. One day he pulled out a map of the world in front of a room full of engineers.",
+     "text": "I said that when I was in the telecommunications business, I was in long distance. I asked the class to picture a map. One day I pulled out a map of the world in front of a room full of engineers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He grabbed a big black felt pen. From the city of Panama, he said, thirty percent of all the long distance calls go to Hong Kong. He drew an arrow. Thirty million minutes a month.",
+     "text": "I grabbed a big black felt pen. From the city of Panama, I said, thirty percent of all the long distance calls go to Hong Kong. I drew an arrow. Thirty million minutes a month.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He drew another arrow. Forty million going to the United States. He drew arrows to the other countries, all the places the minutes went.",
+     "text": "I drew another arrow. Forty million going to the United States. I drew arrows to the other countries, all the places the minutes went.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,25 +45,25 @@
    "heading": "Another business",
    "lines": [
     {
-     "text": "Those are patterns, he said. Those are maps. And they came from information, because the long distance calls were coming through.",
+     "text": "Those are patterns, I said. Those are maps. And they came from information, because the long distance calls were coming through.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He looked at the map and said: there is another business here, unrelated to telecom, unrelated to long distance. Money transfer.",
+     "text": "I looked at the map and said: there is another business here, unrelated to telecom, unrelated to long distance. Money transfer.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He reasoned that there must be money flowing in the same direction as the phone calls. If people make those long distance calls, there must be business going between those countries as well.",
+     "text": "I reasoned that there must be money flowing in the same direction as the phone calls. If people make those long distance calls, there must be business going between those countries as well.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A completely unrelated business came out of the mapping and the sourcing, he said.",
+     "text": "A completely unrelated business came out of the mapping and the sourcing, I said.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -74,13 +74,13 @@
    "heading": "Why it was missed",
    "lines": [
     {
-     "text": "Jose said banking has a lot to do with telecommunications. Telecom gives you the network to be able to transact with a bank. There are immense opportunities between those two industries.",
+     "text": "I said banking has a lot to do with telecommunications. Telecom gives you the network to be able to transact with a bank. There are immense opportunities between those two industries.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "But they work in silos, he said. Telecom has divisions for local networks, divisions for modem programmers, and they rarely talk to each other.",
+     "text": "But they work in silos, I said. Telecom has divisions for local networks, divisions for modem programmers, and they rarely talk to each other.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -111,16 +111,16 @@
  },
  "check": [
   {
-   "q": "What did Jose draw on the map?",
+   "q": "What did I draw on the map?",
    "choices": [
     "Arrows showing where the long distance minutes went",
-    "Lines showing his office locations",
-    "Circles around his customers"
+    "Lines showing my office locations",
+    "Circles around my customers"
    ],
    "answer": 0
   },
   {
-   "q": "What second business did he see in the map?",
+   "q": "What second business did I see in the map?",
    "choices": [
     "Money transfer",
     "Shipping",
@@ -129,10 +129,10 @@
    "answer": 0
   },
   {
-   "q": "Why did he think money was moving in the same direction as the calls?",
+   "q": "Why did I think money was moving in the same direction as the calls?",
    "choices": [
     "People who call between countries probably also do business between them",
-    "Banks told him so",
+    "Banks told me so",
     "The calls were free"
    ],
    "answer": 0

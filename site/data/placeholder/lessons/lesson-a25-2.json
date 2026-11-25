@@ -4,7 +4,7 @@
  "title": "Are they giving their best?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Draw, lead, gauge",
    "lines": [
     {
-     "text": "A student said: when they looked into designing the truck, he draws from past inspiration and other ideas. Jose said: but he is creating something totally new, so he has no reference. Think how difficult that is.",
+     "text": "A student said: when they looked into designing the truck, he draws from past inspiration and other ideas. I said: but he is creating something totally new, so he has no reference. Think how difficult that is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: the process for obtaining the results he promotes, he does himself. He leads by example. Jose said: but he can't do it all. He has to rely on other people.",
+     "text": "A student said: the process for obtaining the results he promotes, he does himself. He leads by example. I said: but he can't do it all. He has to rely on other people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: he has a good indicator of whether somebody is giving 100 percent of their effort, and he doesn't tolerate not getting it. Jose said: write down the criteria: are the people giving me their best? Are they making excuses? Do they make a decision?",
+     "text": "A student said: he has a good indicator of whether somebody is giving 100 percent of their effort, and he doesn't tolerate not getting it. I said: write down the criteria: are the people giving me their best? Are they making excuses? Do they make a decision?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Momentum",
    "lines": [
     {
-     "text": "Jose said: it doesn't matter whether you are right or wrong. The inability to make a decision will stall you at some point. You have to make a decision.",
+     "text": "I said: it doesn't matter whether you are right or wrong. The inability to make a decision will stall you at some point. You have to make a decision.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: who knows what momentum is? Mass times velocity. It is a bit of a metaphor, he said. In combat sports like jiu-jitsu it is all about momentum: starting and stopping, timing, when to move and when to stall.",
+     "text": "I asked: who knows what momentum is? Mass times velocity. It is a bit of a metaphor, I said. In combat sports like jiu-jitsu it is all about momentum: starting and stopping, timing, when to move and when to stall.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How do you know when you don't have momentum in a company? A student said: when you are not producing anything. Jose said: you could have no outcomes because you have a problem. Another said: when the outcomes you don't want outweigh the outcomes you do want.",
+     "text": "How do you know when you don't have momentum in a company? A student said: when you are not producing anything. I said: you could have no outcomes because you have a problem. Another said: when the outcomes you don't want outweigh the outcomes you do want.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say stalls you at some point?",
+   "q": "What did I say stalls you at some point?",
    "choices": [
     "The inability to make a decision",
     "Too many decisions",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "How did Jose define momentum?",
+   "q": "How did I define momentum?",
    "choices": [
     "Mass times velocity",
     "Speed alone",

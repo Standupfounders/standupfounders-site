@@ -4,7 +4,7 @@
  "title": "A bridge to the other person",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "From who I am to who they are",
    "lines": [
     {
-     "text": "Jose said that the chapter creates a bridge between who we are and who the other person is, now that we understand a little about how we are.",
+     "text": "I said that the chapter creates a bridge between who we are and who the other person is, now that we understand a little about how we are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He used a picture of a butterfly going from flower to flower, and you go with a net to bring it back to where you want it, which is a picture of guiding a conversation.",
+     "text": "I used a picture of a butterfly going from flower to flower, and you go with a net to bring it back to where you want it, which is a picture of guiding a conversation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that step one is really hard when you have a fixed goal, like a retainer or a sale, and described someone who kept repeating the same thing about selling and was not listening.",
+     "text": "I said that step one is really hard when you have a fixed goal, like a retainer or a sale, and described someone who kept repeating the same thing about selling and was not listening.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the chapter creates?",
+   "q": "What did I say the chapter creates?",
    "choices": [
     "A bridge between who we are and who they are",
     "A contract",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about a fixed goal?",
+   "q": "What did I say about a fixed goal?",
    "choices": [
     "It makes listening hard",
     "It makes listening easy",

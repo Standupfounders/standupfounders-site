@@ -4,7 +4,7 @@
  "title": "Pick one and finish it",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -45,37 +45,37 @@
    "heading": "Pick one",
    "lines": [
     {
-     "text": "Jose went back to childhood and parenting. The biggest lessons he learned were in sports, he said. He was a competitive swimmer from the age of six to college: four hours a day, two in the morning and two at night, following a black line up and down.",
+     "text": "I went back to childhood and parenting. The biggest lessons I learned were in sports, I said. I was a competitive swimmer from the age of six to college: four hours a day, two in the morning and two at night, following a black line up and down.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "In order to become good at something you can't do three or four sports, he said. You've got to do one. Do you let a child dabble for ten or fifteen years, or do you say: you pick one, your choice, not the parents' choice, then you excel at it?",
+     "text": "In order to become good at something you can't do three or four sports, I said. You've got to do one. Do you let a child dabble for ten or fifteen years, or do you say: you pick one, your choice, not the parents' choice, then you excel at it?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Once you taste success, you learn the structure of how you got there, he said: the discipline, the methodology, visualization, goals, process. Even if you leave that field, you already have the roadmap.",
+     "text": "Once you taste success, you learn the structure of how you got there, I said: the discipline, the methodology, visualization, goals, process. Even if you leave that field, you already have the roadmap.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose told what he did when his children were little and doing jiujitsu. Sons, he said, you've got to make a decision. You can be a normal child, go to class one hour a day, and that's fine. Or you can become world champions. They said they wanted to be world champions, so they went from one hour of training a day to three.",
+     "text": "I told what I did when my children were little and doing jiujitsu. Sons, I said, you've got to make a decision. You can be a normal child, go to class one hour a day, and that's fine. Or you can become world champions. They said they wanted to be world champions, so they went from one hour of training a day to three.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Other parents said this was abusive, he said, and there was damage with parents. But when each of his children won a first world championship, the parents asked why their own child was not doing that. He said they made four other world champions after that, who joined the program and trained the same way.",
+     "text": "Other parents said this was abusive, I said, and there was damage with parents. But when each of my children won a first world championship, the parents asked why their own child was not doing that. I said they made four other world champions after that, who joined the program and trained the same way.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Two of them then said: I want to be a surfer. As a parent, he said, they already had the roadmap of what it takes: the structure, the dedication and the time invested to get to that level.",
+     "text": "Two of them then said: I want to be a surfer. As a parent, I said, they already had the roadmap of what it takes: the structure, the dedication and the time invested to get to that level.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -86,13 +86,13 @@
    "heading": "'I don't have time'",
    "lines": [
     {
-     "text": "If somebody tells you I don't have time, Jose said, what I hear is: I don't know how to manage my time, I don't know how to delegate, I don't know how to create a structure or processes.",
+     "text": "If somebody tells you I don't have time, I said, what I hear is: I don't know how to manage my time, I don't know how to delegate, I don't know how to create a structure or processes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "There are famous founders who have twenty businesses and no limit on the number, he said. Take a business to one of them and in five minutes they tell you whether they like it, because their criteria are so advanced. That is the fluency that comes from experience and inputs.",
+     "text": "There are famous founders who have twenty businesses and no limit on the number, I said. Take a business to one of them and in five minutes they tell you whether they like it, because their criteria are so advanced. That is the fluency that comes from experience and inputs.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -134,7 +134,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you can't do to get good at something?",
+   "q": "What did I say you can't do to get good at something?",
    "choices": [
     "Three or four sports at once",
     "Practice",
@@ -143,7 +143,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he hears when someone says 'I don't have time'?",
+   "q": "What did I say I hear when someone says 'I don't have time'?",
    "choices": [
     "I don't know how to manage my time",
     "I'm very busy",

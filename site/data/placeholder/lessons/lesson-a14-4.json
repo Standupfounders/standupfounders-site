@@ -4,7 +4,7 @@
  "title": "Lead with a position",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The teacher's question",
    "lines": [
     {
-     "text": "Think of it this way, Jose said: I'm a director in a school, and I'm reading about this. What responsibility do I have to those kids in the classroom? Am I going to help children understand AI and its negative consequences, or say that's not my responsibility?",
+     "text": "Think of it this way, I said: I'm a director in a school, and I'm reading about this. What responsibility do I have to those kids in the classroom? Am I going to help children understand AI and its negative consequences, or say that's not my responsibility?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: that is your responsibility. If you are responsible for what happens to them at home, why stop there? Jose said: education has to keep up with technology, because the medium is going to affect the outcome.",
+     "text": "A student said: that is your responsibility. If you are responsible for what happens to them at home, why stop there? I said: education has to keep up with technology, because the medium is going to affect the outcome.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said there are massive opportunities in this. Schools need to take a stance, governments need to take a stance, and as leaders and entrepreneurs we have to say: this is my position. My position can evolve.",
+     "text": "I said there are massive opportunities in this. Schools need to take a stance, governments need to take a stance, and as leaders and entrepreneurs we have to say: this is my position. My position can evolve.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: we need to encourage everyone to develop a position. Jose said: that is what I am trying to do. Being a leader is being aware and helping people to be aware.",
+     "text": "A student said: we need to encourage everyone to develop a position. I said: that is what I am trying to do. Being a leader is being aware and helping people to be aware.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,13 +68,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: don't wait, do it yourself. People say: I don't have enough money. If you don't have enough money, you have plenty of time and energy.",
+     "text": "I said: don't wait, do it yourself. People say: I don't have enough money. If you don't have enough money, you have plenty of time and energy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When I first talk to a company, he said, I get into what their values are. Their core values.",
+     "text": "When I first talk to a company, I said, I get into what their values are. Their core values.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about his position as a leader?",
+   "q": "What did I say about my position as a leader?",
    "choices": [
     "It can evolve",
     "It must never change",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you have plenty of if you lack money?",
+   "q": "What did I say you have plenty of if you lack money?",
    "choices": [
     "Time and energy",
     "Friends",

@@ -4,7 +4,7 @@
  "title": "Why trust you?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Why trust me",
    "lines": [
     {
-     "text": "Jose said that the call itself shows part of the book's message: why should you trust me? A student said: because of your background in the business world, and you have things I want in the future, so I view you as an authority. Another said: you talk with powerful words, and it comes across as trustworthy.",
+     "text": "I said that the call itself shows part of the book's message: why should you trust me? A student said: because of your background in the business world, and you have things I want in the future, so I view you as an authority. Another said: you talk with powerful words, and it comes across as trustworthy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: I would trust you because of what you have shown in the past. Jose said: the past predicts the future. Another added: your past and current relationships, personal and business.",
+     "text": "A student said: I would trust you because of what you have shown in the past. I said: the past predicts the future. Another added: your past and current relationships, personal and business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "The speed of trust",
    "lines": [
     {
-     "text": "Jose said that he likes to analyze the speed of trust: you could meet someone for ten minutes and, from how they speak and what they say, find them credible. It is pragmatic, tangible and actionable.",
+     "text": "I said that I like to analyze the speed of trust: you could meet someone for ten minutes and, from how they speak and what they say, find them credible. It is pragmatic, tangible and actionable.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that high trust and high speed mean a lower cost to acquire a customer, because people come to you since your message is loud and clear. He called it exponential. This is his claim and is to be verified.",
+     "text": "I said that high trust and high speed mean a lower cost to acquire a customer, because people come to you since your message is loud and clear. I called it exponential. This is my claim and is to be verified.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,13 +56,13 @@
    "heading": "Someone you trust",
    "lines": [
     {
-     "text": "Jose asked: think of the person you trust most and describe that relationship. A student answered: a sibling, who is a serious and solid support system and tells you straight whether it is a good idea or a bad idea. It is never hostile, always constructive.",
+     "text": "I asked: think of the person you trust most and describe that relationship. A student answered: a sibling, who is a serious and solid support system and tells you straight whether it is a good idea or a bad idea. It is never hostile, always constructive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said: because he is constructive, he cares about you. One of the greatest leadership traits is to authentically care about each individual in the company.",
+     "text": "I said: because he is constructive, he cares about you. One of the greatest leadership traits is to authentically care about each individual in the company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say predicts the future?",
+   "q": "What did I say predicts the future?",
    "choices": [
     "The past",
     "The weather",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he likes to analyze?",
+   "q": "What did I say I like to analyze?",
    "choices": [
     "The speed of trust",
     "The price of trust",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is one of the greatest leadership traits?",
+   "q": "What did I say is one of the greatest leadership traits?",
    "choices": [
     "Authentically caring about each individual",
     "Being loud",

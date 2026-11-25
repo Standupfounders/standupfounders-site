@@ -4,7 +4,7 @@
  "title": "Pick people that are not in a conflict of interest",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "He sees the potential, not the present",
    "lines": [
     {
-     "text": "As Jose retells it, the author bought a small film company that others called a maker of cheap movies. Jose read a line.",
+     "text": "As I retell it, the author bought a small film company that others called a maker of cheap movies. I read a line.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "quote"
     },
     {
-     "text": "He defended himself, Jose said: we make movies that are profitable. That film company became a massive success. He sees what a company can be in the future. He doesn't see it in its present state. He visualizes. He builds a relationship with these people and makes them feel good about growth.",
+     "text": "He defended himself, I said: we make movies that are profitable. That film company became a massive success. He sees what a company can be in the future. He doesn't see it in its present state. He visualizes. He builds a relationship with these people and makes them feel good about growth.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Pick people that are not in a conflict of interest",
    "lines": [
     {
-     "text": "What about the board of directors, Jose asked? There is a conflict of interest. Some of the people on his board own content companies too, and they don't like that he keeps buying content. They are in direct competition.",
+     "text": "What about the board of directors, I asked? There is a conflict of interest. Some of the people on his board own content companies too, and they don't like that he keeps buying content. They are in direct competition.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "They are jealous and envious that he is buying companies and growing, Jose said, and their company isn't growing as fast. That is a mistake the author made, bringing them onto the board. Thank God he had enough shares to balance it.",
+     "text": "They are jealous and envious that he is buying companies and growing, I said, and their company isn't growing as fast. That is a mistake the author made, bringing them onto the board. Thank God he had enough shares to balance it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you are building a board for your company, Jose said, you have to pick people who are not going to be a conflict of interest. People who are strategically interested in your growth. Otherwise you are going to have a big problem.",
+     "text": "If you are building a board for your company, I said, you have to pick people who are not going to be a conflict of interest. People who are strategically interested in your growth. Otherwise you are going to have a big problem.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "A Lone Ranger is a red flag",
    "lines": [
     {
-     "text": "Big lessons, Jose said. Number one: when you build a board, pick strategic partners without conflicts of interest, without big egos, people who are nurturing and genuinely interested in your company's growth.",
+     "text": "Big lessons, I said. Number one: when you build a board, pick strategic partners without conflicts of interest, without big egos, people who are nurturing and genuinely interested in your company's growth.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,7 +80,7 @@
      "kind": "plain"
     },
     {
-     "text": "Also expose yourself, he said: I'm a long-term player, here's why, here's how I see things. They will appreciate your demeanor. He builds trust right away. Building trust: that is what we learned from this chapter.",
+     "text": "Also expose yourself, I said: I'm a long-term player, here's why, here's how I see things. They will appreciate your demeanor. He builds trust right away. Building trust: that is what we learned from this chapter.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a board member with a competing company is?",
+   "q": "What did I say a board member with a competing company is?",
    "choices": [
     "A conflict of interest",
     "A great asset",
@@ -122,7 +122,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is a red flag in a partner?",
+   "q": "What did I say is a red flag in a partner?",
    "choices": [
     "Never having had partners",
     "Having a lawyer",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you should do about your own style?",
+   "q": "What did I say you should do about your own style?",
    "choices": [
     "Expose it: say you are a long-term player and why",
     "Hide it",

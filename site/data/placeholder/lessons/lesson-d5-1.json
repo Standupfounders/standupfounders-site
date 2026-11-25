@@ -4,7 +4,7 @@
  "title": "Before and after you meet",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that you have to make a decision on your personal branding, because not deciding leads to an inconsistent story and mixed messages. He said keep it simple and repeatable, and create an image in the person's head.",
+     "text": "I said that you have to make a decision on your personal branding, because not deciding leads to an inconsistent story and mixed messages. I said keep it simple and repeatable, and create an image in the person's head.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Pre-engagement",
    "lines": [
     {
-     "text": "Jose described pre-engagement as the image before an individual has met you: they search your name, see testimonials, an interview, a video, and think they cannot wait to meet you.",
+     "text": "I described pre-engagement as the image before an individual has met you: they search your name, see testimonials, an interview, a video, and think they cannot wait to meet you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked: did you over-deliver or under-deliver? Did meeting you make them want to do business, or did you make no impact? A student said that a good check is whether everything was on the table and what the next steps are.",
+     "text": "I asked: did you over-deliver or under-deliver? Did meeting you make them want to do business, or did you make no impact? A student said that a good check is whether everything was on the table and what the next steps are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say pre-engagement is?",
+   "q": "What did I say pre-engagement is?",
    "choices": [
     "The image before they have met you",
     "The meeting itself",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say not deciding on your branding leads to?",
+   "q": "What did I say not deciding on your branding leads to?",
    "choices": [
     "An inconsistent story",
     "A shorter story",

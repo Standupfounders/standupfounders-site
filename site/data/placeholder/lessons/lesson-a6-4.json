@@ -4,7 +4,7 @@
  "title": "Everybody is on the train",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A figure of speech",
    "lines": [
     {
-     "text": "A student asked about the line at the end of the chapter that vacations will kill you. Jose said: that's figurative. What I think he is saying is that a lack of focus could kill me.",
+     "text": "A student asked about the line at the end of the chapter that vacations will kill you. I said: that's figurative. What I think he is saying is that a lack of focus could kill me.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the person is probably uncomfortable taking a vacation, because he doesn't know what a vacation is. So he asks: what am I doing here, am I taking time from the company? He is obsessive.",
+     "text": "I said the person is probably uncomfortable taking a vacation, because he doesn't know what a vacation is. So he asks: what am I doing here, am I taking time from the company? He is obsessive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "plain"
     },
     {
-     "text": "What is your work, play and lifestyle? he asked. Do you mix the two, or separate them like most people: this is my vacation time, this is my work time? He said he personally meshes the two: every day he is excited and having fun working, but structured.",
+     "text": "What is your work, play and lifestyle? I asked. Do you mix the two, or separate them like most people: this is my vacation time, this is my work time? I said I personally mesh the two: every day I am excited and having fun working, but structured.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,19 +56,19 @@
    "heading": "Everybody is on the train",
    "lines": [
     {
-     "text": "You have to consider the people around you, he said. When his children were small his wife told him: this is a family car, you can't tell the boys to shut up because you're on a business call. You're the one imposing on their time. He said: you're right.",
+     "text": "You have to consider the people around you, I said. When my children were small my wife told me: this is a family car, you can't tell the boys to shut up because you're on a business call. You're the one imposing on their time. I said: you're right.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Our partners and kids are everybody on that train, he said. Even if you don't talk business with your wife, they will feel it and suffer it. He says: you may as well get them involved. Otherwise she doesn't know where my anxiety is coming from, and I tell my children what I'm working on and turn it into learning lessons.",
+     "text": "Our partners and kids are everybody on that train, I said. Even if you don't talk business with your wife, they will feel it and suffer it. I say: you may as well get them involved. Otherwise she doesn't know where my anxiety is coming from, and I tell my children what I'm working on and turn it into learning lessons.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said plainly that this is his opinion and he doesn't want to sound arrogant: you have to work out what works for you. A student agreed: everyone has to work out what makes the most sense for their life.",
+     "text": "I said plainly that this is my opinion and I don't want to sound arrogant: you have to work out what works for you. A student agreed: everyone has to work out what makes the most sense for their life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about the line that vacations will kill you?",
+   "q": "What did I say about the line that vacations will kill you?",
    "choices": [
     "It's figurative: lack of focus could kill me",
     "It's literal",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose's wife tell him about the family car?",
+   "q": "What did my wife tell me about the family car?",
    "choices": [
     "You can't tell the boys to shut up because you're on a business call",
     "Drive faster",
@@ -119,9 +119,9 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about his own way of doing it?",
+   "q": "What did I say about my own way of doing it?",
    "choices": [
-    "It is his opinion; you work out what works for you",
+    "It is my opinion; you work out what works for you",
     "Everyone must copy it",
     "It is the only way"
    ],

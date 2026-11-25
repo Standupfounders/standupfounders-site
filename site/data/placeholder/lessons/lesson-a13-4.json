@@ -4,7 +4,7 @@
  "title": "Take a stance",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,31 +39,31 @@
    "heading": "Take a stance",
    "lines": [
     {
-     "text": "Jose said it is interesting where these two men draw the line philosophically, because it prompts us as business people and as thinking human beings: are we on one side or the other?",
+     "text": "I said it is interesting where these two men draw the line philosophically, because it prompts us as business people and as thinking human beings: are we on one side or the other?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is something we cannot avoid, he said. We are going to have to take a stance, and the awareness of that decision, and where we stand, is very important. A lot of people won't think about these questions.",
+     "text": "It is something we cannot avoid, I said. We are going to have to take a stance, and the awareness of that decision, and where we stand, is very important. A lot of people won't think about these questions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: can I keep agreeing to the terms and conditions without reading them? Jose said: yes, and there is a revolutionary impact in what these people are doing.",
+     "text": "A student said: can I keep agreeing to the terms and conditions without reading them? I said: yes, and there is a revolutionary impact in what these people are doing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Some of them say: we have a massive responsibility to humanity. Others say: I'm just going to profit from it and offer the technology, Jose said. He added that he is not trying to make a judgment.",
+     "text": "Some of them say: we have a massive responsibility to humanity. Others say: I'm just going to profit from it and offer the technology, I said. I added that I am not trying to make a judgment.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said to look up these companies and see what they are doing in real life, and to see whether it is consistent with the way the author writes the story.",
+     "text": "I said to look up these companies and see what they are doing in real life, and to see whether it is consistent with the way the author writes the story.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say we are going to have to do?",
+   "q": "What did I say we are going to have to do?",
    "choices": [
     "Take a stance",
     "Avoid the topic",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to do about what an author writes?",
+   "q": "What did I say to do about what an author writes?",
    "choices": [
     "Look up the companies and see if it's consistent",
     "Believe it all",

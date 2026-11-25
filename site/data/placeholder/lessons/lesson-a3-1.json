@@ -4,7 +4,7 @@
  "title": "Strike while the iron is hot",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "When the internet began",
    "lines": [
     {
-     "text": "Jose said the chapter starts with students graduating: east to Wall Street jobs, or west to the entrepreneurial tech start-ups. In the early nineties came what he called the third biggest revolution in the economy that ever existed: the internet.",
+     "text": "I said the chapter starts with students graduating: east to Wall Street jobs, or west to the entrepreneurial tech start-ups. In the early nineties came what he called the third biggest revolution in the economy that ever existed: the internet.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Imagine, he said, websites didn't exist. Google didn't exist. Nobody knew how to measure it or what it could do. A lot of young entrepreneurs began getting ideas to start internet businesses. There wasn't even schooling. You couldn't study anything that prepared you for it.",
+     "text": "Imagine, I said, websites didn't exist. Google didn't exist. Nobody knew how to measure it or what it could do. A lot of young entrepreneurs began getting ideas to start internet businesses. There wasn't even schooling. You couldn't study anything that prepared you for it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That was a big advantage back then, he said, because anybody could become an expert. You just had to read and learn and get on the job. He remembered people in their twenties raising a hundred million dollars from investors who had no idea how to size the market either.",
+     "text": "That was a big advantage back then, I said, because anybody could become an expert. You just had to read and learn and get on the job. I remembered people in their twenties raising a hundred million dollars from investors who had no idea how to size the market either.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "Strike while the iron is hot",
    "lines": [
     {
-     "text": "Jose retold how the person in the book went back to his mentor to double-check. The mentor said this internet revolution is once in a lifetime: strike while the iron is hot, and you can go back to school later.",
+     "text": "I retold how the person in the book went back to his mentor to double-check. The mentor said this internet revolution is once in a lifetime: strike while the iron is hot, and you can go back to school later.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So he said he needed to put everything on hold and catch the wave, Jose said, putting himself in exactly the right time, the right place and the right mentality. He called it a combination of the external environment, the economy, and the fertile soil of his own being.",
+     "text": "So he said he needed to put everything on hold and catch the wave, I said, putting himself in exactly the right time, the right place and the right mentality. He called it a combination of the external environment, the economy, and the fertile soil of his own being.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you couldn't study when the internet began?",
+   "q": "What did I say you couldn't study when the internet began?",
    "choices": [
     "Anything that prepared you for it",
     "Law",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about experts in those years?",
+   "q": "What did I say about experts in those years?",
    "choices": [
     "Anybody could become one by reading, learning and doing",
     "Only graduates could",

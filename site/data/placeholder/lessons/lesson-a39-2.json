@@ -4,7 +4,7 @@
  "title": "Perspective scales",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,13 +28,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: perspective is a key word. You could have a person who spent his last thousand dollars on a venture, and one who spent his last two hundred million. It scales, but it is the same thing: your risk tolerance. The amount of money is almost irrelevant. It is all your perspective of it.",
+     "text": "I said: perspective is a key word. You could have a person who spent his last thousand dollars on a venture, and one who spent his last two hundred million. It scales, but it is the same thing: your risk tolerance. The amount of money is almost irrelevant. It is all your perspective of it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: it is all proportional to your stakes. Jose said: that's right. The person who gambles the whole thousand and says: I believe in my conviction is just as powerful as the one doing it with two hundred million. It is about their belief systems, convictions and work ethic.",
+     "text": "A student said: it is all proportional to your stakes. I said: that's right. The person who gambles the whole thousand and says: I believe in my conviction is just as powerful as the one doing it with two hundred million. It is about their belief systems, convictions and work ethic.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "How much can you help?",
    "lines": [
     {
-     "text": "Jose said that he found himself thinking philosophically: what is our role with our parents? Do we have an obligation for their well-being? And not just parents: what about your brothers and sisters, your family?",
+     "text": "I said that I found myself thinking philosophically: what is our role with our parents? Do we have an obligation for their well-being? And not just parents: what about your brothers and sisters, your family?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Imagine a person with that much money and the people who come to him saying: I need help. How much can you help? Have you helped too much and are now underwater? Some of us have that need to be the saviour of people, because it makes us feel good, and maybe we have a childhood trauma that puts us in that position. What we are really doing, he said, is healing ourselves from somebody who didn't help us when we were seven years old.",
+     "text": "Imagine a person with that much money and the people who come to him saying: I need help. How much can you help? Have you helped too much and are now underwater? Some of us have that need to be the saviour of people, because it makes us feel good, and maybe we have a childhood trauma that puts us in that position. What we are really doing, I said, is healing ourselves from somebody who didn't help us when we were seven years old.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is almost irrelevant to risk tolerance?",
+   "q": "What did I say is almost irrelevant to risk tolerance?",
    "choices": [
     "The amount of money",
     "The conviction",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose ask about parents?",
+   "q": "What did I ask about parents?",
    "choices": [
     "Do we have an obligation for their well-being?",
     "Do they pay?",

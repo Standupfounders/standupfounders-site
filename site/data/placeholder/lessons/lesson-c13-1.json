@@ -4,7 +4,7 @@
  "title": "Pain is a teacher",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Pain is a teacher",
    "lines": [
     {
-     "text": "Jose said that the chapter says pain is an effective teacher: to get rid of a bad habit, add an immediate consequence so you become aware that the habit causes it. The book's examples are a fee for a late bill and a demerit for lateness.",
+     "text": "I said that the chapter says pain is an effective teacher: to get rid of a bad habit, add an immediate consequence so you become aware that the habit causes it. The book's examples are a fee for a late bill and a demerit for lateness.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the book proposes a habit contract, and that knowing someone is watching is a powerful motivator.",
+     "text": "I said the book proposes a habit contract, and that knowing someone is watching is a powerful motivator.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Accountability",
    "lines": [
     {
-     "text": "Jose said: you promise to change a habit and you create accountability. People around you say: you said you would do this, and you are not doing it. In his team they set goals together, like a fast for three days or a surge.",
+     "text": "I said: you promise to change a habit and you create accountability. People around you say: you said you would do this, and you are not doing it. In my team they set goals together, like a fast for three days or a surge.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that in a surge you are redefining your habits: instead of working eight hours you work sixteen, so you are constantly evolving your habits.",
+     "text": "I said that in a surge you are redefining your habits: instead of working eight hours you work sixteen, so you are constantly evolving your habits.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "The delay problem",
    "lines": [
     {
-     "text": "Jose said that you may not feel the consequence of a bad habit until months later, so you do not get the warning or urgency, and some people go their whole lives without a warning sign. He asked everyone: what are your worst habits, and why don't you change them?",
+     "text": "I said that you may not feel the consequence of a bad habit until months later, so you do not get the warning or urgency, and some people go their whole lives without a warning sign. I asked everyone: what are your worst habits, and why don't you change them?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say pain is, in the chapter?",
+   "q": "What did I say pain is, in the chapter?",
    "choices": [
     "An effective teacher",
     "A waste",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say is a powerful motivator?",
+   "q": "What did I say is a powerful motivator?",
    "choices": [
     "Knowing someone is watching",
     "Secrecy",

@@ -4,7 +4,7 @@
  "title": "What we repeat",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A saying",
    "lines": [
     {
-     "text": "Jose said: there is a quote I really like. As adults, we try to develop the character traits that would have rescued our parents. He asked: what does that mean?",
+     "text": "I said: there is a quote I really like. As adults, we try to develop the character traits that would have rescued our parents. I asked: what does that mean?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: we become the adults who would have protected them. Same with your children. Jose said: yes, there is a role reversal, a classic psychological case, in vulnerability that we developed because we had parents in a destructive cycle.",
+     "text": "A student said: we become the adults who would have protected them. Same with your children. I said: yes, there is a role reversal, a classic psychological case, in vulnerability that we developed because we had parents in a destructive cycle.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "What is familiar",
    "lines": [
     {
-     "text": "We look for relationships that feel familiar, Jose said. We don't go to what is good for us, because that is strange. We go to what is familiar, because we are trying to understand it.",
+     "text": "We look for relationships that feel familiar, I said. We don't go to what is good for us, because that is strange. We go to what is familiar, because we are trying to understand it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,19 +50,19 @@
    "heading": "Is that really my belief?",
    "lines": [
     {
-     "text": "Jose said that one of the mugs he writes quotes on says: is that really my belief? His children say: can you please stop. He said: identifying is key. This isn't me. This is a trauma I'm reacting to.",
+     "text": "I said that one of the mugs I write quotes on says: is that really my belief? My children say: can you please stop. I said: identifying is key. This isn't me. This is a trauma I'm reacting to.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Psychologists say one way to heal is to go back to that ten-year-old, recognize it, and reinvent it, he said. Say: that was wrong, I was defenseless, now I realize it. This is how I'm going to break the cycle.",
+     "text": "Psychologists say one way to heal is to go back to that ten-year-old, recognize it, and reinvent it, I said. Say: that was wrong, I was defenseless, now I realize it. This is how I'm going to break the cycle.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Another saying he likes: if you never heal from what hurt you, you will bleed on the people who didn't cut you. People suffer around you from wounds you had years ago.",
+     "text": "Another saying I like: if you never heal from what hurt you, you will bleed on the people who didn't cut you. People suffer around you from wounds you had years ago.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say we are trying to develop as adults, in the saying he likes?",
+   "q": "What did I say we are trying to develop as adults, in the saying I like?",
    "choices": [
     "The traits that would have rescued our parents",
     "The traits of our friends",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What question is on Jose's mug?",
+   "q": "What question is on my mug?",
    "choices": [
     "Is that really my belief?",
     "What is the time?",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say we go to rather than what is good for us?",
+   "q": "What did I say we go to rather than what is good for us?",
    "choices": [
     "What is familiar",
     "What is new",

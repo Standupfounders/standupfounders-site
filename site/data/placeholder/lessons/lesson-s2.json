@@ -4,7 +4,7 @@
  "title": "A speed-based goal",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Momentum",
    "lines": [
     {
-     "text": "Jose said that early in the morning he talks to himself. Today I am going to develop real clarity in everything I do. I am going to stay positive. I am going to be a better communicator.",
+     "text": "I said that early in the morning I talk to myself. Today I am going to develop real clarity in everything I do. I am going to stay positive. I am going to be a better communicator.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you talk to yourself that way, he said, you kind of develop momentum.",
+     "text": "If you talk to yourself that way, I said, you kind of develop momentum.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He added something to the book. The book doesn't talk about momentum, he said, but that is how we identify the pace the founder is at.",
+     "text": "I added something to the book. The book doesn't talk about momentum, I said, but that is how we identify the pace the founder is at.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "I call it a speed-based goal",
    "lines": [
     {
-     "text": "Momentum is something the founder is always gauging, Jose said. I call it a speed-based goal. I am always conscious of how fast we are going to get there.",
+     "text": "Momentum is something the founder is always gauging, I said. I call it a speed-based goal. I am always conscious of how fast we are going to get there.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,19 +56,19 @@
    "heading": "Time is a fight",
    "lines": [
     {
-     "text": "A student said it always feels like there is not enough time. Jose did not quite agree. He said the founder thinks people don't understand that you have to fight against time. It is an unrelenting fight.",
+     "text": "A student said it always feels like there is not enough time. I did not quite agree. I said the founder thinks people don't understand that you have to fight against time. It is an unrelenting fight.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "So what is your definition of time, Jose asked, and how do you define it in the culture of your company?",
+     "text": "So what is your definition of time, I asked, and how do you define it in the culture of your company?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "When people say I don't have enough time, he said, what they are really saying is that they don't know how to manage their time.",
+     "text": "When people say I don't have enough time, I said, what they are really saying is that they don't know how to manage their time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -79,19 +79,19 @@
    "heading": "How far ahead can you see?",
    "lines": [
     {
-     "text": "A lot of people see the potential when they are a few visible steps away from it. Very few see it when they are far away. That, Jose said, is the definition of a visionary.",
+     "text": "A lot of people see the potential when they are a few visible steps away from it. Very few see it when they are far away. That, I said, is the definition of a visionary.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He told of a man whose great-grandfather always talked about a hundred years after he was dead. He bought land and planned a hundred years ahead.",
+     "text": "I told of a man whose great-grandfather always talked about a hundred years after he was dead. He bought land and planned a hundred years ahead.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Where is your limit, Jose asked. Ten years ahead, twenty, fifty? Some people live day to day, and he said there is a beauty in that as well.",
+     "text": "Where is your limit, I asked. Ten years ahead, twenty, fifty? Some people live day to day, and I said there is a beauty in that as well.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
    "heading": "Why can't I say we are going to make twenty million?",
    "lines": [
     {
-     "text": "What is the speed of our goals, he asked? Is everybody on my speed, or on their own? Why do I say five million? Why can't I say twenty million, and force my behavior to go after it?",
+     "text": "What is the speed of our goals, I asked? Is everybody on my speed, or on their own? Why do I say five million? Why can't I say twenty million, and force my behavior to go after it?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -134,14 +134,14 @@
   "steps": [
    "Write one goal with a number on it.",
    "Write a date for it.",
-   "Ask Jose's question: why that number and not a bigger one? Write your answer.",
+   "Ask my question: why that number and not a bigger one? Write your answer.",
    "Write the first specific action you will take this week.",
    "Write how far ahead you usually plan: a year, ten years, a day. Is that the limit you want?"
   ]
  },
  "check": [
   {
-   "q": "What did Jose say 'I don't have enough time' really means?",
+   "q": "What did I say 'I don't have enough time' really means?",
    "choices": [
     "I don't know how to manage my time",
     "I have too many friends",
@@ -159,7 +159,7 @@
    "answer": 1
   },
   {
-   "q": "According to Jose, what makes you more likely to take action?",
+   "q": "According to me, what makes you more likely to take action?",
    "choices": [
     "Clarity of intent broken down into specific actions",
     "A bigger reward",

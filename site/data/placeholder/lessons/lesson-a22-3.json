@@ -4,7 +4,7 @@
  "title": "Know your triggers",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "What triggers us",
    "lines": [
     {
-     "text": "Jose said: when we go through anxiety, and hopefully none of us go to that level, we need to recognize the things that trigger us. I know people for whom one little tiny thing sets off something. What this call is about today is: what triggers us, and how do we stop it? It is not necessarily coming from us. It is coming from something else.",
+     "text": "I said: when we go through anxiety, and hopefully none of us go to that level, we need to recognize the things that trigger us. I know people for whom one little tiny thing sets off something. What this call is about today is: what triggers us, and how do we stop it? It is not necessarily coming from us. It is coming from something else.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said another entrepreneur, who had a demanding father, said: I did not dwell on the past. That is a very big statement, because the past will come into your present. But he had the ability to stop himself from thinking about traumatic pasts.",
+     "text": "I said another entrepreneur, who had a demanding father, said: I did not dwell on the past. That is a very big statement, because the past will come into your present. But he had the ability to stop himself from thinking about traumatic pasts.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
      "kind": "plain"
     },
     {
-     "text": "So the lesson is: be aware of your triggers. Know what makes you vulnerable. He said we are not necessarily going to fix it or take it out of who we are, but if we are aware, we can say: wait, I shouldn't let that person get to me. This is not coming from him. This is coming from something internal that I have, from a traumatic event in my past.",
+     "text": "So the lesson is: be aware of your triggers. Know what makes you vulnerable. I said we are not necessarily going to fix it or take it out of who we are, but if we are aware, we can say: wait, I shouldn't let that person get to me. This is not coming from him. This is coming from something internal that I have, from a traumatic event in my past.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Don't let trivial things penetrate the veil of your personal life, he said. We have to develop strategies so we are aware of our limitations.",
+     "text": "Don't let trivial things penetrate the veil of your personal life, I said. We have to develop strategies so we are aware of our limitations.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say today's call is about?",
+   "q": "What did I say today's call is about?",
    "choices": [
     "What triggers us and how do we stop it",
     "What to sell",
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What image did Jose use for personal limitations?",
+   "q": "What image did I use for personal limitations?",
    "choices": [
     "Little tiny embers in a fire",
     "A mountain",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about fixing triggers?",
+   "q": "What did I say about fixing triggers?",
    "choices": [
     "We may not fix them, but we can be aware of them",
     "We can erase them",

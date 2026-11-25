@@ -4,7 +4,7 @@
  "title": "Incentives start, identity sustains",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Incentives and identity",
    "lines": [
     {
-     "text": "A student said: I like the instant against delayed gratification. Jose said that the author brushes past statements with deep repercussions, so you have to take notes and ask what your commitment to the idea is.",
+     "text": "A student said: I like the instant against delayed gratification. I said that the author brushes past statements with deep repercussions, so you have to take notes and ask what your commitment to the idea is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose read a statement from the book: incentives can start a habit, but identity sustains a habit. He said it is a heavy statement: if you see yourself as someone who is in shape and a leader, everything you do reflects that identity.",
+     "text": "I read a statement from the book: incentives can start a habit, but identity sustains a habit. I said it is a heavy statement: if you see yourself as someone who is in shape and a leader, everything you do reflects that identity.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "The ending of an experience",
    "lines": [
     {
-     "text": "Jose said that the ending of an experience is vital because we tend to remember it more, so you want the ending of your habit to be satisfying. He asked what the negative side of that is.",
+     "text": "I said that the ending of an experience is vital because we tend to remember it more, so you want the ending of your habit to be satisfying. I asked what the negative side of that is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that negative habits stick to us like burrs on our trousers because we look for the immediate reward. He said that when it is going against your identity, you move away from who you are.",
+     "text": "I said that negative habits stick to us like burrs on our trousers because we look for the immediate reward. I said that when it is going against your identity, you move away from who you are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What does the book say sustains a habit, as Jose read it?",
+   "q": "What does the book say sustains a habit, as I read it?",
    "choices": [
     "Identity",
     "Money",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the ending of an experience is?",
+   "q": "What did I say the ending of an experience is?",
    "choices": [
     "Vital because we remember it more",
     "Unimportant",

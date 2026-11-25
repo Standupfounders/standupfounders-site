@@ -4,7 +4,7 @@
  "title": "I do not want to enter a relationship where you feel like you lost",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "He sees the diamond in the rough",
    "lines": [
     {
-     "text": "Think about how direct the author is, Jose said, when he meets somebody. He asks: I understand you're considering selling this company, is that true? And he asked: you're selling it for three hundred and twelve million, right? The guy said yes. He said: okay, I'll buy it.",
+     "text": "Think about how direct the author is, I said, when he meets somebody. He asks: I understand you're considering selling this company, is that true? And he asked: you're selling it for three hundred and twelve million, right? The guy said yes. He said: okay, I'll buy it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He doesn't haggle, Jose said. He sees the value, and then he asks: how am I going to get the money on the other side? He negotiates terms. That is his style. He tries to pay a fair price, but he doesn't haggle, and then he asks how he can turn that asset into something more powerful.",
+     "text": "He doesn't haggle, I said. He sees the value, and then he asks: how am I going to get the money on the other side? He negotiates terms. That is his style. He tries to pay a fair price, but he doesn't haggle, and then he asks how he can turn that asset into something more powerful.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He doesn't see the money when he buys, Jose said. He sees it in the potential of what it can be. A diamond in the rough, polishing it up.",
+     "text": "He doesn't see the money when he buys, I said. He sees it in the potential of what it can be. A diamond in the rough, polishing it up.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "I don't want a relationship where you feel you lost",
    "lines": [
     {
-     "text": "Jose said there are people who say: I make money when I buy, because I buy an asset that is undervalued. Those aren't good relationships, he said, because people feel they got taken to the cleaners. Somebody wins and somebody loses. The author's style is win and win.",
+     "text": "I said there are people who say: I make money when I buy, because I buy an asset that is undervalued. Those aren't good relationships, I said, because people feel they got taken to the cleaners. Somebody wins and somebody loses. The author's style is win and win.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I tell people right away, Jose said: I do not want to enter a relationship with you where you feel like you lost with me. On the contrary, I want you to feel like you won with me, and feel really good about it.",
+     "text": "I tell people right away, I said: I do not want to enter a relationship with you where you feel like you lost with me. On the contrary, I want you to feel like you won with me, and feel really good about it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,19 +63,19 @@
      "kind": "student"
     },
     {
-     "text": "Is this a person who sees negotiation as a winner and a loser, Jose asked, or one who genuinely wants us both to win? Should you expose that in the first meetings? And if a company is not like that, maybe you will not align yourselves.",
+     "text": "Is this a person who sees negotiation as a winner and a loser, I asked, or one who genuinely wants us both to win? Should you expose that in the first meetings? And if a company is not like that, maybe you will not align yourselves.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I always like to expose that upfront, Jose said. I tell clients: I'm not going to do this unless you win and I win. I want to feel good every time the phone rings and it's you on the other side.",
+     "text": "I always like to expose that upfront, I said. I tell clients: I'm not going to do this unless you win and I win. I want to feel good every time the phone rings and it's you on the other side.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You're going to learn even more from people when things are down, he said. You see how they act. Are they loyal, honest, transparent? Do they share the little bit of money that is coming in, or do they get greedy?",
+     "text": "You're going to learn even more from people when things are down, I said. You see how they act. Are they loyal, honest, transparent? Do they share the little bit of money that is coming in, or do they get greedy?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -108,7 +108,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the author's negotiating style is?",
+   "q": "What did I say the author's negotiating style is?",
    "choices": [
     "Win and win",
     "Win and lose",
@@ -117,7 +117,7 @@
    "answer": 0
   },
   {
-   "q": "What does the author do instead of haggling, according to Jose?",
+   "q": "What does the author do instead of haggling, according to me?",
    "choices": [
     "Negotiates terms and sees the potential",
     "Walks away",
@@ -126,7 +126,7 @@
    "answer": 0
   },
   {
-   "q": "When did Jose say you learn more from people?",
+   "q": "When did I say you learn more from people?",
    "choices": [
     "When things are down",
     "When things are great",

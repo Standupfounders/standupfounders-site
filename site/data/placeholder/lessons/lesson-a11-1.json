@@ -4,7 +4,7 @@
  "title": "Cost plus",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the way the government ran the industry was cost-plus contracts. There is no risk for the companies, because they know they will get their costs plus the money they will make. So they don't care about cost savings, and it cost the government millions.",
+     "text": "I said the way the government ran the industry was cost-plus contracts. There is no risk for the companies, because they know they will get their costs plus the money they will make. So they don't care about cost savings, and it cost the government millions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,7 +40,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked: what would happen in the private sector if people ran businesses that way, with giant budgets and no thought for cost? They go out of business, he said. The structure is inefficient and money-losing.",
+     "text": "I asked: what would happen in the private sector if people ran businesses that way, with giant budgets and no thought for cost? They go out of business, I said. The structure is inefficient and money-losing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,19 +51,19 @@
    "heading": "The innovator and the regulator",
    "lines": [
     {
-     "text": "Sooner or later, he said, I have rarely seen a company that gets big enough that doesn't have to get involved with politics. There is often an antagonistic relationship between the private sector and the government.",
+     "text": "Sooner or later, I said, I have rarely seen a company that gets big enough that doesn't have to get involved with politics. There is often an antagonistic relationship between the private sector and the government.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A regulator's attitude, he said, is: I'm a political appointee, I have big budgets, I'm here to regulate, not necessarily to make it more efficient. So for an innovator the government can be the enemy, and the person in the book is always challenging red tape. But he has to care about cost, or he goes out of business.",
+     "text": "A regulator's attitude, I said, is: I'm a political appointee, I have big budgets, I'm here to regulate, not necessarily to make it more efficient. So for an innovator the government can be the enemy, and the person in the book is always challenging red tape. But he has to care about cost, or he goes out of business.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said friends of his who deal with a food and drug regulator tell him that the regulators seem incentivized to find fines. That is their account. With an open budget, he said, you get a hinge that costs three thousand dollars when it could cost a thousand, or thirty.",
+     "text": "I said friends of mine who deal with a food and drug regulator tell me that the regulators seem incentivized to find fines. That is their account. With an open budget, I said, you get a hinge that costs three thousand dollars when it could cost a thousand, or thirty.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a cost-plus contract means?",
+   "q": "What did I say a cost-plus contract means?",
    "choices": [
     "The company gets its costs plus a profit, so it has no risk",
     "The company pays the government",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens in the private sector with giant budgets and no cost awareness?",
+   "q": "What did I say happens in the private sector with giant budgets and no cost awareness?",
    "choices": [
     "The business goes under",
     "The business grows",

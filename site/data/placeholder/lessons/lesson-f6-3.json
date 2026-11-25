@@ -4,7 +4,7 @@
  "title": "Design the room",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "The environment",
    "lines": [
     {
-     "text": "Jose said he wants to control a little the environment, not only what he says and the dialogue, but whether it is a loud or a quiet place, whether you can hear traffic, whether the music is loud.",
+     "text": "I said I want to control a little the environment, not only what I say and the dialogue, but whether it is a loud or a quiet place, whether you can hear traffic, whether the music is loud.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Create calm",
    "lines": [
     {
-     "text": "Jose said that you can create an environment that starts with soft music barely heard in the background, and maybe fresh flowers, and that you should be aware of anything that creates friction before you say anything.",
+     "text": "I said that you can create an environment that starts with soft music barely heard in the background, and maybe fresh flowers, and that you should be aware of anything that creates friction before you say anything.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Ask and keep",
    "lines": [
     {
-     "text": "Jose said to ask someone: what is something you like about me that you would like me to keep doing? He said it is a powerful question, not shallow praise.",
+     "text": "I said to ask someone: what is something you like about me that you would like me to keep doing? I said it is a powerful question, not shallow praise.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say he controls a little?",
+   "q": "What did I say I control a little?",
    "choices": [
     "The environment as well as the words",
     "The weather",
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to look for before you speak?",
+   "q": "What did I say to look for before you speak?",
    "choices": [
     "Anything that creates friction",
     "Gifts",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What question did Jose suggest?",
+   "q": "What question did I suggest?",
    "choices": [
     "What do you like me to keep doing",
     "What do you earn",

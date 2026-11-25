@@ -4,7 +4,7 @@
  "title": "Build the team",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Two forces",
    "lines": [
     {
-     "text": "Jose said that his messaging and branding are so powerful that anybody who goes to work for him arrives with expectations. He asked a student: what would be going through your head in that reception?",
+     "text": "I said that his messaging and branding are so powerful that anybody who goes to work for him arrives with expectations. I asked a student: what would be going through your head in that reception?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: that is not only the profile he attracts, but the one you fit into. There are two forces: the messaging of who the company is and its culture, and the other force: I aspire to be like that.",
+     "text": "I said: that is not only the profile he attracts, but the one you fit into. There are two forces: the messaging of who the company is and its culture, and the other force: I aspire to be like that.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Another said: their language patterns. Jose added: negative or positive belief systems. Did they grow up with stability in their relationships? Are they long-term or short-term thinkers?",
+     "text": "Another said: their language patterns. I added: negative or positive belief systems. Did they grow up with stability in their relationships? Are they long-term or short-term thinkers?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,13 +68,13 @@
    "heading": "The biggest task",
    "lines": [
     {
-     "text": "I don't think there is a more important skill in entrepreneurship, Jose said. There is no bigger or more important task than building a team. A student said: it is by far the hardest part.",
+     "text": "I don't think there is a more important skill in entrepreneurship, I said. There is no bigger or more important task than building a team. A student said: it is by far the hardest part.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the person in the book picks an idea, grabs it and says: okay, let's do it. But we want the granularity of how it becomes successful, and team building is one of the most important things. He knows who he needs to run the companies, and who to take out.",
+     "text": "I said the person in the book picks an idea, grabs it and says: okay, let's do it. But we want the granularity of how it becomes successful, and team building is one of the most important things. He knows who he needs to run the companies, and who to take out.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is the most important task in entrepreneurship?",
+   "q": "What did I say is the most important task in entrepreneurship?",
    "choices": [
     "Building a team",
     "Raising money",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What two forces did Jose name?",
+   "q": "What two forces did I name?",
    "choices": [
     "The company's messaging and the person's aspiration",
     "Money and time",

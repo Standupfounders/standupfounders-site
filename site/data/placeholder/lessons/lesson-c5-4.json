@@ -4,7 +4,7 @@
  "title": "The greatest day of your life",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "The exercise",
    "lines": [
     {
-     "text": "Jose asked a student: why is this the greatest day of your life? The student answered: for the opportunity to continually improve and work at something I am passionate about. Another said: it is the discipline of living in the moment, not getting stuck in anticipation.",
+     "text": "I asked a student: why is this the greatest day of your life? The student answered: for the opportunity to continually improve and work at something I am passionate about. Another said: it is the discipline of living in the moment, not getting stuck in anticipation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said the book talks a lot about dopamine hits. Jose said: super normal stimuli, heightened versions of reality. If you are constantly in a heightened version of reality, people see you at a higher energy, driven by that stimulus.",
+     "text": "A student said the book talks a lot about dopamine hits. I said: super normal stimuli, heightened versions of reality. If you are constantly in a heightened version of reality, people see you at a higher energy, driven by that stimulus.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "After the habit I need",
    "lines": [
     {
-     "text": "Jose said that the book ends with: after the habit I need, I will think and act as the person I want to be; after the habit I need, I will do the habit that I want.",
+     "text": "I said that the book ends with: after the habit I need, I will think and act as the person I want to be; after the habit I need, I will do the habit that I want.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: would a successful writer be screwing off during the day and not sit down for two hours? You have to chip away.",
+     "text": "I asked: would a successful writer be screwing off during the day and not sit down for two hours? You have to chip away.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that as a leader, if people are pumped when you are around and flat after you leave the room, you are not being a good leader. You are a good leader when it is transformative and they stay pumped up after you leave. He added that it is key to pick the right people.",
+     "text": "I said that as a leader, if people are pumped when you are around and flat after you leave the room, you are not being a good leader. You are a good leader when it is transformative and they stay pumped up after you leave. I added that it is key to pick the right people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask the group to say about today?",
+   "q": "What did I ask the group to say about today?",
    "choices": [
     "Why it is the greatest day of your life",
     "Why it is boring",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say a good leader leaves behind?",
+   "q": "What did I say a good leader leaves behind?",
    "choices": [
     "People who stay pumped up",
     "A to-do list",

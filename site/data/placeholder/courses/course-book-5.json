@@ -2,10 +2,10 @@
  "schema": 1,
  "id": "course-book-5",
  "slug": "book-5",
- "title": "Jose's analysis of a book we are still naming",
+ "title": "Negotiation: Listening, Labeling and Staying Calm",
  "label": "Course 5",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
- "outcome": "A fifth course, built from Jose's group calls on one book about negotiation, in the order of the calls. The book is not named yet. Modules are added one at a time.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "My reading of one book about negotiation, in the order of the calls. We look at mirroring, labeling, offers and anchors, assumptions, types of people and how to speak to them. Built from my group calls.",
  "season_note": "A suggested run of about 9 weeks. Suggested dates only: nothing locks.",
  "weeks": 9,
  "modules": [
@@ -772,5 +772,7 @@
   }
  ],
  "slots": [],
- "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+ "page_text": "Each module is my analysis of a book on negotiation. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice.",
+ "public_title": "Negotiation: Listening, Labeling and Staying Calm",
+ "public_outcome": "My reading of one book about negotiation, in the order of the calls. We look at mirroring, labeling, offers and anchors, assumptions, types of people and how to speak to them. Built from my group calls."
 }

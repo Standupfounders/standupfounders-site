@@ -4,7 +4,7 @@
  "title": "Where is that line?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Where is that line?",
    "lines": [
     {
-     "text": "Jose asked: how many of us on this phone call can lose money for five years, stay positive, and say: no, I'm going to make it?",
+     "text": "I asked: how many of us on this phone call can lose money for five years, stay positive, and say: no, I'm going to make it?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Then Jose asked the question he said was very important. Where is the line where you say: no, there is no future in this business, I made a wrong call? And where is the line where you say: no, my conviction says there is a business here, it is just taking more time, there are more variables I haven't learned, I have to ride it out, be resilient, and stay positive? Where is that line?",
+     "text": "Then I asked the question I said was very important. Where is the line where you say: no, there is no future in this business, I made a wrong call? And where is the line where you say: no, my conviction says there is a business here, it is just taking more time, there are more variables I haven't learned, I have to ride it out, be resilient, and stay positive? Where is that line?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,25 +51,25 @@
    "heading": "Is he drinking the Kool-Aid?",
    "lines": [
     {
-     "text": "Jose said he would call a friend, an investment banker, and they would talk about businesses. They would ask: is he drinking the Kool-Aid? You are drinking your own idea. You are inspired by it, and you are not perceiving reality anymore.",
+     "text": "I said I would call a friend, an investment banker, and we would talk about businesses. We would ask: is he drinking the Kool-Aid? You are drinking your own idea. You are inspired by it, and you are not perceiving reality anymore.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "We call it getting drunk on your idea, he said. Then you are no longer paying attention to the fundamentals.",
+     "text": "We call it getting drunk on your idea, I said. Then you are no longer paying attention to the fundamentals.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "So the first thing you do as an entrepreneur is find that balance, he said. In my twenties I was fortunate to have great mentors. But you have to be open to attract them. People who are generally successful love to help other people.",
+     "text": "So the first thing you do as an entrepreneur is find that balance, I said. In my twenties I was fortunate to have great mentors. But you have to be open to attract them. People who are generally successful love to help other people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Call ten successful people in your business, he said. Say: I admire your business, I would love you to sit on my board of directors, I have nothing to offer but my admiration. I believe you'll get somebody. The first thing I recommend is a board of advisors, because they give you balance. They say: this is how I see your reality.",
+     "text": "Call ten successful people in your business, I said. Say: I admire your business, I would love you to sit on my board of directors, I have nothing to offer but my admiration. I believe you'll get somebody. The first thing I recommend is a board of advisors, because they give you balance. They say: this is how I see your reality.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,25 +80,25 @@
    "heading": "Ego without logic will bring you down",
    "lines": [
     {
-     "text": "You have to be very careful with ego, he said. Ego without logic will bring you down. You say: I can turn this business around. And then you realize there are no margins.",
+     "text": "You have to be very careful with ego, I said. Ego without logic will bring you down. You say: I can turn this business around. And then you realize there are no margins.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That happened to me in my twenties, he said. There were no margins. It didn't matter how much I did in sales and volume. I was ignoring it. I was trying to gladiator my way. I was outside of reality, using positive thought patterns to try to make it through a business that wasn't there.",
+     "text": "That happened to me in my twenties, I said. There were no margins. It didn't matter how much I did in sales and volume. I was ignoring it. I was trying to gladiator my way. I was outside of reality, using positive thought patterns to try to make it through a business that wasn't there.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "And you won't ask your uncle, who has a car wash business, about a digital strategy company, he said. People ask advice from someone who has nothing to do with the industry. See people who are experts in your industry, whose business you admire, and who have good values.",
+     "text": "And you won't ask your uncle, who has a car wash business, about a digital strategy company, I said. People ask advice from someone who has nothing to do with the industry. See people who are experts in your industry, whose business you admire, and who have good values.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Even if they have only two of the things you look for in a mentor, and those two help you, he said, that is better than having nothing.",
+     "text": "Even if they have only two of the things you look for in a mentor, and those two help you, I said, that is better than having nothing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -131,7 +131,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call falling for your own idea and ignoring the fundamentals?",
+   "q": "What did I call falling for your own idea and ignoring the fundamentals?",
    "choices": [
     "Drinking the Kool-Aid, getting drunk on your idea",
     "Being careful",
@@ -140,7 +140,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say ego without logic will do?",
+   "q": "What did I say ego without logic will do?",
    "choices": [
     "Bring you down",
     "Make you rich",
@@ -149,7 +149,7 @@
    "answer": 0
   },
   {
-   "q": "Whose advice did Jose say to seek?",
+   "q": "Whose advice did I say to seek?",
    "choices": [
     "Experts in your industry whom you admire and who have good values",
     "Anyone who has time",

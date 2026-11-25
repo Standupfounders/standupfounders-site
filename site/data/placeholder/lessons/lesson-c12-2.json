@@ -4,7 +4,7 @@
  "title": "What spending reveals",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Money reveals habits",
    "lines": [
     {
-     "text": "Jose asked what money can reveal about a person. A student said: where you spend reveals your priorities and your positive and negative habits, such as whether you are impulsive.",
+     "text": "I asked what money can reveal about a person. A student said: where you spend reveals your priorities and your positive and negative habits, such as whether you are impulsive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said he cannot think of a better way to study a person's habits than looking at their credit card bills, and recalled the saying that history does not repeat itself, humans always do. The attribution is to be checked.",
+     "text": "I said I cannot think of a better way to study a person's habits than looking at their credit card bills, and recalled the saying that history does not repeat itself, humans always do. The attribution is to be checked.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: do our habits pay us interest? Do we rationalize how we spend? I needed that, I really need a new car. We can rationalize all day, but is it true to who we want to become?",
+     "text": "I asked: do our habits pay us interest? Do we rationalize how we spend? I needed that, I really need a new car. We can rationalize all day, but is it true to who we want to become?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked about generational triggers. A student said: seeing how your parents handle money can turn into a pattern, or the opposite, because it left a mark on you; either way, it has an effect.",
+     "text": "I asked about generational triggers. A student said: seeing how your parents handle money can turn into a pattern, or the opposite, because it left a mark on you; either way, it has an effect.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
    "heading": "Rich and wealthy",
    "lines": [
     {
-     "text": "Jose said that people who grew up in hard times keep a preservation mode. He distinguished rich from wealthy: a rich person can afford the expensive car, house and boat; wealthy is the income that is not spent, the hidden part, having your options open with money in the bank.",
+     "text": "I said that people who grew up in hard times keep a preservation mode. I distinguished rich from wealthy: a rich person can afford the expensive car, house and boat; wealthy is the income that is not spent, the hidden part, having your options open with money in the bank.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose ask about habits?",
+   "q": "What did I ask about habits?",
    "choices": [
     "Whether they pay us interest",
     "Whether they are cheap",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "How did Jose describe being wealthy?",
+   "q": "How did I describe being wealthy?",
    "choices": [
     "Income that is not spent",
     "Owning a boat",

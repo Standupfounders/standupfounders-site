@@ -4,7 +4,7 @@
  "title": "Person or system?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Design the environment, then audit",
    "lines": [
     {
-     "text": "Jose said that in leadership and project management you design the environment for the people in your company: the cues, the triggers and the language you use. When it is not happening, you find out why.",
+     "text": "I said that in leadership and project management you design the environment for the people in your company: the cues, the triggers and the language you use. When it is not happening, you find out why.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked: when the process breaks down, how do you do an audit? What do you do first? A student said: understand the motivation, the trigger, with a needs assessment of the person.",
+     "text": "I asked: when the process breaks down, how do you do an audit? What do you do first? A student said: understand the motivation, the trigger, with a needs assessment of the person.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said you need a person-centered view and a systems view. Is it stemming from a person, or from something I can improve in the system, or both?",
+     "text": "I said you need a person-centered view and a systems view. Is it stemming from a person, or from something I can improve in the system, or both?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What two views did Jose say you need?",
+   "q": "What two views did I say you need?",
    "choices": [
     "Person-centered and systems",
     "Cheap and fast",

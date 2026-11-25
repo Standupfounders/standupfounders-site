@@ -4,7 +4,7 @@
  "title": "What kind of leader am I?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Top down, or compartmentalized?",
    "lines": [
     {
-     "text": "Jose summed up the end of the last chapter: the author is trying to find his place after the merger. The other chief executive has the company more compartmentalized, each manager with a little kingdom, and he oversees. He is not a top-down leader like the author. What do we learn from the difference in management style?",
+     "text": "I summed up the end of the last chapter: the author is trying to find his place after the merger. The other chief executive has the company more compartmentalized, each manager with a little kingdom, and he oversees. He is not a top-down leader like the author. What do we learn from the difference in management style?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said everybody should be thinking about this, not only in the corporate world but in governments. Some have a very strong executive, and some are more decentralized, with power spread among the senators and municipalities. That is why there is a balance of powers.",
+     "text": "I said everybody should be thinking about this, not only in the corporate world but in governments. Some have a very strong executive, and some are more decentralized, with power spread among the senators and municipalities. That is why there is a balance of powers.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "What kind of leader am I?",
    "lines": [
     {
-     "text": "In some countries, Jose said, when there is a lot of power in the legislative assembly, there are more conflicts of interest, and the executive gets vetoed and is not able to execute. We have learned that over the years. It is very similar to corporate strategy.",
+     "text": "In some countries, I said, when there is a lot of power in the legislative assembly, there are more conflicts of interest, and the executive gets vetoed and is not able to execute. We have learned that over the years. It is very similar to corporate strategy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask leaders to think about?",
+   "q": "What did I ask leaders to think about?",
    "choices": [
     "What kind of leader am I: top down or compartmentalized?",
     "How much do I earn?",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose compare management styles to?",
+   "q": "What did I compare management styles to?",
    "choices": [
     "Governments, with a strong executive or power spread out",
     "Weather",

@@ -4,7 +4,7 @@
  "title": "Shortcut your learning with evidence",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Shortcutting",
    "lines": [
     {
-     "text": "Jose said that you are shortcutting the negative belief system: getting over the fear and the limitations, learning faster.",
+     "text": "I said that you are shortcutting the negative belief system: getting over the fear and the limitations, learning faster.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Adapting",
    "lines": [
     {
-     "text": "Jose asked a student who had changed countries what she learned about adapting, and how a big external change affected her internal environment.",
+     "text": "I asked a student who had changed countries what she learned about adapting, and how a big external change affected her internal environment.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that it has changed your life because now you have evidence that gives you a positive belief system: there is a place in the world accessible to you.",
+     "text": "I said that it has changed your life because now you have evidence that gives you a positive belief system: there is a place in the world accessible to you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say evidence gives you?",
+   "q": "What did I say evidence gives you?",
    "choices": [
     "A positive belief system",
     "A bigger bill",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say shortcutting does?",
+   "q": "What did I say shortcutting does?",
    "choices": [
     "Learns faster",
     "Slows you",

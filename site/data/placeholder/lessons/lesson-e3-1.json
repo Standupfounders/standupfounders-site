@@ -4,7 +4,7 @@
  "title": "Read an offer before you answer",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A surprise",
    "lines": [
     {
-     "text": "A student described an unexpected offer of work from a contact, introduced three ways. Jose said that the offer arrived suddenly from a party who had never done it before, and asked the group to think about what the offer might be doing.",
+     "text": "A student described an unexpected offer of work from a contact, introduced three ways. I said that the offer arrived suddenly from a party who had never done it before, and asked the group to think about what the offer might be doing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that a surprise like that can be a distraction, a way to see whether you are greedy enough to take business that competes with a partner of yours.",
+     "text": "I said that a surprise like that can be a distraction, a way to see whether you are greedy enough to take business that competes with a partner of yours.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Ask before you decide",
    "lines": [
     {
-     "text": "Jose said: I told him, I have never really heard anything about you, tell me a little about yourself. You have to be careful not to question too much.",
+     "text": "I said: I told him, I have never really heard anything about you, tell me a little about yourself. You have to be careful not to question too much.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said it takes practice: at the beginning it sounds cagey and rehearsed, but you have to feel the moment on the call or in person, and say: I would love to learn about your story.",
+     "text": "I said it takes practice: at the beginning it sounds cagey and rehearsed, but you have to feel the moment on the call or in person, and say: I would love to learn about your story.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say a surprise offer could be?",
+   "q": "What did I say a surprise offer could be?",
    "choices": [
     "A way to test whether you will take competing business",
     "A gift",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to ask?",
+   "q": "What did I say to ask?",
    "choices": [
     "Tell me a little about yourself",
     "What is the price",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about practice?",
+   "q": "What did I say about practice?",
    "choices": [
     "It sounds cagey at first and improves",
     "It is not needed",

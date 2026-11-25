@@ -4,7 +4,7 @@
  "title": "Awareness before desire",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Awareness before desire",
    "lines": [
     {
-     "text": "Jose said the last chapter says awareness comes before desire: when you assign a meaning to a cue, your brain constructs an emotional feeling, so a craving can only occur after you have noticed an opportunity.",
+     "text": "I said the last chapter says awareness comes before desire: when you assign a meaning to a cue, your brain constructs an emotional feeling, so a craving can only occur after you have noticed an opportunity.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Happiness without desire",
    "lines": [
     {
-     "text": "Jose said that the book says happiness is the absence of desire. He said happiness is an abstraction that each of us defines differently, and gave the example of a friend whose daily walk is a state in which there is no desire to change.",
+     "text": "I said that the book says happiness is the absence of desire. I said happiness is an abstraction that each of us defines differently, and gave the example of a friend whose daily walk is a state in which there is no desire to change.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the habits define the abstraction: the person is not chasing pleasure, is not seeking something, and is already there. He found it peaceful and reassuring at the end of the book, being in the moment without looking for the next thing.",
+     "text": "I said the habits define the abstraction: the person is not chasing pleasure, is not seeking something, and is already there. I found it peaceful and reassuring at the end of the book, being in the moment without looking for the next thing.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -83,7 +83,7 @@
  },
  "check": [
   {
-   "q": "What does the book say comes before desire, as Jose read it?",
+   "q": "What does the book say comes before desire, as I read it?",
    "choices": [
     "Awareness",
     "Money",
@@ -92,7 +92,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the book says happiness is?",
+   "q": "What did I say the book says happiness is?",
    "choices": [
     "The absence of desire",
     "A prize",
@@ -101,7 +101,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about happiness?",
+   "q": "What did I say about happiness?",
    "choices": [
     "Each of us defines it differently",
     "Everyone defines it the same",

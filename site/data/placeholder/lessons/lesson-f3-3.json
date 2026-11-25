@@ -4,7 +4,7 @@
  "title": "Reading signals",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,13 +39,13 @@
    "heading": "An emotion is an option",
    "lines": [
     {
-     "text": "Jose said that feeling an emotion is an option, so people can use the option to their advantage, by controlling the feeling or muddling you up in drama.",
+     "text": "I said that feeling an emotion is an option, so people can use the option to their advantage, by controlling the feeling or muddling you up in drama.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that a very big warning sign is someone who plays a role and does not let you into their family nucleus, because they do not want to be exposed in their true self.",
+     "text": "I said that a very big warning sign is someone who plays a role and does not let you into their family nucleus, because they do not want to be exposed in their true self.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say an emotion is?",
+   "q": "What did I say an emotion is?",
    "choices": [
     "An option",
     "A fact",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call a warning sign?",
+   "q": "What did I call a warning sign?",
    "choices": [
     "Someone who will not let you into their true self",
     "A late arrival",

@@ -4,7 +4,7 @@
  "title": "Habits tell you",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Accountability",
    "lines": [
     {
-     "text": "Jose said: in our own company we have been through a lot of people. What were some of the mistakes we made in the filtering? A student said: low accountability. Letting people do what they wanted.",
+     "text": "I said: in our own company we have been through a lot of people. What were some of the mistakes we made in the filtering? A student said: low accountability. Letting people do what they wanted.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You meet somebody and the resume looks incredible, he said, but there is almost no way to check accountability on a resume. You can go to results, but you don't know the details of what they did. What question would you ask?",
+     "text": "You meet somebody and the resume looks incredible, I said, but there is almost no way to check accountability on a resume. You can go to results, but you don't know the details of what they did. What question would you ask?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,25 +45,25 @@
    "heading": "Habits tell you",
    "lines": [
     {
-     "text": "A student said: how do they present themselves? Jose said: one of the things I look at is their physical surroundings. Are they orderly and clean? How do they treat their environment? Is their car clean?",
+     "text": "A student said: how do they present themselves? I said: one of the things I look at is their physical surroundings. Are they orderly and clean? How do they treat their environment? Is their car clean?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "You are not going to give a million dollars to a person when you get into their car and there are four empty coffee cups on the floor from two weeks ago and it smells bad, he said. How structured is their thinking? What habits do they have? The habits will tell you how accountable somebody is.",
+     "text": "You are not going to give a million dollars to a person when you get into their car and there are four empty coffee cups on the floor from two weeks ago and it smells bad, I said. How structured is their thinking? What habits do they have? The habits will tell you how accountable somebody is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the person in the book runs a factory where you can eat from the floor. This is an accountability pattern that starts with habits. These are signs, and they apply to hiring and to doing business with somebody.",
+     "text": "I said the person in the book runs a factory where you can eat from the floor. This is an accountability pattern that starts with habits. These are signs, and they apply to hiring and to doing business with somebody.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "If you don't have an effective way to build a team, he said, forget about being an entrepreneur. You simply won't make it.",
+     "text": "If you don't have an effective way to build a team, I said, forget about being an entrepreneur. You simply won't make it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you can't check on a resume?",
+   "q": "What did I say you can't check on a resume?",
    "choices": [
     "Accountability",
     "The name",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say habits tell you?",
+   "q": "What did I say habits tell you?",
    "choices": [
     "How accountable somebody is",
     "How tall they are",

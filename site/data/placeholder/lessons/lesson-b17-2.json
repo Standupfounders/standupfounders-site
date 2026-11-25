@@ -4,7 +4,7 @@
  "title": "Why do I believe that?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Why do I believe that?",
    "lines": [
     {
-     "text": "Say you have a negative belief system, Jose said. You tell yourself: you're never going to be a multimillionaire in the next twenty-four months. That's impossible. All money is very difficult to get. You can think of a thousand excuses. What is the first question you ask yourself to analyze that?",
+     "text": "Say you have a negative belief system, I said. You tell yourself: you're never going to be a multimillionaire in the next twenty-four months. That's impossible. All money is very difficult to get. You can think of a thousand excuses. What is the first question you ask yourself to analyze that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: how am I going to do that? Jose said: I would ask: why do I believe that? Where did that belief come from? Generally it comes from somebody or something. Your father, whose disapproval you lived with. Your mother. A coach who traumatized you and told you you were no good.",
+     "text": "A student said: how am I going to do that? I said: I would ask: why do I believe that? Where did that belief come from? Generally it comes from somebody or something. Your father, whose disapproval you lived with. Your mother. A coach who traumatized you and told you you were no good.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Who gave it to me, he asked? Why is it repetitive? Why am I still believing it years later? A student said: that's because that's what you're looking for. You've trained yourself to see only that.",
+     "text": "Who gave it to me, I asked? Why is it repetitive? Why am I still believing it years later? A student said: that's because that's what you're looking for. You've trained yourself to see only that.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "It's a domino effect",
    "lines": [
     {
-     "text": "What you believe becomes your manifestation, Jose said. If you believe you are not going to make money, it starts to manifest itself. Your imagination becomes your reality. What you tell your mind becomes your emotion becomes your action. It is a domino effect.",
+     "text": "What you believe becomes your manifestation, I said. If you believe you are not going to make money, it starts to manifest itself. Your imagination becomes your reality. What you tell your mind becomes your emotion becomes your action. It is a domino effect.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "With the author, he said, we are not learning anything from this book unless we analyze the foundation of what made this man extraordinary as an entrepreneur. We could focus on the negative things: the husband, the father. But why not focus on the positive things, because those are what are going to be important to us? We can go to another mentor to learn about a great father.",
+     "text": "With the author, I said, we are not learning anything from this book unless we analyze the foundation of what made this man extraordinary as an entrepreneur. We could focus on the negative things: the husband, the father. But why not focus on the positive things, because those are what are going to be important to us? We can go to another mentor to learn about a great father.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: that's great that you identified it, and you're able to stop it.",
+     "text": "I said: that's great that you identified it, and you're able to stop it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What question did Jose say he would ask himself about a negative belief?",
+   "q": "What question did I say I would ask myself about a negative belief?",
    "choices": [
     "Why do I believe that, and where did it come from?",
     "How can I hide it?",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the domino effect is?",
+   "q": "What did I say the domino effect is?",
    "choices": [
     "What you tell your mind becomes your emotion becomes your action",
     "Money leads to success",
@@ -114,7 +114,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to focus on when learning from the author?",
+   "q": "What did I say to focus on when learning from the author?",
    "choices": [
     "The positive things that are important to us",
     "His failures",

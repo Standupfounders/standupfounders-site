@@ -4,7 +4,7 @@
  "title": "Ask why not",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: what a great way to do it. That's why he has amazing focus: he asks the simple question, why? Who says we can't do it?",
+     "text": "I said: what a great way to do it. That's why he has amazing focus: he asks the simple question, why? Who says we can't do it?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,19 +45,19 @@
    "heading": "Break it down, and do the research",
    "lines": [
     {
-     "text": "I love the way he breaks down things into simple forms, Jose said. It's metal and fuel. But he does do the research. He goes to the space agency's website and thinks: these people went to the moon in 1969, so why wouldn't someone go to Mars?",
+     "text": "I love the way he breaks down things into simple forms, I said. It's metal and fuel. But he does do the research. He goes to the space agency's website and thinks: these people went to the moon in 1969, so why wouldn't someone go to Mars?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I talk a lot about possibility versus impossibility thinkers, he said. Some people see the impossibility first, which is an illusion at times, because a lot of the time impossibility is just the opinion of others. He is a possibility thinker first and keeps going with the relentlessness of: why not?",
+     "text": "I talk a lot about possibility versus impossibility thinkers, I said. Some people see the impossibility first, which is an illusion at times, because a lot of the time impossibility is just the opinion of others. He is a possibility thinker first and keeps going with the relentlessness of: why not?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: I think he looks at probability, because it's the only thing you can calculate. You can't calculate a possibility. Jose said: possibility gets into what you are assuming to make it possible.",
+     "text": "A student said: I think he looks at probability, because it's the only thing you can calculate. You can't calculate a possibility. I said: possibility gets into what you are assuming to make it possible.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What simple question did Jose say the person asks?",
+   "q": "What simple question did I say the person asks?",
    "choices": [
     "Why? Who says we can't?",
     "How much?",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say impossibility is a lot of the time?",
+   "q": "What did I say impossibility is a lot of the time?",
    "choices": [
     "The opinion of others",
     "A fact",

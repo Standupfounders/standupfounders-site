@@ -4,7 +4,7 @@
  "title": "The one little thing",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "One little thing",
    "lines": [
     {
-     "text": "Jose said that when you judge a person you pull in resources: psychological profiling, looking at the person's habits. Do they have negative habits, eating junk food, getting up at ten, going out two or three times a week, destructive relationships around them? All of those things are resources.",
+     "text": "I said that when you judge a person you pull in resources: psychological profiling, looking at the person's habits. Do they have negative habits, eating junk food, getting up at ten, going out two or three times a week, destructive relationships around them? All of those things are resources.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: you have to be ready to catch the signs of somebody who won't work out, that one little thing that could be the detrimental thing in your new partnership.",
+     "text": "I said: you have to be ready to catch the signs of somebody who won't work out, that one little thing that could be the detrimental thing in your new partnership.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "Things that haunt",
    "lines": [
     {
-     "text": "There are things that have haunted me later, Jose said, of something somebody said, and I thought: I can't believe I brushed that off. At the time I wanted to let it pass. I was looking at the business, the revenue, the potential. But that one personal piece of information ended up being the most detrimental thing in the whole business deal.",
+     "text": "There are things that have haunted me later, I said, of something somebody said, and I thought: I can't believe I brushed that off. At the time I wanted to let it pass. I was looking at the business, the revenue, the potential. But that one personal piece of information ended up being the most detrimental thing in the whole business deal.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: so you watch how they eat, how they treat people, how they treat the waiters, how they manage their home life and their children. That whole environment is huge. It is very telling.",
+     "text": "I said: so you watch how they eat, how they treat people, how they treat the waiters, how they manage their home life and their children. That whole environment is huge. It is very telling.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "Everyone has a vice",
    "lines": [
     {
-     "text": "A student said: everybody has a vice, and I'm leery of people who pretend they don't. The question is whether it is going to affect the business. Jose said: you've got to mitigate that risk, and be aware of the risk.",
+     "text": "A student said: everybody has a vice, and I'm leery of people who pretend they don't. The question is whether it is going to affect the business. I said: you've got to mitigate that risk, and be aware of the risk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you have to be ready to catch?",
+   "q": "What did I say you have to be ready to catch?",
    "choices": [
     "The one little thing that could be detrimental",
     "The big win",
@@ -119,7 +119,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to watch besides the business?",
+   "q": "What did I say to watch besides the business?",
    "choices": [
     "How they eat, treat people, and manage their home life",
     "Their handwriting",

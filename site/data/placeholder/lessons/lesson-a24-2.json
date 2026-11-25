@@ -4,7 +4,7 @@
  "title": "Keep your network warm",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,19 +39,19 @@
    "heading": "A group that stays in touch",
    "lines": [
     {
-     "text": "Jose said: how much effort did we put into maintaining relationships with people from high school? I just had my reunion. We chat every day: twenty of the thirty-six who graduated with us are active in the chat. We know what we're doing every day.",
+     "text": "I said: how much effort did we put into maintaining relationships with people from high school? I just had my reunion. We chat every day: twenty of the thirty-six who graduated with us are active in the chat. We know what we're doing every day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "We all went to boarding school together, he said. When we are in a city where one of the guys lives, we meet for dinner. It is the same with my fraternity brothers. A very tight group. I have done multiple businesses with them and I always go back to them for resources.",
+     "text": "We all went to boarding school together, I said. When we are in a city where one of the guys lives, we meet for dinner. It is the same with my fraternity brothers. A very tight group. I have done multiple businesses with them and I always go back to them for resources.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "How much nurturing do we do of our network of contacts and friends? he asked. People we went to school with had trust before there was money, before people came with only economic interests, with the innocence we have at school.",
+     "text": "How much nurturing do we do of our network of contacts and friends? I asked. People we went to school with had trust before there was money, before people came with only economic interests, with the innocence we have at school.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about his high school group?",
+   "q": "What did I say about my high school group?",
    "choices": [
     "They chat every day and meet when they are in the same city",
     "They never speak",
@@ -102,7 +102,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say schoolmates have that others lack?",
+   "q": "What did I say schoolmates have that others lack?",
    "choices": [
     "Trust from before there was money",
     "Better jobs",

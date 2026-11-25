@@ -4,7 +4,7 @@
  "title": "One place, one job",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that we can set these things up around us all the time, and there are certain places where he knows it is a good time for a small treat. He said he has to remove himself from that environment at times.",
+     "text": "I said that we can set these things up around us all the time, and there are certain places where I know it is a good time for a small treat. I said I have to remove myself from that environment at times.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that he calls them rituals: morning rituals. He gets up early, reads and does his to-do list, and keeps that habit in any environment. As soon as he opens his eyes that is his trigger to start being productive.",
+     "text": "I said that I call them rituals: morning rituals. I get up early, read and do my to-do list, and keep that habit in any environment. As soon as I open my eyes that is my trigger to start being productive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that he uses the early hours to evaluate what he is doing wrong and could do better, and the next hours for communication and delegation.",
+     "text": "I said that I use the early hours to evaluate what I am doing wrong and could do better, and the next hours for communication and delegation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose call his morning routine?",
+   "q": "What did I call my morning routine?",
    "choices": [
     "Rituals",
     "Chores",
@@ -102,9 +102,9 @@
    "answer": 0
   },
   {
-   "q": "What is Jose's trigger to start being productive?",
+   "q": "What is my trigger to start being productive?",
    "choices": [
-    "Opening his eyes",
+    "Opening my eyes",
     "A phone call",
     "Coffee only"
    ],

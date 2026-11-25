@@ -4,7 +4,7 @@
  "title": "Form and content",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Form",
    "lines": [
     {
-     "text": "Jose said that there is form and there is content. Form can be the arrangement of words, the proportion, the rhythm of the language and the aesthetic impact, and the beauty of words definitely has an impact on rhetoric, persuasive language.",
+     "text": "I said that there is form and there is content. Form can be the arrangement of words, the proportion, the rhythm of the language and the aesthetic impact, and the beauty of words definitely has an impact on rhetoric, persuasive language.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that the speaker is pacing: getting you to agree with beautiful language, and will lead near the end with the call to action. He pointed out inclusive words like our and we.",
+     "text": "I said that the speaker is pacing: getting you to agree with beautiful language, and will lead near the end with the call to action. I pointed out inclusive words like our and we.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,7 +50,7 @@
    "heading": "Repetition and theme",
    "lines": [
     {
-     "text": "Jose said that repeating the theme word makes it stick, and that repetition can electrify an audience. He said that it does not matter so much what is said as how it is repeated, which is a claim of his own and is to be verified.",
+     "text": "I said that repeating the theme word makes it stick, and that repetition can electrify an audience. I said that it does not matter so much what is said as how it is repeated, which is a claim of my own and is to be verified.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -83,7 +83,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say form includes?",
+   "q": "What did I say form includes?",
    "choices": [
     "Rhythm and arrangement of words",
     "Only the facts",
@@ -92,7 +92,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the pacing speaker does near the end?",
+   "q": "What did I say the pacing speaker does near the end?",
    "choices": [
     "Leads with a call to action",
     "Stops",

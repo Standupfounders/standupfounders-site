@@ -4,7 +4,7 @@
  "title": "Contrast and tension in a speech",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Sound and symmetry",
    "lines": [
     {
-     "text": "Jose said that last time he talked about alliteration, and that this time he would talk about symmetry in a speech, such as a tongue twister, where the sounds balance.",
+     "text": "I said that last time I talked about alliteration, and that this time I would talk about symmetry in a speech, such as a tongue twister, where the sounds balance.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said he would introduce concepts used in speeches, and asked whether that would be useful.",
+     "text": "I said I would introduce concepts used in speeches, and asked whether that would be useful.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Dialectical tension",
    "lines": [
     {
-     "text": "Jose said that dialectical tension and contrast are two concepts that are very good in politics: the yin and yang, black and white, two opposing views like a tug of war.",
+     "text": "I said that dialectical tension and contrast are two concepts that are very good in politics: the yin and yang, black and white, two opposing views like a tug of war.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He asked what your stance should be when speaking to the masses in the middle of that tug of war, and a student answered that you identify your audience and the goal.",
+     "text": "I asked what your stance should be when speaking to the masses in the middle of that tug of war, and a student answered that you identify your audience and the goal.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say last time's device was?",
+   "q": "What did I say last time's device was?",
    "choices": [
     "Alliteration",
     "Rhyme only",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What is dialectical tension, as Jose described it?",
+   "q": "What is dialectical tension, as I described it?",
    "choices": [
     "Two opposing views like a tug of war",
     "One loud view",

@@ -4,7 +4,7 @@
  "title": "Your pressure threshold",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -45,7 +45,7 @@
    "heading": "Is there a point when you're doing too much?",
    "lines": [
     {
-     "text": "Jose said: one of the lessons is: is there a point when you're doing too much? Is there a point when you say: this is becoming invasive, I should scale down? Is there a point when the cup overflows and he drops an egg?",
+     "text": "I said: one of the lessons is: is there a point when you're doing too much? Is there a point when you say: this is becoming invasive, I should scale down? Is there a point when the cup overflows and he drops an egg?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: the first thing I try to analyze is: what have I done repeatedly in my life that always works? What are the patterns that consistently work? Because he has developed these patterns, can he replicate them, systemize them, automate them and lower the risk, and so take on more?",
+     "text": "I said: the first thing I try to analyze is: what have I done repeatedly in my life that always works? What are the patterns that consistently work? Because he has developed these patterns, can he replicate them, systemize them, automate them and lower the risk, and so take on more?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose ask about what always works?",
+   "q": "What did I ask about what always works?",
    "choices": [
     "What patterns consistently work, and can you systemize them?",
     "What is cheapest?",

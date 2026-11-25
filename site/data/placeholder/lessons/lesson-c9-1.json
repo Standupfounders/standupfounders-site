@@ -4,7 +4,7 @@
  "title": "The two-minute rule",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on habits. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "The entrance ramp",
    "lines": [
     {
-     "text": "Jose said he loved the book's metaphor that habits are like the entrance ramp to a highway: they lead you down a path, and before you know it you are speeding toward the next behavior. He said that is why it is so important to enjoy every single day of your life, because life is fleeting.",
+     "text": "I said I loved the book's metaphor that habits are like the entrance ramp to a highway: they lead you down a path, and before you know it you are speeding toward the next behavior. I said that is why it is so important to enjoy every single day of your life, because life is fleeting.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: the two-minute rule is like building momentum, anchors or rituals, getting into a flow toward a direction. Jose said: once you start doing the right thing, it is easier to continue.",
+     "text": "A student said: the two-minute rule is like building momentum, anchors or rituals, getting into a flow toward a direction. I said: once you start doing the right thing, it is easier to continue.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that every day a handful of moments deliver an outsized impact, which the book calls decisive moments, tiny catalysts for the behavior.",
+     "text": "I said that every day a handful of moments deliver an outsized impact, which the book calls decisive moments, tiny catalysts for the behavior.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "The two-minute rule",
    "lines": [
     {
-     "text": "Jose said that to start a new habit, make sure it does not take much time. He took the gloves and wraps out and left them next to his heavy bag, and did not hit it. The secret is to stay below the point where it feels like work.",
+     "text": "I said that to start a new habit, make sure it does not take much time. I took the gloves and wraps out and left them next to my heavy bag, and did not hit it. The secret is to stay below the point where it feels like work.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that someone who runs marathons probably puts out the shoes, shorts and shirt the night before as a ritual that triggers the next day.",
+     "text": "I said that someone who runs marathons probably puts out the shoes, shorts and shirt the night before as a ritual that triggers the next day.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,13 +62,13 @@
    "heading": "The thought habit",
    "lines": [
     {
-     "text": "Jose said he separated physical habits and thought habits. A student said: even the physical comes down to the thought; it is a mental discipline leading to a physical discipline.",
+     "text": "I said I separated physical habits and thought habits. A student said: even the physical comes down to the thought; it is a mental discipline leading to a physical discipline.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that we give ourselves gigantic tasks, such as I need to make two or three million this year, and overwhelm ourselves, breaking the two-minute rule. He said there is a saying that the ancestor of every action is a thought.",
+     "text": "I said that we give ourselves gigantic tasks, such as I need to make two or three million this year, and overwhelm ourselves, breaking the two-minute rule. I said there is a saying that the ancestor of every action is a thought.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -101,7 +101,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say habits are like?",
+   "q": "What did I say habits are like?",
    "choices": [
     "The entrance ramp to a highway",
     "A locked door",
@@ -110,7 +110,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the secret of the two-minute rule is?",
+   "q": "What did I say the secret of the two-minute rule is?",
    "choices": [
     "Stay below the point where it feels like work",
     "Do it for an hour",

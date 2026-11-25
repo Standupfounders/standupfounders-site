@@ -4,7 +4,7 @@
  "title": "Your stance on privacy and responsibility",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Privacy",
    "lines": [
     {
-     "text": "Jose said: are you going to use the AI data you collect to invade somebody's privacy? If you have a business and you are generating user information, are you going to respect the privacy of what you collect?",
+     "text": "I said: are you going to use the AI data you collect to invade somebody's privacy? If you have a business and you are generating user information, are you going to respect the privacy of what you collect?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "What is your stance on data surveillance, on collection of data, on security? he asked. We have facial recognition, smartphones, a whole world of ways we could violate our customer data. That's an ethical stance: as a business owner I will respect the privacy of my users and my client base.",
+     "text": "What is your stance on data surveillance, on collection of data, on security? I asked. We have facial recognition, smartphones, a whole world of ways we could violate our customer data. That's an ethical stance: as a business owner I will respect the privacy of my users and my client base.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Accountability",
    "lines": [
     {
-     "text": "The other one is accountability, he said. If you use AI for a health diagnosis and it gives a wrong one, and somebody takes the wrong medicine and dies, what is your stance? Are you responsible?",
+     "text": "The other one is accountability, I said. If you use AI for a health diagnosis and it gives a wrong one, and somebody takes the wrong medicine and dies, what is your stance? Are you responsible?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the lines are getting blurry and people are going to have to take a stance. It is not going to be good enough just to write a disclaimer. You are going to have to say: these are the risks associated with it, and I am going to be a responsible user of AI.",
+     "text": "I said the lines are getting blurry and people are going to have to take a stance. It is not going to be good enough just to write a disclaimer. You are going to have to say: these are the risks associated with it, and I am going to be a responsible user of AI.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,7 +68,7 @@
    "heading": "The list",
    "lines": [
     {
-     "text": "Jose listed what entrepreneurs need to take a stance on: ethics, privacy, accountability, data bias, job displacement, and transparency of the systems and algorithms. Algorithms are highly manipulative, he said, and that is a massive responsibility.",
+     "text": "I listed what entrepreneurs need to take a stance on: ethics, privacy, accountability, data bias, job displacement, and transparency of the systems and algorithms. Algorithms are highly manipulative, I said, and that is a massive responsibility.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -107,7 +107,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is not good enough?",
+   "q": "What did I say is not good enough?",
    "choices": [
     "Just writing a disclaimer",
     "Taking a stance",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose list to take a stance on?",
+   "q": "What did I list to take a stance on?",
    "choices": [
     "Privacy, accountability, bias, job displacement, transparency",
     "Colour, size, price",

@@ -4,7 +4,7 @@
  "title": "Scale and tiny commitments",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A limit on scaling",
    "lines": [
     {
-     "text": "Jose said that if you are a marketing service for a law firm and have it ranked first, you cannot use the same intelligence for a competing law firm, because it is a conflict of interest. They will want a contract that you represent only them.",
+     "text": "I said that if you are a marketing service for a law firm and have it ranked first, you cannot use the same intelligence for a competing law firm, because it is a conflict of interest. They will want a contract that you represent only them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that the same goes for hotels and restaurants, so that service business has a limit to scaling and growth, and a software business whose customers all use it does not.",
+     "text": "I said that the same goes for hotels and restaurants, so that service business has a limit to scaling and growth, and a software business whose customers all use it does not.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Micro-commitments",
    "lines": [
     {
-     "text": "Jose asked: what is the micro-commitment people make to you? He asked for the tiny commitments in conversation.",
+     "text": "I asked: what is the micro-commitment people make to you? I asked for the tiny commitments in conversation.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that the signs are phrases like: I never thought of it that way, that is really clever, this is the same problem I face. They show the person is moving closer.",
+     "text": "I said that the signs are phrases like: I never thought of it that way, that is really clever, this is the same problem I face. They show the person is moving closer.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What is a limit on scaling a service business, in Jose's example?",
+   "q": "What is a limit on scaling a service business, in my example?",
    "choices": [
     "Conflicts of interest",
     "Weather",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose ask for?",
+   "q": "What did I ask for?",
    "choices": [
     "Examples of micro-commitments",
     "Prices",

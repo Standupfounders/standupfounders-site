@@ -4,7 +4,7 @@
  "title": "The moment that defines you",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "The exercise",
    "lines": [
     {
-     "text": "Jose asked each person: give me the moment that most defines you in your life. For those who are brave, it could be a negative one that has defined you. Nobody is pushed into exposing anything.",
+     "text": "I asked each person: give me the moment that most defines you in your life. For those who are brave, it could be a negative one that has defined you. Nobody is pushed into exposing anything.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Objects carry meaning",
    "lines": [
     {
-     "text": "Jose said that a piece of paper from such a moment becomes symbolic and gains consciousness, because we attach consciousness to objects that represent things, as flags do.",
+     "text": "I said that a piece of paper from such a moment becomes symbolic and gains consciousness, because we attach consciousness to objects that represent things, as flags do.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,7 +50,7 @@
    "heading": "What we carry",
    "lines": [
     {
-     "text": "Jose said that we carry a memory like that and may spend a life looking for approval. He said we do not tend to think about these things and sweep them under the rug, but they surface, in a lack of confidence or in a five-second decision.",
+     "text": "I said that we carry a memory like that and may spend a life looking for approval. I said we do not tend to think about these things and sweep them under the rug, but they surface, in a lack of confidence or in a five-second decision.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What did Jose ask each person for?",
+   "q": "What did I ask each person for?",
    "choices": [
     "The moment that most defines them",
     "Their salary",
@@ -98,7 +98,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say objects can have?",
+   "q": "What did I say objects can have?",
    "choices": [
     "Meaning we attach to them",
     "Their own price",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens to what we sweep under the rug?",
+   "q": "What did I say happens to what we sweep under the rug?",
    "choices": [
     "It surfaces somewhere",
     "It disappears",

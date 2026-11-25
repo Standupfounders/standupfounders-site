@@ -4,7 +4,7 @@
  "title": "Many hats, one message at a time",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Many hats",
    "lines": [
     {
-     "text": "A student said that Jose's brand is many-sided: involved in multiple ventures, from schools to design, and leaning on his past as a builder and teacher. Another said he is also a father and family man.",
+     "text": "A student said that my brand is many-sided: involved in multiple ventures, from schools to design, and leaning on my past as a builder and teacher. Another said I am also a father and family man.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that you can have multiple brands and multiple messages, and that he tries to adapt and change hats depending on his audience. He said that he gave a talk to a group of children of very different ages and had to deliver the message in ten minutes.",
+     "text": "I said that you can have multiple brands and multiple messages, and that I try to adapt and change hats depending on my audience. I said that I gave a talk to a group of children of very different ages and had to deliver the message in ten minutes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that one of the things we can do is study the different identities we can develop.",
+     "text": "I said that one of the things we can do is study the different identities we can develop.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: you take your personality, perspective and message, and you scale it. That is what this book is about.",
+     "text": "I said: you take your personality, perspective and message, and you scale it. That is what this book is about.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you can have?",
+   "q": "What did I say you can have?",
    "choices": [
     "Multiple brands and messages",
     "Only one brand",
@@ -93,16 +93,16 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say he adapts to?",
+   "q": "What did I say I adapt to?",
    "choices": [
-    "His audience",
+    "My audience",
     "The weather",
     "The calendar"
    ],
    "answer": 0
   },
   {
-   "q": "What did Jose say the book is about?",
+   "q": "What did I say the book is about?",
    "choices": [
     "How you scale your message",
     "How you save money",

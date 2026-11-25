@@ -4,7 +4,7 @@
  "title": "Decisions are a skill",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Decisions are a skill",
    "lines": [
     {
-     "text": "Jose said: I'm learning from this the amount of decisions that he makes. It's like any skill: the more you do it the better you get. So the fact that he is making so many decisions, he is fine-tuning how he makes them. When we don't make decisions we don't get better, we probably get worse.",
+     "text": "I said: I'm learning from this the amount of decisions that he makes. It's like any skill: the more you do it the better you get. So the fact that he is making so many decisions, he is fine-tuning how he makes them. When we don't make decisions we don't get better, we probably get worse.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "It is a numbers game in the end, he said. Out of ten decisions I'm at the point now where three or four are really good ones and six are bad ones. Now I can work on making six good ones and three or four bad ones. The frequency of decisions is something I'm amazed at.",
+     "text": "It is a numbers game in the end, I said. Out of ten decisions I'm at the point now where three or four are really good ones and six are bad ones. Now I can work on making six good ones and three or four bad ones. The frequency of decisions is something I'm amazed at.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "The crossroads",
    "lines": [
     {
-     "text": "Jose said: not making a decision is a decision. What are the decisions in our lives in the past that determined our destiny? Where was the crossroad where we made the decision, and what was our process? And where didn't we make a decision that could have completely changed our circumstances?",
+     "text": "I said: not making a decision is a decision. What are the decisions in our lives in the past that determined our destiny? Where was the crossroad where we made the decision, and what was our process? And where didn't we make a decision that could have completely changed our circumstances?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens to a skill the more you do it?",
+   "q": "What did I say happens to a skill the more you do it?",
    "choices": [
     "You get better",
     "You get tired",
@@ -87,7 +87,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say not making a decision is?",
+   "q": "What did I say not making a decision is?",
    "choices": [
     "A decision",
     "Safe",
@@ -96,7 +96,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about circumstances and decisions?",
+   "q": "What did I say about circumstances and decisions?",
    "choices": [
     "Decisions should come before circumstances",
     "Circumstances come first",

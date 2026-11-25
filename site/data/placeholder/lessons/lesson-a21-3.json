@@ -4,7 +4,7 @@
  "title": "Questions that reveal",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Be conversational",
    "lines": [
     {
-     "text": "In an interview, Jose said, we have so little time to analyze somebody. You better be good at the questions you ask. You don't want to ask like some intelligence agent, in a threatening way. You want to be very conversational.",
+     "text": "In an interview, I said, we have so little time to analyze somebody. You better be good at the questions you ask. You don't want to ask like some intelligence agent, in a threatening way. You want to be very conversational.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said you can preface it with a disclaimer: do you mind if I don't use an orthodox way to interview, and we just talk? That is preparing the territory.",
+     "text": "I said you can preface it with a disclaimer: do you mind if I don't use an orthodox way to interview, and we just talk? That is preparing the territory.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
      "kind": "student"
     },
     {
-     "text": "Another said: tell me about your failures and how you worked them out. Jose said: those are very good. Give me three of the most successful moments of your life. That will tell you a lot about a person.",
+     "text": "Another said: tell me about your failures and how you worked them out. I said: those are very good. Give me three of the most successful moments of your life. That will tell you a lot about a person.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said you should have five or six revealing questions that help you filter. Everybody will have their own style and selection.",
+     "text": "I said you should have five or six revealing questions that help you filter. Everybody will have their own style and selection.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,13 +68,13 @@
    "heading": "Signs",
    "lines": [
     {
-     "text": "Jose said that people who don't acknowledge the negative hide from it, blame their external environment, and say: the economy did this. That is the person who victimizes themselves. Imagine an investor who invests in you and you say: we lost all the money because of the economy.",
+     "text": "I said that people who don't acknowledge the negative hide from it, blame their external environment, and say: the economy did this. That is the person who victimizes themselves. Imagine an investor who invests in you and you say: we lost all the money because of the economy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: they never think they are in the wrong. Even a simple shift to the idea that they could be wrong makes them defensive. Jose said: people who don't apologize are another sign.",
+     "text": "A student said: they never think they are in the wrong. Even a simple shift to the idea that they could be wrong makes them defensive. I said: people who don't apologize are another sign.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What kind of interview did Jose say to aim for?",
+   "q": "What kind of interview did I say to aim for?",
    "choices": [
     "Very conversational, not threatening",
     "A cross-examination",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about people who blame their environment?",
+   "q": "What did I say about people who blame their environment?",
    "choices": [
     "They victimize themselves, and that is a warning sign",
     "They are honest",

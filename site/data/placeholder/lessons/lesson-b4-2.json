@@ -4,7 +4,7 @@
  "title": "If a rule doesn't let me do something that's so logical, it must be a bad rule",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,25 +22,25 @@
    "heading": "If a rule doesn't let me do something that's so logical, it must be a bad rule",
    "lines": [
     {
-     "text": "Jose said that in this chapter the author is not only going up against monopolies. For the first time he is going to go up against the government as well.",
+     "text": "I said that in this chapter the author is not only going up against monopolies. For the first time he is going to go up against the government as well.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "As Jose tells it, the author asks himself a question: if a rule doesn't let me do something that is so logical, it must be a bad rule.",
+     "text": "As I tell it, the author asks himself a question: if a rule doesn't let me do something that is so logical, it must be a bad rule.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that, in his view, big monopolies make up rules to favor themselves and use agencies to support their monopolies, because of the money they give.",
+     "text": "I said that, in his view, big monopolies make up rules to favor themselves and use agencies to support their monopolies, because of the money they give.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He gave a modern picture. Think of YouTube, he said. It is a distribution channel. You can open a channel and get millions of viewers, and YouTube makes money on the advertising, and shares it with you. Look at the author as no different than a YouTube channel. He is a content provider.",
+     "text": "I gave a modern picture. Think of YouTube, I said. It is a distribution channel. You can open a channel and get millions of viewers, and YouTube makes money on the advertising, and shares it with you. Look at the author as no different than a YouTube channel. He is a content provider.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
    "heading": "Ten cents per subscriber per month",
    "lines": [
     {
-     "text": "Jose read a line about the money the author expected.",
+     "text": "I read a line about the money the author expected.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,13 +63,13 @@
      "kind": "quote"
     },
     {
-     "text": "Jose pointed out what that is: a subscription business model, a very common term now. Just ten cents per subscriber.",
+     "text": "I pointed out what that is: a subscription business model, a very common term now. Just ten cents per subscriber.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He is not saying they won't make money, Jose said. He is willing to pay the ten cents. But he is not willing to let them bulldoze him and not make any money.",
+     "text": "He is not saying they won't make money, I said. He is willing to pay the ten cents. But he is not willing to let them bulldoze him and not make any money.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,13 +80,13 @@
    "heading": "When you get big enough",
    "lines": [
     {
-     "text": "A student said the local channels want to keep their market share and have no competition. Jose agreed. They go to their local authorities and make it illegal, he said. It is a legislative momentum. Everybody is protected, everybody has marked out their territory, and nobody can do anything else.",
+     "text": "A student said the local channels want to keep their market share and have no competition. I agreed. They go to their local authorities and make it illegal, I said. It is a legislative momentum. Everybody is protected, everybody has marked out their territory, and nobody can do anything else.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "When you get big enough, Jose said, unfortunately, the government comes after you. The competitors come after you. You don't think you will just sit there and make a ton of money and nobody will come after you. It just doesn't happen.",
+     "text": "When you get big enough, I said, unfortunately, the government comes after you. The competitors come after you. You don't think you will just sit there and make a ton of money and nobody will come after you. It just doesn't happen.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -119,7 +119,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call a business model of a small fee per subscriber each month?",
+   "q": "What did I call a business model of a small fee per subscriber each month?",
    "choices": [
     "A subscription business model",
     "A franchise",
@@ -128,7 +128,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say happens when you get big enough?",
+   "q": "What did I say happens when you get big enough?",
    "choices": [
     "The government and your competitors come after you",
     "Everyone helps you",
@@ -137,7 +137,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose compare the author to?",
+   "q": "What did I compare the author to?",
    "choices": [
     "A YouTube channel, a content provider",
     "A bank",

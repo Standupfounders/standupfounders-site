@@ -4,7 +4,7 @@
  "title": "A good intention, an unintended use",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,13 +28,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: he thought he was doing something great, being useful, with great intentions. Then all of a sudden, people started putting the connections on drones to do assaults, and he found himself in a compromising position, because that wasn't the intention of giving them the connections.",
+     "text": "I said: he thought he was doing something great, being useful, with great intentions. Then all of a sudden, people started putting the connections on drones to do assaults, and he found himself in a compromising position, because that wasn't the intention of giving them the connections.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that we don't have to get into all the details of the war, and he wanted to go into a deeper discussion about ethics in foreign problems like this.",
+     "text": "I said that we don't have to get into all the details of the war, and I wanted to go into a deeper discussion about ethics in foreign problems like this.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -72,7 +72,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say the person's intention was in giving the connections?",
+   "q": "What did I say the person's intention was in giving the connections?",
    "choices": [
     "To do something great and be useful",
     "To make money",
@@ -81,7 +81,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose want to discuss?",
+   "q": "What did I want to discuss?",
    "choices": [
     "Ethics in foreign problems",
     "Prices",
@@ -90,7 +90,7 @@
    "answer": 0
   },
   {
-   "q": "What did the connections end up being used for, as Jose retold the book?",
+   "q": "What did the connections end up being used for, as I retold the book?",
    "choices": [
     "Things other than humanitarian efforts",
     "Games",

@@ -4,7 +4,7 @@
  "title": "Ride the news",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "News-driven content",
    "lines": [
     {
-     "text": "Jose said that news-driven content uses the momentum of the news. He compared it to a bait ball, sardines gathered together, and the fish that come to feed on it.",
+     "text": "I said that news-driven content uses the momentum of the news. I compared it to a bait ball, sardines gathered together, and the fish that come to feed on it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that his own field is closely tied to flooding, so with a storm on its way, a company can speak about rainfall and what people should do, because everybody is already paying attention.",
+     "text": "I said that my own field is closely tied to flooding, so with a storm on its way, a company can speak about rainfall and what people should do, because everybody is already paying attention.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "Calendar-driven content",
    "lines": [
     {
-     "text": "Jose said that calendar-driven content is about seasons, holidays and key dates for your audience, and that he likes it when a business sends a birthday message.",
+     "text": "I said that calendar-driven content is about seasons, holidays and key dates for your audience, and that I like it when a business sends a birthday message.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,13 +56,13 @@
    "heading": "Be careful",
    "lines": [
     {
-     "text": "Jose said that you must be careful with your analysis and insight on the news, because you do not know what audience you have, and he is careful because people on his list have the full spectrum of political views.",
+     "text": "I said that you must be careful with your analysis and insight on the news, because you do not know what audience you have, and I am careful because people on my list have the full spectrum of political views.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that in a crisis you can give an objective view of the data, such as the dangers and the balance sheets.",
+     "text": "I said that in a crisis you can give an objective view of the data, such as the dangers and the balance sheets.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose compare news-driven content to?",
+   "q": "What did I compare news-driven content to?",
    "choices": [
     "A bait ball of sardines",
     "A mountain",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to be careful about?",
+   "q": "What did I say to be careful about?",
    "choices": [
     "Your analysis, because you do not know your audience",
     "Your spelling",

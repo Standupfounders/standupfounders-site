@@ -4,7 +4,7 @@
  "title": "Pressure and your house",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,19 +22,19 @@
    "heading": "Pressure turns inward",
    "lines": [
     {
-     "text": "Jose said: you go home and you don't talk to anybody. You sit on the couch and people ask what's wrong with him, and you don't want to talk about it. That pressure is turning inside you. If you don't have a strategy to let it out, it will turn against you.",
+     "text": "I said: you go home and you don't talk to anybody. You sit on the couch and people ask what's wrong with him, and you don't want to talk about it. That pressure is turning inside you. If you don't have a strategy to let it out, it will turn against you.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said we are not the person in the book, but we have to understand how we react under immense stress, under external pressure: how much it affects our demeanour, our relationships.",
+     "text": "I said we are not the person in the book, but we have to understand how we react under immense stress, under external pressure: how much it affects our demeanour, our relationships.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Celebrities break up all the time, he said, because they don't have private lives. They can't go to restaurants. They don't know how to put the resources together mentally. He said a person can get very bitter, and that starts to affect what created the success.",
+     "text": "Celebrities break up all the time, I said, because they don't have private lives. They can't go to restaurants. They don't know how to put the resources together mentally. I said a person can get very bitter, and that starts to affect what created the success.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
      "kind": "student"
     },
     {
-     "text": "Jose said you can feel the difference at a table between a successful seventy-five year old who is into his family, travelling, giving, and one who is negative. You are getting positive or negative influences in the way you think every day. What options do I have, and how do I take it? How do I not take it personally?",
+     "text": "I said you can feel the difference at a table between a successful seventy-five year old who is into his family, travelling, giving, and one who is negative. You are getting positive or negative influences in the way you think every day. What options do I have, and how do I take it? How do I not take it personally?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He also said you can't be too emotional: you do have to make cold decisions.",
+     "text": "I also said you can't be too emotional: you do have to make cold decisions.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -80,7 +80,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said the idea is that we depend more and more on ourselves, and that reading this book is a great example because it is so extreme: we can build the framework and criteria to build mental fortitude for ourselves.",
+     "text": "I said the idea is that we depend more and more on ourselves, and that reading this book is a great example because it is so extreme: we can build the framework and criteria to build mental fortitude for ourselves.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say happens if you don't let pressure out?",
+   "q": "What did I say happens if you don't let pressure out?",
    "choices": [
     "It turns against you",
     "It disappears",

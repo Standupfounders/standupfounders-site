@@ -4,7 +4,7 @@
  "title": "Share control",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Sharing control",
    "lines": [
     {
-     "text": "Jose said that the brother told the person in the book: you don't know how to be on the board of a company. What I took from it is that he doesn't think he can share control. He's not the kind of person who shares control easily.",
+     "text": "I said that the brother told the person in the book: you don't know how to be on the board of a company. What I took from it is that he doesn't think he can share control. He's not the kind of person who shares control easily.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that if you want to put a board of directors together, it is a very complex situation but very necessary. He told of a famous founder who had a board, and it ended up not fitting his strategy, and he was fired by his own board, because at twenty-five he did not know how to get along with people.",
+     "text": "I said that if you want to put a board of directors together, it is a very complex situation but very necessary. I told of a famous founder who had a board, and it ended up not fitting his strategy, and he was fired by his own board, because at twenty-five he did not know how to get along with people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: it is very important that people see you are surrounded by people with experience in the industry.",
+     "text": "I said: it is very important that people see you are surrounded by people with experience in the industry.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,7 +78,7 @@
  },
  "check": [
   {
-   "q": "What did Jose take from the brother's remark?",
+   "q": "What did I take from the brother's remark?",
    "choices": [
     "The person doesn't share control easily",
     "The person loves boards",

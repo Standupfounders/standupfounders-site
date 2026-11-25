@@ -4,7 +4,7 @@
  "title": "Momentum before strategy",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Choice in the interaction",
    "lines": [
     {
-     "text": "Jose asked: do you have a choice in the way you interact with people, and in the way the conversation will go?",
+     "text": "I asked: do you have a choice in the way you interact with people, and in the way the conversation will go?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that he created trust and energy, momentum, and asked if it comes before business strategy.",
+     "text": "I said that I created trust and energy, momentum, and asked if it comes before business strategy.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "No pressure",
    "lines": [
     {
-     "text": "Jose said there is no pressure at all: you can decide that you will no longer feel pressure in a meeting, and go in with a demeanor of positivity, optimism and utmost confidence.",
+     "text": "I said there is no pressure at all: you can decide that you will no longer feel pressure in a meeting, and go in with a demeanor of positivity, optimism and utmost confidence.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that when you go in with comfort, you create a relief in the meeting: no defensive attack, no formality.",
+     "text": "I said that when you go in with comfort, you create a relief in the meeting: no defensive attack, no formality.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -62,7 +62,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that you want to do it in a good way, with good intentions, values and ethics, because there are people who fake this and can be manipulative.",
+     "text": "I said that you want to do it in a good way, with good intentions, values and ethics, because there are people who fake this and can be manipulative.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -95,7 +95,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say comes with trust and energy?",
+   "q": "What did I say comes with trust and energy?",
    "choices": [
     "Momentum",
     "Cost",
@@ -104,7 +104,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say to do about pressure?",
+   "q": "What did I say to do about pressure?",
    "choices": [
     "Decide you will not feel it",
     "Hide it",
@@ -113,7 +113,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose warn about?",
+   "q": "What did I warn about?",
    "choices": [
     "People who fake this and manipulate",
     "People who laugh",

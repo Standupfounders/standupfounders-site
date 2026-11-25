@@ -4,7 +4,7 @@
  "title": "You'll figure it out",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "How was risk instilled?",
    "lines": [
     {
-     "text": "Jose asked: how was the concept of risk instilled in him? A student said: he sees his father's pursuit of entrepreneurial ideas and the risk he assumes.",
+     "text": "I asked: how was the concept of risk instilled in him? A student said: he sees his father's pursuit of entrepreneurial ideas and the risk he assumes.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose read a line from the book about the author's parents leaving the boys in a park.",
+     "text": "I read a line from the book about the author's parents leaving the boys in a park.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -40,7 +40,7 @@
      "kind": "quote"
     },
     {
-     "text": "Parents weren't overprotective like parents are today, Jose said. When you see parents with their children: be careful, don't do this, sit still, don't move. They are ingraining it. Other parents say: he's going to get dirty, who cares, go explore. That whole thing will influence your child forever, just the way you talk to them.",
+     "text": "Parents weren't overprotective like parents are today, I said. When you see parents with their children: be careful, don't do this, sit still, don't move. They are ingraining it. Other parents say: he's going to get dirty, who cares, go explore. That whole thing will influence your child forever, just the way you talk to them.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,19 +57,19 @@
      "kind": "student"
     },
     {
-     "text": "And what about the mom saying: you'll figure it out? Jose asked. That is a privilege. As parents we are contaminated by our own fear and instill it in our children: you've got to be a doctor, a lawyer, make money, study. We impose that view, at the danger of cutting off their idea of their future.",
+     "text": "And what about the mom saying: you'll figure it out? I asked. That is a privilege. As parents we are contaminated by our own fear and instill it in our children: you've got to be a doctor, a lawyer, make money, study. We impose that view, at the danger of cutting off their idea of their future.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Schools can do that too, he said: they tell you everything you have to do. That's why some great entrepreneurs say: I figured out how to learn on my own. A student said they were homeschooled and taught themselves almost everything.",
+     "text": "Schools can do that too, I said: they tell you everything you have to do. That's why some great entrepreneurs say: I figured out how to learn on my own. A student said they were homeschooled and taught themselves almost everything.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "People will always tell you what you didn't study and what you don't know, Jose said. I always tell my children: you can do anything. You just have to understand how to absorb the information, be passionate, and develop habits where you don't get distracted. It is all about laser focus.",
+     "text": "People will always tell you what you didn't study and what you don't know, I said. I always tell my children: you can do anything. You just have to understand how to absorb the information, be passionate, and develop habits where you don't get distracted. It is all about laser focus.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call the mother's saying 'you'll figure it out'?",
+   "q": "What did I call the mother's saying 'you'll figure it out'?",
    "choices": [
     "A privilege",
     "A mistake",
@@ -111,7 +111,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say we do as parents out of our own fear?",
+   "q": "What did I say we do as parents out of our own fear?",
    "choices": [
     "Instill it in our children and impose our view of their future",
     "Let them choose",
@@ -120,7 +120,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say it is all about?",
+   "q": "What did I say it is all about?",
    "choices": [
     "Laser focus",
     "Luck",

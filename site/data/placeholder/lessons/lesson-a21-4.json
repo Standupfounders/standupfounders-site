@@ -4,7 +4,7 @@
  "title": "Trust your gut, check the habits",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -39,7 +39,7 @@
    "heading": "The resume against the person",
    "lines": [
     {
-     "text": "Jose asked another student, with long corporate experience: how important is this profiling of character against the resume and the formal things? What percentage would you give?",
+     "text": "I asked another student, with long corporate experience: how important is this profiling of character against the resume and the formal things? What percentage would you give?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -68,13 +68,13 @@
    "heading": "Habits and shared time",
    "lines": [
     {
-     "text": "Jose said he has learned a lot from living with people he works with. Are they organized or disorganized? The daily habits tell you a lot about somebody.",
+     "text": "I said I have learned a lot from living with people I work with. Are they organized or disorganized? The daily habits tell you a lot about somebody.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That is why companies do team-building events and obstacle courses, he said. What you can learn about somebody in a week outside the office is massive.",
+     "text": "That is why companies do team-building events and obstacle courses, I said. What you can learn about somebody in a week outside the office is massive.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -116,7 +116,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say tells you a lot about somebody?",
+   "q": "What did I say tells you a lot about somebody?",
    "choices": [
     "Their daily habits",
     "Their age",
@@ -125,7 +125,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say team-building events show?",
+   "q": "What did I say team-building events show?",
    "choices": [
     "What you can learn about somebody outside the office",
     "Who is fastest",

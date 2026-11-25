@@ -4,7 +4,7 @@
  "title": "How many have you installed?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -28,7 +28,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose asked: what triggered the surge? For people who don't know, the surge is where he sets impossible deadlines and creates momentum in the company to do the impossible.",
+     "text": "I asked: what triggered the surge? For people who don't know, the surge is where he sets impossible deadlines and creates momentum in the company to do the impossible.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "How many have you installed?",
    "lines": [
     {
-     "text": "One thing that stood out, Jose said, is that he is adamant about engineers who don't understand the practicality of something. He questions every requirement, and he says: we need engineers out here to see how hard this is to install.",
+     "text": "One thing that stood out, I said, is that he is adamant about engineers who don't understand the practicality of something. He questions every requirement, and he says: we need engineers out here to see how hard this is to install.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "plain"
     },
     {
-     "text": "That really sets him off, Jose said. He is in tune with the process and the design and manufacturing, the A to Z, making sure there is nothing inefficient and not allowing any assumptions to take over.",
+     "text": "That really sets him off, I said. He is in tune with the process and the design and manufacturing, the A to Z, making sure there is nothing inefficient and not allowing any assumptions to take over.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -99,7 +99,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the person doesn't allow in a process?",
+   "q": "What did I say the person doesn't allow in a process?",
    "choices": [
     "Assumptions taking over",
     "Questions",

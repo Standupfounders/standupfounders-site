@@ -4,7 +4,7 @@
  "title": "Can you be trusted?",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Can you be trusted?",
    "lines": [
     {
-     "text": "Jose said that the way a man in the book asks another: can you be trusted? and looks him in the eyes, and the other is taken aback by the earnestness, is important. This person serves as a filter, a trustworthy person, before he gets to the owner.",
+     "text": "I said that the way a man in the book asks another: can you be trusted? and looks him in the eyes, and the other is taken aback by the earnestness, is important. This person serves as a filter, a trustworthy person, before he gets to the owner.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "Jose said: he asked him: name ten people you would trust with your life, who should be given access to the highest-level tools. Trust with your life, because if they do something wrong, they're fired and the entire team is fired. Pretty intense.",
+     "text": "I said: he asked him: name ten people you would trust with your life, who should be given access to the highest-level tools. Trust with your life, because if they do something wrong, they're fired and the entire team is fired. Pretty intense.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,7 +51,7 @@
    "heading": "What if he had been deceptive?",
    "lines": [
     {
-     "text": "Jose said: what if the man hadn't been earnest? What if he was deceptive, a spy, with ulterior motives? How would you handle that differently? And how do we recognize deceptive behaviour in business? That is what I got out of the exchange.",
+     "text": "I said: what if the man hadn't been earnest? What if he was deceptive, a spy, with ulterior motives? How would you handle that differently? And how do we recognize deceptive behaviour in business? That is what I got out of the exchange.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: it is smart for someone with a million things going on to send a person to find out whether the other is truthful or deceptive, and that person asks certain things to detect deception.",
+     "text": "I said: it is smart for someone with a million things going on to send a person to find out whether the other is truthful or deceptive, and that person asks certain things to detect deception.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -111,7 +111,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the first man served as?",
+   "q": "What did I say the first man served as?",
    "choices": [
     "A filter of a trustworthy person before the owner",
     "A bodyguard",
@@ -120,7 +120,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about the high-level tools?",
+   "q": "What did I say about the high-level tools?",
    "choices": [
     "Access should be restricted to one person for now",
     "Everyone should have access",

@@ -4,7 +4,7 @@
  "title": "Teachable, and what the class took away",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Be teachable",
    "lines": [
     {
-     "text": "Jose said: I can learn from a fourteen or fifteen year old. It is not just being a mentor, it is also being a mentoree. Be teachable, because otherwise you will not attract people who can teach you. You have to have that aura of being open and ready to learn.",
+     "text": "I said: I can learn from a fourteen or fifteen year old. It is not just being a mentor, it is also being a mentoree. Be teachable, because otherwise you will not attract people who can teach you. You have to have that aura of being open and ready to learn.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "plain"
     },
     {
-     "text": "He said you can learn from absolutely anybody, and when you look at people as resources, people catch on right away. It could be a catalyst for change, if you have that readiness.",
+     "text": "I said you can learn from absolutely anybody, and when you look at people as resources, people catch on right away. It could be a catalyst for change, if you have that readiness.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
    "heading": "What not to do",
    "lines": [
     {
-     "text": "Jose said that the first thing he learned not to do is impulsive decisions, and that he suffers from it too. A partner of his has a response: let me think about it, I will tell you tomorrow.",
+     "text": "I said that the first thing he learned not to do is impulsive decisions, and that he suffers from it too. A partner of his has a response: let me think about it, I will tell you tomorrow.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,7 +57,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that he wants convictions to come from an immense positive belief system, where the opinions of others do not affect you. It is okay to feel vulnerable. A student said: vulnerability in itself is a strength.",
+     "text": "I said that he wants convictions to come from an immense positive belief system, where the opinions of others do not affect you. It is okay to feel vulnerable. A student said: vulnerability in itself is a strength.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -113,7 +113,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say you must be to attract people who can teach you?",
+   "q": "What did I say you must be to attract people who can teach you?",
    "choices": [
     "Teachable",
     "Rich",
@@ -131,7 +131,7 @@
    "answer": 0
   },
   {
-   "q": "What phrase did Jose give to slow an impulsive decision?",
+   "q": "What phrase did I give to slow an impulsive decision?",
    "choices": [
     "Let me think about it, I will tell you tomorrow",
     "Yes right now",

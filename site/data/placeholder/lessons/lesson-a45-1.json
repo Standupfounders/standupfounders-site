@@ -4,7 +4,7 @@
  "title": "Your crisis pattern",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Crisis patterns",
    "lines": [
     {
-     "text": "Jose said that he always asks: what are the nuggets of wisdom from how the person deals with crisis? Some well-known business leaders, as he put it, thrive in crisis. I want to get to the bottom of why, and I think it is because he has a survival pattern.",
+     "text": "I said that I always ask: what are the nuggets of wisdom from how the person deals with crisis? Some well-known business leaders, as I put it, thrive in crisis. I want to get to the bottom of why, and I think it is because he has a survival pattern.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "The skills in the pattern",
    "lines": [
     {
-     "text": "Jose said that what he has absorbed is that these survival patterns are skills. When he gets into stress mode and does the surge, what skill set does he use? A student said: he knows what to prioritize and how to use his resources, mostly his staff.",
+     "text": "I said that what he has absorbed is that these survival patterns are skills. When he gets into stress mode and does the surge, what skill set does he use? A student said: he knows what to prioritize and how to use his resources, mostly his staff.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose said that is a very specific skill. He listed more: he uses his imagination to fuel his reality. He goes to the big picture and puts it into perspective. He focuses on the here and now. He establishes a date. And he makes habits, and habits are the gasoline of our survival patterns.",
+     "text": "I said that is a very specific skill. I listed more: he uses his imagination to fuel his reality. He goes to the big picture and puts it into perspective. He focuses on the here and now. He establishes a date. And he makes habits, and habits are the gasoline of our survival patterns.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -63,7 +63,7 @@
      "kind": "student"
     },
     {
-     "text": "If your survival pattern gives you bad habits and negative belief systems, he said, you will not come out of the crisis. Survival patterns can become skills, and to develop the skills we need to be aware of what they are.",
+     "text": "If your survival pattern gives you bad habits and negative belief systems, I said, you will not come out of the crisis. Survival patterns can become skills, and to develop the skills we need to be aware of what they are.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -96,7 +96,7 @@
  },
  "check": [
   {
-   "q": "What did Jose call habits in a survival pattern?",
+   "q": "What did I call habits in a survival pattern?",
    "choices": [
     "The gasoline",
     "The brakes",
@@ -105,7 +105,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say survival patterns can become?",
+   "q": "What did I say survival patterns can become?",
    "choices": [
     "Skills",
     "Burdens",

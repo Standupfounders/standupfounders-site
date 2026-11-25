@@ -4,7 +4,7 @@
  "title": "The parts of trust",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on authority and personal brand. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "Attack your own record",
    "lines": [
     {
-     "text": "Jose said that it is a good exercise to ask: if I ran for office, where would they attack me? Attacking your character, confidence, intent, track record or results would be traumatic, and the exercise shows what to improve in leadership and in being a servant leader.",
+     "text": "I said that it is a good exercise to ask: if I ran for office, where would they attack me? Attacking your character, confidence, intent, track record or results would be traumatic, and the exercise shows what to improve in leadership and in being a servant leader.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said the first category is self-trust: is my behavior matching my commitment and my values? You can lie to others, but when you lie to yourself there is always that little voice.",
+     "text": "I said the first category is self-trust: is my behavior matching my commitment and my values? You can lie to others, but when you lie to yourself there is always that little voice.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,19 +39,19 @@
    "heading": "The parts of trust",
    "lines": [
     {
-     "text": "Jose summed up what he looks for: self-trust, integrity, intent, capabilities and the results you get. Capability plus results is competence.",
+     "text": "I summed up what I look for: self-trust, integrity, intent, capabilities and the results you get. Capability plus results is competence.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that the results give you a positive reputation, and that reputation introduces you before people meet you. He said that matching your capabilities with theirs shows where you can work on weaknesses together.",
+     "text": "I said that the results give you a positive reputation, and that reputation introduces you before people meet you. I said that matching your capabilities with theirs shows where you can work on weaknesses together.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that he asks these questions in a journal about any leader: is there trust, what capabilities, what results, what integrity under cross-examination? He said that the more abstract someone speaks, the more it scares him, and the more detail oriented, the more likely to deliver.",
+     "text": "I said that I ask these questions in a journal about any leader: is there trust, what capabilities, what results, what integrity under cross-examination? I said that the more abstract someone speaks, the more it scares me, and the more detail oriented, the more likely to deliver.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say is the first category of trust?",
+   "q": "What did I say is the first category of trust?",
    "choices": [
     "Self-trust",
     "Price",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say capability plus results is?",
+   "q": "What did I say capability plus results is?",
    "choices": [
     "Competence",
     "Luck",
@@ -102,11 +102,11 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say about leaders who speak abstractly?",
+   "q": "What did I say about leaders who speak abstractly?",
    "choices": [
-    "It scares him",
-    "It impresses him",
-    "He ignores it"
+    "It scares me",
+    "It impresses me",
+    "I ignore it"
    ],
    "answer": 0
   }

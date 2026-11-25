@@ -4,7 +4,7 @@
  "title": "We, not I",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Signs of a team player",
    "lines": [
     {
-     "text": "Jose said that in the last call they talked about which people work in a team and which individually, and how that would determine who stayed and who left. He asked: when you are interviewing somebody, how do you know if they are a team player or not? A student said: the interest they have in the project.",
+     "text": "I said that in the last call they talked about which people work in a team and which individually, and how that would determine who stayed and who left. I asked: when you are interviewing somebody, how do you know if they are a team player or not? A student said: the interest they have in the project.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,7 +34,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said: I love that you used two very significant and revealing words: we and I. Somebody who is always using we, or: I want you to triumph. As a leader, somebody who is interested in how you are triumphing and how you are doing the work. That is a very important sign.",
+     "text": "I said: I love that you used two very significant and revealing words: we and I. Somebody who is always using we, or: I want you to triumph. As a leader, somebody who is interested in how you are triumphing and how you are doing the work. That is a very important sign.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,13 +45,13 @@
    "heading": "When you reach the crossroads",
    "lines": [
     {
-     "text": "Jose said that the three young relatives in the book were not happy about the cut of ninety percent of the engineers. Think of the pressure of these people firing their colleagues. Even with a hundred and fifty remaining, how are you going to be looked at by your peers? They argued the company could crash. In the end they have to put their faith in him.",
+     "text": "I said that the three young relatives in the book were not happy about the cut of ninety percent of the engineers. Think of the pressure of these people firing their colleagues. Even with a hundred and fifty remaining, how are you going to be looked at by your peers? They argued the company could crash. In the end they have to put their faith in him.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "That statement is very big, Jose said. As a team player you are going to get to a crossroad where you say: I have to make a very important decision, because if you don't have your faith in it you won't work with the same enthusiasm, and you won't come from a position of strength.",
+     "text": "That statement is very big, I said. As a team player you are going to get to a crossroad where you say: I have to make a very important decision, because if you don't have your faith in it you won't work with the same enthusiasm, and you won't come from a position of strength.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -90,7 +90,7 @@
  },
  "check": [
   {
-   "q": "What two words did Jose say are revealing?",
+   "q": "What two words did I say are revealing?",
    "choices": [
     "We and I",
     "Yes and no",
@@ -108,7 +108,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say you won't have if you don't have faith in a decision?",
+   "q": "What did I say you won't have if you don't have faith in a decision?",
    "choices": [
     "The same enthusiasm and a position of strength",
     "Any money",

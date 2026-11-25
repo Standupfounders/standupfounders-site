@@ -4,7 +4,7 @@
  "title": "If it works here, it's gonna work here",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "It's the same battle",
    "lines": [
     {
-     "text": "Jose said the chapter starts with the author's goal. Jose read it.",
+     "text": "I said the chapter starts with the author's goal. I read it.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -34,13 +34,13 @@
      "kind": "quote"
     },
     {
-     "text": "It's the same battle, Jose said. He is still battling the networks that control access to the market. A student said they didn't see how that stunts his growth, because he has other channels. Jose said: the others have the cable, the infrastructure that goes to people's homes, so they can limit the content going in, and they charge fees.",
+     "text": "It's the same battle, I said. He is still battling the networks that control access to the market. A student said they didn't see how that stunts his growth, because he has other channels. I said: the others have the cable, the infrastructure that goes to people's homes, so they can limit the content going in, and they charge fees.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Jose set homework: research why it is such a big deal for him to own one of those networks. It is a very strategic exercise.",
+     "text": "I set homework: research why it is such a big deal for him to own one of those networks. It is a very strategic exercise.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -51,13 +51,13 @@
    "heading": "If it works here, it's gonna work here",
    "lines": [
     {
-     "text": "He decides he will build on what he knows works, Jose said. So he goes after content companies. He went from a twenty-four-hour news channel to a twenty-four-hour cartoon channel. What do you think of that?",
+     "text": "He decides he will build on what he knows works, I said. So he goes after content companies. He went from a twenty-four-hour news channel to a twenty-four-hour cartoon channel. What do you think of that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said: it's smart, nobody else was doing it. Another said: and a different age demographic. Jose said: that is strategy at its best.",
+     "text": "A student said: it's smart, nobody else was doing it. Another said: and a different age demographic. I said: that is strategy at its best.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -69,7 +69,7 @@
      "kind": "plain"
     },
     {
-     "text": "A student said they liked who he aligns with: a company that knew how to be successful on limited resources, and that mindset was something he valued. Jose said: he has an incredible ability to connect with people.",
+     "text": "A student said they liked who he aligns with: a company that knew how to be successful on limited resources, and that mindset was something he valued. I said: he has an incredible ability to connect with people.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,7 +102,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say about the author's cartoon channel idea?",
+   "q": "What did I say about the author's cartoon channel idea?",
    "choices": [
     "If a strategy worked for news, apply it to another content area",
     "It was a mistake",
@@ -111,7 +111,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the author is still battling?",
+   "q": "What did I say the author is still battling?",
    "choices": [
     "The networks that control access to the market",
     "His own staff",
@@ -120,7 +120,7 @@
    "answer": 0
   },
   {
-   "q": "What homework did Jose set?",
+   "q": "What homework did I set?",
    "choices": [
     "Research why owning one of those networks matters",
     "Write a business plan",

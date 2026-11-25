@@ -4,7 +4,7 @@
  "title": "Resourcefulness and blaming the outside",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,13 +22,13 @@
    "heading": "A resourceful state",
    "lines": [
     {
-     "text": "Jose said that one thing he always asks himself is: am I working from a state of maximum resourcefulness? Am I working in a place that I love?",
+     "text": "I said that one thing I always ask myself is: am I working from a state of maximum resourcefulness? Am I working in a place that I love?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "He said that we memorize people: we do not say you are different today, we say it is the same old person, and that he tries to see what is new.",
+     "text": "I said that we memorize people: we do not say you are different today, we say it is the same old person, and that I try to see what is new.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,13 +39,13 @@
    "heading": "Internal or external",
    "lines": [
     {
-     "text": "A student asked Jose: when you look back at your failures, was it an external thing or something about your internal actions?",
+     "text": "A student asked me: when you look back at your failures, was it an external thing or something about your internal actions?",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "Jose said that the minute people start blaming things externally, that is negative language and a very dangerous situation, because they are not fully taking accountability, and the language comes from a negative anchor.",
+     "text": "I said that the minute people start blaming things externally, that is negative language and a very dangerous situation, because they are not fully taking accountability, and the language comes from a negative anchor.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -84,7 +84,7 @@
  },
  "check": [
   {
-   "q": "What did Jose say he asks himself?",
+   "q": "What did I say I ask myself?",
    "choices": [
     "Am I in a state of maximum resourcefulness",
     "Am I rich",
@@ -93,7 +93,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say blaming externally shows?",
+   "q": "What did I say blaming externally shows?",
    "choices": [
     "Not taking full accountability",
     "Good luck",

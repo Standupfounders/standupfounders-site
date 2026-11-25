@@ -4,7 +4,7 @@
  "title": "Generalize, distort, delete",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "Three habits of language",
    "lines": [
     {
-     "text": "Jose said that there are entire bodies of literature based on generalization, distortion and deletion; there are whole novels built on it, for example a famous novel about a man who rewrites his own life story.",
+     "text": "I said that there are entire bodies of literature based on generalization, distortion and deletion; there are whole novels built on it, for example a famous novel about a man who rewrites his own life story.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -45,7 +45,7 @@
      "kind": "student"
     },
     {
-     "text": "Jose said that he keeps picturing some geese by a pond and does not know why, and used it to show how an image stays with us.",
+     "text": "I said that I keep picturing some geese by a pond and do not know why, and used it to show how an image stays with us.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -56,7 +56,7 @@
    "heading": "Facing a big debt calmly",
    "lines": [
     {
-     "text": "Jose said that he has friends who owe huge sums and laugh about it, while he would be sick. He said that they have a way of not letting the number run their state. This is his remark about acquaintances and is left general.",
+     "text": "I said that I have friends who owe huge sums and laugh about it, while I would be sick. I said that they have a way of not letting the number run their state. This is my remark about acquaintances and is left general.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -89,7 +89,7 @@
  },
  "check": [
   {
-   "q": "What three patterns did Jose name?",
+   "q": "What three patterns did I name?",
    "choices": [
     "Generalization, distortion and deletion",
     "Speed, volume and pitch",
@@ -107,7 +107,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say an image does?",
+   "q": "What did I say an image does?",
    "choices": [
     "Stays with us",
     "Disappears",

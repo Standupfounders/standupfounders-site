@@ -4,7 +4,7 @@
  "title": "Known knowns and unknowns",
  "minutes": 9,
  "kind": "section",
- "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "header_line": "My analysis of one book on negotiation. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
  "chapter_note": "",
  "groups": [
   {
@@ -22,7 +22,7 @@
    "heading": "The kinds of information",
    "lines": [
     {
-     "text": "Jose said that the book says in every negotiating session there are different kinds of information: those things we know, like our counterpart's name, their offer and our experience, which are known knowns. Then there is the unknown.",
+     "text": "I said that the book says in every negotiating session there are different kinds of information: those things we know, like our counterpart's name, their offer and our experience, which are known knowns. Then there is the unknown.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -39,7 +39,7 @@
    "heading": "A moment",
    "lines": [
     {
-     "text": "Jose asked a student to take him to the moment that she switched majors, to visualize where she was. She described being late to her first painting class and the professor's remark that she needs to be on time.",
+     "text": "I asked a student to take me to the moment that she switched majors, to visualize where she was. She described being late to her first painting class and the professor's remark that she needs to be on time.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -50,7 +50,7 @@
    "heading": "A new client",
    "lines": [
     {
-     "text": "Jose said that when we go to meet a new client, the first thing we do is research on the client.",
+     "text": "I said that when we go to meet a new client, the first thing we do is research on the client.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -92,7 +92,7 @@
    "answer": 0
   },
   {
-   "q": "What did Jose say the first step with a new client is?",
+   "q": "What did I say the first step with a new client is?",
    "choices": [
     "Research",
     "A discount",
@@ -101,9 +101,9 @@
    "answer": 0
   },
   {
-   "q": "What did he ask a student to do?",
+   "q": "What did I ask a student to do?",
    "choices": [
-    "Take him to the moment she switched majors",
+    "Take me to the moment she switched majors",
     "Draw a graph",
     "Make a call"
    ],
