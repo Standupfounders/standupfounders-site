@@ -143,7 +143,7 @@
     root.appendChild(el('h1', 'h1', title));
     if (lede) { var p = el('p', 'lede small', lede); p.style.marginTop = '14px'; root.appendChild(p); }
   }
-  function headerLine(c) { var n = el('div', 'note'); n.style.marginTop = '18px'; if (!PUB) n.appendChild(el('span', 'ph', 'Course header')); n.appendChild(document.createTextNode((PUB ? '' : ' ') + c.header_line)); if (c.page_text) n.appendChild(el('p', 'small muted', c.page_text)); return n; }
+  function headerLine(c, lesson) { var n = el('div', 'note'); n.style.marginTop = '18px'; if (!PUB) n.appendChild(el('span', 'ph', 'Course header')); n.appendChild(document.createTextNode((PUB ? '' : ' ') + c.header_line)); if (c.page_text && !lesson) n.appendChild(el('p', 'small muted', PUB ? c.page_text.replace(/Stand Up is not affiliated with or endorsed by the authors or publishers\.\s*/, '') : c.page_text)); return n; }
   function badge(s) { var b = el('span', 'badge ' + (s || 'none'), stateLabel(s)); return b; }
   function rhythm(c) {
     var wrap = el('div', 'rhythm'); wrap.setAttribute('role', 'list'); wrap.setAttribute('aria-label', PUB ? 'Suggested weekly rhythm' : 'Suggested twelve-week rhythm');
@@ -296,7 +296,7 @@
   }
   function areaSave(id, ta) { ta.value = S.ex[id] || ''; ta.addEventListener('input', function () { S.ex[id] = ta.value; save(); }); }
   function lessonBody(c, m, i, L) {
-    root.appendChild(headerLine(c));
+    root.appendChild(headerLine(c, true));
     if (PUB && i.idea) { var il = el('p', 'lede small', i.idea); il.style.marginTop = '14px'; root.appendChild(il); }
     if (L.chapter_note) { var cn = el('p', 'muted small', L.chapter_note); cn.style.marginTop = '8px'; root.appendChild(cn); }
     var credit = (L.quote_log && L.quote_log[0] && L.quote_log[0].book) || '[title] by [author]';
