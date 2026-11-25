@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-e1-3",
+ "title": "Neutralize the negative",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Can you stay calm when you are blamed?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pattern interrupt",
+   "lines": [
+    {
+     "text": "A student said that staying calm shows your strength as a leader because you are not shaken, and it is a pattern interrupt because they expect you to be defensive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that the chapter ahead is about neutralizing the negative and reinforcing the positive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Emotion, then control, then evidence",
+   "lines": [
+    {
+     "text": "A student described the shape of a good reply: first the emotion, then the transition into control, then layering more evidence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said you combine the two with a repertoire of transitions: even though you are angry, you give me a surprising sense of confidence. Now I am leading.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Do not defend, do not blame",
+   "lines": [
+    {
+     "text": "Jose said that when someone attacks, we tend to defend and throw back, and that is a lack of discipline. In relationships we blame before we even understand where the other person is coming from.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that it is very difficult to say I disagree, and showed the group a way to avoid saying it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that great leaders expect surprises, and cannot let the surprises throw them off their game.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last time you were blamed.",
+   "Write what you said.",
+   "Write the calm reply you will use.",
+   "Write the transition that moves from emotion to control.",
+   "Write the evidence you would add."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say staying calm is?",
+   "choices": [
+    "A pattern interrupt",
+    "A weakness",
+    "A trick"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say defending and blaming show?",
+   "choices": [
+    "A lack of discipline",
+    "Strength",
+    "Honesty"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say great leaders expect?",
+   "choices": [
+    "Surprises",
+    "Nothing",
+    "Praise"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Do not defend or blame. Interrupt the pattern. Lead.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

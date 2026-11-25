@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d12-2",
+ "title": "Fit your words to the outlet",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which words would this readership use?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One core, many versions",
+   "lines": [
+    {
+     "text": "A student said that the core of her business is building people's brand equity and presence in the community that resonates with their target audience, through visuals that feed a targeted marketing strategy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "She said that she would not say it that way in a design magazine; it needs to be more fun and beautiful to start.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The audience's language",
+   "lines": [
+    {
+     "text": "Jose said that in a financial business magazine the words are revenue growth and return on investment, while in an artistic journal they are different, so you adapt your words.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that public relations is speaking positively about people you endorse and finding the right fit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Write your core sentence once, then rewrite it for two readerships.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your core sentence.",
+   "Write it for a business reader.",
+   "Write it for a creative reader.",
+   "Write the words each reader uses.",
+   "Write where you will send each."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you do with your words?",
+   "choices": [
+    "Adapt them to the outlet",
+    "Keep them the same",
+    "Use fewer"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say design readers want?",
+   "choices": [
+    "Fun and beautiful",
+    "Tables",
+    "Contracts"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What words did Jose say a business magazine uses?",
+   "choices": [
+    "Revenue growth and return",
+    "Colour and shape",
+    "Mood and light"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "One core, written for each readership.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

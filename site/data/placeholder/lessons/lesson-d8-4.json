@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "id": "lesson-d8-4",
+ "title": "When you give too much",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Whose problem is it when everyone leans on you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The buoy",
+   "lines": [
+    {
+     "text": "A student asked: some people give a lot to a lot of people and those people love them but keep asking for more. What should they do?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: it is like a buoy carrying weight; after a while the buoy goes under the water. He asked: is it the buoy's problem, or the problem of the people coming?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A possible root",
+   "lines": [
+    {
+     "text": "Jose said that, going back to the NLP ideas, a need to help everyone can come from an old hurt that has not been healed, such as criticism in childhood. This is his view, not a diagnosis, and a person with the right training should read this lesson.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Profile the people you keep",
+   "lines": [
+    {
+     "text": "Jose said that you have to profile the people you will have long-term relationships with, and that it sounds cold. He asked: could I live in the same household with that person for five years?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that the lesson was to start with values; if the values are not aligned, they do not go further.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that someone may have professional values and not personal ones, and that their true nature will come through in the business. He said to pay attention to intuition and to red flags, and not to ignore them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your question",
+   "lines": [
+    {
+     "text": "Which people do you give to without limit, and which people give back?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who leans on you the most.",
+   "Write what they give back.",
+   "Write the limit you will set.",
+   "Write the values you need in the people you keep.",
+   "Write who you could talk to if the pattern is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What image did Jose use?",
+   "choices": [
+    "A buoy carrying weight",
+    "A ladder",
+    "A river"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What filter question did Jose ask?",
+   "choices": [
+    "Could I live with them for five years",
+    "Do they pay on time",
+    "Are they famous"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to pay attention to?",
+   "choices": [
+    "Intuition and red flags",
+    "Only price",
+    "Only titles"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your limit. Profile the people you keep. Listen to red flags.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

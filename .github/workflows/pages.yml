@@ -1,6 +1,6 @@
 # Stand Up Founders (standupfounders.com). This repository holds only:
 #   site/                          the placeholder-only public build
-#   scripts/verify_export.py       the deploy guard (no video, no outside links, no Google calls, pinned fonts)
+#   scripts/verify_export.py       the deploy guard (only the ten named videos, no outside links, no Google calls, pinned fonts)
 #   .github/workflows/pages.yml    this file
 #   .github/dependabot.yml         a weekly notice of new action releases
 #   .gitignore                     keeps keys, real data, recordings and video out
@@ -29,7 +29,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Refuse to publish unnamed video, outside links, Google calls or unpinned fonts
-        run: python3 -I scripts/verify_export.py site --allow-five-videos --real-lessons
+        run: python3 -I scripts/verify_export.py site --allow-ten-videos --real-lessons
 
   deploy:
     needs: verify

@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f2-3",
+ "title": "Visualize without leaving the present",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you see when you picture the thing you want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Picture it",
+   "lines": [
+    {
+     "text": "Jose asked: you are thirsty and you want a glass of water; you open the refrigerator, what do you see? He used it to show how a picture appears when you need something.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that an athlete who has spent a year building toward a race and stands on the blocks waiting for the gun is living the visualization they have built.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Manifestation or discipline",
+   "lines": [
+    {
+     "text": "Jose said that there is a word people use, manifestation, which he does not like to use: you predict something will happen and it does. To him it is mental discipline dedicated to doing something over and over.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to be careful if you are constantly visualizing, because you can visualize and not be in the present.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Take it to the here and now",
+   "lines": [
+    {
+     "text": "A student said that you may have a deep visualization of the destination and of the path to it, but then you have to take it to the here and now and execute on that path.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you picture for next year.",
+   "Write the picture of the path.",
+   "Write today's step on that path.",
+   "Write how long you will picture it each day.",
+   "Write what you will do so that you stay present."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say manifestation really is?",
+   "choices": [
+    "Mental discipline done over and over",
+    "Magic",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose warn about visualizing?",
+   "choices": [
+    "You can be absent from the present",
+    "It is bad",
+    "It is slow"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you must do with the path?",
+   "choices": [
+    "Execute it in the here and now",
+    "Wait",
+    "Hide it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Picture it. Practise it. Act in the present.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

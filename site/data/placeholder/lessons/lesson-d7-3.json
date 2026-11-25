@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "id": "lesson-d7-3",
+ "title": "Three kinds of content",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you talking about yourself, the news or the relationship?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Intuition and conviction",
+   "lines": [
+    {
+     "text": "Jose said that chapter 8 goes into three categories of content for building authority, and that leaders speak with intuition. The biggest challenge is the conviction that the content will be favorable to the audience in front of them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you know you are doing it right when the audience responds and the community is active.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "You-driven content",
+   "lines": [
+    {
+     "text": "Jose said that the author divides content into you-driven, news-driven and relationship-driven. You-driven is your experience and perspective, and the author says to limit it to about a third of what you publish.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to get the I out of your vocabulary and use we, talk about other people and ideas outside yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that leaders who speak about what we will do, not what I will do alone, show the balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Evergreen content",
+   "lines": [
+    {
+     "text": "A student said evergreen content is stuff people do not disagree with, such as ways to talk to your employees that increase productivity.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that evergreen means that it does not age: the characteristics of a good leader, the pitfalls of a bad one. It is safe when you build your brand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A call to action",
+   "lines": [
+    {
+     "text": "Jose said that after a speech you ask the person to commit: take a free copy and give me your business card. A call to action engages a person to make a commitment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that without one you have a lot of social meetings that churn up your time, and you can say: could I invite you to dinner, let us exchange numbers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what share of your content is about you.",
+   "Write three news-driven topics.",
+   "Write three relationship-driven topics.",
+   "Write one evergreen topic.",
+   "Write your call to action."
+  ]
+ },
+ "check": [
+  {
+   "q": "How much did the author say you-driven content should be?",
+   "choices": [
+    "About a third",
+    "All of it",
+    "None"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say evergreen means?",
+   "choices": [
+    "It does not age",
+    "It is green",
+    "It is new"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does a call to action do?",
+   "choices": [
+    "Engages a person to make a commitment",
+    "Ends the meeting",
+    "Sends an invoice"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Mix you, news and relationships. Use we. End with a call to action.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

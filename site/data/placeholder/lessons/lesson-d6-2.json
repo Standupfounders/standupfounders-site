@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d6-2",
+ "title": "Earned media",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would a journalist want from you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Marketing and public relations",
+   "lines": [
+    {
+     "text": "A student said: marketing is driving sales, and public relations is creating a positive reputation for a person or company through the media.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that a press release cost about fifteen hundred and would be sponsored content, and they had nothing to say.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Build earned media",
+   "lines": [
+    {
+     "text": "Jose said that you build earned media, and you have to think how a journalist thinks and what they want.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He suggested: volunteer to write an article for a magazine, offer a case study, write to podcasts in your field, and run a survey with a publication. You have to sell it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Combine ideas",
+   "lines": [
+    {
+     "text": "A student suggested combining two ideas: collaborate with local real-estate people and a city magazine on an article about whether branding increases property value.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said he thought that was a great idea, and that you could write to a major firm to publish an article asking whether their business has potential online.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the publications your clients read.",
+   "Write the story a journalist would want.",
+   "Write a case study you could offer.",
+   "Write a survey you could run.",
+   "Write the first letter you will send."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say public relations is?",
+   "choices": [
+    "Creating a positive reputation through the media",
+    "Driving sales",
+    "Buying ads"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to think about?",
+   "choices": [
+    "How a journalist thinks",
+    "How cheap ads are",
+    "How long articles are"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you have to do with the idea?",
+   "choices": [
+    "Sell it",
+    "Hide it",
+    "Delay it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Earn media. Think like a journalist. Offer a story.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

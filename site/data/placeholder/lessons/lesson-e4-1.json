@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-e4-1",
+ "title": "Learn the terms until they are everyday",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Can you use the term without thinking about the term?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Terms in daily life",
+   "lines": [
+    {
+     "text": "Jose said that he would go over every term possible, because if you are thinking about the term you have not learned it, and if you are asking what it is, you are not applying it and it is not part of your everyday life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student explained mirroring without using the word: reflecting back what someone is doing to you, whether their body language or their tone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Confirm and keep pace",
+   "lines": [
+    {
+     "text": "Jose said that you confirm, you are empathetic, you listen, you are not judgmental, and you give it velocity by humming to their tune, like a metaphor of humming along with someone.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that you could ask: what happens if you keep at this pace, what will happen ten years down the road, will you be happy?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Calm and silence",
+   "lines": [
+    {
+     "text": "Jose said you want silence in there, and your demeanor, tone and pace calm, creating fertile ground for the other person to open up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a term from the book and say it without the word.",
+   "Write how you would use it today.",
+   "Write the pace question you would ask.",
+   "Write your calm tone in three words.",
+   "Write how long you will stay silent."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say if you are thinking about the term?",
+   "choices": [
+    "You have not learned it",
+    "You are ahead",
+    "You are wrong"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say mirroring is?",
+   "choices": [
+    "Reflecting back their body language or tone",
+    "Arguing",
+    "Giving advice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say creates fertile ground?",
+   "choices": [
+    "Silence and calm",
+    "Noise",
+    "Speed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make the terms everyday. Keep pace. Stay calm and silent.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

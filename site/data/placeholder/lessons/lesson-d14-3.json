@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d14-3",
+ "title": "Exposure that is not a sale",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are you giving people before you ask for anything?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Transactional or not",
+   "lines": [
+    {
+     "text": "Jose said that we are used to the call to action, the sales funnel, send us an email, and that is transactional. The author says to build a base of non-transactional exposure to who you are and what you do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that owning your media channel means you have your website and your podcast, a channel you can move to different places.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Educate first",
+   "lines": [
+    {
+     "text": "A student said that it is educating your potential future client base.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that there is where you get research on what they are thinking, and the momentum, and that the author's contention is that getting them to buy straight away is a much harder uphill battle.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Write what you could teach for free that your future client wants.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you could teach for free.",
+   "Write where it will live: your site or podcast.",
+   "Write what you will learn from the audience.",
+   "Write when you will make the offer.",
+   "Write one metric of interest, not of sales."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is transactional?",
+   "choices": [
+    "The call to action and sales funnel",
+    "A free article",
+    "A podcast"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say non-transactional content does?",
+   "choices": [
+    "Educates your future client base",
+    "Closes the sale",
+    "Cuts cost"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the author's contention is?",
+   "choices": [
+    "Selling straight away is an uphill battle",
+    "Selling is easy",
+    "Never sell"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Educate first. Sell later.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

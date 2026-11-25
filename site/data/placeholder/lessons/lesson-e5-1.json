@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-e5-1",
+ "title": "Visualize the tense meeting first",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What will you feel in the meeting if you miss the deadline?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Motivation and triggers",
+   "lines": [
+    {
+     "text": "Jose asked a student: what motivates you on a Monday, what do you say to yourself? He said you are putting triggers all over the place, emotional, visual and others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that it is hard because you are used to things and too comfortable, so when you change you have to hack yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Visualize it",
+   "lines": [
+    {
+     "text": "Jose asked a student to give an example of something he would do today and visualize it before it happens: logging on, a client looking for guidance, a meeting room with a glass table where people file in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked: how are you feeling going into that meeting because you did not hit the task? The effects could be negativity: if we did not get this up, we lost sales.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said you want to be so comfortable visualizing the objections, the challenges, the obstacles and the aggression on the other side that none of it throws you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a hard meeting this week.",
+   "Write the room, the people and what they say.",
+   "Write the objection you fear most.",
+   "Write your calm reply.",
+   "Write how you will feel afterwards."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask a student to do?",
+   "choices": [
+    "Visualize something before it happens",
+    "Skip a meeting",
+    "Write a report"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to be comfortable with?",
+   "choices": [
+    "Objections and aggression on the other side",
+    "Silence",
+    "Deadlines"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you have to do to change?",
+   "choices": [
+    "Hack yourself",
+    "Wait",
+    "Complain"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Visualize the hard meeting until nothing in it throws you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

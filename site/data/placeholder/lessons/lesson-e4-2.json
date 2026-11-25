@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-e4-2",
+ "title": "Anchoring with the senses",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you want them to associate with you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What an anchor is",
+   "lines": [
+    {
+     "text": "Jose asked the class: what is anchoring, and what is the power of anchoring?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave the example of a student who asked a client to think of the most beautiful object they had ever seen, which becomes an anchor, because they then associate it with the design she will make for them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Words with power",
+   "lines": [
+    {
+     "text": "A student said that using the words trust or credibility, as in people who know me know I am always going to do them right, creates comfort.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you can practice until everything you say, such as get home now, has that kind of power, and that emotions are like tickets on a shelf: anger, frustration, happiness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The senses",
+   "lines": [
+    {
+     "text": "Jose said that what drives consciousness, memories and anchors is the senses, not only a thought process: for example a perfume you wear into a meeting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a person responds to their own map of reality, and that you cannot only look at the map; you have to look at the colors that painted it, their emotional and belief experiences.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the anchor you want clients to hold.",
+   "Write the words you will use.",
+   "Write the sense you will add: sound, scent or image.",
+   "Write one person's map and its colors.",
+   "Write how patient you will be."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say drives anchors?",
+   "choices": [
+    "The senses",
+    "Only thoughts",
+    "The price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say creates comfort?",
+   "choices": [
+    "Trust and credibility words",
+    "Long speeches",
+    "Gifts"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to look at besides the map?",
+   "choices": [
+    "The colors that painted it",
+    "The cost",
+    "The weather"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Anchor with words and senses. Look at the colors that painted their map.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

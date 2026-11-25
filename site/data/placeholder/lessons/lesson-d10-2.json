@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-d10-2",
+ "title": "Five statements and a promise",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are the five things your audience should remember?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Practise out loud",
+   "lines": [
+    {
+     "text": "Jose asked a student to present a deck as if to a client, and said he would give a cue to stop and analyze it, so the group could collaborate on how the presentation is built.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student who presented said that it showed why being prepared is key, and that the worst thing is just reading off the slides.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A concise message",
+   "lines": [
+    {
+     "text": "Jose said that a student's sentence was very concise and specific, and to write it down. He said the aim is to have no more than a few points.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said: take five statements from the presentation, remembering simple, repeatable, relevant. He said that you could call the opening a promise: our promise in this presentation is to show you how we see the relationship.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your five statements.",
+   "Write your promise in one line.",
+   "Present to a friend and ask for a stop cue.",
+   "Write what you will not read off the slide.",
+   "Write your opening line."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to do with a presentation?",
+   "choices": [
+    "Reduce it to five statements",
+    "Make it longer",
+    "Skip it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is the worst thing?",
+   "choices": [
+    "Reading off the slides",
+    "Being early",
+    "Using colour"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you could call the opening?",
+   "choices": [
+    "A promise",
+    "A joke",
+    "A warning"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Five statements, simple, relevant and repeatable. Open with a promise.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

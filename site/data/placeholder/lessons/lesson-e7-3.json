@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e7-3",
+ "title": "A question for each preference",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What one question tells you the most about a person's way of deciding?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Questions that reveal",
+   "lines": [
+    {
+     "text": "A student suggested that it would help to have a question for each category to determine a person's type. He said introvert or extrovert is the easiest to figure out, and for the other three he has a couple of questions he uses.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another described asking where the company's growth is going, to see whether the person picks a decision immediately, which he read as a preference for planning.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "An exercise",
+   "lines": [
+    {
+     "text": "Jose picked someone to analyze the personality of a person none of them knew well. He said that he saw the person adapt and think of the future and of where the market is going, and so he read him as intuitive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that if a person were a feeling type, he would say: I am always helping the wrong people and they drag me down.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one question to tell introvert from extrovert.",
+   "Write one to tell how they decide.",
+   "Write one to tell details from big picture.",
+   "Write one to tell thinking from feeling.",
+   "Write how you will check your read."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student ask for?",
+   "choices": [
+    "A question for each category",
+    "A longer test",
+    "A longer class"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the exercise was?",
+   "choices": [
+    "Analyzing someone from what you have seen",
+    "Guessing a name",
+    "Voting"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of read is this?",
+   "choices": [
+    "A guess that needs checking",
+    "A fact",
+    "A diagnosis"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask one good question per preference. Check your read.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

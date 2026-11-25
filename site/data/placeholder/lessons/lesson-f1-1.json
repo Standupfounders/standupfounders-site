@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-f1-1",
+ "title": "What a book or a person can give you",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why should you spend your time on this person or this book?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Judging the cover",
+   "lines": [
+    {
+     "text": "A student said that many books claim to be one thing and then focus on a very small niche thesis that is not what you thought it would be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: why should I trust this person? Why should I invest my time exploring their ideas? What can this book do for me? What if I judge the book by its cover, and what do I miss out on?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A gift",
+   "lines": [
+    {
+     "text": "Jose said he sincerely believes that when we meet a person we can develop a sense of presence: this person has a gift to offer me, and I do not want to assume it will be irrelevant in my life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that identifying patterns also helps you decide whom you do not want to spend time with, because they carry negative patterns, which some people call energy or synergy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a book or person you judged by the cover.",
+   "Write what it might have given you.",
+   "Write the questions you ask before you invest time.",
+   "Write a gift you were given by someone unexpected.",
+   "Write the pattern you notice in people you avoid."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask about judging a book by its cover?",
+   "choices": [
+    "What do I miss out on",
+    "Is it cheap",
+    "Is it long"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say each person has?",
+   "choices": [
+    "A gift to offer",
+    "A cost",
+    "A fault"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say many books do?",
+   "choices": [
+    "Claim one thing and focus on a niche",
+    "Tell the whole truth",
+    "Say nothing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Do not judge too fast. Look for what the person or the book can give you.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

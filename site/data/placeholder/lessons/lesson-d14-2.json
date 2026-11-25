@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d14-2",
+ "title": "A pilot and a proof of concept",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why would he pick a new partner instead of an old one?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The question",
+   "lines": [
+    {
+     "text": "Jose asked why a founder with many existing partners would use a brand-new one as the example in his book. He said the answer is that he needs a pilot, a proof of concept.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that it signifies a new partnership and an openness to sharing resources from the beginning.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that it is an easy win but an elevated form of rigor, with a higher perceived value because it is new.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "The hard part",
+   "lines": [
+    {
+     "text": "Jose said that forming partnerships is complicated: will the new partner value what you do, and will they have success, as an outsider to the existing group?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What could you use as a pilot that proves your method outside your comfort zone?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the method you want to prove.",
+   "Write the new place you could prove it.",
+   "Write what a win would look like.",
+   "Write what could go wrong.",
+   "Write what you will do with the proof."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the founder needs?",
+   "choices": [
+    "A pilot, a proof of concept",
+    "A bigger office",
+    "A new name"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a new partner signals?",
+   "choices": [
+    "Openness to sharing resources",
+    "Weakness",
+    "Delay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is complicated?",
+   "choices": [
+    "Forming partnerships",
+    "Writing",
+    "Reading"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Prove your method somewhere new.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

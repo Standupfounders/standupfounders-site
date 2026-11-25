@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d8-1",
+ "title": "Ride the news",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is happening this week that your customers care about?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "News-driven content",
+   "lines": [
+    {
+     "text": "Jose said that news-driven content uses the momentum of the news. He compared it to a bait ball, sardines gathered together, and the fish that come to feed on it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that his own field is closely tied to flooding, so with a storm on its way, a company can speak about rainfall and what people should do, because everybody is already paying attention.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Calendar-driven content",
+   "lines": [
+    {
+     "text": "Jose said that calendar-driven content is about seasons, holidays and key dates for your audience, and that he likes it when a business sends a birthday message.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that current events are more helpful than news, and gave the example of a brand that posted when the lights went out in a stadium.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Be careful",
+   "lines": [
+    {
+     "text": "Jose said that you must be careful with your analysis and insight on the news, because you do not know what audience you have, and he is careful because people on his list have the full spectrum of political views.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that in a crisis you can give an objective view of the data, such as the dangers and the balance sheets.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the news your customers care about this week.",
+   "Write how your service helps with it.",
+   "Write the dates in your year that matter to them.",
+   "Write what you will not comment on.",
+   "Write your next post that rides the news."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose compare news-driven content to?",
+   "choices": [
+    "A bait ball of sardines",
+    "A mountain",
+    "A bridge"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is more helpful than news?",
+   "choices": [
+    "Current events",
+    "Old reports",
+    "Ads"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to be careful about?",
+   "choices": [
+    "Your analysis, because you do not know your audience",
+    "Your spelling",
+    "Your timing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Use the moment's attention. Add dates. Be careful what you comment on.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d13-1",
+ "title": "Profile your audience",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who exactly is in front of you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What profiling is",
+   "lines": [
+    {
+     "text": "A student said that profiling is identifying people by age, demographics and socioeconomics, to define who they are and what they stand for.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that profiling can be more specific, as detectives profile a person, going through a process of interviewing and learning the inputs. He said that a book on the behavior of deceivers is useful for business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Start broad",
+   "lines": [
+    {
+     "text": "Jose said: you cannot have authority unless you profile the person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: start super broad, like a decision tree, then get more and more detailed, instead of starting with small details.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said the two things to analyze first are the audience and the goal you want to accomplish with them, such as a college crowd or a room of business owners.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Learning styles",
+   "lines": [
+    {
+     "text": "Jose said that a very safe start is understanding the learning styles and personality traits, such as abstract and random against concrete and sequential.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your audience's age, interests and goals.",
+   "Write the goal you have for them.",
+   "Write the broad profile first, then add details.",
+   "Write whether they are abstract or concrete.",
+   "Write what you will ask to learn more."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you cannot have without profiling?",
+   "choices": [
+    "Authority",
+    "Money",
+    "Time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to do first?",
+   "choices": [
+    "Start broad, then detail",
+    "Start with small details",
+    "Skip it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to analyze first?",
+   "choices": [
+    "The audience and the goal",
+    "The price",
+    "The venue"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Profile the audience: broad first, then detail.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-d14-1",
+ "title": "Your brand is like real estate",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is working for you while you sleep?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The parallel",
+   "lines": [
+    {
+     "text": "Jose said that the chapter draws a parallel between real estate and your personal brand, and that as we get older we see the importance of passive income, because one day we will not be able to work. You want your money working for you and not depend on you doing something physically.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to be consistent with your brand: how you get your name out, your brand equity, your brand DNA, and your expertise, with a collection of books that build it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your intellectual property",
+   "lines": [
+    {
+     "text": "A student said that the other key is identifying and leveraging your unique value and your own intellectual property.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that the author's message is simple: publish a book because that will give you authority. He said all of us have to have a simple one-liner.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Think bigger",
+   "lines": [
+    {
+     "text": "A student said it is great to think about our brands on this scale, because it makes us think bigger.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what earns for you without your hours.",
+   "Write your brand in one line.",
+   "Write the books that build your expertise.",
+   "Write your unique value.",
+   "Write one asset you will build this year."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you want your money to do?",
+   "choices": [
+    "Work for you",
+    "Sleep",
+    "Hide"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to leverage?",
+   "choices": [
+    "Your unique value and intellectual property",
+    "Your age",
+    "Your office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say all of us have to have?",
+   "choices": [
+    "A simple one-liner",
+    "A long speech",
+    "A big logo"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build assets that work without you. Keep one clear line.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

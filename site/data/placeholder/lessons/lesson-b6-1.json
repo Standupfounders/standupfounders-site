@@ -87,7 +87,7 @@
      "kind": "plain"
     },
     {
-     "text": "Henry Ford didn't need focus groups to tell him that people would prefer inexpensive, dependable automobiles over horses.",
+     "text": "A carmaker didn't need focus groups to tell him that people would prefer inexpensive, dependable automobiles over horses.",
      "mark": "N",
      "cue": "",
      "kind": "quote"
@@ -144,7 +144,7 @@
    "answer": 0
   },
   {
-   "q": "What did the author say Henry Ford did not need?",
+   "q": "What did the author say a famous carmaker did not need?",
    "choices": [
     "Focus groups",
     "Cars",

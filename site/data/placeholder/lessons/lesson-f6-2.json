@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-f6-2",
+ "title": "Momentum before strategy",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you choose the energy you bring into a meeting?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Choice in the interaction",
+   "lines": [
+    {
+     "text": "Jose asked: do you have a choice in the way you interact with people, and in the way the conversation will go?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that he created trust and energy, momentum, and asked if it comes before business strategy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "No pressure",
+   "lines": [
+    {
+     "text": "Jose said there is no pressure at all: you can decide that you will no longer feel pressure in a meeting, and go in with a demeanor of positivity, optimism and utmost confidence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when you go in with comfort, you create a relief in the meeting: no defensive attack, no formality.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Honest, not fake",
+   "lines": [
+    {
+     "text": "A student said that she begins the day with affirmations that even the most boring task can be better, and works out how to improve the experience.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you want to do it in a good way, with good intentions, values and ethics, because there are people who fake this and can be manipulative.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the energy you want to bring.",
+   "Write what you will decide before you enter.",
+   "Write what you will do if pressure appears.",
+   "Write one honest affirmation.",
+   "Write the line you will not cross."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say comes with trust and energy?",
+   "choices": [
+    "Momentum",
+    "Cost",
+    "Delay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do about pressure?",
+   "choices": [
+    "Decide you will not feel it",
+    "Hide it",
+    "Share it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose warn about?",
+   "choices": [
+    "People who fake this and manipulate",
+    "People who laugh",
+    "People who are early"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Bring trust and energy. Decide on no pressure. Be honest about it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

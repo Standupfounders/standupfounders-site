@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-f3-1",
+ "title": "An anchor is a stored association",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which shirt makes you feel at your best?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What an anchor is",
+   "lines": [
+    {
+     "text": "Jose said: an anchor is a stored association. You associate wearing that shirt with being on top of your game, and when you go out you feel good. Anybody have a shirt like that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that ninety percent of our lives is a kind of trance state, with a consistent level, and anchors change the level. This is his claim and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Your senses",
+   "lines": [
+    {
+     "text": "Jose asked the group to look around their rooms for positive anchors. He said that you have kinesthetic anchors, smells and tastes, and that your senses lead you to anchors and triggers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that he has to control his own emotions because he is vulnerable to them, and that some days he is different from others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the clothes, place or song that anchors your best.",
+   "Write a smell or taste that does it.",
+   "Write the range of your mood this week.",
+   "Write the anchor you want more of.",
+   "Write where you will place it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call an anchor?",
+   "choices": [
+    "A stored association",
+    "A rule",
+    "A prize"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say senses lead you to?",
+   "choices": [
+    "Anchors and triggers",
+    "Mistakes",
+    "Money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student claim about daily life?",
+   "choices": [
+    "It is mostly a trance state, which is to be verified",
+    "It is always changing",
+    "It is random"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your anchors. Use your senses.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

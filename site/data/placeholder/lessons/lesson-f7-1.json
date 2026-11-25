@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f7-1",
+ "title": "Mirror calmly when someone is angry",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does your face do when you are corrected?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What mirroring is",
+   "lines": [
+    {
+     "text": "Jose said that the chapter talks about mirroring: when someone is angry, what should your demeanor be? Mirroring means matching gestures, tone and pace.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A student's account",
+   "lines": [
+    {
+     "text": "A student said that when a colleague corrected him sharply, he listened with wide eyes, used his hands, said you are right, I am sorry, and let the colleague finish, like a teapot letting off steam.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that she had made a similar mistake with a recipe she was given, which caused an argument with the others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Keep control",
+   "lines": [
+    {
+     "text": "Jose said: even if I am getting fired, I know why, and the person did not make me feel bad about it. Do you not want to have control of that?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that in that interaction you are aligning their potential with their discipline, and their perception with their actions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last time you were corrected.",
+   "Write what your face and hands did.",
+   "Write what you would do to stay calm.",
+   "Write what you would say after they finish.",
+   "Write what you learned from the correction."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say mirroring is?",
+   "choices": [
+    "Matching gestures, tone and pace",
+    "Arguing back",
+    "Staying silent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the student do when corrected?",
+   "choices": [
+    "Listened and let the colleague finish",
+    "Left",
+    "Argued"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you align?",
+   "choices": [
+    "Potential with discipline",
+    "Time with money",
+    "Words with price"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Mirror, let them finish, stay in control.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

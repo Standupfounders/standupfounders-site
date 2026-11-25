@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-d9-3",
+ "title": "Scale and tiny commitments",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What tiny yes do people give you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A limit on scaling",
+   "lines": [
+    {
+     "text": "Jose said that if you are a marketing service for a law firm and have it ranked first, you cannot use the same intelligence for a competing law firm, because it is a conflict of interest. They will want a contract that you represent only them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that the same goes for hotels and restaurants, so that service business has a limit to scaling and growth, and a software business whose customers all use it does not.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Micro-commitments",
+   "lines": [
+    {
+     "text": "Jose asked: what is the micro-commitment people make to you? He asked for the tiny commitments in conversation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that the signs are phrases like: I never thought of it that way, that is really clever, this is the same problem I face. They show the person is moving closer.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the tiny commitments you hear.",
+   "Write the phrase that shows a person is moving closer.",
+   "Write the conflicts of interest in your business.",
+   "Write how you scale despite them.",
+   "Write how you will respond to a micro-commitment."
+  ]
+ },
+ "check": [
+  {
+   "q": "What is a limit on scaling a service business, in Jose's example?",
+   "choices": [
+    "Conflicts of interest",
+    "Weather",
+    "Price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask for?",
+   "choices": [
+    "Examples of micro-commitments",
+    "Prices",
+    "Invoices"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What are signs people are moving closer?",
+   "choices": [
+    "Phrases like I never thought of it that way",
+    "Silence",
+    "Rushing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your scaling limit. Notice the tiny yeses.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

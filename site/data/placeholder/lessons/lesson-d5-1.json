@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d5-1",
+ "title": "Before and after you meet",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do people see of you before they meet you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Decide your story",
+   "lines": [
+    {
+     "text": "A student said: it is not only the story you tell others but the story you tell yourself and how you think about yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you have to make a decision on your personal branding, because not deciding leads to an inconsistent story and mixed messages. He said keep it simple and repeatable, and create an image in the person's head.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pre-engagement",
+   "lines": [
+    {
+     "text": "Jose described pre-engagement as the image before an individual has met you: they search your name, see testimonials, an interview, a video, and think they cannot wait to meet you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: make sure that what you have online is the same once they actually meet you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Post-engagement",
+   "lines": [
+    {
+     "text": "Another student said that after a positive visit, a proposal within a day completes the picture of post-engagement.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: did you over-deliver or under-deliver? Did meeting you make them want to do business, or did you make no impact? A student said that a good check is whether everything was on the table and what the next steps are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what a stranger finds when they search you.",
+   "Write what they feel when they meet you.",
+   "Write one gap between the two.",
+   "Write the next steps you give at the end of each meeting.",
+   "Write one way you will over-deliver."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say pre-engagement is?",
+   "choices": [
+    "The image before they have met you",
+    "The meeting itself",
+    "The invoice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say not deciding on your branding leads to?",
+   "choices": [
+    "An inconsistent story",
+    "A shorter story",
+    "A better story"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to make sure of?",
+   "choices": [
+    "That online matches in person",
+    "That nothing is online",
+    "That meetings are short"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make the image before and after the meeting match.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

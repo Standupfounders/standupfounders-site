@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f4-1",
+ "title": "Event plus response",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which part of the event can you actually control?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The formula",
+   "lines": [
+    {
+     "text": "A student recalled a formula from an earlier book: event plus response equals outcome. You cannot control the event, but you can control the response.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Defuse and lead",
+   "lines": [
+    {
+     "text": "Another said: use a label; it is very bold, and people have the courage to say it. What interests me is the process: buying time, asking questions, then stepping back to figure out what they are saying.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that when someone comes to you with drama or a negative trigger and you respond emotionally, you lose; you want to validate them first.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said you can have an aggressive person come to you and not only defuse the situation but control their emotional landscape, which he thinks is very powerful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Practice",
+   "lines": [
+    {
+     "text": "Jose said that he and two colleagues had been calling companies they did not know, speaking to top-level managers. A student said that of seventeen calls only one refused to hear them out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a recent event you could not control.",
+   "Write your response.",
+   "Write the response you would choose.",
+   "Write a label you could use.",
+   "Write a time you will buy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What is the formula the student recalled?",
+   "choices": [
+    "Event plus response equals outcome",
+    "Plan plus work equals result",
+    "Cost plus price equals profit"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you do first with a negative trigger?",
+   "choices": [
+    "Validate",
+    "Argue",
+    "Leave"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is interesting?",
+   "choices": [
+    "The process behind it",
+    "The result",
+    "The price"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "You cannot control the event. You can control your response.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

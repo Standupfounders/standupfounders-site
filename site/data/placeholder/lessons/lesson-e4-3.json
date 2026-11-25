@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-e4-3",
+ "title": "Fear, belief and approaching a stranger",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What belief stops you from walking up to a person?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The chain",
+   "lines": [
+    {
+     "text": "Jose said that if you see a famous chief executive at a dinner and he tells you to go talk to them, you may say you cannot, and the reason is a chain: a trigger, then a belief such as I am not good enough, then a lack of confidence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that this is not in the book, that they are studying negative language patterns and belief systems, and that fear is revealing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Not that fear",
+   "lines": [
+    {
+     "text": "Jose said that what is relevant is not to have that fear, because it will not help you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that you praise the process, but if you are being rejected every day you may start to blame the product, the service and the market. He called that the blame game.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "An entrepreneur's trait",
+   "lines": [
+    {
+     "text": "Jose said that the first thing he thinks of in an entrepreneur is achievement, and that some people say he is just born like that, which is a method to the madness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the person you would like to approach.",
+   "Write the belief that stops you.",
+   "Write the trigger.",
+   "Write the sentence to replace it.",
+   "Write your first words."
+  ]
+ },
+ "check": [
+  {
+   "q": "What chain did Jose describe?",
+   "choices": [
+    "A trigger, a belief, a lack of confidence",
+    "A plan, a price, a profit",
+    "A call, a meeting, a deal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say fear does?",
+   "choices": [
+    "It will not help you",
+    "It protects you",
+    "It makes money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What game did Jose name?",
+   "choices": [
+    "The blame game",
+    "The waiting game",
+    "The price game"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Trigger, belief, action. Replace the belief.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

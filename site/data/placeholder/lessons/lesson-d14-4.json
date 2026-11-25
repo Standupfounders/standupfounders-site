@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d14-4",
+ "title": "Authority and a steady mood",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Would your team know what mood you will be in?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The last chapter",
+   "lines": [
+    {
+     "text": "Jose said that the last chapter is about happiness and authority, which he had forgotten the author wrote like that. He said the author is pragmatic and yet talks about happiness, and asked whether following an authority-building path can lift your life's satisfaction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when you have that kind of authority you tend to have internal happiness and optimism.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A consistently positive leader",
+   "lines": [
+    {
+     "text": "A student described a former boss who showed up in a good mood every day, saying let us go and make it happen, and who stayed two to five years at a company and had a following who went with him to his next venture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you do not want a leader where you wonder what mood they will be in today. He said that great entrepreneurs inspire, and that there is nothing more satisfying to a servant leader than empowering others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Look at their past",
+   "lines": [
+    {
+     "text": "A student said that professional mentoring has become an industry, and that so many people are misguiding others, while almost none of his mentors were compensated directly.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: people's past always tells you something about their future. You want to see in the past a trace that this person did this already, coached and helped others.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the leader whose mood you could always count on.",
+   "Write what they did.",
+   "Write how your team would describe your mood.",
+   "Write the trace in your past that shows your values.",
+   "Write how you will check a mentor's past."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the last chapter connects?",
+   "choices": [
+    "Authority and happiness",
+    "Money and time",
+    "Speed and size"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say his boss had?",
+   "choices": [
+    "A consistent good mood and a following",
+    "A big office",
+    "A quiet voice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about a person's past?",
+   "choices": [
+    "It tells you something about their future",
+    "It does not matter",
+    "It is private"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "A steady leader earns a following. Check the past.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

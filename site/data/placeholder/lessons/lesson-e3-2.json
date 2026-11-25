@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-e3-2",
+ "title": "The ten-dollar game",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "If you are offered a split, what is your real aim?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The game",
+   "lines": [
+    {
+     "text": "Jose described a class exercise from the book, the ultimatum game: people are in pairs as a proposer and an acceptor. The proposer offers a number of dollars; if the acceptor agrees, the acceptor gets the offer and the proposer keeps the rest, and if not, they lose it all.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He ran it in the class with ten dollars, and said the money had been given to the players, so they could lose it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What students tried",
+   "lines": [
+    {
+     "text": "A student asked how both could win: invest the ten dollars together and split the return, perhaps sixty-forty, and talk about how to distribute the gains.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: the natural thing is to split the difference, but I am not sure that is our aim in this negotiation. If there is no set timeline, I continuously hold my position until they give up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Fair is a loaded word",
+   "lines": [
+    {
+     "text": "Jose said that you have to be careful with the word fair, because it is a fair price and then you think: wait, wait, wait. He said the proposer needs you, because he has to do the deal with you or lose all the money.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a split you could be offered.",
+   "Write what you really want from it.",
+   "Write a way both sides could win.",
+   "Write what the other side loses if there is no deal.",
+   "Write how you will use the word fair."
+  ]
+ },
+ "check": [
+  {
+   "q": "What are the two roles in the game?",
+   "choices": [
+    "Proposer and acceptor",
+    "Buyer and seller",
+    "Boss and worker"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say the natural move is?",
+   "choices": [
+    "Split the difference",
+    "Walk away",
+    "Raise the price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the word fair?",
+   "choices": [
+    "Be careful with it",
+    "Use it always",
+    "Never hear it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know your real aim. Look for a way both can win. Be careful with fair.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

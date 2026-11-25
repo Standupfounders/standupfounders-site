@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f2-4",
+ "title": "Generalize, distort, delete",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which words do you use that leave things out?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Three habits of language",
+   "lines": [
+    {
+     "text": "Jose said that there are entire bodies of literature based on generalization, distortion and deletion; there are whole novels built on it, for example a famous novel about a man who rewrites his own life story.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said it is like interchanging facts and reality, and he was not sure how to explain it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "An example",
+   "lines": [
+    {
+     "text": "A student said: this morning I had a lot of clothes on the floor, which stressed me and made me feel unorganized, and I spent the morning cleaning up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that he keeps picturing some geese by a pond and does not know why, and used it to show how an image stays with us.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Facing a big debt calmly",
+   "lines": [
+    {
+     "text": "Jose said that he has friends who owe huge sums and laugh about it, while he would be sick. He said that they have a way of not letting the number run their state. This is his remark about acquaintances and is left general.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a sentence with always or never in it.",
+   "Write what it leaves out.",
+   "Write what it twists.",
+   "Write the plain version.",
+   "Write the image that stays with you and what it says."
+  ]
+ },
+ "check": [
+  {
+   "q": "What three patterns did Jose name?",
+   "choices": [
+    "Generalization, distortion and deletion",
+    "Speed, volume and pitch",
+    "Rhyme, rhythm and meter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student give as an example?",
+   "choices": [
+    "Clothes on the floor causing stress",
+    "A bank loan",
+    "A race"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say an image does?",
+   "choices": [
+    "Stays with us",
+    "Disappears",
+    "Costs money"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice the words that generalize, twist and leave out.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

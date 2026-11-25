@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "id": "lesson-d6-4",
+ "title": "Thank people and carry yourself",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who do you thank on the way in?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Frequency and thanks",
+   "lines": [
+    {
+     "text": "A student who worked at a door said: it is not about the money, it is the frequency; you build relationships with the people who work the rope. I always thank them and ask how they are doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: that is a very wise thing we just learned, thanking people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What presence looks like",
+   "lines": [
+    {
+     "text": "A student who works in hotels said that important guests are well groomed, articulate, kind and appreciative of the staff, and often come back with gifts or meals for them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that is beautiful wisdom, that they come in with gifts for everybody.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A small gift",
+   "lines": [
+    {
+     "text": "Jose said that he learned from a mentor to walk into a bank with a box of pastries and hand it out, and that he knows his regular coffee shop and printer by name and orders for their staff how they like it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Referrals are relationships",
+   "lines": [
+    {
+     "text": "A student described a hard-nosed client who opened up when they went deeper into the relationship and found out a personal need.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that gave a window with him: it was not transactional, he realized you are long-term relationship people who listen and care, and that is what referrals are all about.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write who you pass every week and have not thanked.",
+   "Write a small gift you could bring.",
+   "Write the people whose names you know.",
+   "Write a relationship that is only transactional.",
+   "Write what you could ask about their life."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say it is about, not the money?",
+   "choices": [
+    "The frequency",
+    "The price",
+    "The size"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he learned from a mentor?",
+   "choices": [
+    "To bring pastries to the bank",
+    "To avoid banks",
+    "To pay early"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say referrals are about?",
+   "choices": [
+    "Trust and a personal relationship",
+    "Discounts",
+    "Ads"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Thank people. Bring something small. Build the relationship.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

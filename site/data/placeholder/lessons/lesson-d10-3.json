@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d10-3",
+ "title": "Pacing and leading in a speech",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How does a good speaker get you to say yes before the point?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pacing and leading",
+   "lines": [
+    {
+     "text": "Jose said that he listens to as many public speeches as he can to learn, whatever his or anyone's political views. He said the technique is called pacing and leading: when you pace, you get people moving with what you say, then you lead.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that she opened by setting up the night by saying big things, so you feel something big is coming.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Words that set a scene",
+   "lines": [
+    {
+     "text": "Jose said that if you start with once upon a time there lived a little boy, you take people to a magical world, an emotional one. He said that the speaker also grounded the feeling by saying we are all feeling it here, as if you were already feeling it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Listen to the words",
+   "lines": [
+    {
+     "text": "Jose said: let the words jump out at you. If I meet you, I am going to listen to your words, and they are going to say something about your personal brand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said the speaker paced and paced, and then pivoted to a different word that brought you in: the word fear, and not being steady enough to stand before you, which attaches you to her personally.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that an ambiguous phrase such as more than they needed could mean many things, and Jose asked: who is the judge of who needs more and who needs less?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a thing you say that people always agree with.",
+   "Write what you lead them to next.",
+   "Write the opening scene of your next talk.",
+   "Write one ambiguous phrase you use and make it exact.",
+   "Write the one word that will pivot your talk."
+  ]
+ },
+ "check": [
+  {
+   "q": "What is the technique called?",
+   "choices": [
+    "Pacing and leading",
+    "Pushing and pulling",
+    "Pausing and pitching"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say once upon a time does?",
+   "choices": [
+    "Takes people to an emotional world",
+    "Ends the talk",
+    "Bores people"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do with a speaker's words?",
+   "choices": [
+    "Let the words jump out at you",
+    "Ignore them",
+    "Count them"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pace, then lead. Choose the words that set the scene.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

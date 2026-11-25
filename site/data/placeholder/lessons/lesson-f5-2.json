@@ -1,0 +1,108 @@
+{
+ "schema": 1,
+ "id": "lesson-f5-2",
+ "title": "Repeat the words you want to believe",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you tell yourself before the start?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Repetition",
+   "lines": [
+    {
+     "text": "Jose said that he learned to repeat to himself: I am confident, I will train hard, I will go to the state meet. He learned repetition, because in swimming you follow the black line up and down.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A practice",
+   "lines": [
+    {
+     "text": "He said that you can repeat words like a rhythm so that they become the voice you hear instead of the old one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Write the three sentences you will repeat each morning and where you will say them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the three sentences.",
+   "Write where you will say them.",
+   "Write the old sentence they replace.",
+   "Write how long you will do it.",
+   "Write who will check on you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose learn to do in swimming?",
+   "choices": [
+    "Repeat words to himself",
+    "Skip training",
+    "Race less"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did he say repetition replaces?",
+   "choices": [
+    "The old voice",
+    "The water",
+    "The coach"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Where did he say you follow a black line?",
+   "choices": [
+    "In swimming",
+    "In running",
+    "In cooking"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Repeat the words you want to believe.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

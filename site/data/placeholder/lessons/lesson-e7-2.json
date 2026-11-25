@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e7-2",
+ "title": "Speak to their type",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How would you put the same point to a person who does not like ambiguity?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Direct and exact",
+   "lines": [
+    {
+     "text": "Jose said you have to be careful with one type, because they do not suffer ambiguity and are not attuned to the emotions of others, like people in high engineering jobs; they speak exactly what they are thinking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that you would need to be very direct and logical when you approach such a person, and tie it into the big picture of success so it makes sense.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Values underneath",
+   "lines": [
+    {
+     "text": "Jose said that all of this is a lot easier if your values are in place: do you believe that you are doing good in business, and does your business life have long-term value?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to think of your voice when you call people as someone who is calling because you are doing good, not begging.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the person you must persuade.",
+   "Write the style they use.",
+   "Write your point in direct and exact words.",
+   "Write the big picture you will tie it to.",
+   "Write why you are doing good."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say one type does not suffer?",
+   "choices": [
+    "Ambiguity",
+    "Speed",
+    "Humor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to be with such a person?",
+   "choices": [
+    "Direct and logical",
+    "Vague",
+    "Silent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say makes it easier?",
+   "choices": [
+    "Having your values in place",
+    "Having a bigger budget",
+    "Having a title"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Say it directly to those who need it. Keep your values in place.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "id": "lesson-f4-2",
+ "title": "People who love structure",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What kind of person feels safe with structure and targets?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A profile",
+   "lines": [
+    {
+     "text": "Jose described a type of person: you like your routine, repeatable work, key performance indicators, short-term execution, hitting your targets, a clear structure that makes you feel safe, and giving rewards for performance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "When it fits and when it does not",
+   "lines": [
+    {
+     "text": "Jose said that a creative meeting about new ways to do things would not be practical in a military operation, so structure fits some places. He compared it with places where creativity is the point.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A challenge",
+   "lines": [
+    {
+     "text": "A student said that the book contradicts the idea that emotions are primal and arise on their own, because there is more room to influence them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the kind of person you are about structure.",
+   "Write who you work with who is the other.",
+   "Write one place where structure helps.",
+   "Write one where it hurts.",
+   "Write how you will speak to each kind."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a structure lover likes?",
+   "choices": [
+    "Routine and clear targets",
+    "Surprises",
+    "Open-ended meetings"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about creative meetings in a military operation?",
+   "choices": [
+    "They would not be practical",
+    "They are best",
+    "They are needed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about emotions?",
+   "choices": [
+    "The book says you can influence them",
+    "They are fixed",
+    "They are random"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know who loves structure and who does not.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d7-1",
+ "title": "Urgency in minutes",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do your weeks fly by with the important things undone?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A Monday ritual",
+   "lines": [
+    {
+     "text": "Jose said that on a Monday the question is what the first things are that your mind will engage in, and that one of his morning rituals is to start with it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: for the business, minutes or hours; the weeks seem to fly by. I accomplish my goals, but I also want to make sure I am living.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Create the urgency",
+   "lines": [
+    {
+     "text": "Jose said that he has a number in his head by December and a financial goal to reach, and that he has to visualize, plan and structure, and create the urgency in seconds, minutes and hours.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that creating a deadline for today means that you say: I have the next four or five days, and if I make this many calls and proposals, I am in the possibility of reaching it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He added that it is the discipline of the minutes, hours and days, and that some people have other priorities in life that they do not want to let slip.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your number for the end of the year.",
+   "Write what it needs this week.",
+   "Write what it needs today.",
+   "Write the other priority you protect.",
+   "Write when you will review."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say he creates?",
+   "choices": [
+    "Urgency in seconds, minutes and hours",
+    "Long holidays",
+    "Excuses"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student want to make sure of?",
+   "choices": [
+    "That they are living too",
+    "That they never rest",
+    "That time stops"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say it takes?",
+   "choices": [
+    "Discipline of minutes, hours and days",
+    "Luck",
+    "Money"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Turn the goal into this week's, today's and this hour's work.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

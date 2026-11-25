@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-f4-3",
+ "title": "Choose confidence, build the proof",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What proof are you waiting for before you feel confident?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Confidence",
+   "lines": [
+    {
+     "text": "A student said that a failed attempt would affect his confidence at first, or perhaps make him more confident because he learned and now has more to draw from.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that an optimistic person says: I choose confidence and I build proof. We tend to think proof and evidence are out of our control.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Whose job is the evidence",
+   "lines": [
+    {
+     "text": "A student asked: are you saying the proof we base our confidence on is not up to us, or that it is?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that the answer is that it is up to you: you act, collect results and build the proof.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you want to feel confident about.",
+   "Write the proof you are waiting for.",
+   "Write three actions that would create it.",
+   "Write one thing you have already proved.",
+   "Write the date you will review the proof."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say an optimistic person does?",
+   "choices": [
+    "Chooses confidence and builds proof",
+    "Waits for proof",
+    "Avoids risk"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about a failure?",
+   "choices": [
+    "It can affect confidence or teach",
+    "It ends everything",
+    "It is always good"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about proof?",
+   "choices": [
+    "You can build it",
+    "It comes by luck",
+    "It cannot be built"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose confidence. Build the proof by acting.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

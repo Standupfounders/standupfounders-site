@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f5-3",
+ "title": "Is stress a choice?",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you say to someone who says they cannot?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Confidence as a switch",
+   "lines": [
+    {
+     "text": "A student said that the classes on confidence have been empowering because the definition made a switch in how she takes decisions.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked: how has your awareness changed when somebody says something limiting or exposes a negative anchor?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Choice",
+   "lines": [
+    {
+     "text": "Jose asked: is stress something we can choose? Like confidence, like happiness, like how we see the world. He said you have complete power.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked what you would say to someone who comes and says: I cannot do this job, I cannot make these calls, it is overwhelming. A student said that she plays a character and turns off her mind and goes into her body.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Language mechanics",
+   "lines": [
+    {
+     "text": "Jose said that today he would go into something more intense with language: the specifics and mechanics of how language works.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what stresses you most.",
+   "Write what you could choose about it.",
+   "Write what you would say to someone overwhelmed.",
+   "Write the character you can play when you are stressed.",
+   "Write who to talk to if stress is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask about stress?",
+   "choices": [
+    "Whether we can choose it",
+    "Whether it costs money",
+    "Whether it is rare"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student do to cope?",
+   "choices": [
+    "Played a character and went into her body",
+    "Quit",
+    "Ignored it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he would go into?",
+   "choices": [
+    "The mechanics of language",
+    "The price of books",
+    "The news"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask what you can choose. Use language to help.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

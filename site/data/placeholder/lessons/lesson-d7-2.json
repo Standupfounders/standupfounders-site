@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "id": "lesson-d7-2",
+ "title": "The anchor you leave behind",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does someone feel when you walk out of the room?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pre- and post-engagement",
+   "lines": [
+    {
+     "text": "A student said: pre-engagement is what your audience sees before they interact with you: blog posts, social media, website, bio, everything that gives you credibility.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that post-engagement is delivering on the promise they learned in pre-engagement.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that pre-engagement is the promise of who you are as a personal brand, and that post-engagement is your performance backing it up. He said he researches a person for a month before a meeting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Set the anchor",
+   "lines": [
+    {
+     "text": "Jose asked what thought, emotion or image you leave people with, and said you control it, but you have to anchor it on purpose. He said to keep it simple, relevant and repeatable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said: when I think of you I think of transforming creativity into profitability. You have to pick what you are comfortable saying, your tagline.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Share the credit",
+   "lines": [
+    {
+     "text": "A student said that after a success you can say: it went wonderfully because you believed in me; thanks to you we did it. People appreciate that and it sets up a long-term relationship.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that is brilliant: giving praise to somebody else and saying we could not have done it without you is a beautiful anchor.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Links and questions",
+   "lines": [
+    {
+     "text": "Jose said that every month you can put two or three more links out with articles you write, until you have two hundred, driving your message.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that in a meeting you share the responsibility by asking questions, not shoving your knowledge down someone's throat.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what you want people to feel when you leave.",
+   "Write your tagline.",
+   "Write the thank-you you will say after your next success.",
+   "Write what you will publish this month.",
+   "Write three questions that share the responsibility."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say pre-engagement is?",
+   "choices": [
+    "What the audience sees before they interact with you",
+    "The meeting",
+    "The invoice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you do with the anchor?",
+   "choices": [
+    "Set it on purpose",
+    "Leave it to chance",
+    "Hide it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say after a success?",
+   "choices": [
+    "Thank the client for the belief",
+    "Take all the credit",
+    "Say nothing"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Leave a chosen anchor. Share the credit. Publish every month.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

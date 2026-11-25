@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-e8-2",
+ "title": "The million-dollar question",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How would you make a million in six months?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A hard question",
+   "lines": [
+    {
+     "text": "Jose said that one of his favorite questions to ask in an interview is: how are you going to make a million dollars in six months? Walk me through the steps. Everybody stops and goes quiet.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that people either answer I cannot do it, or they begin to think of the steps, and that the thinking is what he wants to see.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A calm mind",
+   "lines": [
+    {
+     "text": "A student said that it has nothing to do with the external and that it is all internal, and he spoke about the power of meditation for a newer group.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that when your reality starts to manifest from your subconscious, the subconscious and conscious seem to become one, and your dreams get stronger. This is his claim and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Your black swan",
+   "lines": [
+    {
+     "text": "Jose asked a student: what has been a black swan for you, from the origin of your business? The word is the book's name for an unlikely event with large effects.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you would make a million in six months.",
+   "Write the first step.",
+   "Write the second.",
+   "Write the unlikely event that changed your path.",
+   "Write how you keep your mind calm."
+  ]
+ },
+ "check": [
+  {
+   "q": "What interview question did Jose ask?",
+   "choices": [
+    "How would you make a million in six months",
+    "What is your salary",
+    "Where do you live"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about meditation?",
+   "choices": [
+    "It is internal",
+    "It is external",
+    "It is useless"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call an unlikely event with large effects?",
+   "choices": [
+    "A black swan",
+    "A blue chip",
+    "A red flag"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask the hard question. Think in steps. Notice your black swan.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

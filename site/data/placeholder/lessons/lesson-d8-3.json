@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d8-3",
+ "title": "The basis of success: relationships",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which single relationship is the root of your business?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A statement",
+   "lines": [
+    {
+     "text": "Jose read a statement from the book: the ability to build, sustain and grow relationships is the basis of success and happiness in life, and most of us can trace the roots of our business success to a single relationship. He asked what that means.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to take an inventory of the people closest to you: those for a few months, a few years, decades.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Keeping up many relationships",
+   "lines": [
+    {
+     "text": "A student said: I am strict about how many relationships I allow on my plate at once, because of the attention a relationship needs.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: seasoned business people have little check-in points, such as a birthday in their calendar. It comes down to organization and scheduling.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that with long-term relationships, they root for you, and they are interested in where you are going, not only asking what you can do for them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Honest content",
+   "lines": [
+    {
+     "text": "Jose said that the author does not do a bait and switch: he builds the relationship, and you lose all credibility when you try to sell or push somebody in a direction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the relationship that is the root of your work.",
+   "Write the people closest to you by time.",
+   "Write your check-in points.",
+   "Write how many relationships you can really keep.",
+   "Write one relationship you have neglected."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say seasoned people use?",
+   "choices": [
+    "Check-in points like birthdays",
+    "Newsletters only",
+    "Gifts only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you lose by pushing a sale?",
+   "choices": [
+    "All credibility",
+    "Time",
+    "Money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a relationship needs?",
+   "choices": [
+    "Attention",
+    "A contract",
+    "A gift"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Relationships are the root. Keep them with a schedule.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-e6-2",
+ "title": "Ask about the process, not only the effects",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would they do first if they meant it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Effects and process",
+   "lines": [
+    {
+     "text": "Jose said that if someone only asks what the effect is and what the outcome is, and never goes into the process, that is a sign of what they are really interested in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked how to find out their interest: how are you interested in us helping or getting involved?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Commitment",
+   "lines": [
+    {
+     "text": "Another said that people who really commit will visualize how they will commit and put different scenarios of how they see themselves doing it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you could come up with a deadline and not meet it, so you say what you are working on, and that a first interview should explore what the other party's goals really are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another asked: where is the negotiation right now, and what are the next steps?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the next steps in a deal.",
+   "Write three process questions.",
+   "Write the evidence you want to see.",
+   "Write the deadline and who owns it.",
+   "Write what it would mean if they only ask about the outcome."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a person who never asks about process shows?",
+   "choices": [
+    "Where their real interest lies",
+    "Nothing",
+    "Honesty"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student ask?",
+   "choices": [
+    "What are the next steps",
+    "What is the price",
+    "Who is the boss"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did another student say committed people do?",
+   "choices": [
+    "Visualize how they will commit",
+    "Delay",
+    "Argue"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask about the process. Ask for next steps.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

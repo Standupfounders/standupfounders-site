@@ -1,0 +1,124 @@
+{
+ "schema": 1,
+ "id": "lesson-d11-2",
+ "title": "Read the profit and loss",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you know what each line of your numbers says?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What it is",
+   "lines": [
+    {
+     "text": "A student explained a profit and loss statement: it shows gross revenue, the income coming in, the top line, and below it the costs, down to the bottom line. The more detailed it is, the better you understand the business.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Two ways back",
+   "lines": [
+    {
+     "text": "He asked: if a company has a million in gross sales and its net profit is negative, what are the only two ways back to profitability? Answer: decrease expenses or increase income. Within the statement you see where to focus.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Diversify",
+   "lines": [
+    {
+     "text": "Another student added: diversifying your products, or within one product, your strategy for bringing it to market, because there are infinite ways to produce more income.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Habit",
+   "lines": [
+    {
+     "text": "Jose said that is literally your journey and the learning curve, and then it just becomes a habit; you find comfort in creating a process.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your top line and your bottom line.",
+   "Write your two largest costs.",
+   "Write two ways to raise income.",
+   "Write two ways to cut cost.",
+   "Write when you review the statement."
+  ]
+ },
+ "check": [
+  {
+   "q": "What are the only two ways to fix a loss, in the student's example?",
+   "choices": [
+    "Cut expenses or raise income",
+    "Wait or hope",
+    "Hide it or sell it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is the top line?",
+   "choices": [
+    "Gross revenue",
+    "Net profit",
+    "Rent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does detail give you?",
+   "choices": [
+    "More understanding of the business",
+    "Less work",
+    "Fewer customers"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read the numbers line by line. Cut cost or raise income.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

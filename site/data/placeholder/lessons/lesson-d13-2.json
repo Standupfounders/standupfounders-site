@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "id": "lesson-d13-2",
+ "title": "Where to publish",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where could your next article appear this week?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Give away the book",
+   "lines": [
+    {
+     "text": "Jose said that the author's pitch is: write a book to get authority, and you can hand it to someone in a meeting where relevant. He said it is a good way, and he commented that the author is making his plug.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Publishing places",
+   "lines": [
+    {
+     "text": "Jose said: go to Google and research blog posts; they are happy to receive content all day long. If you are not writing articles on the professional network, you are being negligent, because it moved from job hunting to a content aggregator.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that press releases are very good through a wire service that syndicates to publications around the world, targeted to the audience and the region.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Speaking",
+   "lines": [
+    {
+     "text": "Jose asked whether the group wanted more on speaking engagements and said he would go deeper into what they covered on the last call.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three blogs that take guest posts.",
+   "Write one article title for each.",
+   "Write one wire release you could send.",
+   "Write one event to speak at.",
+   "Write the date you will publish."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say blogs are happy to receive?",
+   "choices": [
+    "Content",
+    "Money",
+    "Ads"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say a wire service does?",
+   "choices": [
+    "Syndicates a release to publications",
+    "Writes it for you",
+    "Pays you"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about not writing articles?",
+   "choices": [
+    "You are being negligent",
+    "It is fine",
+    "It is cheaper"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Publish in blogs, on networks, through wires and on stages.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

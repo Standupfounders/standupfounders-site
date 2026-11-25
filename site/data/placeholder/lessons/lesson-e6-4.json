@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-e6-4",
+ "title": "Caring as a way in",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you reach a person who is hard to reach?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two ways to ask",
+   "lines": [
+    {
+     "text": "Jose described two ways to reach a decision maker through a gatekeeper: give your reasons, and the second way, caring. He said that a secretary in the end gave him the direct number.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose asked: what else could I have added to that mix to add more strength?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Style and warmth",
+   "lines": [
+    {
+     "text": "Jose said that some people speak in a way that is distant and cold instead of soothing, and that they do not have empathy; they are very analytical.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that introverted people are more like mathematicians and scientists, who spend time researching. This is a general view of his, to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Listen to the room",
+   "lines": [
+    {
+     "text": "A student said that going into a little more detail would help him comprehend, and that with his own business he has several things to go to but none for this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write someone hard to reach.",
+   "Write your reasons.",
+   "Write how you would show you care.",
+   "Write the style they use.",
+   "Write how you will match it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What two ways did Jose describe?",
+   "choices": [
+    "Reasons and caring",
+    "Pay and threaten",
+    "Wait and hope"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did he say cold speakers lack?",
+   "choices": [
+    "Soothing empathy",
+    "Information",
+    "Time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of view is the claim about introverts?",
+   "choices": [
+    "His own, to be verified",
+    "A rule",
+    "A law"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Give reasons and show you care. Match their style.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

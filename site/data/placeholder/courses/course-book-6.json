@@ -1,0 +1,630 @@
+{
+ "schema": 1,
+ "id": "course-book-6",
+ "slug": "book-6",
+ "title": "Jose's analysis of a book we are still naming",
+ "label": "Course 6",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "A sixth course, built from Jose's 2026 group calls on one book about neuro-linguistic programming, in the order of the calls. The book is not named yet. Modules are added one at a time.",
+ "season_note": "A suggested run of about 8 weeks. Suggested dates only: nothing locks.",
+ "weeks": 8,
+ "modules": [
+  {
+   "id": "m-f1",
+   "title": "Maps, decisions and resourcefulness",
+   "minutes": 56,
+   "week_from": 1,
+   "week_to": 1,
+   "items": [
+    {
+     "id": "i-f1-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you look for what a person can give you?",
+       "item": "i-f1-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you decide often?",
+       "item": "i-f1-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you check the other person's map?",
+       "item": "i-f1-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-f1-1",
+     "kind": "section",
+     "title": "What a book or a person can give you",
+     "minutes": 9,
+     "idea": "Look for the gift before you judge.",
+     "lesson": "lesson-f1-1"
+    },
+    {
+     "id": "i-f1-2",
+     "kind": "section",
+     "title": "Decide often, fail small",
+     "minutes": 9,
+     "idea": "Decide often; treat mistakes as feedback.",
+     "lesson": "lesson-f1-2"
+    },
+    {
+     "id": "i-f1-3",
+     "kind": "section",
+     "title": "Maps of the mind and old anchors",
+     "minutes": 9,
+     "idea": "Know your map; check theirs.",
+     "lesson": "lesson-f1-3"
+    },
+    {
+     "id": "i-f1-4",
+     "kind": "section",
+     "title": "Resourcefulness and blaming the outside",
+     "minutes": 9,
+     "idea": "Own what is yours.",
+     "lesson": "lesson-f1-4"
+    },
+    {
+     "id": "i-f1-w",
+     "kind": "workshop",
+     "title": "Workshop: My map, my decision, my ownership",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My map and one other person's.",
+      "A decision I will make today.",
+      "What I will own instead of blame."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-f2",
+   "title": "Anchors, mistakes and the pictures we hold",
+   "minutes": 56,
+   "week_from": 2,
+   "week_to": 2,
+   "items": [
+    {
+     "id": "i-f2-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you choose how to react?",
+       "item": "i-f2-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you let the last mistake go?",
+       "item": "i-f2-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you act on what you picture?",
+       "item": "i-f2-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-f2-1",
+     "kind": "section",
+     "title": "Anchors and choosing your reaction",
+     "minutes": 9,
+     "idea": "Choose your reaction; prepare.",
+     "lesson": "lesson-f2-1"
+    },
+    {
+     "id": "i-f2-2",
+     "kind": "section",
+     "title": "Let the last mistake go",
+     "minutes": 9,
+     "idea": "Delete the last shot; use an image.",
+     "lesson": "lesson-f2-2"
+    },
+    {
+     "id": "i-f2-3",
+     "kind": "section",
+     "title": "Visualize without leaving the present",
+     "minutes": 9,
+     "idea": "Picture it; act now.",
+     "lesson": "lesson-f2-3"
+    },
+    {
+     "id": "i-f2-4",
+     "kind": "section",
+     "title": "Generalize, distort, delete",
+     "minutes": 9,
+     "idea": "Notice the words that leave things out.",
+     "lesson": "lesson-f2-4"
+    },
+    {
+     "id": "i-f2-w",
+     "kind": "workshop",
+     "title": "Workshop: My reaction, my image, my plain version",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "How I will react next time.",
+      "The image I will use to let go.",
+      "My sentence in plain words."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-f3",
+   "title": "Anchors, signals and meaning",
+   "minutes": 56,
+   "week_from": 3,
+   "week_to": 3,
+   "items": [
+    {
+     "id": "i-f3-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your anchors?",
+       "item": "i-f3-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you choose the feeling you leave?",
+       "item": "i-f3-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask before you decide what a signal means?",
+       "item": "i-f3-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-f3-1",
+     "kind": "section",
+     "title": "An anchor is a stored association",
+     "minutes": 9,
+     "idea": "Know your anchors; use your senses.",
+     "lesson": "lesson-f3-1"
+    },
+    {
+     "id": "i-f3-2",
+     "kind": "section",
+     "title": "Setting an anchor for someone else",
+     "minutes": 9,
+     "idea": "Choose the feeling; use sensory words.",
+     "lesson": "lesson-f3-2"
+    },
+    {
+     "id": "i-f3-3",
+     "kind": "section",
+     "title": "Reading signals",
+     "minutes": 9,
+     "idea": "Notice signals; do not treat them as proof.",
+     "lesson": "lesson-f3-3"
+    },
+    {
+     "id": "i-f3-4",
+     "kind": "section",
+     "title": "From opinion to conviction, and meaning in the day",
+     "minutes": 9,
+     "idea": "Attach meaning to your day.",
+     "lesson": "lesson-f3-4"
+    },
+    {
+     "id": "i-f3-w",
+     "kind": "workshop",
+     "title": "Workshop: My anchor, my feeling, my meaning",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My best anchor and where I place it.",
+      "The feeling I want to leave.",
+      "The meaning I attach to my day."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-f4",
+   "title": "Response, structure and confidence",
+   "minutes": 56,
+   "week_from": 4,
+   "week_to": 4,
+   "items": [
+    {
+     "id": "i-f4-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you choose your response?",
+       "item": "i-f4-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know who loves structure?",
+       "item": "i-f4-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you build proof or wait for it?",
+       "item": "i-f4-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-f4-1",
+     "kind": "section",
+     "title": "Event plus response",
+     "minutes": 9,
+     "idea": "You cannot control the event; you can control the response.",
+     "lesson": "lesson-f4-1"
+    },
+    {
+     "id": "i-f4-2",
+     "kind": "section",
+     "title": "People who love structure",
+     "minutes": 9,
+     "idea": "Know who loves structure and who does not.",
+     "lesson": "lesson-f4-2"
+    },
+    {
+     "id": "i-f4-3",
+     "kind": "section",
+     "title": "Choose confidence, build the proof",
+     "minutes": 9,
+     "idea": "Choose confidence; build the proof.",
+     "lesson": "lesson-f4-3"
+    },
+    {
+     "id": "i-f4-4",
+     "kind": "section",
+     "title": "Expectation, bias and the decision tree",
+     "minutes": 9,
+     "idea": "Notice your expectation; build the tree.",
+     "lesson": "lesson-f4-4"
+    },
+    {
+     "id": "i-f4-w",
+     "kind": "workshop",
+     "title": "Workshop: My response, my proof, my tree",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The response I will choose.",
+      "The proof I will build.",
+      "The scenarios for my next meeting."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-f5",
+   "title": "Defining moments, stress and incongruence",
+   "minutes": 56,
+   "week_from": 5,
+   "week_to": 5,
+   "items": [
+    {
+     "id": "i-f5-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know your defining moments?",
+       "item": "i-f5-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you repeat words that help?",
+       "item": "i-f5-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask what you can choose?",
+       "item": "i-f5-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-f5-1",
+     "kind": "section",
+     "title": "The moment that defines you",
+     "minutes": 9,
+     "idea": "Name a moment; notice where it shows up.",
+     "lesson": "lesson-f5-1"
+    },
+    {
+     "id": "i-f5-2",
+     "kind": "section",
+     "title": "Repeat the words you want to believe",
+     "minutes": 9,
+     "idea": "Repeat the words you want to believe.",
+     "lesson": "lesson-f5-2"
+    },
+    {
+     "id": "i-f5-3",
+     "kind": "section",
+     "title": "Is stress a choice?",
+     "minutes": 9,
+     "idea": "Ask what you can choose.",
+     "lesson": "lesson-f5-3"
+    },
+    {
+     "id": "i-f5-4",
+     "kind": "section",
+     "title": "Spot the mismatch",
+     "minutes": 9,
+     "idea": "Look for incongruence, then ask.",
+     "lesson": "lesson-f5-4"
+    },
+    {
+     "id": "i-f5-w",
+     "kind": "workshop",
+     "title": "Workshop: My moment, my words, my question",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "A moment that defines me and who I could talk to.",
+      "The three sentences I repeat.",
+      "The question I ask when words and actions differ."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-f6",
+   "title": "Bridges, energy and the room",
+   "minutes": 56,
+   "week_from": 6,
+   "week_to": 6,
+   "items": [
+    {
+     "id": "i-f6-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you build a bridge before you push?",
+       "item": "i-f6-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you choose the energy you bring?",
+       "item": "i-f6-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you design the room?",
+       "item": "i-f6-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-f6-1",
+     "kind": "section",
+     "title": "A bridge to the other person",
+     "minutes": 9,
+     "idea": "Build a bridge; know your points.",
+     "lesson": "lesson-f6-1"
+    },
+    {
+     "id": "i-f6-2",
+     "kind": "section",
+     "title": "Momentum before strategy",
+     "minutes": 9,
+     "idea": "Bring trust and energy.",
+     "lesson": "lesson-f6-2"
+    },
+    {
+     "id": "i-f6-3",
+     "kind": "section",
+     "title": "Design the room",
+     "minutes": 9,
+     "idea": "Design the room; remove friction.",
+     "lesson": "lesson-f6-3"
+    },
+    {
+     "id": "i-f6-4",
+     "kind": "section",
+     "title": "Trust and emotional safety",
+     "minutes": 9,
+     "idea": "Create trust; break win-or-lose.",
+     "lesson": "lesson-f6-4"
+    },
+    {
+     "id": "i-f6-w",
+     "kind": "workshop",
+     "title": "Workshop: My bridge, my energy, my room",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My points and my bridge.",
+      "The energy I will bring.",
+      "The room I will design."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-f7",
+   "title": "Calm mirroring, mood and priorities",
+   "minutes": 47,
+   "week_from": 7,
+   "week_to": 7,
+   "items": [
+    {
+     "id": "i-f7-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Can you stay calm when corrected?",
+       "item": "i-f7-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Is your mood steady enough to influence?",
+       "item": "i-f7-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you talk about their priorities?",
+       "item": "i-f7-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-f7-1",
+     "kind": "section",
+     "title": "Mirror calmly when someone is angry",
+     "minutes": 9,
+     "idea": "Mirror, let them finish, stay in control.",
+     "lesson": "lesson-f7-1"
+    },
+    {
+     "id": "i-f7-2",
+     "kind": "section",
+     "title": "A steady mood is influence",
+     "minutes": 9,
+     "idea": "Be steady; bring a small gesture.",
+     "lesson": "lesson-f7-2"
+    },
+    {
+     "id": "i-f7-3",
+     "kind": "section",
+     "title": "Talk to the top about their priorities",
+     "minutes": 9,
+     "idea": "Talk about their priorities.",
+     "lesson": "lesson-f7-3"
+    },
+    {
+     "id": "i-f7-w",
+     "kind": "workshop",
+     "title": "Workshop: My calm, my mood, my opening",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "How I will mirror when corrected.",
+      "My steady-mood habit.",
+      "My opening for the top person."
+     ]
+    }
+   ]
+  }
+ ],
+ "slots": [],
+ "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+}

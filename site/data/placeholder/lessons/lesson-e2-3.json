@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-e2-3",
+ "title": "A crisis protocol",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the first thing you do when a crisis hits?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Slow down",
+   "lines": [
+    {
+     "text": "Jose said that the class would work on a real situation a student brought, a crisis in a business, and he left the details of the dispute out of the class write-up. A student said: with any crisis it is important not to react emotionally, so take a step back and be methodical.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that the first reaction was emotional, anxiety and frustration that can turn into anger, so the first thing is: breathe. Then draw a mental map and write it down in bubbles.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that having it written down gives you ease, peace and reassurance, instead of the thought that you had better say this now or defend yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ask like a trial",
+   "lines": [
+    {
+     "text": "Jose said that you pay attention to how the person omits or avoids information, because that shows bias. He said never start with a closed question or even a narrow one; start with an open question: please explain everything you know about the situation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to act as if it were a trial and you were bringing in witnesses. A long explanation against a short one tells you something: detail means comfort, and no detail may mean omitting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Mirror, label and validate",
+   "lines": [
+    {
+     "text": "Jose said to mirror: imitate the communication style, tone, pace and volume. If you raise your voice, what happens? He gave a label: I see how frustrated you are, and I do not blame you for making that decision, it was a technical one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said: validate their feelings, not the facts. You are developing trust in the call by repeating back and paraphrasing, then pacing and leading: I agree with your approach, and then lead.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last crisis you reacted to.",
+   "Write the breathing you will do first.",
+   "Write the mental map in bubbles.",
+   "Write three open questions.",
+   "Write the label and the validation."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to do first in a crisis?",
+   "choices": [
+    "Breathe",
+    "React",
+    "Call a lawyer"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of question did Jose say to start with?",
+   "choices": [
+    "An open one",
+    "A closed one",
+    "A narrow one"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to validate?",
+   "choices": [
+    "Their feelings, not the facts",
+    "The facts",
+    "The price"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Breathe. Map it. Ask open. Mirror, label, validate.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

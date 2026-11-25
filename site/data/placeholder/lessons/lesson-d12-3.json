@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-d12-3",
+ "title": "Public speaking has depth",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do when the audience does not take your bait?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Read the room",
+   "lines": [
+    {
+     "text": "Jose said that public speaking is a whole world: we could read ten books on it, and the author does not give it the justice it deserves. He said he wants it to be useful for a plan, not nebulous.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you have to be ready to back-pedal. If they are not receiving the topic, giving the whole speech on its details goes worse.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said it is like teaching something technical: start broad, then more technical, and know when to back off if the person is not ready.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Words that last",
+   "lines": [
+    {
+     "text": "A student said that some words have deeper meaning, with audience engagement and trust, and using words that resonate with them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked why some words change the world and last for centuries, and said the common denominator is the messaging and the impact those messages have, from generation to generation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that in poetry inverting words to create meaning is called inversion, and that once upon a time is an induction that appeals to the imagination.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Speed and depth",
+   "lines": [
+    {
+     "text": "Jose said that today you may have five seconds of attention, but you can lead people with a powerful deep beginning, the two-minute grab the author describes, into a deeper message.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how you would back off if they are not ready.",
+   "Write your opening that grabs in five seconds.",
+   "Write the deeper message it leads to.",
+   "Write the words that last in your field.",
+   "Write what you will practise."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to be ready to do?",
+   "choices": [
+    "Back-pedal",
+    "Speak louder",
+    "Skip the topic"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you can do with five seconds of attention?",
+   "choices": [
+    "Lead with a powerful deep beginning",
+    "Read slides",
+    "Say nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is the common denominator in lasting works?",
+   "choices": [
+    "The messaging and its impact",
+    "The length",
+    "The price"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read the room. Grab fast, then go deep.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

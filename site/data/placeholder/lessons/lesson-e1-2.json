@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-e1-2",
+ "title": "Tone, rate and mirroring",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does your voice do when someone upsets you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What mirroring is",
+   "lines": [
+    {
+     "text": "Jose asked: what do we learn? We learn about tone, rate, pacing and leading. What is mirroring?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that it gets you a better understanding of their point, or helps them feel more understood and heard.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: it is empathy, creating an emotional bridge, a mutual understanding.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Do not take the unnecessary risk",
+   "lines": [
+    {
+     "text": "Jose discussed a story in the book where the negotiator asked a suspect directly if he was a named person. A student said that being direct can give you tells; Jose said it was a massive and unnecessary risk, and that afterwards the negotiator used a calm, downward voice to put him at ease.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A role-play",
+   "lines": [
+    {
+     "text": "Jose role-played a hard conversation with a student: he accused the student of a management and execution problem. The student answered calmly, saying he was in it for the long term and asking what the solution would be.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that the tone was good, the rate could have been slower, and that he did not see any buying of time, such as saying: that is interesting, let me process what you just said.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the tone you use when you are upset.",
+   "Write the rate you want instead.",
+   "Write a time-buying phrase.",
+   "Write what mirroring would sound like in your next hard talk.",
+   "Write the risk you will not take."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say mirroring does?",
+   "choices": [
+    "Helps them feel understood",
+    "Wins the argument",
+    "Ends the call"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the direct question was?",
+   "choices": [
+    "An unnecessary risk",
+    "A smart move",
+    "A joke"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to do to buy time?",
+   "choices": [
+    "Say: let me process what you just said",
+    "Say nothing",
+    "Interrupt"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Slow your rate. Mirror. Buy time. Skip unnecessary risk.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

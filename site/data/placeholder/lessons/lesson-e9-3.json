@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e9-3",
+ "title": "What the class took from the book",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the one thing you will take from this book?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What the students took",
+   "lines": [
+    {
+     "text": "A student said that the biggest thing he learned is approaching every conversation more mindfully, listening more and understanding the impact of what you say.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that you can take actions to uncover black swans yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Awareness",
+   "lines": [
+    {
+     "text": "Jose said that the single thing is awareness: looking for them everywhere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that everyone's interpretation of the book is different, and that one of the big things he learned is that he needs to be more disciplined himself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your one takeaway from the book.",
+   "Write the first thing you will do on Monday.",
+   "Write who you will practise it with.",
+   "Write what you need to be more disciplined about.",
+   "Write the date you will review."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask the group?",
+   "choices": [
+    "The single thing they learned most",
+    "Who is late",
+    "What they paid"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he learned about himself?",
+   "choices": [
+    "He needs to be more disciplined",
+    "He is done",
+    "He knows enough"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student take away?",
+   "choices": [
+    "Mindfulness in conversation",
+    "A new job",
+    "A bigger fee"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pick one takeaway and practise it with someone.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

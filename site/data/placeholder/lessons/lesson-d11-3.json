@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d11-3",
+ "title": "Push and pull",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you chase journalists or do they come to you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Push and pull",
+   "lines": [
+    {
+     "text": "Jose said that chapter 11 is about push and pull. Pushing is when you have a story and push it into a media channel, and it is much harder: you tell a journalist, I really want you to publish this.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to put your publicist's details when you publish, and not your own name.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Pull",
+   "lines": [
+    {
+     "text": "Jose said you want to go to a channel that is interested in what you do as a professional, and not sell them something. You want coverage on your expertise.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that the longer route is to speak at events so your name gains traction and people come to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: a writer or editor needs content. If you write an article up to their standards, you are not talking about your brand or endorsing it, you are writing news.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Know the editor",
+   "lines": [
+    {
+     "text": "Jose said: show you understand the type of articles they write and their audience, and that you know their value proposition.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three outlets that fit your expertise.",
+   "Write the article they would want.",
+   "Write your publicist's contact line.",
+   "Write the event where you could speak first.",
+   "Write what you will not say about your brand."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say pushing is?",
+   "choices": [
+    "Pushing your story into a channel",
+    "Waiting for a call",
+    "Buying a channel"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say an editor needs?",
+   "choices": [
+    "Content",
+    "Gifts",
+    "Ads"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to show an editor?",
+   "choices": [
+    "That you know their audience",
+    "Your price",
+    "Your age"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pull, do not push. Write what the editor needs.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-f7-2",
+ "title": "A steady mood is influence",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Would people know what mood you will bring?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your mood",
+   "lines": [
+    {
+     "text": "Jose asked: what matters most to you at this moment in time? He said that it is the power of being intentional.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that you cannot be influential if you are going up and down in your moods, and that students in college who have this under control will have people coming to them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "An amazing day for them",
+   "lines": [
+    {
+     "text": "Jose said that people will have ups and downs at the beginning, this is a bad day or an amazing day, and asked: how do you get someone for whom every day is amazing when they see you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that people can sense positive energy through the phone, the excitement in your tone, even without seeing your body language.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose asked about a small gesture that makes someone feel good first thing in the morning, such as at breakfast time, and said that is how you lift people up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what matters most to you right now.",
+   "Write your mood range this week.",
+   "Write what steadies you.",
+   "Write the small gesture you will bring.",
+   "Write how you sound on the phone."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you cannot be with swinging moods?",
+   "choices": [
+    "Influential",
+    "Honest",
+    "Busy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you can sense through the phone?",
+   "choices": [
+    "Positive energy",
+    "Nothing",
+    "Only words"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask?",
+   "choices": [
+    "What matters most to you now",
+    "What time it is",
+    "Who is late"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Be steady. Bring a small gesture. Let your tone carry it.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

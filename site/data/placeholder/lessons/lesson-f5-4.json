@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-f5-4",
+ "title": "Spot the mismatch",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do their words and their actions agree?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Intentions and behavior",
+   "lines": [
+    {
+     "text": "A student said: I figure out someone's intentions and see if their behaviors line up; that is where I psychologically begin.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that when they are very vague in telling a story, cannot give details that add up and stutter, you can read them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Incongruence",
+   "lines": [
+    {
+     "text": "Jose said: you want to detect incongruence. People with a limiting belief and negative language inside do not necessarily expose it; they come with a game face.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when you know what matters to the person, such as that they love children's education, you have a massive advantage in connecting, together with the conversation in person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write someone whose words and actions disagree.",
+   "Write the evidence.",
+   "Write what else could explain it.",
+   "Write the question you would ask.",
+   "Write what you know about their values."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to check?",
+   "choices": [
+    "Whether intentions and behaviors line up",
+    "The price",
+    "The dress"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say people come with?",
+   "choices": [
+    "A game face",
+    "A map",
+    "A gift"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say gives an advantage?",
+   "choices": [
+    "Knowing what matters to them",
+    "Speaking fast",
+    "Arriving late"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look for incongruence, then ask. Know what matters to them.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

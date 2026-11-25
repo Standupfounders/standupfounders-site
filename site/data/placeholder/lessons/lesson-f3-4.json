@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-f3-4",
+ "title": "From opinion to conviction, and meaning in the day",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does your day mean to you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Environment and belief",
+   "lines": [
+    {
+     "text": "A student said that when your environment is aligned with your goals you are congruent; if you say you want to be successful but are surrounded by people who are not, you are incongruent.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that what you say to others, such as we are kicking ass and we will make the calls, affects your beliefs sooner or later. An opinion matures into a belief and then a conviction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Meaning",
+   "lines": [
+    {
+     "text": "Jose asked: can you grab something you do day to day and attach meaning to it: this means something to me, I enjoy what I am learning, I enjoy the process?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that in a hard moment he made seventy-five calls in a parking lot to find a solution, because he was determined to get out of it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: this morning I was thinking about what motivates me, and it comes back to your goal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your environment and whether it matches your goal.",
+   "Write what you say aloud about your work.",
+   "Write whether it is an opinion, a belief or a conviction.",
+   "Write the meaning you attach to your day.",
+   "Write what motivates you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about environment and goals?",
+   "choices": [
+    "They should be aligned",
+    "They should differ",
+    "They do not matter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say an opinion becomes?",
+   "choices": [
+    "A belief, then a conviction",
+    "A fact",
+    "A rumor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask you to attach to your day?",
+   "choices": [
+    "Meaning",
+    "Money",
+    "Speed"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Match your environment to your goal. Attach meaning to your day.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

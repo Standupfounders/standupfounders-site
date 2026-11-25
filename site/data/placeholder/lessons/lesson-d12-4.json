@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "id": "lesson-d12-4",
+ "title": "Form and content",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which devices make your words land?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Form",
+   "lines": [
+    {
+     "text": "Jose said that there is form and there is content. Form can be the arrangement of words, the proportion, the rhythm of the language and the aesthetic impact, and the beauty of words definitely has an impact on rhetoric, persuasive language.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Devices a student noticed",
+   "lines": [
+    {
+     "text": "A student described devices in a speech they had heard: hypnotic language, alliteration, sets of three, repetition that sets the pace, personification. He said it is entrancing and uses more left-brain than right-brain material.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that the speaker is pacing: getting you to agree with beautiful language, and will lead near the end with the call to action. He pointed out inclusive words like our and we.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Repetition and theme",
+   "lines": [
+    {
+     "text": "Jose said that repeating the theme word makes it stick, and that repetition can electrify an audience. He said that it does not matter so much what is said as how it is repeated, which is a claim of his own and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the theme word of your next talk.",
+   "Write where you will repeat it.",
+   "Write a set of three.",
+   "Write an inclusive we sentence.",
+   "Write the call to action at the end."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say form includes?",
+   "choices": [
+    "Rhythm and arrangement of words",
+    "Only the facts",
+    "Only the slides"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the pacing speaker does near the end?",
+   "choices": [
+    "Leads with a call to action",
+    "Stops",
+    "Apologizes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student notice?",
+   "choices": [
+    "Alliteration and sets of three",
+    "Only numbers",
+    "Only questions"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose a theme word, repeat it, and use rhythm and threes.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

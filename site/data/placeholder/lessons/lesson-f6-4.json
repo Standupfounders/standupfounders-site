@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f6-4",
+ "title": "Trust and emotional safety",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What makes people feel safe with you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A trust pattern",
+   "lines": [
+    {
+     "text": "Jose said that trust is a big part of leadership, and that as a leader you want to create a trust pattern. He said that safety is saying: I will make sure that you are very successful no matter what.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your own safety",
+   "lines": [
+    {
+     "text": "Jose said that his emotional safety is always intact, whatever the circumstances, even in a hostile environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that in their company they set a goal and made it the success or failure line, even though they made it up in their heads.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Not winning or losing",
+   "lines": [
+    {
+     "text": "Jose said that the trick is creating patterns where you are not stuck in winning or losing, so that you break the pattern of we failed.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that after every meeting people say what a fun and pleasant person that was, and he has a pattern of creating and controlling his communication that is always consistent. This is his own account.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what makes you trustworthy.",
+   "Write the sentence that says people are safe with you.",
+   "Write the line you drew for success and failure.",
+   "Write how you break a win or lose pattern.",
+   "Write what stays intact in you under pressure."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say is a big part of leadership?",
+   "choices": [
+    "Trust",
+    "Speed",
+    "Price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he is not stuck in?",
+   "choices": [
+    "Winning or losing",
+    "Planning",
+    "Reading"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about a success line?",
+   "choices": [
+    "They made it up in their heads",
+    "It was set by a bank",
+    "It never moved"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Create trust. Keep your own safety. Break win-or-lose.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f6-3",
+ "title": "Design the room",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does the room say before you speak?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The environment",
+   "lines": [
+    {
+     "text": "Jose said he wants to control a little the environment, not only what he says and the dialogue, but whether it is a loud or a quiet place, whether you can hear traffic, whether the music is loud.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student described a tense environment: everyone is on edge, there is a lot at stake and everybody feels it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Create calm",
+   "lines": [
+    {
+     "text": "Jose said that you can create an environment that starts with soft music barely heard in the background, and maybe fresh flowers, and that you should be aware of anything that creates friction before you say anything.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another said that in virtual meetings you cannot let others sense the scent or the music, so it is more about the energy.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Ask and keep",
+   "lines": [
+    {
+     "text": "Jose said to ask someone: what is something you like about me that you would like me to keep doing? He said it is a powerful question, not shallow praise.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the places where you meet people.",
+   "Write what is loud, bright or tense there.",
+   "Write what you would add: sound, scent, light.",
+   "Write what causes friction.",
+   "Write the question you will ask."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say he controls a little?",
+   "choices": [
+    "The environment as well as the words",
+    "The weather",
+    "Other people"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to look for before you speak?",
+   "choices": [
+    "Anything that creates friction",
+    "Gifts",
+    "Prices"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What question did Jose suggest?",
+   "choices": [
+    "What do you like me to keep doing",
+    "What do you earn",
+    "What is your age"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Design the room. Remove friction. Ask what to keep.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

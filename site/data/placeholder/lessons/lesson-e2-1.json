@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-e2-1",
+ "title": "Label the feeling",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the other person feeling right now, in one phrase?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Emotions are means",
+   "lines": [
+    {
+     "text": "Jose said that chapter 3 is about not denying or ignoring emotions: good negotiators identify and influence them. They are not obstacles, they are means.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that labeling is stating what they are feeling. Jose said: it is spotting their feelings, turning them into words, and calmly repeating them back, validating by acknowledging.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "How to say it",
+   "lines": [
+    {
+     "text": "Jose said you can say: it seems like you are a little frustrated; it sounds like you are having a bad day; it looks like you are upset with the situation. He said to keep a back door, because they may say do not tell me what I feel.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He gave a positive label: it seems like people put you in front of this deal because you are the only one able to get it done, and I am happy it is you I am working with.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He added that after a label you can stay silent, and that we are all tempted to fill silence by talking.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Be subtle and real",
+   "lines": [
+    {
+     "text": "A student said that it is all about being subtle: if you are too straightforward and it is not how they feel, they will feel you are putting words in their mouth.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: you cannot fake it. The whole thing is being authentic and really paying attention.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last emotion you saw in someone.",
+   "Write the label: it seems like.",
+   "Write the back-door words.",
+   "Write a positive label for your next meeting.",
+   "Write how long you will stay silent."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say good negotiators do with emotions?",
+   "choices": [
+    "Identify and influence them",
+    "Ignore them",
+    "Argue with them"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to keep after a label?",
+   "choices": [
+    "A back door",
+    "A loud voice",
+    "A deadline"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about being too straightforward?",
+   "choices": [
+    "They feel you put words in their mouth",
+    "It always works",
+    "It saves time"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Label the feeling softly. Leave a back door. Stay silent.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

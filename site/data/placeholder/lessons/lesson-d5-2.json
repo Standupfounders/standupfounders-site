@@ -1,0 +1,136 @@
+{
+ "schema": 1,
+ "id": "lesson-d5-2",
+ "title": "How authority is built",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would make a stranger call you an authority?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A name that stands out",
+   "lines": [
+    {
+     "text": "A student said: make your brand stand out; if there are a hundred people with your name, use a middle name or initial, and stay consistent with whatever you decide.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose agreed: add a middle initial or something that separates you so you do not get lost in searches.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Get published",
+   "lines": [
+    {
+     "text": "Jose said that you have to start writing in publications and putting out press releases, and that his team started doing interviews and co-branding with a trade magazine.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Tone and models",
+   "lines": [
+    {
+     "text": "Jose said that your demeanor matters when they meet you after reading about you: your tone, purpose and style. Are you an aggressive businessperson or an empathetic servant leader?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said to make a list of the people who influence you, because describing them reveals your own style.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Do the work",
+   "lines": [
+    {
+     "text": "Jose said he wants everyone to draw up a personal strategy, because if you do not do the work, we will only have talked about it. He said that he holds the group accountable as a teacher.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the version of your name you will use everywhere.",
+   "Write one publication you could write for.",
+   "Write your tone in three words.",
+   "Write your list of five people who influence you.",
+   "Write your personal strategy in five lines."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to do with a crowded name?",
+   "choices": [
+    "Use a middle name or initial",
+    "Change it often",
+    "Hide it"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to start doing?",
+   "choices": [
+    "Writing in publications and press releases",
+    "Waiting",
+    "Buying ads"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say he does as a teacher?",
+   "choices": [
+    "Holds you accountable",
+    "Gives no exercises",
+    "Grades you"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Stand out, get published, know your tone, do the work.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

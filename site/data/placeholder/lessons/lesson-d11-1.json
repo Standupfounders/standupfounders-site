@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d11-1",
+ "title": "Abstract thinkers and concrete thinkers",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you the one with the ideas or the one with the steps?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Two kinds of mind",
+   "lines": [
+    {
+     "text": "Jose said that there are two inclinations in business: creative, abstract, random thinkers, and the opposite, concrete, sequential ones.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that a speaker used real, grounded words and not just big, abstract ideas.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Accountability language",
+   "lines": [
+    {
+     "text": "Jose said that accountability language, whether from politicians or business leaders, comes down to the facts, concrete sequential information and deadlines.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that if a salesperson has an outreach problem, you start with an audit of the data and give concrete answers: make fifteen more calls a day, or use these two lines in your script, then re-evaluate.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Strategy becomes operations",
+   "lines": [
+    {
+     "text": "Jose said that you just described a strategy becoming operational, and that many businesses have people who are strategic with great ideas but cannot make it operational.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another said that abstract thinkers tend to accomplish more than seems possible, and that a team and a board of different thinkers is needed. There will be productive friction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write whether you are abstract or concrete.",
+   "Write who on your team is the other.",
+   "Write one idea as five concrete steps.",
+   "Write the data you will audit.",
+   "Write the deadline."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call the two inclinations?",
+   "choices": [
+    "Abstract and concrete",
+    "Fast and slow",
+    "Loud and quiet"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say you give for an outreach problem?",
+   "choices": [
+    "Concrete answers",
+    "More ideas",
+    "A break"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a board of different thinkers brings?",
+   "choices": [
+    "Productive friction",
+    "Delay",
+    "Silence"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Pair the abstract with the concrete. Make strategy operational.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

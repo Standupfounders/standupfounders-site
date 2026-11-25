@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d8-2",
+ "title": "Keywords and what people click",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What words do your customers type?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A keyword study",
+   "lines": [
+    {
+     "text": "Jose showed a study he made for a national tourism website: the main word appeared on about 178 million pages, so reaching first place for it would be hard. He then looked at the specific searches people make.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that you can use tools to type a keyword or a competitor's site and see the overlap and the words that rank, and named two tools.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "User experience",
+   "lines": [
+    {
+     "text": "Jose said that on the site they created a menu where people say I want to go fishing, I want to go golfing, and then they are shown pre-made itineraries. He said it is old, from about fifteen years ago.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that is what she focuses on in web design: the user experience, down to what colour the buttons are and whether a button is exciting to click.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Both ends of the process",
+   "lines": [
+    {
+     "text": "Jose said that there is a front end that gets a lead and a back end, once you get a lead: who picks up the phone and receives the booking. He said that the more data you have, the more you know what the visitor wanted, as when you walk into a house and see which chair they sat on.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that search engine optimization is a full-time job, and that you can use the tools for your own personal brand too.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write ten words your customers type.",
+   "Write the one you could rank for.",
+   "Write what a visitor sees first.",
+   "Write who picks up the phone.",
+   "Write what you will track."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say a tool shows?",
+   "choices": [
+    "The overlap and the words that rank",
+    "Your bank balance",
+    "Your competitors' prices"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say search engine optimization is?",
+   "choices": [
+    "A full-time job",
+    "A quick fix",
+    "A free gift"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say user experience includes?",
+   "choices": [
+    "What colour the buttons are",
+    "Only the price",
+    "Only the logo"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Know the words, the page and the back end.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "id": "lesson-e8-3",
+ "title": "Known knowns and unknowns",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you know, what do you know you do not know, and what have you not thought of?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The kinds of information",
+   "lines": [
+    {
+     "text": "Jose said that the book says in every negotiating session there are different kinds of information: those things we know, like our counterpart's name, their offer and our experience, which are known knowns. Then there is the unknown.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Write what you know, what you know you do not know, and what you have not even thought of.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A moment",
+   "lines": [
+    {
+     "text": "Jose asked a student to take him to the moment that she switched majors, to visualize where she was. She described being late to her first painting class and the professor's remark that she needs to be on time.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A new client",
+   "lines": [
+    {
+     "text": "Jose said that when we go to meet a new client, the first thing we do is research on the client.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your known knowns in the next negotiation.",
+   "Write the known unknowns.",
+   "Write how you will research.",
+   "Write the moment that changed your direction.",
+   "Write what you could not have predicted."
+  ]
+ },
+ "check": [
+  {
+   "q": "What are known knowns?",
+   "choices": [
+    "Things we know, like their name and offer",
+    "Things we guess",
+    "Things we fear"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the first step with a new client is?",
+   "choices": [
+    "Research",
+    "A discount",
+    "A contract"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did he ask a student to do?",
+   "choices": [
+    "Take him to the moment she switched majors",
+    "Draw a graph",
+    "Make a call"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "List what you know, what you do not, and research before you meet.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-d12-1",
+ "title": "Choosing a publicist",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How would you know a publicist is worth the fee?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The tiers",
+   "lines": [
+    {
+     "text": "A student said that there are tiers: a freelancer or a team of two or three, a middle tier and an upper tier. It is good to know their connections and what they can deliver.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "She said that the return is not as explicit as an ad with clicks, so you need other metrics to hold them accountable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "On the hook for results",
+   "lines": [
+    {
+     "text": "Jose said that if a publicist is abstract and noncommittal about results, you are in danger of losing your money. You want them specific about your audience and how they will get results.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that the publications matter, what the results are after one article, and what they have done before. Other people's results are important, so ask for testimonials.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A good sign",
+   "lines": [
+    {
+     "text": "Jose said that a good publicist takes a big interest in your background, goals and messaging, and if they are not interested in learning who you are, that is a warning sign.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what a publicist would have to deliver.",
+   "Write how you would measure it.",
+   "Write the questions you would ask for references.",
+   "Write the sign that would make you walk away.",
+   "Write your own pitch first."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about a publicist who is abstract on results?",
+   "choices": [
+    "You are in danger of losing your money",
+    "They are the best",
+    "They are cheap"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to ask for?",
+   "choices": [
+    "Testimonials and past results",
+    "A discount",
+    "A logo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say is a good sign?",
+   "choices": [
+    "Interest in your background and goals",
+    "A long contract",
+    "A fancy office"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Hold a publicist to specific results. Ask for proof.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

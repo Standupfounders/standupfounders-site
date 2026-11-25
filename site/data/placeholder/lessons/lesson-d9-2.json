@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d9-2",
+ "title": "Stickiness and the number that opens eyes",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How long do people stay once they find you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One number",
+   "lines": [
+    {
+     "text": "Jose said: the single number of how long people stay on your site will be eye-opening. What are you going to say if people spend ten seconds?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that they had analytics on their hiring page, saw where visitors went next, and did not act on the data.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that clients average about thirty seconds before the site is redone, and after content is added they spend two, five, even ten minutes.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Stickiness",
+   "lines": [
+    {
+     "text": "Jose said that at a party you can have someone who will not let you go, and that in websites it is called stickiness. If people meet you and think you are the most uninteresting person, it is devastating.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that when you have that connection with your audience it grows.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your site's average time on page if you know it.",
+   "Write the page people leave first.",
+   "Write what would make a visitor stay.",
+   "Write the data you collect and what you do with it.",
+   "Write your target time."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say will be eye-opening?",
+   "choices": [
+    "How long people stay",
+    "How many pages exist",
+    "How big the server is"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is it called when people stay?",
+   "choices": [
+    "Stickiness",
+    "Slipperiness",
+    "Silence"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student do with the data?",
+   "choices": [
+    "Did not act on it",
+    "Acted on it all",
+    "Deleted it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Measure how long people stay. Make the page worth staying on.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

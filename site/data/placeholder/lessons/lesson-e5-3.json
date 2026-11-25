@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e5-3",
+ "title": "Chess-match thinking and decision trees",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How many moves ahead have you prepared?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The chess match",
+   "lines": [
+    {
+     "text": "Jose said that they referred to it yesterday as chess-match thinking, and that before the decision trees he wanted to talk a little about the chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that in the book's example the negotiator was aware of the situation he was in, which helped him later, and that they put his wife on the phone because they knew of a strong connection.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A real advantage",
+   "lines": [
+    {
+     "text": "Jose put it into an example: we have a negotiation, you and I, and we have a very big advantage, which is preparation and the tools.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that people only think about their current move, so just taking a little time to prepare knocks out ninety percent of the field. That is his estimate and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the next three moves in your negotiation.",
+   "Write what the other side might do in reply.",
+   "Write the advantage you have.",
+   "Write the preparation you will do.",
+   "Write what you will not rush."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose call this way of thinking?",
+   "choices": [
+    "Chess-match thinking",
+    "Quick thinking",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say preparing does?",
+   "choices": [
+    "Knocks out most of the field",
+    "Wastes time",
+    "Annoys people"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did the book's negotiator have?",
+   "choices": [
+    "Awareness of the situation",
+    "A lawyer",
+    "A deadline"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Think in moves. Prepare more than the other side.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

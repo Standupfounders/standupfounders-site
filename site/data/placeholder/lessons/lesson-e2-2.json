@@ -1,0 +1,132 @@
+{
+ "schema": 1,
+ "id": "lesson-e2-2",
+ "title": "Practise it small, say we, give credit",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where can you try this where nothing is at stake?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "We, not you or I",
+   "lines": [
+    {
+     "text": "Jose said: always use we, never you or I. We can make this happen. You only use you when you are not even using you; you just say it seems like.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked about it when someone says we and it is really my problem. Jose said: authenticity, but be careful, because you want a team situation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "He said to always give other people the credit: every time we do something with you, success is inevitable.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Practise on low stakes",
+   "lines": [
+    {
+     "text": "A student said that if you go straight into a business situation using these phrases, it can feel extremely fake, so practise slowly and subtly on friends.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that the first time he tried it at a gym, he saw the look on a man's face at how inauthentic it sounded, and it improved a lot since.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: you have to really care, because people pick it up if you do not.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another suggested picking one person and one statement and saying it genuinely, then layering another once it becomes second nature.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one person you will practise on.",
+   "Write the one phrase.",
+   "Write who you will credit.",
+   "Write how you will check it sounds true.",
+   "Write the next phrase you will layer."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to always use?",
+   "choices": [
+    "We",
+    "I",
+    "You"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about practising?",
+   "choices": [
+    "Start with low stakes",
+    "Start with the biggest deal",
+    "Never practise"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say people pick up on?",
+   "choices": [
+    "Whether you really care",
+    "Your accent",
+    "Your title"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Say we. Give credit. Practise on low stakes, one phrase at a time.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

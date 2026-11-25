@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-d13-3",
+ "title": "Contrast and tension in a speech",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Which two opposites does your talk hold in tension?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Sound and symmetry",
+   "lines": [
+    {
+     "text": "Jose said that last time he talked about alliteration, and that this time he would talk about symmetry in a speech, such as a tongue twister, where the sounds balance.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he would introduce concepts used in speeches, and asked whether that would be useful.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Dialectical tension",
+   "lines": [
+    {
+     "text": "Jose said that dialectical tension and contrast are two concepts that are very good in politics: the yin and yang, black and white, two opposing views like a tug of war.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked what your stance should be when speaking to the masses in the middle of that tug of war, and a student answered that you identify your audience and the goal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write two opposites in your message.",
+   "Write the sentence that holds both.",
+   "Write a line with matched sounds.",
+   "Write who is on each side of the rope.",
+   "Write where you stand and why."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say last time's device was?",
+   "choices": [
+    "Alliteration",
+    "Rhyme only",
+    "Silence"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is dialectical tension, as Jose described it?",
+   "choices": [
+    "Two opposing views like a tug of war",
+    "One loud view",
+    "No view"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to identify?",
+   "choices": [
+    "The audience and the goal",
+    "The weather",
+    "The room"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Use contrast and tension, with an audience and a goal.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

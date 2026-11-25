@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "id": "lesson-d5-4",
+ "title": "Authority by association",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Whose trust could you borrow honestly?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Co-branding",
+   "lines": [
+    {
+     "text": "A student said: aligning yourself with brands that your target audience already trusts is a much faster way to build trust with those people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said: yes, co-branding. He said that cause branding is just as powerful, and gave the example of a singer whose cause brought him to world leaders.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Platforms",
+   "lines": [
+    {
+     "text": "Jose said: going to speaking engagements, and a podcast helps the host and the guests, who can send it to different people.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the opening of the chapter, about industry stereotypes in photos and bios for a realtor, a financial advisor or a doctor, was interesting to dissect in your own community.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A forecast builds authority",
+   "lines": [
+    {
+     "text": "Jose praised a post in which a company's partner explained how storm water travels to the coast, tagged the storm, and predicted what would happen, so that when it did, people thought he knew what he was talking about.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He asked each person for a statement about the future of their field, and gave his own: digital strategy literacy will be like reading and writing was fifty years ago. It is his prediction and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "If they are not excited to meet you",
+   "lines": [
+    {
+     "text": "Jose said: if they are not excited to meet you, you did not do your pre-engagement job.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the trusted brands your audience already knows.",
+   "Write a way to be seen next to them honestly.",
+   "Write a podcast or talk you could join.",
+   "Write your statement about the future of your field.",
+   "Write why you believe it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say aligning with trusted brands does?",
+   "choices": [
+    "Builds trust faster",
+    "Slows trust",
+    "Lowers price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say if they are not excited to meet you?",
+   "choices": [
+    "You did not do your pre-engagement job",
+    "They are rude",
+    "The price is wrong"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose ask each person for?",
+   "choices": [
+    "A statement about the future of their field",
+    "A resume",
+    "A loan"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Borrow trust honestly. Make a forecast. Do the pre-engagement job.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

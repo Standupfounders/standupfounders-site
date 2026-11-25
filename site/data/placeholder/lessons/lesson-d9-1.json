@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-d9-1",
+ "title": "Rented media and owned media",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who owns the place where your audience finds you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The three kinds",
+   "lines": [
+    {
+     "text": "Jose said that chapter 9 is short. The three kinds of content are you-driven, which is your personal journey, perspective and intellectual property; news-driven, which uses the news and current events; and relationship-driven.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that the chapter sets up the different kinds of media, rented, owned and earned.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Rented media",
+   "lines": [
+    {
+     "text": "A student said: the algorithms were made to give you success at first, but then they pull the rug out from under you and force you to pay to keep your audience.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose gave the example of someone he knew who built a large video-channel business on a platform and lost it when the platform changed. He said you have to make people very aware of you on a platform you own.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Own it",
+   "lines": [
+    {
+     "text": "Jose said that a local directory owner has her own platform and does not depend on anybody. He said that if you own the content and the channel, you control it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the platforms where your audience finds you.",
+   "Write which you own and which you rent.",
+   "Write the one you could own.",
+   "Write what you would lose if the rented one changed.",
+   "Write the first step to own it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say algorithms do?",
+   "choices": [
+    "Give success at first, then pull the rug",
+    "Always help",
+    "Never change"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is rented media?",
+   "choices": [
+    "A platform you do not own",
+    "Your website",
+    "Your office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about owning your platform?",
+   "choices": [
+    "You control it",
+    "You pay more",
+    "You lose it"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build on a platform you own.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

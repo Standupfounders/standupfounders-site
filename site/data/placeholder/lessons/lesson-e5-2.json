@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "id": "lesson-e5-2",
+ "title": "The assumptions behind the numbers",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are you assuming before you show a plan?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Structure for the classes",
+   "lines": [
+    {
+     "text": "Jose said that a student was organizing the classes into lesson plans and themes, which he is not good at, because he goes off the cuff. Without structure, another teacher who came in would not know what is going on.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A plan needs a road",
+   "lines": [
+    {
+     "text": "Jose said that you can have a business plan and financial numbers and engineers, but who cares about the numbers if your assumptions behind them are wrong?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a big dream with no bridges, no roads and no infrastructure connecting it is only a destination with no process to get there.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Prejudice",
+   "lines": [
+    {
+     "text": "Jose gave an example of prejudice: this boss is terrible, I will get him. He said that is prejudice, a judgment before you have listened.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the plan you are about to show.",
+   "Write three assumptions in it.",
+   "Write how you will test each.",
+   "Write the road from the dream to today.",
+   "Write the prejudice you carry about a person."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about assumptions?",
+   "choices": [
+    "If they are wrong the numbers do not matter",
+    "Numbers always win",
+    "Assumptions are not needed"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did he say a dream without roads is?",
+   "choices": [
+    "A destination with no process",
+    "A plan",
+    "A product"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did he call a judgment before listening?",
+   "choices": [
+    "Prejudice",
+    "Insight",
+    "Strategy"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Test the assumptions. Build the road to the dream.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

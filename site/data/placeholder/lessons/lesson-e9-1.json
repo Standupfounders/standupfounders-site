@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-e9-1",
+ "title": "Create ground where black swans can live",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What can you do to uncover an unlikely chance, not wait for it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ways to create them",
+   "lines": [
+    {
+     "text": "A student said that asking open-ended questions is one way to create them, and then listening more consciously.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said: not assuming something you do not know, asking questions and using the tactics from the book, paying attention to listening.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Fertile ground",
+   "lines": [
+    {
+     "text": "Jose said that you create the fertile ground: if you create the ground where black swans can live and eat and drink and swim, then you see them everywhere.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that naturally you attract like-minded people, people on life-long missions with you, with your dreams and motivations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Do not wait",
+   "lines": [
+    {
+     "text": "A student said that black swans are not something you need to wait for; you can take actions to uncover them yourself.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that now you can drive down the street and say there is a black swan: we meet people who become little moments in our life that open bigger parts of it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write three open-ended questions.",
+   "Write what you will not assume.",
+   "Write the ground you could prepare.",
+   "Write the people you attract.",
+   "Write one action to uncover a chance this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say creates black swans?",
+   "choices": [
+    "Open-ended questions and listening",
+    "Waiting",
+    "Luck"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you create?",
+   "choices": [
+    "Fertile ground",
+    "A contract",
+    "A budget"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about waiting?",
+   "choices": [
+    "You do not need to wait",
+    "Always wait",
+    "Never act"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Prepare the ground. Ask open questions. Do not wait.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

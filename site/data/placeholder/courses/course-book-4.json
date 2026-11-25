@@ -372,6 +372,888 @@
      ]
     }
    ]
+  },
+  {
+   "id": "m-d5",
+   "title": "Before and after you meet: authority, bio and association",
+   "minutes": 56,
+   "week_from": 5,
+   "week_to": 5,
+   "items": [
+    {
+     "id": "i-d5-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do your online image and your meetings match?",
+       "item": "i-d5-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a plan to build authority?",
+       "item": "i-d5-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Does your bio filter the right clients?",
+       "item": "i-d5-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d5-1",
+     "kind": "section",
+     "title": "Before and after you meet",
+     "minutes": 9,
+     "idea": "Make the image before and after match.",
+     "lesson": "lesson-d5-1"
+    },
+    {
+     "id": "i-d5-2",
+     "kind": "section",
+     "title": "How authority is built",
+     "minutes": 9,
+     "idea": "Stand out, get published, do the work.",
+     "lesson": "lesson-d5-2"
+    },
+    {
+     "id": "i-d5-3",
+     "kind": "section",
+     "title": "Your bio and your filter",
+     "minutes": 9,
+     "idea": "Write it in the third person; filter with one sentence.",
+     "lesson": "lesson-d5-3"
+    },
+    {
+     "id": "i-d5-4",
+     "kind": "section",
+     "title": "Authority by association",
+     "minutes": 9,
+     "idea": "Borrow trust honestly; make a forecast.",
+     "lesson": "lesson-d5-4"
+    },
+    {
+     "id": "i-d5-w",
+     "kind": "workshop",
+     "title": "Workshop: My two images, my bio, my forecast",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "What a stranger finds and what they feel when we meet.",
+      "My bio and my filter sentence.",
+      "My statement about the future of my field."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d6",
+   "title": "Referrals, earned media and being found",
+   "minutes": 56,
+   "week_from": 6,
+   "week_to": 6,
+   "items": [
+    {
+     "id": "i-d6-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you give people a reason to refer you?",
+       "item": "i-d6-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a plan for earned media?",
+       "item": "i-d6-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do people find you without your name?",
+       "item": "i-d6-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d6-1",
+     "kind": "section",
+     "title": "Give them a reason to refer you",
+     "minutes": 9,
+     "idea": "Make an experience worth referring.",
+     "lesson": "lesson-d6-1"
+    },
+    {
+     "id": "i-d6-2",
+     "kind": "section",
+     "title": "Earned media",
+     "minutes": 9,
+     "idea": "Think like a journalist; offer a story.",
+     "lesson": "lesson-d6-2"
+    },
+    {
+     "id": "i-d6-3",
+     "kind": "section",
+     "title": "Your real estate on the search page",
+     "minutes": 9,
+     "idea": "Be found by people who do not know you.",
+     "lesson": "lesson-d6-3"
+    },
+    {
+     "id": "i-d6-4",
+     "kind": "section",
+     "title": "Thank people and carry yourself",
+     "minutes": 9,
+     "idea": "Thank people; build the relationship.",
+     "lesson": "lesson-d6-4"
+    },
+    {
+     "id": "i-d6-w",
+     "kind": "workshop",
+     "title": "Workshop: My referral moment, my story, my search",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The moment I make a celebration.",
+      "The story I offer a journalist.",
+      "The search I want to appear in."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d7",
+   "title": "Urgency, anchors and content",
+   "minutes": 56,
+   "week_from": 7,
+   "week_to": 7,
+   "items": [
+    {
+     "id": "i-d7-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you work with urgency?",
+       "item": "i-d7-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you choose the anchor you leave?",
+       "item": "i-d7-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you talk about more than yourself?",
+       "item": "i-d7-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d7-1",
+     "kind": "section",
+     "title": "Urgency in minutes",
+     "minutes": 9,
+     "idea": "Turn the goal into this hour.",
+     "lesson": "lesson-d7-1"
+    },
+    {
+     "id": "i-d7-2",
+     "kind": "section",
+     "title": "The anchor you leave behind",
+     "minutes": 9,
+     "idea": "Leave a chosen anchor; share credit.",
+     "lesson": "lesson-d7-2"
+    },
+    {
+     "id": "i-d7-3",
+     "kind": "section",
+     "title": "Three kinds of content",
+     "minutes": 9,
+     "idea": "Mix you, news and relationships.",
+     "lesson": "lesson-d7-3"
+    },
+    {
+     "id": "i-d7-4",
+     "kind": "section",
+     "title": "Start with one person",
+     "minutes": 9,
+     "idea": "Ask broad then specific questions.",
+     "lesson": "lesson-d7-4"
+    },
+    {
+     "id": "i-d7-w",
+     "kind": "workshop",
+     "title": "Workshop: My number, my anchor, my question",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My number and the step for today.",
+      "My anchor and my tagline.",
+      "My first question for a stranger."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d8",
+   "title": "News, keywords and relationships",
+   "minutes": 56,
+   "week_from": 8,
+   "week_to": 8,
+   "items": [
+    {
+     "id": "i-d8-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you ride the news for your audience?",
+       "item": "i-d8-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the words your customers type?",
+       "item": "i-d8-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you schedule your relationships?",
+       "item": "i-d8-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d8-1",
+     "kind": "section",
+     "title": "Ride the news",
+     "minutes": 9,
+     "idea": "Use the moment's attention.",
+     "lesson": "lesson-d8-1"
+    },
+    {
+     "id": "i-d8-2",
+     "kind": "section",
+     "title": "Keywords and what people click",
+     "minutes": 9,
+     "idea": "Know the words and the page.",
+     "lesson": "lesson-d8-2"
+    },
+    {
+     "id": "i-d8-3",
+     "kind": "section",
+     "title": "The basis of success: relationships",
+     "minutes": 9,
+     "idea": "Relationships are the root.",
+     "lesson": "lesson-d8-3"
+    },
+    {
+     "id": "i-d8-4",
+     "kind": "section",
+     "title": "When you give too much",
+     "minutes": 9,
+     "idea": "Know your limit; profile your people.",
+     "lesson": "lesson-d8-4"
+    },
+    {
+     "id": "i-d8-w",
+     "kind": "workshop",
+     "title": "Workshop: My news post, my words, my limit",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The next post that rides the news.",
+      "Ten words my customers type.",
+      "The limit I will set and who I keep."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d9",
+   "title": "Rented media, stickiness and your own platform",
+   "minutes": 56,
+   "week_from": 9,
+   "week_to": 9,
+   "items": [
+    {
+     "id": "i-d9-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you own the place your audience finds you?",
+       "item": "i-d9-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know how long people stay on your site?",
+       "item": "i-d9-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you notice tiny commitments?",
+       "item": "i-d9-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d9-1",
+     "kind": "section",
+     "title": "Rented media and owned media",
+     "minutes": 9,
+     "idea": "Build on a platform you own.",
+     "lesson": "lesson-d9-1"
+    },
+    {
+     "id": "i-d9-2",
+     "kind": "section",
+     "title": "Stickiness and the number that opens eyes",
+     "minutes": 9,
+     "idea": "Measure how long people stay.",
+     "lesson": "lesson-d9-2"
+    },
+    {
+     "id": "i-d9-3",
+     "kind": "section",
+     "title": "Scale and tiny commitments",
+     "minutes": 9,
+     "idea": "Know your scaling limit; notice tiny yeses.",
+     "lesson": "lesson-d9-3"
+    },
+    {
+     "id": "i-d9-4",
+     "kind": "section",
+     "title": "A professional network and your own platform",
+     "minutes": 9,
+     "idea": "Own your platform; write with psychology.",
+     "lesson": "lesson-d9-4"
+    },
+    {
+     "id": "i-d9-w",
+     "kind": "workshop",
+     "title": "Workshop: My platform, my number, my tiny yes",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "What I own and what I rent.",
+      "My average time and the target.",
+      "The tiny yes I will watch for."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d10",
+   "title": "Slides, five statements and speech technique",
+   "minutes": 47,
+   "week_from": 10,
+   "week_to": 10,
+   "items": [
+    {
+     "id": "i-d10-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you show pictures, not tables?",
+       "item": "i-d10-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you say your talk in five statements?",
+       "item": "i-d10-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you pace before you lead?",
+       "item": "i-d10-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d10-1",
+     "kind": "section",
+     "title": "Show it, do not hand it out",
+     "minutes": 9,
+     "idea": "Show pictures; hand out later.",
+     "lesson": "lesson-d10-1"
+    },
+    {
+     "id": "i-d10-2",
+     "kind": "section",
+     "title": "Five statements and a promise",
+     "minutes": 9,
+     "idea": "Five statements; open with a promise.",
+     "lesson": "lesson-d10-2"
+    },
+    {
+     "id": "i-d10-3",
+     "kind": "section",
+     "title": "Pacing and leading in a speech",
+     "minutes": 9,
+     "idea": "Pace, then lead.",
+     "lesson": "lesson-d10-3"
+    },
+    {
+     "id": "i-d10-w",
+     "kind": "workshop",
+     "title": "Workshop: My picture, my five, my opening",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The picture for my next table.",
+      "My five statements and promise.",
+      "My opening scene."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d11",
+   "title": "Concrete numbers, push and pull, leverage",
+   "minutes": 56,
+   "week_from": 11,
+   "week_to": 11,
+   "items": [
+    {
+     "id": "i-d11-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you pair ideas with concrete steps?",
+       "item": "i-d11-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you read your own numbers?",
+       "item": "i-d11-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you pull coverage instead of pushing?",
+       "item": "i-d11-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d11-1",
+     "kind": "section",
+     "title": "Abstract thinkers and concrete thinkers",
+     "minutes": 9,
+     "idea": "Pair abstract with concrete.",
+     "lesson": "lesson-d11-1"
+    },
+    {
+     "id": "i-d11-2",
+     "kind": "section",
+     "title": "Read the profit and loss",
+     "minutes": 9,
+     "idea": "Read the numbers line by line.",
+     "lesson": "lesson-d11-2"
+    },
+    {
+     "id": "i-d11-3",
+     "kind": "section",
+     "title": "Push and pull",
+     "minutes": 9,
+     "idea": "Pull, do not push.",
+     "lesson": "lesson-d11-3"
+    },
+    {
+     "id": "i-d11-4",
+     "kind": "section",
+     "title": "Leverage, win-win and the drip",
+     "minutes": 9,
+     "idea": "Find leverage; make it win-win.",
+     "lesson": "lesson-d11-4"
+    },
+    {
+     "id": "i-d11-w",
+     "kind": "workshop",
+     "title": "Workshop: My steps, my numbers, my leverage",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One idea as five concrete steps.",
+      "My top line, bottom line and one change.",
+      "My leverage and my win-win."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d12",
+   "title": "Publicists, words and public speaking",
+   "minutes": 56,
+   "week_from": 12,
+   "week_to": 12,
+   "items": [
+    {
+     "id": "i-d12-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you ask a publicist for proof?",
+       "item": "i-d12-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you adapt your words to the reader?",
+       "item": "i-d12-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you read the room when you speak?",
+       "item": "i-d12-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d12-1",
+     "kind": "section",
+     "title": "Choosing a publicist",
+     "minutes": 9,
+     "idea": "Hold them to specific results.",
+     "lesson": "lesson-d12-1"
+    },
+    {
+     "id": "i-d12-2",
+     "kind": "section",
+     "title": "Fit your words to the outlet",
+     "minutes": 9,
+     "idea": "One core, written for each readership.",
+     "lesson": "lesson-d12-2"
+    },
+    {
+     "id": "i-d12-3",
+     "kind": "section",
+     "title": "Public speaking has depth",
+     "minutes": 9,
+     "idea": "Read the room; grab fast, go deep.",
+     "lesson": "lesson-d12-3"
+    },
+    {
+     "id": "i-d12-4",
+     "kind": "section",
+     "title": "Form and content",
+     "minutes": 9,
+     "idea": "Theme word, repetition and threes.",
+     "lesson": "lesson-d12-4"
+    },
+    {
+     "id": "i-d12-w",
+     "kind": "workshop",
+     "title": "Workshop: My proof, my versions, my theme word",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The proof I would ask a publicist for.",
+      "My core sentence in two versions.",
+      "My theme word and call to action."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d13",
+   "title": "Audience, publishing and talking about the problem",
+   "minutes": 56,
+   "week_from": 13,
+   "week_to": 13,
+   "items": [
+    {
+     "id": "i-d13-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you profile your audience?",
+       "item": "i-d13-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know where you will publish?",
+       "item": "i-d13-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Does your talk use contrast?",
+       "item": "i-d13-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d13-1",
+     "kind": "section",
+     "title": "Profile your audience",
+     "minutes": 9,
+     "idea": "Broad first, then detail.",
+     "lesson": "lesson-d13-1"
+    },
+    {
+     "id": "i-d13-2",
+     "kind": "section",
+     "title": "Where to publish",
+     "minutes": 9,
+     "idea": "Blogs, networks, wires and stages.",
+     "lesson": "lesson-d13-2"
+    },
+    {
+     "id": "i-d13-3",
+     "kind": "section",
+     "title": "Contrast and tension in a speech",
+     "minutes": 9,
+     "idea": "Hold two opposites in tension.",
+     "lesson": "lesson-d13-3"
+    },
+    {
+     "id": "i-d13-4",
+     "kind": "section",
+     "title": "Talk about the problem, not yourself",
+     "minutes": 9,
+     "idea": "Talk about the problem; use verbs.",
+     "lesson": "lesson-d13-4"
+    },
+    {
+     "id": "i-d13-w",
+     "kind": "workshop",
+     "title": "Workshop: My audience, my outlets, my problem",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My audience's profile.",
+      "Three outlets and the dates.",
+      "The problem I will talk about."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-d14",
+   "title": "Brand as an asset, proof and a steady leader",
+   "minutes": 56,
+   "week_from": 14,
+   "week_to": 14,
+   "items": [
+    {
+     "id": "i-d14-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you have an asset that earns without your hours?",
+       "item": "i-d14-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Have you proven your method outside your comfort zone?",
+       "item": "i-d14-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you give before you ask?",
+       "item": "i-d14-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-d14-1",
+     "kind": "section",
+     "title": "Your brand is like real estate",
+     "minutes": 9,
+     "idea": "Build assets that work without you.",
+     "lesson": "lesson-d14-1"
+    },
+    {
+     "id": "i-d14-2",
+     "kind": "section",
+     "title": "A pilot and a proof of concept",
+     "minutes": 9,
+     "idea": "Prove your method somewhere new.",
+     "lesson": "lesson-d14-2"
+    },
+    {
+     "id": "i-d14-3",
+     "kind": "section",
+     "title": "Exposure that is not a sale",
+     "minutes": 9,
+     "idea": "Educate first; sell later.",
+     "lesson": "lesson-d14-3"
+    },
+    {
+     "id": "i-d14-4",
+     "kind": "section",
+     "title": "Authority and a steady mood",
+     "minutes": 9,
+     "idea": "A steady leader earns a following.",
+     "lesson": "lesson-d14-4"
+    },
+    {
+     "id": "i-d14-w",
+     "kind": "workshop",
+     "title": "Workshop: My asset, my pilot, my mood",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "One asset I will build.",
+      "A pilot to prove my method.",
+      "How I will keep a steady mood for my team."
+     ]
+    }
+   ]
   }
  ],
  "slots": [],

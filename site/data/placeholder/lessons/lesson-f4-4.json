@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-f4-4",
+ "title": "Expectation, bias and the decision tree",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What are you expecting from them before they speak?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Bias",
+   "lines": [
+    {
+     "text": "Jose said that we naturally have biases and prejudices, and that expectations can be synonymous with bias. We say: that guy is a jerk, before we have listened.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that being present means moment-to-moment awareness of what is happening, without bias and prejudice, rather than getting caught in the story in your head.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A decision tree",
+   "lines": [
+    {
+     "text": "Jose said that he builds a decision tree before a meeting: what if he goes this way, what if he says that? He goes through four or five scenarios, like jiu-jitsu, where you can do eighteen moves in ten seconds, so you are not thrown off your game.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a live example of the group's own calls shows a theory working, and that he wants the students to feel live examples and not stay in the theory.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Meaning after a miss",
+   "lines": [
+    {
+     "text": "Jose said that when someone does not meet your expectation and you have labeled it, you then go and search for the meaning, and they will know.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that our brains are built for speed and not for accuracy, because we are compulsive thinkers in a compulsive society.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an expectation you have of someone.",
+   "Write what else could be true.",
+   "Write three scenarios for your next meeting.",
+   "Write your reply to each.",
+   "Write what you will pay attention to in the moment."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say expectations can be?",
+   "choices": [
+    "Synonymous with bias",
+    "Facts",
+    "Plans"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How many scenarios did Jose say he goes through?",
+   "choices": [
+    "Four or five",
+    "One",
+    "Twenty"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say being present is?",
+   "choices": [
+    "Moment-to-moment awareness without bias",
+    "Having a plan",
+    "Staying silent"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice your expectation. Build the tree. Stay present.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

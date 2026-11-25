@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e3-1",
+ "title": "Read an offer before you answer",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why is someone offering you business out of the blue?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A surprise",
+   "lines": [
+    {
+     "text": "A student described an unexpected offer of work from a contact, introduced three ways. Jose said that the offer arrived suddenly from a party who had never done it before, and asked the group to think about what the offer might be doing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Jose said that a surprise like that can be a distraction, a way to see whether you are greedy enough to take business that competes with a partner of yours.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ask before you decide",
+   "lines": [
+    {
+     "text": "Jose said: I told him, I have never really heard anything about you, tell me a little about yourself. You have to be careful not to question too much.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said it takes practice: at the beginning it sounds cagey and rehearsed, but you have to feel the moment on the call or in person, and say: I would love to learn about your story.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write an unexpected offer you received.",
+   "Write what the offer might be for.",
+   "Write three questions to learn about the sender.",
+   "Write what you will not decide on the first call.",
+   "Write who you would ask for a second view."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say a surprise offer could be?",
+   "choices": [
+    "A way to test whether you will take competing business",
+    "A gift",
+    "A mistake"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say to ask?",
+   "choices": [
+    "Tell me a little about yourself",
+    "What is the price",
+    "Who sent you"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about practice?",
+   "choices": [
+    "It sounds cagey at first and improves",
+    "It is not needed",
+    "It is never natural"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Read a surprise offer. Ask before you answer.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

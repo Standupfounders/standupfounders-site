@@ -1,0 +1,776 @@
+{
+ "schema": 1,
+ "id": "course-book-5",
+ "slug": "book-5",
+ "title": "Jose's analysis of a book we are still naming",
+ "label": "Course 5",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "outcome": "A fifth course, built from Jose's group calls on one book about negotiation, in the order of the calls. The book is not named yet. Modules are added one at a time.",
+ "season_note": "A suggested run of about 9 weeks. Suggested dates only: nothing locks.",
+ "weeks": 9,
+ "modules": [
+  {
+   "id": "m-e1",
+   "title": "Complex counterparts, mirroring and staying calm",
+   "minutes": 47,
+   "week_from": 1,
+   "week_to": 1,
+   "items": [
+    {
+     "id": "i-e1-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you prepare for what they might say?",
+       "item": "i-e1-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you slow your rate when upset?",
+       "item": "i-e1-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you stay calm when blamed?",
+       "item": "i-e1-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e1-1",
+     "kind": "section",
+     "title": "The counterpart is more than one person",
+     "minutes": 9,
+     "idea": "Prepare for the unexpected; document what you hear.",
+     "lesson": "lesson-e1-1"
+    },
+    {
+     "id": "i-e1-2",
+     "kind": "section",
+     "title": "Tone, rate and mirroring",
+     "minutes": 9,
+     "idea": "Slow your rate; mirror; buy time.",
+     "lesson": "lesson-e1-2"
+    },
+    {
+     "id": "i-e1-3",
+     "kind": "section",
+     "title": "Neutralize the negative",
+     "minutes": 9,
+     "idea": "Do not defend or blame; interrupt the pattern.",
+     "lesson": "lesson-e1-3"
+    },
+    {
+     "id": "i-e1-w",
+     "kind": "workshop",
+     "title": "Workshop: My preparation, my reply, my pause",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "What I will prepare before my next negotiation.",
+      "The calm reply I will use.",
+      "The phrase that buys me time."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e2",
+   "title": "Labeling, practice and a crisis protocol",
+   "minutes": 47,
+   "week_from": 2,
+   "week_to": 2,
+   "items": [
+    {
+     "id": "i-e2-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you label feelings before you argue?",
+       "item": "i-e2-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you practise on low stakes?",
+       "item": "i-e2-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have a protocol for a crisis?",
+       "item": "i-e2-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e2-1",
+     "kind": "section",
+     "title": "Label the feeling",
+     "minutes": 9,
+     "idea": "Label softly; leave a back door.",
+     "lesson": "lesson-e2-1"
+    },
+    {
+     "id": "i-e2-2",
+     "kind": "section",
+     "title": "Practise it small, say we, give credit",
+     "minutes": 9,
+     "idea": "Practise on low stakes.",
+     "lesson": "lesson-e2-2"
+    },
+    {
+     "id": "i-e2-3",
+     "kind": "section",
+     "title": "A crisis protocol",
+     "minutes": 9,
+     "idea": "Breathe, map, ask open, mirror, label.",
+     "lesson": "lesson-e2-3"
+    },
+    {
+     "id": "i-e2-w",
+     "kind": "workshop",
+     "title": "Workshop: My label, my practice, my protocol",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The label I will use.",
+      "The low-stakes place I will practise.",
+      "My crisis steps in order."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e3",
+   "title": "Offers, the ten-dollar game and loss",
+   "minutes": 47,
+   "week_from": 3,
+   "week_to": 3,
+   "items": [
+    {
+     "id": "i-e3-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you ask before you answer a surprise offer?",
+       "item": "i-e3-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know your real aim in a split?",
+       "item": "i-e3-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you make the loss concrete?",
+       "item": "i-e3-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e3-1",
+     "kind": "section",
+     "title": "Read an offer before you answer",
+     "minutes": 9,
+     "idea": "Ask before you answer.",
+     "lesson": "lesson-e3-1"
+    },
+    {
+     "id": "i-e3-2",
+     "kind": "section",
+     "title": "The ten-dollar game",
+     "minutes": 9,
+     "idea": "Know your real aim; both can win.",
+     "lesson": "lesson-e3-2"
+    },
+    {
+     "id": "i-e3-3",
+     "kind": "section",
+     "title": "Loss, certainty and the last feeling",
+     "minutes": 9,
+     "idea": "Make the loss concrete; label the fear.",
+     "lesson": "lesson-e3-3"
+    },
+    {
+     "id": "i-e3-w",
+     "kind": "workshop",
+     "title": "Workshop: My offer, my aim, my loss",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "How I would read a surprise offer.",
+      "My real aim in my next split.",
+      "The loss I will make concrete."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e4",
+   "title": "Terms, anchors and approaching a stranger",
+   "minutes": 56,
+   "week_from": 4,
+   "week_to": 4,
+   "items": [
+    {
+     "id": "i-e4-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you use the terms without thinking about them?",
+       "item": "i-e4-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you anchor with your words and senses?",
+       "item": "i-e4-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know the belief that stops you?",
+       "item": "i-e4-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e4-1",
+     "kind": "section",
+     "title": "Learn the terms until they are everyday",
+     "minutes": 9,
+     "idea": "Make the terms everyday; stay calm and silent.",
+     "lesson": "lesson-e4-1"
+    },
+    {
+     "id": "i-e4-2",
+     "kind": "section",
+     "title": "Anchoring with the senses",
+     "minutes": 9,
+     "idea": "Anchor with words and senses.",
+     "lesson": "lesson-e4-2"
+    },
+    {
+     "id": "i-e4-3",
+     "kind": "section",
+     "title": "Fear, belief and approaching a stranger",
+     "minutes": 9,
+     "idea": "Trigger, belief, action.",
+     "lesson": "lesson-e4-3"
+    },
+    {
+     "id": "i-e4-4",
+     "kind": "section",
+     "title": "Shortcut your learning with evidence",
+     "minutes": 9,
+     "idea": "Build the evidence.",
+     "lesson": "lesson-e4-4"
+    },
+    {
+     "id": "i-e4-w",
+     "kind": "workshop",
+     "title": "Workshop: My term, my anchor, my belief",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "A term I will use every day.",
+      "The anchor I will set.",
+      "The belief I will replace."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e5",
+   "title": "Visualizing, assumptions and disarming",
+   "minutes": 56,
+   "week_from": 5,
+   "week_to": 5,
+   "items": [
+    {
+     "id": "i-e5-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you visualize your hard meetings?",
+       "item": "i-e5-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you test the assumptions behind your plan?",
+       "item": "i-e5-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you prepare three moves ahead?",
+       "item": "i-e5-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e5-1",
+     "kind": "section",
+     "title": "Visualize the tense meeting first",
+     "minutes": 9,
+     "idea": "Visualize until nothing throws you.",
+     "lesson": "lesson-e5-1"
+    },
+    {
+     "id": "i-e5-2",
+     "kind": "section",
+     "title": "The assumptions behind the numbers",
+     "minutes": 9,
+     "idea": "Test your assumptions.",
+     "lesson": "lesson-e5-2"
+    },
+    {
+     "id": "i-e5-3",
+     "kind": "section",
+     "title": "Chess-match thinking and decision trees",
+     "minutes": 9,
+     "idea": "Think in moves; prepare.",
+     "lesson": "lesson-e5-3"
+    },
+    {
+     "id": "i-e5-4",
+     "kind": "section",
+     "title": "Disarm, do not escalate",
+     "minutes": 9,
+     "idea": "Disarm first.",
+     "lesson": "lesson-e5-4"
+    },
+    {
+     "id": "i-e5-w",
+     "kind": "workshop",
+     "title": "Workshop: My meeting, my assumptions, my moves",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The meeting I will visualize.",
+      "The assumptions I will test.",
+      "The moves I will prepare."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e6",
+   "title": "Intentions, process and caring",
+   "minutes": 56,
+   "week_from": 6,
+   "week_to": 6,
+   "items": [
+    {
+     "id": "i-e6-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you check what people intend?",
+       "item": "i-e6-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask about the process?",
+       "item": "i-e6-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you look past win and lose?",
+       "item": "i-e6-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e6-1",
+     "kind": "section",
+     "title": "What they say and what they intend",
+     "minutes": 9,
+     "idea": "Check intention against action.",
+     "lesson": "lesson-e6-1"
+    },
+    {
+     "id": "i-e6-2",
+     "kind": "section",
+     "title": "Ask about the process, not only the effects",
+     "minutes": 9,
+     "idea": "Ask for next steps.",
+     "lesson": "lesson-e6-2"
+    },
+    {
+     "id": "i-e6-3",
+     "kind": "section",
+     "title": "Beyond win and lose",
+     "minutes": 9,
+     "idea": "Look past win or lose.",
+     "lesson": "lesson-e6-3"
+    },
+    {
+     "id": "i-e6-4",
+     "kind": "section",
+     "title": "Caring as a way in",
+     "minutes": 9,
+     "idea": "Give reasons and show you care.",
+     "lesson": "lesson-e6-4"
+    },
+    {
+     "id": "i-e6-w",
+     "kind": "workshop",
+     "title": "Workshop: My question, my next step, my care",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The question that checks intention.",
+      "The next step I will ask for.",
+      "How I will show I care."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e7",
+   "title": "Types of person and how to speak to them",
+   "minutes": 47,
+   "week_from": 7,
+   "week_to": 7,
+   "items": [
+    {
+     "id": "i-e7-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you know which style you use?",
+       "item": "i-e7-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you adapt how you say it?",
+       "item": "i-e7-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you ask questions to read a person?",
+       "item": "i-e7-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e7-1",
+     "kind": "section",
+     "title": "Styles of negotiator and types of person",
+     "minutes": 9,
+     "idea": "Know the styles; do not treat a type as a verdict.",
+     "lesson": "lesson-e7-1"
+    },
+    {
+     "id": "i-e7-2",
+     "kind": "section",
+     "title": "Speak to their type",
+     "minutes": 9,
+     "idea": "Say it directly to those who need it.",
+     "lesson": "lesson-e7-2"
+    },
+    {
+     "id": "i-e7-3",
+     "kind": "section",
+     "title": "A question for each preference",
+     "minutes": 9,
+     "idea": "Ask one good question per preference.",
+     "lesson": "lesson-e7-3"
+    },
+    {
+     "id": "i-e7-w",
+     "kind": "workshop",
+     "title": "Workshop: My style, my words, my questions",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "My style and theirs.",
+      "The point I will say directly.",
+      "The four questions I will ask."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e8",
+   "title": "Coincidence, unknowns and one question",
+   "minutes": 56,
+   "week_from": 8,
+   "week_to": 8,
+   "items": [
+    {
+     "id": "i-e8-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you notice when events line up?",
+       "item": "i-e8-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Can you answer the hard question in steps?",
+       "item": "i-e8-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you list what you do not know?",
+       "item": "i-e8-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e8-1",
+     "kind": "section",
+     "title": "When coincidences line up",
+     "minutes": 9,
+     "idea": "Notice when events line up.",
+     "lesson": "lesson-e8-1"
+    },
+    {
+     "id": "i-e8-2",
+     "kind": "section",
+     "title": "The million-dollar question",
+     "minutes": 9,
+     "idea": "Ask the hard question; think in steps.",
+     "lesson": "lesson-e8-2"
+    },
+    {
+     "id": "i-e8-3",
+     "kind": "section",
+     "title": "Known knowns and unknowns",
+     "minutes": 9,
+     "idea": "List what you know and do not.",
+     "lesson": "lesson-e8-3"
+    },
+    {
+     "id": "i-e8-4",
+     "kind": "section",
+     "title": "Ask the question that creates the product",
+     "minutes": 9,
+     "idea": "Ask the question that makes it smaller.",
+     "lesson": "lesson-e8-4"
+    },
+    {
+     "id": "i-e8-w",
+     "kind": "workshop",
+     "title": "Workshop: My lining-up, my steps, my unknowns",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The events lining up for me.",
+      "My steps to the hard goal.",
+      "My known and unknown lists."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m-e9",
+   "title": "Black swans, values and takeaways",
+   "minutes": 47,
+   "week_from": 9,
+   "week_to": 9,
+   "items": [
+    {
+     "id": "i-e9-lc",
+     "kind": "level_check",
+     "title": "Check your level",
+     "minutes": 5,
+     "idea": "Three quick questions. They suggest where to start. Nothing locks.",
+     "questions": [
+      {
+       "q": "Do you create the ground for chances?",
+       "item": "i-e9-1",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you know what you will not negotiate?",
+       "item": "i-e9-2",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      },
+      {
+       "q": "Do you have one takeaway you will practise?",
+       "item": "i-e9-3",
+       "options": [
+        "No",
+        "Roughly",
+        "Yes"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "i-e9-1",
+     "kind": "section",
+     "title": "Create ground where black swans can live",
+     "minutes": 9,
+     "idea": "Prepare the ground; ask open questions.",
+     "lesson": "lesson-e9-1"
+    },
+    {
+     "id": "i-e9-2",
+     "kind": "section",
+     "title": "Do not negotiate on values",
+     "minutes": 9,
+     "idea": "Do not trade values.",
+     "lesson": "lesson-e9-2"
+    },
+    {
+     "id": "i-e9-3",
+     "kind": "section",
+     "title": "What the class took from the book",
+     "minutes": 9,
+     "idea": "Pick one takeaway and practise it.",
+     "lesson": "lesson-e9-3"
+    },
+    {
+     "id": "i-e9-w",
+     "kind": "workshop",
+     "title": "Workshop: My ground, my values, my takeaway",
+     "minutes": 15,
+     "idea": "One page, three lines.",
+     "steps": [
+      "The ground I will prepare.",
+      "The values I will not trade.",
+      "My one takeaway and who I will practise it with."
+     ]
+    }
+   ]
+  }
+ ],
+ "slots": [],
+ "page_text": "Each module is Jose's analysis of a book on a topic Jose teaches. Stand Up is not affiliated with or endorsed by the authors or publishers. The books are the authors' work; we recommend reading them. This is our own commentary, not a summary or replacement for the book. Education, not advice."
+}

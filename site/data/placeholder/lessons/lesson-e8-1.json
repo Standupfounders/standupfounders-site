@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e8-1",
+ "title": "When coincidences line up",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What events are lining up with your direction right now?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Aligned events",
+   "lines": [
+    {
+     "text": "A student said that events appear that are aligned with your greater goal, synchronized with the direction you are going, and that he often talks about it with Jose as an entrepreneur.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that while dealing with a cost-of-acquisition problem, a new kind of inspection work fell into their lap and solved every problem they had.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Awareness",
+   "lines": [
+    {
+     "text": "Jose said that the key is that your awareness has to get to the point where, getting into a ride, you are aware there is chemistry there, and a coincidence becomes an accident of essence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He recalled a conversation about bringing a tourist who pays for the tour, and that it is also access to a client who can buy real estate, and said it came out of that conversation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the events lining up with your goal.",
+   "Write the one you almost missed.",
+   "Write what awareness you need.",
+   "Write the conversation that led to it.",
+   "Write the next step."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say about events?",
+   "choices": [
+    "They are aligned with your greater goal",
+    "They are random",
+    "They are rare"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say you need?",
+   "choices": [
+    "Awareness",
+    "Luck",
+    "A bigger budget"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of statement is this?",
+   "choices": [
+    "His own view",
+    "A scientific proof",
+    "A rule"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Notice when events line up. Be aware enough to act.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

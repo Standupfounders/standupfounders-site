@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f5-1",
+ "title": "The moment that defines you",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What is the moment that most defines you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The exercise",
+   "lines": [
+    {
+     "text": "Jose asked each person: give me the moment that most defines you in your life. For those who are brave, it could be a negative one that has defined you. Nobody is pushed into exposing anything.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student told of a presentation in a foreign language that the whole class applauded, and how proud and defined it made her feel.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Objects carry meaning",
+   "lines": [
+    {
+     "text": "Jose said that a piece of paper from such a moment becomes symbolic and gains consciousness, because we attach consciousness to objects that represent things, as flags do.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "What we carry",
+   "lines": [
+    {
+     "text": "Jose said that we carry a memory like that and may spend a life looking for approval. He said we do not tend to think about these things and sweep them under the rug, but they surface, in a lack of confidence or in a five-second decision.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "If a moment is heavy, a person with the right training is the right place to take it. You do not have to share it here.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one moment that defines you, if you want to.",
+   "Write what you took from it.",
+   "Write the object that stands for it.",
+   "Write where it shows up in your day.",
+   "Write who you could talk to if it is heavy."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask each person for?",
+   "choices": [
+    "The moment that most defines them",
+    "Their salary",
+    "Their address"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say objects can have?",
+   "choices": [
+    "Meaning we attach to them",
+    "Their own price",
+    "No use"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say happens to what we sweep under the rug?",
+   "choices": [
+    "It surfaces somewhere",
+    "It disappears",
+    "It grows in value"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Name a moment that defines you. Notice where it shows up.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

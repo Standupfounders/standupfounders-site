@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-e3-3",
+ "title": "Loss, certainty and the last feeling",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What would they lose if there is no deal?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Certainty and loss",
+   "lines": [
+    {
+     "text": "Jose said that the chapter covers the certainty effect and loss aversion. The book says you must persuade them that they have something concrete to lose if the deal falls through.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that people do not want to take a risk on buying something because of the fear of loss, even though the benefits sound very good.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose gave an example from his field: you walk a shoreline with the customer and show what is receding, so the loss is concrete and in front of them.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Label the fear",
+   "lines": [
+    {
+     "text": "Jose said you can label: it seems like you are the kind of person who does not want to hurt anyone, and then you wait for the silence, the stuttering, the reaction.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Anchor the final feeling",
+   "lines": [
+    {
+     "text": "A student said that in a rebrand, you anchor the final phase, the feeling of when it is all done, because it is a lot about how people perceive their brand.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that independence and the freedom of choice are what a person on a call about their job is really looking for, and that people drive themselves with compulsive thinking. This is general, with the person left out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write what your customer loses if they do nothing.",
+   "Write how you will show it concretely.",
+   "Write the label for their fear.",
+   "Write the feeling you want at the end.",
+   "Write the silence you will wait for."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the book says to persuade them of?",
+   "choices": [
+    "That they have something concrete to lose",
+    "That they will win",
+    "That it is free"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say people fear?",
+   "choices": [
+    "Loss",
+    "Gain",
+    "Time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to anchor?",
+   "choices": [
+    "The feeling at the end",
+    "The price",
+    "The start"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make the loss concrete. Label the fear. Anchor the ending.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

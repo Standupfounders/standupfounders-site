@@ -39,7 +39,9 @@
     "course-book-1",
     "course-book-2",
     "course-book-3",
-    "course-book-4"
+    "course-book-4",
+    "course-book-5",
+    "course-book-6"
   ],
   "videos": [
     {
@@ -71,6 +73,36 @@
       "src": "media/standup-video5-just-a-feeling-16x9-narrated-v2.mp4",
       "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
       "transcript": "Jose once asked his class to stop and answer one question. How do you define love? When he was in high school, he visited his grandparents. One read the paper on one side of the room, the other on the other side. Day after day, for years. One day he asked them how they define love. They laughed. It's just a feeling, they said. They felt each other's presence. That was all. They weren't overly loving people, he said. They came from the Great Depression. So how much of that shapes us? How would you answer your grandparents' question?"
+    },
+    {
+      "title": "Pick one, then finish it",
+      "src": "media/standup-v6-pick-one-narrated-v2.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Nobody has time. Or so we say. Jose heard it differently. When someone tells him they don't have time, he hears something else: I don't know how to manage my time. I don't know how to delegate. I don't know how to build a structure. His own lesson came from swimming. He swam for years, hours a day, before school and after. To get good at one thing, he said, you pick one. You can't be good at three or four at once. And once you finish one thing, you learn how you got there: the discipline, the goals, the process. Even if you leave that field, you keep the roadmap. So here's the question. What did you start and leave unfinished? What would finishing it have taught you?"
+    },
+    {
+      "title": "Is it conviction or fantasy?",
+      "src": "media/standup-v7-where-is-the-line-narrated-v2.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "How many of us could lose money for five years and still say: I'm going to make it? Jose asked a harder question. Where is the line where you say: I made a wrong call? And where is the line where you say: no, my conviction is right? He calls the danger getting drunk on your own idea. You are inspired, and you stop watching the basics. Ego without logic brings you down. In his twenties he ignored the margins. Sales and volume looked great. The margins weren't there. His fix: ask people who know the field. Not an uncle in a different business. People who've done it. Write one project where you're losing money or time. Then write why you think it will work."
+    },
+    {
+      "title": "Your three numbers",
+      "src": "media/standup-v8-know-your-numbers-narrated-v2.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Three numbers. Miss one, and an investor can end the meeting. Your burn rate. Your cost to get a customer. Your margin. Jose knows people living in what he calls the fantasy world. I have massive margins. Massive how much? Then he looks at the industry. Is the market growing or shrinking? Is your piece getting bigger? And before a joint venture he does one thing first. He reads their financials. Then he calls. Ask like an owner, and people see you differently. You care about their company's health. Write your three numbers. Then write the ones you don't know yet."
+    },
+    {
+      "title": "Ask why not",
+      "src": "media/standup-v9-why-not-narrated-v2.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Delete one sentence from your vocabulary: that can't be done. Jose pointed to a founder who doesn't seem to have it. Told something is impossible, he asks: why not? And then he keeps asking. Jose's question for us: are you repeating your goal, with positive emotion, every day? Or does it still feel unfamiliar? A million in six months feels like a threat when it's unfamiliar. After six months of picturing it in detail, it feels possible. We build thought habits the way we build any habit. Specific. Measurable. Repeated. Write one goal. Say it every day this week. Then write what in your week doesn't line up with it."
+    },
+    {
+      "title": "Where did my process break down?",
+      "src": "media/standup-v10-process-breakdown-narrated-v2.mp4",
+      "caption": "Narration is an AI voice made from recordings of Jose, with his agreement. AI-narrated.",
+      "transcript": "Blame feels good. For about a minute. Jose noticed that the leader they were studying doesn't blame anybody. Not people. Not circumstances. If you keep blaming outside things, Jose said, you have an inside problem. The question strong leaders ask: where did my process break down? Blame hands your power away. Auditing your process gets it back. In a small company it starts at the top. The leader takes accountability, and then everyone does. Focus on the problem. What are my options? When have I been here before? Write something that went wrong. Write who you were tempted to blame."
     }
   ]
 }

@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e6-1",
+ "title": "What they say and what they intend",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is what they say the same as what they want?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A different intention",
+   "lines": [
+    {
+     "text": "Jose said that a person may say yes, but their intention is not really to do it; their intention is something else that you do not know about.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a truthful person might say: I have a lot of anxiety from this, this is terrible, in a plain way.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Signs of honesty",
+   "lines": [
+    {
+     "text": "Jose said that people who are not lying in a business meeting are curious, enthusiastic, proactive and they follow up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that with fraudulent people you see fleeting relationships. This is a general view of his, not a test, and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a promise someone made you.",
+   "Write what else they might intend.",
+   "Write the signs you saw.",
+   "Write the question you would ask.",
+   "Write what you would need to see before you trust."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say about a yes?",
+   "choices": [
+    "The real intention may be different",
+    "It is always true",
+    "It is always false"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did he say honest people are?",
+   "choices": [
+    "Curious, proactive and they follow up",
+    "Quiet",
+    "Fast"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of view is this?",
+   "choices": [
+    "His own, to be verified",
+    "A proven rule",
+    "A legal test"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Check intention against action. Treat these signs as clues, not proof.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-e5-4",
+ "title": "Disarm, do not escalate",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Does turning up the volume ever help?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "On their side",
+   "lines": [
+    {
+     "text": "A student said: it is all about disarming people and being on their side, not on opposite sides, and elevating the conversation to be more and more aggressive does the complete opposite.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that you lower their guard with a first statement that shows their credibility in one sentence.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Empathy gives momentum",
+   "lines": [
+    {
+     "text": "Jose said that they are building the empathy, which gives the momentum, and then they use the tools: how do I get you that money?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that complexity, with many people and many sheets of numbers, is what tires us, and then the person quits and you start again and train them again.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that he likes to watch how people manage themselves under conflict, and that one example is a psychological test given to a young person that tells you nothing about who they are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a conflict you escalated.",
+   "Write what disarming would have been.",
+   "Write the credibility line you would open with.",
+   "Write the tool you would use after empathy.",
+   "Write how you will keep complexity from tiring you."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say escalating does?",
+   "choices": [
+    "The complete opposite of disarming",
+    "Wins the point",
+    "Saves time"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say empathy gives?",
+   "choices": [
+    "Momentum",
+    "Cost",
+    "Delay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does a first credible statement do?",
+   "choices": [
+    "Lowers their guard",
+    "Raises their guard",
+    "Ends the call"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Disarm first. Use empathy for momentum.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

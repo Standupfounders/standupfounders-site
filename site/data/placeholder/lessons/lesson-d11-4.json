@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-d11-4",
+ "title": "Leverage, win-win and the drip",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where does your leverage in a deal come from?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Leverage",
+   "lines": [
+    {
+     "text": "A student said: leverage is negotiating power, who has the ability to walk away. It is the most important thing in any deal; you may not have the upper hand, but find as much leverage as you can, because that gives you control.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that the best leverage is bringing value, though when you do not have value, leverage can be forced.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Win-win",
+   "lines": [
+    {
+     "text": "Jose said that his rule is: I only do deals that are win-win, and that the biggest challenge is at the very beginning.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The drip",
+   "lines": [
+    {
+     "text": "Jose said that the author talks about creating omnipresence while building your brand: you are not a flash in the pan, you get steady momentum over time. Use the drip: always publish a little article.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that he repeats the same values in a podcast so the people who come through are already filtered by the time they meet him.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your leverage in your next deal.",
+   "Write what value you bring.",
+   "Write the win for them and the win for you.",
+   "Write what you will publish every week.",
+   "Write your values in one line."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say leverage is?",
+   "choices": [
+    "Negotiating power",
+    "A tool",
+    "A contract"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say his rule is?",
+   "choices": [
+    "Only win-win deals",
+    "Only big deals",
+    "Only quick deals"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say the drip is?",
+   "choices": [
+    "Always publishing a little article",
+    "A big launch",
+    "A discount"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Find leverage. Make it win-win. Keep dripping.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

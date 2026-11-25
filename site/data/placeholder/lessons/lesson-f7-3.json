@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-f7-3",
+ "title": "Talk to the top about their priorities",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What does the person at the top care about?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Relevance",
+   "lines": [
+    {
+     "text": "Jose said that the aim is relevance, clarity, credibility, efficiency and understanding high-level priorities. If you talk about graphic design to a chief executive, he will say talk to my marketing department.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that a chief executive cares about the bottom line, so you connect what you sell to how it affects the bottom line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A practice call",
+   "lines": [
+    {
+     "text": "Jose played a call as a brainstorm: the reason I am calling is that we serve a lot of major organizations in a sector, and we speak about a problem they share. He said it works in any industry.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another said that when calling repair shops it is easier to reach the person, though they are very busy, and he would adapt the opening.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the person you want to reach.",
+   "Write what they care about most.",
+   "Write your opening in two sentences.",
+   "Write the problem you both know.",
+   "Write the first question."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say a chief executive cares about?",
+   "choices": [
+    "The bottom line",
+    "The logo",
+    "The office"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose list as the aims?",
+   "choices": [
+    "Relevance, clarity, credibility, efficiency",
+    "Speed and size",
+    "Noise and colour"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about the practice call?",
+   "choices": [
+    "It works in any industry",
+    "It works for none",
+    "It only works by phone"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Talk about their priorities. Connect to the bottom line.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-f2-2",
+ "title": "Let the last mistake go",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you do with the bad shot you just played?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Delete the last shot",
+   "lines": [
+    {
+     "text": "A student said: it is about deleting the last shot from your mind. If you hit eight bad shots in a row, you walk up to the ninth and forget the last eight and focus on the shot.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that if you have had eight bad shots and you are not focused on the process and the adjustments, you let them become an abstraction: I am having a bad day, I am losing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A bunker is a place to get out of",
+   "lines": [
+    {
+     "text": "Jose said that he loved a player's remark: I am in the bunker, I have to hit out of the bunker, and that it is like being in a big loss in business: you just have to get out of it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Let the body",
+   "lines": [
+    {
+     "text": "A student said that if he lets his body react to bad thoughts during mistakes, the body follows along.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that there are different techniques: the cube you put the thought in and throw away, a river flowing by, a waterfall. The book gives a practice with a visualization to bring up a voice from a negative moment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the last mistake you replay.",
+   "Write the process step for the next one.",
+   "Write the image you will use: a cube, a river or a waterfall.",
+   "Write how your body reacts.",
+   "Write the next shot."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to delete?",
+   "choices": [
+    "The last shot",
+    "The whole game",
+    "The score"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say eight bad shots can become?",
+   "choices": [
+    "An abstraction like I am losing",
+    "A lesson only",
+    "A prize"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What images did Jose name?",
+   "choices": [
+    "A cube, a river, a waterfall",
+    "A map, a phone, a clock",
+    "A mountain, a sun, a star"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Delete the last shot. Use an image. Focus on the process.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

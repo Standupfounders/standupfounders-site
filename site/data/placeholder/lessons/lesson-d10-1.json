@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-d10-1",
+ "title": "Show it, do not hand it out",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Is your information easy to see or hard to read?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Visual, not numbers",
+   "lines": [
+    {
+     "text": "Jose showed a spreadsheet of property prices, rents and sales, and asked what the challenges are. A student said that it is hard to separate and visualize. Jose said it is intimidating, and bar graphs make it easier.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another student said that visuals allow you to come to determinations quicker, because the information is easier to see.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that for a daily sales report he asked for a visual of how ten people performed each day, and that the more visual the better, especially for presentations.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A tolerance for time",
+   "lines": [
+    {
+     "text": "Jose said that people have a tolerance for time, so you must plan your story to fit it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that rookies hand the presentation out to everybody at the meeting, so everyone reads ahead and stops listening to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a table you present.",
+   "Write how you would draw it as a graph.",
+   "Write how long people will stay with you.",
+   "Write what you will hand out after, not before.",
+   "Write the one picture that says it."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say makes a spreadsheet easier to read?",
+   "choices": [
+    "Bar graphs",
+    "More columns",
+    "Smaller print"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say visuals allow?",
+   "choices": [
+    "Quicker determinations",
+    "Longer meetings",
+    "More numbers"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say rookies do?",
+   "choices": [
+    "Hand out the presentation at the start",
+    "Never prepare",
+    "Talk too little"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Show pictures. Respect people's time. Hand out later.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

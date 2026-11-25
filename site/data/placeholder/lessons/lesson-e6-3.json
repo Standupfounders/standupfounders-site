@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-e6-3",
+ "title": "Beyond win and lose",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Does every deal need a loser?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Win-lose",
+   "lines": [
+    {
+     "text": "Jose said that you think of football and baseball: one team won, one team lost, and everything is win or lose. Come on, you have to win. He said that is one view of culture.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that some traditions, such as merchants who travelled from town to town, relied on long relationships, so both sides had to do well.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Passing on confrontation",
+   "lines": [
+    {
+     "text": "A student described a salesperson who is under pressure for his own job and then passes the confrontation to the customer, who is then also confrontational, although he does not have to answer emotionally.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you have to gauge: if they call my bluff, what then? He said he did not have other cards.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Leverage and promises",
+   "lines": [
+    {
+     "text": "A student said that he started to leverage a legal situation, saying: I am trying to get to an amicable solution, and then asked what could be done together.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that keeping true to those promises gives you more clients and more credibility: it goes round and round.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a deal where you wanted to win.",
+   "Write what the other side wanted.",
+   "Write a way both could do well.",
+   "Write the leverage you actually have.",
+   "Write a promise you will keep."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say culture often treats everything as?",
+   "choices": [
+    "Win or lose",
+    "Share and share",
+    "Wait and see"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say a pressured salesperson does?",
+   "choices": [
+    "Passes the confrontation on",
+    "Gives a discount",
+    "Retires"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say keeping promises gives?",
+   "choices": [
+    "More clients and credibility",
+    "A lower price",
+    "Less work"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Look past win or lose. Keep your promises.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

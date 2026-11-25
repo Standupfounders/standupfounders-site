@@ -1,3 +1,8 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="su-data-set" content="placeholder">
 <meta name="su-mode" content="preview">
@@ -259,12 +264,14 @@ ol.steps li{margin:8px 0}
 .mk.mS{border-style:double}
 
 </style>
+</head>
+<body>
 <div class="banner" role="note" id="banner">Stand Up Founders is an early preview. Most content here is placeholder. Nothing here sends, saves or sells.</div>
 <div class="wrap">
 <header class="top">
   <a class="mark" href="#home" aria-label="Stand Up Founders, home">Stand <i>Up</i> Founders</a>
   <nav class="main" aria-label="Main">
-    <a href="#home">Home</a><a href="#courses">Courses</a><a href="#stories">Stories</a><a href="#about-jose">About Jose</a><a href="#community">Community</a><a href="#daily-call">Daily call</a><a href="#join">Join</a><a class="si" href="#sign-in">Sign in</a>
+    <a href="#home">Home</a><a href="#courses">Courses</a><a href="#stories">Stories</a><a href="#about-jose">About Jose</a><a href="#videos">Videos</a><a href="#community">Community</a><a href="#daily-call">Daily call</a><a href="#join">Join</a><a class="si" href="#sign-in">Sign in</a>
   </nav>
 </header>
 
@@ -340,6 +347,15 @@ ol.steps li{margin:8px 0}
       <ol class="lessons" id="lessons" style="margin-top:12px"></ol>
       <div class="box dash" style="margin-top:28px"><span class="ph">Placeholder</span><h3>Handout</h3><p class="muted" id="c-handout">A one-page handout will sit under each lesson. Not built yet.</p></div>
     </aside>
+  </div>
+</section>
+
+<section data-view="videos" aria-labelledby="h-videos">
+  <div class="sec">
+    <span class="label">Videos</span>
+    <h1 id="h-videos">Stand Up videos</h1>
+    <p class="muted">Every video has a written transcript under it. New videos are added here as they are made.</p>
+    <div id="videos-wrap"><div id="videos-list" style="margin-top:14px"></div></div>
   </div>
 </section>
 
@@ -1242,7 +1258,7 @@ ol.steps li{margin:8px 0}
   var KEY = 'stepup.v1.progress';
 
   var D = { site: null, classes: {}, stories: [], about: null };
-  var VIEWS = ['home', 'classes', 'stories', 'about-jose', 'daily-call', 'join', 'sign-in'];
+  var VIEWS = ['home', 'classes', 'stories', 'about-jose', 'daily-call', 'join', 'sign-in', 'videos'];
 
   /* ---------- helpers ---------- */
   function $(id) { return document.getElementById(id); }
@@ -1303,10 +1319,10 @@ ol.steps li{margin:8px 0}
     if (chips && chips.length) { var f = el('div', 'foot'); chips.forEach(function (c) { f.appendChild(el('span', 'ph', c)); }); b.appendChild(f); }
     a.appendChild(b); return a;
   }
-  function renderWatch() {
-    var w = $('watch'); if (!w) return;
+  function renderWatch(wid, lid) {
+    var w = $(wid || 'watch'); if (!w) return;
     var vids = (D.site && D.site.videos) || [];
-    var list = $('watch-list'); clear(list);
+    var list = $(lid || 'watch-list'); clear(list);
     if (!vids.length) { w.hidden = true; return; }
     w.hidden = false;
     vids.forEach(function (v) {
@@ -1325,7 +1341,7 @@ ol.steps li{margin:8px 0}
     });
   }
   function renderHome() {
-    renderWatch();
+    renderWatch('watch', 'watch-list');
     renderResume();
     var box = $('home-cards'); clear(box);
     var c = D.classes[D.site.home.featured_class];
@@ -1560,7 +1576,7 @@ ol.steps li{margin:8px 0}
       jobs.push(getJSON('about.json').then(function (a) { D.about = a; }));
       return Promise.all(jobs).then(function () { D.stories = st; });
     }).then(function () {
-      renderStatic(); renderHome(); renderClasses(); renderStoryChips(); renderStories(); renderAbout(); wirePlayer(); wireMisc();
+      renderStatic(); renderWatch('videos-wrap', 'videos-list'); renderHome(); renderClasses(); renderStoryChips(); renderStories(); renderAbout(); wirePlayer(); wireMisc();
       window.addEventListener('hashchange', route); window.addEventListener('su-courses-ready', renderResume); window.addEventListener('su-progress', renderResume); route();
     }).catch(function (err) {
       var m = $('main'); clear(m); m.appendChild(el('p', 'note', 'The page data did not load (' + err.message + '). If you opened this file directly, run a small local server instead: python3 -m http.server'));
@@ -1570,3 +1586,5 @@ ol.steps li{margin:8px 0}
 })();
 
 </script>
+</body>
+</html>

@@ -1,0 +1,137 @@
+{
+ "schema": 1,
+ "id": "lesson-d9-4",
+ "title": "A professional network and your own platform",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Where does your professional identity live online?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A professional network",
+   "lines": [
+    {
+     "text": "A student said that people his age set up the profile in college and do not use it actively. Another said people are on it all the time and use it like another social network.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that a good strong first impression applies in person and on the network: what you wear and how you convey yourself, and so many people see it before they meet you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Rented or owned",
+   "lines": [
+    {
+     "text": "Jose said: do you want to be in the rented media sphere or the owned media sphere? If the network owned the platform and the content, they are not paying a search engine to bring the audience in.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that owned media means people come to your website; you are not relying on any other platform to get people to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Another said that marketing agencies say clients are doing fewer social ads because the returns have not been good with the algorithm, and you have little control over it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Writing with software",
+   "lines": [
+    {
+     "text": "A student said that bad content that no one cares about is the same as not doing anything, even with search optimization.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that an AI writing tool is great for grammatical structure and mechanical things, but the psychology behind writing is not quite there yet. A student said you can ask it to write in a style or as a certain author. These are their views and are to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your professional profile address and what it shows.",
+   "Write what you could post about this month.",
+   "Write what you own and what you rent.",
+   "Write one thing to write yourself, not a tool.",
+   "Write one way you will test a tool's writing."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose ask about?",
+   "choices": [
+    "Rented or owned media",
+    "Large or small",
+    "Old or new"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say owned media means?",
+   "choices": [
+    "People come to your own website",
+    "People pay a platform",
+    "People forget you"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about AI writing?",
+   "choices": [
+    "The psychology is not quite there yet",
+    "It is perfect",
+    "It is useless"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Own your platform. Write with psychology.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

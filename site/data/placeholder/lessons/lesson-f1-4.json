@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-f1-4",
+ "title": "Resourcefulness and blaming the outside",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Are you working from your most resourceful state today?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A resourceful state",
+   "lines": [
+    {
+     "text": "Jose said that one thing he always asks himself is: am I working from a state of maximum resourcefulness? Am I working in a place that I love?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that we memorize people: we do not say you are different today, we say it is the same old person, and that he tries to see what is new.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Internal or external",
+   "lines": [
+    {
+     "text": "A student asked Jose: when you look back at your failures, was it an external thing or something about your internal actions?",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that the minute people start blaming things externally, that is negative language and a very dangerous situation, because they are not fully taking accountability, and the language comes from a negative anchor.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you can choose to lose or choose to win, but even in trying to win you have to be willing to lose.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write how resourceful you feel today from one to ten.",
+   "Write what would raise it.",
+   "Write the people you have fixed in your mind.",
+   "Write what you blame outside yourself.",
+   "Write what you would own instead."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say he asks himself?",
+   "choices": [
+    "Am I in a state of maximum resourcefulness",
+    "Am I rich",
+    "Am I late"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say blaming externally shows?",
+   "choices": [
+    "Not taking full accountability",
+    "Good luck",
+    "Strong planning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say about winning?",
+   "choices": [
+    "You must be willing to lose",
+    "You never lose",
+    "Losing is impossible"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Work from your most resourceful state. Own what is yours.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

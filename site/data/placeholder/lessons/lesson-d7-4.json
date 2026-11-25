@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d7-4",
+ "title": "Start with one person",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you start a talk with a stranger?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "The same process",
+   "lines": [
+    {
+     "text": "Jose said that it is the same process for one person as for a thousand: you run into somebody at a coffee shop and start a conversation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student suggested using visual clues. Jose said to be careful, because a wealthy person may be dressed in rags.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Ask questions",
+   "lines": [
+    {
+     "text": "A student said: start with vague, broad questions and then more specific ones based on how they answer.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that is a needs assessment: asking questions to discover what the other person is interested in, whether in a coffee shop or on a sales call.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another gave an icebreaker: I have never been in this shop; what do you get? Whatever they say is the right answer.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Cold calls",
+   "lines": [
+    {
+     "text": "Jose said: lower the pressure of calling, and do not be clichéd. You want an energy in those calls, which takes discipline when you make thirty or forty a day.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a question you could ask a stranger.",
+   "Write the follow-up that goes deeper.",
+   "Write your icebreaker for a call.",
+   "Write how you lower the pressure.",
+   "Write your call to action for the first call."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say it is for one person?",
+   "choices": [
+    "The same process as for a thousand",
+    "A different process",
+    "No process"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say to start with?",
+   "choices": [
+    "Broad questions, then specific",
+    "A pitch",
+    "A price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call asking questions to discover interests?",
+   "choices": [
+    "A needs assessment",
+    "A survey",
+    "A report"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Ask broad then specific questions. Lower the pressure.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

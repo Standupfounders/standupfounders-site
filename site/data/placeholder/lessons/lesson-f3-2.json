@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-f3-2",
+ "title": "Setting an anchor for someone else",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What do you want them to feel when they leave?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Evoke an anchor",
+   "lines": [
+    {
+     "text": "Jose said: now I will complicate it a little more. I ask you to evoke an anchor for somebody. Come up with one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked what the main emotions or aspects are that you want a person to feel, and what the result is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Shift the anchor",
+   "lines": [
+    {
+     "text": "Jose said that you cannot transfer an anchor from the taste to the description unless you make the transfer; then you cannot communicate it to other people. He then described a plate of fish so vividly the listeners could taste it.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that language of the senses, such as a delicate crust, a soft steaming flake, the balance of ocean and warmth and subtle seasoning, is what carries the anchor.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A pattern interruption",
+   "lines": [
+    {
+     "text": "Jose described a call where he asked a question that the other person could not answer immediately, and the other tried to buy time, so he answered it himself with both. He said the pattern interruption triggered a little anxiety.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that knowing about the person from research gives you more options to set an anchor. He gave transparency and responsibility to clients as what he wants to anchor.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the feeling you want to anchor for someone.",
+   "Write the sensory words for it.",
+   "Write what you know about them before you meet.",
+   "Write the pattern interruption you could use honestly.",
+   "Write the credibility words you will use."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you need to do with an anchor you want to share?",
+   "choices": [
+    "Transfer it into description",
+    "Keep it private",
+    "Write it down once"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What kind of language carries the anchor?",
+   "choices": [
+    "Language of the senses",
+    "Numbers",
+    "Legal terms"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say knowing about the person gives you?",
+   "choices": [
+    "More options to set an anchor",
+    "Less work",
+    "A discount"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose the feeling. Use sensory words. Use interruption honestly.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

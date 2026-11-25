@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-d5-3",
+ "title": "Your bio and your filter",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Does your bio make the wrong people say no?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A bio in the third person",
+   "lines": [
+    {
+     "text": "Jose said that he took a student's bio, edited it and wrote an example to show how. He said to write it in the third person, as if you were someone else, and not to pull punches.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said that the opening paragraphs were better than their own.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "A sentence that filters",
+   "lines": [
+    {
+     "text": "Jose said that one sentence is where you start to filter people: your successes come from working with clients clearly focused on a certain result. You can be successful or unsuccessful with someone, and this tells them if they fit.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said you can politely say: you do not fit the profile of the clients I am successful with, and I cannot really help you at this stage.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One sentence",
+   "lines": [
+    {
+     "text": "Jose said you need one sentence describing what you do, the elevator sentence, and you can say it at a cocktail party or a restaurant when you bump into somebody.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said he went broad, then specific, then specific, and closed into something very specific with a lot of power, and then added leadership to show you are not only an individual.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write your bio in the third person in five lines.",
+   "Write the sentence that filters out the wrong clients.",
+   "Write your elevator sentence.",
+   "Write who you want to close in on, specifically.",
+   "Write one line that shows your leadership."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say to write your bio in?",
+   "choices": [
+    "The third person",
+    "The first person",
+    "Questions"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What does the filter sentence do?",
+   "choices": [
+    "Tells people whether they fit",
+    "Hides your work",
+    "Raises your price"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is the elevator sentence?",
+   "choices": [
+    "One sentence on what you do",
+    "A long story",
+    "A slogan for a lift"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Write your bio in the third person. Filter with one sentence.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

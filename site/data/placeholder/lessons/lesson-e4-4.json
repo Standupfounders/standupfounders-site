@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "id": "lesson-e4-4",
+ "title": "Shortcut your learning with evidence",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "What evidence do you have that something is possible?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Shortcutting",
+   "lines": [
+    {
+     "text": "Jose said that you are shortcutting the negative belief system: getting over the fear and the limitations, learning faster.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student asked whether it relates to getting into a good school, a good job and promotions with everyone happy for you, while you are not content with your own environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Adapting",
+   "lines": [
+    {
+     "text": "Jose asked a student who had changed countries what she learned about adapting, and how a big external change affected her internal environment.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that it has changed your life because now you have evidence that gives you a positive belief system: there is a place in the world accessible to you.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write a belief you hold that you could test.",
+   "Write one piece of evidence for the other side.",
+   "Write a change that taught you to adapt.",
+   "Write the shortcut you could take.",
+   "Write what you will try this week."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say evidence gives you?",
+   "choices": [
+    "A positive belief system",
+    "A bigger bill",
+    "A new boss"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student ask about?",
+   "choices": [
+    "Being content with your own environment",
+    "Prices",
+    "Travel"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say shortcutting does?",
+   "choices": [
+    "Learns faster",
+    "Slows you",
+    "Stops you"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build the evidence. Shortcut the old belief.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

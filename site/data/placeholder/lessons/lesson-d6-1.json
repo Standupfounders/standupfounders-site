@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "lesson-d6-1",
+ "title": "Give them a reason to refer you",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Why would someone tell a friend about you?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Referral by experience",
+   "lines": [
+    {
+     "text": "A student said: instead of asking do you have any friends who need my services, give people a reason to refer you on their own, based on an experience they had.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose described a story in the book of a dentist who turned a routine moment, a patient's braces coming off, into a celebration with a gong. He said the gong is a positive anchor: a sound they will never forget that anchors the celebration.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Convert before you refer",
+   "lines": [
+    {
+     "text": "A student said: sometimes it is about converting the people in pre-engagement: someone refers you, then looks at your website and does not like it, so the referral never comes through.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Do not lead with a pitch",
+   "lines": [
+    {
+     "text": "Another said: it is a bad line to pitch someone right off the bat, and if you say you want to help them get more sales, their guard is up.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that a prospect who says they only get referrals is either operating so well that they do not need help, or is growing slowly and not saying so. You say: keep us in mind.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the moment in your service that could be a celebration.",
+   "Write the positive anchor you could give it.",
+   "Write what your website says to a referral.",
+   "Write how you will give people a reason to refer you.",
+   "Write your line instead of a pitch."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did a student say to give people?",
+   "choices": [
+    "A reason to refer you",
+    "A discount",
+    "A pitch"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose call the gong?",
+   "choices": [
+    "A positive anchor",
+    "A cost",
+    "A rule"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say can stop a referral?",
+   "choices": [
+    "A website they do not like",
+    "A long meeting",
+    "A low price"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Make an experience worth referring. Convert before you ask.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

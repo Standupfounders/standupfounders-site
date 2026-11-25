@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-f6-1",
+ "title": "A bridge to the other person",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Do you lead the conversation or follow it?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "From who I am to who they are",
+   "lines": [
+    {
+     "text": "Jose said that the chapter creates a bridge between who we are and who the other person is, now that we understand a little about how we are.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He used a picture of a butterfly going from flower to flower, and you go with a net to bring it back to where you want it, which is a picture of guiding a conversation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Your points",
+   "lines": [
+    {
+     "text": "A student said that before a meeting he runs through two or three points or anchors he has practiced, and knows that if he gets them across it will be a success.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that step one is really hard when you have a fixed goal, like a retainer or a sale, and described someone who kept repeating the same thing about selling and was not listening.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another said that such a person is just thinking about themselves, and judgment is clouded.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the two or three points you would get across.",
+   "Write the goal you want from the meeting.",
+   "Write how you will guide without pushing.",
+   "Write what the other person is trying to say.",
+   "Write how you will tell they feel heard."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say the chapter creates?",
+   "choices": [
+    "A bridge between who we are and who they are",
+    "A contract",
+    "A list"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student prepare?",
+   "choices": [
+    "Two or three points",
+    "A long speech",
+    "A gift"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about a fixed goal?",
+   "choices": [
+    "It makes listening hard",
+    "It makes listening easy",
+    "It does not matter"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Build a bridge. Know your points. Listen first.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

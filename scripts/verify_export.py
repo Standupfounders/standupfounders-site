@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Jonah's second-look check on a built Stand Up export folder, before it is handed to a host. Read-only.
-Does NOT replace tools/check_data.py. Usage: python3 -I verify_export.py <export_dir> [--allow-video | --allow-five-videos] [--real-lessons]
+Does NOT replace tools/check_data.py. Usage: python3 -I verify_export.py <export_dir> [--allow-video | --allow-five-videos | --allow-ten-videos] [--real-lessons]
 Checks: no data/real; only the expected top-level names; no outside http(s) URL in any text file; no Google font calls;
 every file type is on a short list; media only the named preview clip (or none); font files match pinned hashes; no file over 25 MB; prints total size."""
 import os, re, sys, hashlib
@@ -17,8 +17,17 @@ FIVE = {
     'media/standup-video5-just-a-feeling-16x9-narrated-v2.mp4': 'd79d7bdccf3fbd8d83d011da2996c8f9215f8eb17b65f1b0c4b4fd88bc899a17',
 }  # FINAL candidate set (public7); hashes computed by Jonah from the same-named files in ~/ecm-standup/derived/video, independent of check_data.py
 OK_EXT = ('CNAME', '.html', '.json', '.css', '.js', '.txt', '.jpg', '.jpeg', '.png', '.webp', '.woff2', '.mp4', '_headers', '_redirects')
+TEN = dict(FIVE)
+TEN.update({
+    'media/standup-v6-pick-one-narrated-v2.mp4': 'f1e8b0dba47c2b65810b1569754d510176c7fd548aae32f7b018bf88ffd7ca1a',
+    'media/standup-v7-where-is-the-line-narrated-v2.mp4': 'cee7c93fdd22deca4f3cc7919a5271e805b712b924b5662e1b7f29466dc63355',
+    'media/standup-v8-know-your-numbers-narrated-v2.mp4': 'ed71bbefd58c6b1a088955d5bb4f77088c04764f81215a6fe655ade8f67a37d8',
+    'media/standup-v9-why-not-narrated-v2.mp4': '62413869249c6cc601c281f8ce1790bcf11c7dfd69a969d42ccd25c461bf6103',
+    'media/standup-v10-process-breakdown-narrated-v2.mp4': 'f892a707e9839b26cac0d09ca0a96ea0c85ce8e74f73b743d2836a56bd74fb41',
+})  # public10: hashes computed by Jonah from derived/video on 24 Nov, independent of check_data.py
+
 if len(sys.argv) < 2: sys.exit(__doc__)
-d = os.path.abspath(sys.argv[1]); allow_video = '--allow-video' in sys.argv; allow_five = '--allow-five-videos' in sys.argv; real_lessons = '--real-lessons' in sys.argv
+d = os.path.abspath(sys.argv[1]); allow_video = '--allow-video' in sys.argv; allow_five = '--allow-five-videos' in sys.argv; allow_ten = '--allow-ten-videos' in sys.argv; real_lessons = '--real-lessons' in sys.argv
 bad = []; total = 0
 STAFF = re.compile(r'\b(Ernie|Harper|Marlow|Knox|Quill|Jonah|Sterling|Vivian|Thea|Hollis|Tilly|Jules|Felix|Reid|Margot|Pip|Avery|Dane|Nova)\b')
 BADWORDS = re.compile(r'RISK ACCEPTED|no one else can open|private concept|private prototype|owner-only|claude\.ai|emeads', re.I)
@@ -40,7 +49,9 @@ for root, _, fs in os.walk(d):
         if not (fn.lower().endswith(OK_EXT) or fn in ('_headers', '_redirects', 'CNAME')): fail(rel + ': file type not on the list'); continue
         h = hashlib.sha256(open(p, 'rb').read()).hexdigest()
         if rel.endswith('.woff2') and FONTS.get(rel) != h: fail(rel + ': font not pinned or hash differs')
-        if rel.endswith('.mp4') and allow_five:
+        if rel.endswith('.mp4') and allow_ten:
+            if TEN.get(rel) != h: fail(rel + ': video is not one of the ten named narrated videos (or its hash differs)')
+        elif rel.endswith('.mp4') and allow_five:
             if FIVE.get(rel) != h: fail(rel + ': video is not one of the five named narrated videos (or its hash differs)')
         elif rel.endswith('.mp4'):
             if not allow_video: fail(rel + ': video present (preview default is to remove it; pass --allow-video to accept)')
@@ -77,6 +88,10 @@ for root, _, fs in os.walk(d):
                                 if ln['mark'] != 'N' or ln['cue'] != '': fail(rel + ': a line carries a mark or cue'); break
                         for q in j.get('quote_log', []):
                             if q != {'book': 'the book discussed in class'}: fail(rel + ': quote_log entry is not the neutral credit'); break
+_ix = open(os.path.join(d, 'index.html'), encoding='utf-8').read(); _lo = _ix.lower()
+if not _lo.lstrip().startswith('<!doctype html'): fail('index.html has no <!doctype html> (quirks mode)')
+if 'name="viewport"' not in _lo or 'width=device-width' not in _lo: fail('index.html has no standard viewport meta (phones render at desktop width)')
+if '<meta charset' not in _lo: fail('index.html has no <meta charset>')
 print('files total %.2f MB' % (total / 1e6))
 if bad:
     print('VERIFY FAILED'); [print(' -', b) for b in bad]; sys.exit(1)

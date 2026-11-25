@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "id": "lesson-e1-1",
+ "title": "The counterpart is more than one person",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "Who is really in the room when you negotiate?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A recap",
+   "lines": [
+    {
+     "text": "Jose said that he would recap chapter one, because if we skip one little thing, a lot of what we do on these calls will not land. He said we have different demeanors and communication styles with different people, and it starts at the very beginning.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that we have to understand the counterpart and consider a whole array of variables at the same time, and that we cannot be in a negotiation and think, I did not expect them to say that.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Visualize before the meeting",
+   "lines": [
+    {
+     "text": "Jose gave an example of a price you expect to be accepted and then someone says it is worth much less. He said that it throws you off your game if you did not think about it and visualize it before the meeting.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that we tend to go to meetings and engage in selective listening, hearing only what we want to hear, because we want consistency.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Four people in the conversation",
+   "lines": [
+    {
+     "text": "Jose said that in the book's view there are not two people in a conversation but four: you and the other person, and the voices inside each of you that say pay the bills and close this deal.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that a needs assessment is about showing the client you care, you are engaged, you listened and you documented what they said, and that a proposal that does not show it has been heard loses trust.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write the person you will negotiate with.",
+   "Write what you expect them to say.",
+   "Write what you would do if they said the opposite.",
+   "Write the voice inside you that pushes you.",
+   "Write what you will document."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you cannot do in a negotiation?",
+   "choices": [
+    "Be surprised without having thought about it",
+    "Ask a question",
+    "Take notes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What is selective listening?",
+   "choices": [
+    "Hearing only what you want to hear",
+    "Listening to everyone",
+    "Listening twice"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "How many people did Jose say are in a conversation?",
+   "choices": [
+    "Four",
+    "Two",
+    "One"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Prepare for the unexpected. Listen to all of it. Document what you hear.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}

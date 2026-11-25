@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "lesson-f2-1",
+ "title": "Anchors and choosing your reaction",
+ "minutes": 9,
+ "kind": "section",
+ "header_line": "Jose's analysis of a book we are still naming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
+ "chapter_note": "",
+ "groups": [
+  {
+   "heading": "",
+   "lines": [
+    {
+     "text": "How do you choose to react when the old trigger fires?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Negative and positive anchors",
+   "lines": [
+    {
+     "text": "Jose said that a negative anchor might be a father, a coach or a teacher who created a negative moment, so that now you lack confidence in a subject. There are also positive anchors.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "He said that as adults we regulate those moments: in NLP one of the main ideas is that you decide for yourself how you react to the events in your life.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Preparation and adjustment",
+   "lines": [
+    {
+     "text": "A student said that in golf and any sport the most important thing is preparation, especially in golf where you cannot rely on teammates.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "Jose said that you have to allow yourself to make adjustments, and not second-guess yourself, but be intuitive.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Another said that in running, by the end of the third mile you want to stop, which is a good picture for thinking about business and sport.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "What is your first step?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Education, not advice.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  }
+ ],
+ "exercise": {
+  "title": "Five minutes",
+  "saves": true,
+  "steps": [
+   "Write one old trigger.",
+   "Write how you would like to react.",
+   "Write the preparation that makes it easier.",
+   "Write the adjustment you resist.",
+   "Write your plan for the last mile."
+  ]
+ },
+ "check": [
+  {
+   "q": "What did Jose say you decide in NLP?",
+   "choices": [
+    "How you react to events",
+    "What events happen",
+    "Who is right"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did a student say is most important in a sport?",
+   "choices": [
+    "Preparation",
+    "Luck",
+    "Equipment"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "What did Jose say about adjustments?",
+   "choices": [
+    "Allow yourself to make them",
+    "Avoid them",
+    "Hide them"
+   ],
+   "answer": 0
+  }
+ ],
+ "recap": "Choose your reaction. Prepare. Allow the adjustment.",
+ "quote_log": [
+  {
+   "book": "the book discussed in class"
+  }
+ ]
+}
