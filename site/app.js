@@ -34,13 +34,18 @@
   function route() {
     var h = (location.hash || '#home').slice(1), view = h;
     var soonKey = h.indexOf('community') === 0 ? 'community' : h;
-    if (SOON[soonKey]) {
+    var pvm = /^preview-(stories|daily-call|community)$/.exec(h);
+    if (pvm) {
+      view = 'preview'; soonKey = pvm[1]; renderPreview(soonKey);
+    } else if (SOON[soonKey]) {
       view = 'soon';
       $('h-soon').textContent = SOON[soonKey][0] + ': coming soon'; $('soon-text').textContent = SOON[soonKey][1];
+      var pb = $('soon-preview'); if (pb) pb.href = '#preview-' + soonKey;
     } else if (h === 'courses' || h === 'progress' || /^(course|module|lesson|done)-/.test(h)) {
       view = 'courses'; if (window.SUCourses) window.SUCourses.show(h);
     } else if (VIEWS.indexOf(h) < 0) { view = 'home'; }
     var CR = { videos: 'Videos', 'about-jose': 'About Jose', soon: null };
+    setPreviewMode(view === 'preview');
     if (view === 'videos' || view === 'about-jose' || view === 'soon') {
       var sec = document.querySelector('[data-view="' + view + '"]'), cr = sec.querySelector('nav.crumb');
       if (!cr) { cr = document.createElement('nav'); cr.className = 'crumb eyebrow'; cr.setAttribute('aria-label', 'Breadcrumb'); sec.insertBefore(cr, sec.firstChild); }
@@ -56,6 +61,62 @@
       if (a.getAttribute('href') === '#' + navKey) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
     });
     window.scrollTo(0, 0);
+  }
+
+  /* concept previews: static sample pages. No forms, no storage, no network, no real content. */
+  var robotsMeta = document.querySelector('meta[name="robots"]'), robotsWas = robotsMeta ? robotsMeta.getAttribute('content') : null;
+  function setPreviewMode(on) {
+    document.body.classList.toggle('pv', !!on);
+    if (robotsMeta) robotsMeta.setAttribute('content', on ? 'noindex, nofollow' : (robotsWas || 'index, follow'));
+  }
+  function pvBox(label, title, text, cls) {
+    var b = el('div', 'box' + (cls ? ' ' + cls : '')); if (label) b.appendChild(el('span', 'label', label));
+    b.appendChild(el('h3', null, title)); if (text) b.appendChild(el('p', null, text)); return b;
+  }
+  function pvField(box, id, label, type) {
+    var l = el('label', null, label); l.setAttribute('for', id); box.appendChild(l);
+    var i; if (type === 'select') { i = document.createElement('select'); var o = document.createElement('option'); o.textContent = 'Sample choice'; i.appendChild(o); } else { i = document.createElement('input'); i.type = 'text'; i.placeholder = 'Example'; }
+    i.id = id; i.disabled = true; box.appendChild(i);
+  }
+  function pvBtn(label, ghost) { var b = el('button', ghost ? 'btn ghost' : 'btn', label); b.type = 'button'; b.disabled = true; return b; }
+  function pvH2(text, tag) { var h = el('h2', 'h2', text + ' '); h.style.cssText = 'font-size:1.5rem;margin:0 0 14px'; if (tag) h.appendChild(el('span', 'ph', tag)); return h; }
+  function pvChips(list) { var c = el('div', 'chips'); list.forEach(function (t, i) { var x = el('span', 'chip', t); if (i === 0) x.setAttribute('aria-pressed', 'true'); c.appendChild(x); }); return c; }
+  function pvStories(box) {
+    box.appendChild(pvChips(['All', 'Sample topic one', 'Sample topic two']));
+    for (var n = 0; n < 3; n++) {
+      var b = pvBox(n === 1 ? 'Sample topic two' : 'Sample topic one', 'Sample story title', 'Sample summary. A short description of the story goes here.');
+      var pull = el('div', 'pull'); pull.style.margin = '16px 0 0'; pull.appendChild(el('p', 'q', 'Sample excerpt. A short line from the story goes here.')); b.appendChild(pull); b.style.marginBottom = '18px'; box.appendChild(b);
+    }
+  }
+  function pvDaily(box) {
+    var two = el('div', 'two sec'); two.style.paddingTop = '8px';
+    two.appendChild(pvBox('How it runs', 'Sample schedule', 'Sample text. The days, the time and how the call runs appear here.'));
+    var t = pvBox('Today', 'Sample call title', 'Sample time. Sample note about the call.', 'dash');
+    var c = el('div', 'ctas'); c.style.marginTop = '16px'; c.appendChild(pvBtn('Join the call')); c.appendChild(pvBtn('Read the digest', true)); t.appendChild(c); two.appendChild(t); box.appendChild(two);
+  }
+  function pvCommunity(box) {
+    box.appendChild(pvChips(['Boards', 'Messages', 'Rules and safety', 'Join']));
+    var boards = el('div', 'sec'); boards.style.paddingTop = '8px'; boards.appendChild(pvH2('Boards'));
+    var g = el('div', 'two'); g.appendChild(pvBox('Sample board', 'Sample board name', 'Sample description of what this board is for.'));
+    var th = pvBox('Sample question', 'Sample question title', 'Sample question text. A question would be written here.');
+    var r = el('div', 'pull'); r.style.margin = '14px 0 0'; r.appendChild(el('p', 'muted', 'Sample reply. An answer would appear here.')); th.appendChild(r); g.appendChild(th); boards.appendChild(g); box.appendChild(boards);
+    var rules = el('div', 'sec'); rules.style.paddingTop = '32px'; rules.appendChild(pvH2('Rules and safety', 'Draft'));
+    var ul = el('ul', 'list rules'); ['Sample rule one. Rule text appears here.', 'Sample rule two. Rule text appears here.', 'Sample rule three. Rule text appears here.'].forEach(function (x) { ul.appendChild(el('li', null, x)); }); rules.appendChild(ul);
+    rules.appendChild(el('p', 'muted small', 'Draft. These are not the rules. The real rules are written before this opens.')); box.appendChild(rules);
+    var jn = el('div', 'sec'); jn.style.paddingTop = '32px'; jn.appendChild(pvH2('Join', 'Example only'));
+    var f = el('div', 'form'); f.setAttribute('role', 'group'); f.setAttribute('aria-label', 'Example join form, switched off');
+    pvField(f, 'pv-name', 'First name'); pvField(f, 'pv-email', 'Email'); pvField(f, 'pv-goal', 'What are you building?', 'select');
+    var ck = el('label', 'check'); ck.setAttribute('for', 'pv-18'); var cb = document.createElement('input'); cb.type = 'checkbox'; cb.id = 'pv-18'; cb.disabled = true; ck.appendChild(cb); ck.appendChild(el('span', null, ' Sample agreement text.')); f.appendChild(ck);
+    var jb = pvBtn('Join'); jb.style.marginTop = '18px'; f.appendChild(jb); f.appendChild(el('p', 'muted small', 'This is an example. The form is switched off and nothing is collected or saved.')); jn.appendChild(f); box.appendChild(jn);
+  }
+  var PV = { 'stories': ['Stories', 'Stories grouped by topic', pvStories], 'daily-call': ['Daily call', 'The daily call', pvDaily], 'community': ['Community', 'Community', pvCommunity] };
+  function renderPreview(key) {
+    var sec = document.querySelector('[data-view="preview"]'), body = $('pv-body'), spec = PV[key]; clear(body);
+    $('pv-back').href = '#' + key;
+    $('h-pv').textContent = spec[0] + ': sample layout'; $('pv-lede').textContent = spec[1] + '. Everything below is a sample.';
+    spec[2](body);
+    var cr = sec.querySelector('nav.crumb'); if (!cr) { cr = document.createElement('nav'); cr.className = 'crumb eyebrow'; cr.setAttribute('aria-label', 'Breadcrumb'); sec.insertBefore(cr, $('h-pv')); }
+    clear(cr); var l = el('span', 'label'); var ha = el('a', null, 'Home'); ha.href = '#home'; l.appendChild(ha); l.appendChild(document.createTextNode(' / ')); var sa = el('a', null, spec[0]); sa.href = '#' + key; l.appendChild(sa); l.appendChild(document.createTextNode(' / Preview')); cr.appendChild(l);
   }
 
   function card(href, img, alt, label, title, text) {
