@@ -1,12 +1,10 @@
-/* Stand Up courses area, Stage 1 framework. Each book is a course; a course has modules; a module has sections.
-   Plain JS. All text is written with textContent. Progress is kept only in this browser (key stepup.v1.courses).
-   Data: data/<set>/courses/*.json and data/<set>/lessons/*.json. Real lesson lines exist only in the real data set (local). */
+/* Stand Up Founders: courses, modules and lessons. Progress stays in this browser. */
 (function () {
   'use strict';
   var META = function (n) { var m = document.querySelector('meta[name="' + n + '"]'); return m ? m.getAttribute('content') : ''; };
   var SET = META('su-data-set') || 'placeholder';
-  var PUB = META('su-public') === '1';   // public site: no placeholder wording
-  var MODE = META('su-mode') || 'preview';
+  var PUB = META('su-public') === '1';
+  var MODE = META('su-mode') || 'public';
   var BASE = 'data/' + SET + '/';
   var KEY = 'stepup.v1.courses';
   var courses = [], lessons = {}, root = null, ready = null, current = 'courses', forceFk = null;
@@ -140,7 +138,6 @@
     var e = el('div', 'eyebrow');
     if (crumbs) { var l = el('span', 'label'); crumbs.forEach(function (c, ix) { if (ix) l.appendChild(document.createTextNode(' / ')); if (c[1]) l.appendChild(link(c[1], c[0])); else l.appendChild(document.createTextNode(c[0])); }); e.appendChild(l); }
     else e.appendChild(el('span', 'label', label));
-    if (!PUB) e.appendChild(el('span', 'ph', SET === 'real' ? 'Local copy \u00b7 real lines' : 'Early preview'));
     root.appendChild(e);
     root.appendChild(el('h1', 'h1', title));
     if (lede) { var p = el('p', 'lede small', lede); p.style.marginTop = '14px'; root.appendChild(p); }
@@ -171,7 +168,7 @@
         var firstL = lessonItems(c)[0] || null, nL = lessonItems(c).length, cc0 = courseCounts(c);
         var pc = el('div', 'card wide');
         var pb = el('div', 'body'); pb.appendChild(el('span', 'label', c.label));
-        var ph3 = el('h3'); ph3.appendChild(link('#course-' + c.slug, c.title)); pb.appendChild(ph3);
+        var ph3 = el('h2'); ph3.appendChild(link('#course-' + c.slug, c.title)); pb.appendChild(ph3);
         pb.appendChild(el('p', null, c.outcome));
         var pf = el('div', 'foot'); pf.appendChild(el('span', 'ph', seq(c).length + ' ready' + (soonCount(c) ? ' \u00b7 ' + soonCount(c) + ' coming soon' : '') + ' \u00b7 ' + c.modules.length + ' modules'));
         var started = cc0.done + cc0.skipped > 0 || (S.last && S.last.course === c.slug);
@@ -187,9 +184,6 @@
       var cnt = 0, done = 0; allItems(c).forEach(function (x) { cnt++; var s = state(x.i); if (s === 'done' || s === 'skipped') done++; });
       var f = el('div', 'foot'); f.appendChild(el('span', 'ph', done + ' of ' + cnt + ' items handled')); f.appendChild(el('span', 'ph', c.modules.length + ' modules so far')); b.appendChild(f);
       a.appendChild(b); g.appendChild(a);
-    });
-    if (!PUB) [1, 2].map(function (k) { return 'Course ' + (courses.length + k) + ' (another book, not built yet)'; }).forEach(function (t) {
-      var d = el('div', 'box dash'); d.appendChild(el('span', 'ph', 'Empty slot')); d.appendChild(el('h3', null, t)); d.appendChild(el('p', 'muted', 'Placeholder. Shows where another book would go.')); g.appendChild(d);
     });
     root.appendChild(g);
     var h = el('h2', 'h2', 'A suggested rhythm'); h.style.cssText = 'font-size:1.6rem;margin:36px 0 8px'; root.appendChild(h);
@@ -240,12 +234,12 @@
       var bar = el('div', 'prog'); var bb = el('b'); bb.style.width = Math.round(100 * (cnt.done + cnt.skipped) / Math.max(1, cnt.n)) + '%'; bar.appendChild(bb); bar.setAttribute('role', 'progressbar'); bar.setAttribute('aria-label', m.title + ': ' + (cnt.done + cnt.skipped) + ' of ' + cnt.n + ' items handled'); bar.setAttribute('aria-valuemin', '0'); bar.setAttribute('aria-valuemax', String(cnt.n)); bar.setAttribute('aria-valuenow', String(cnt.done + cnt.skipped)); li.appendChild(bar);
       ul.appendChild(li);
     });
-    (PUB ? [] : (c.slots || [])).forEach(function (t) { var li = el('li', 'mod dash'); li.appendChild(el('span', 'ph', 'Empty slot')); li.appendChild(el('p', 'muted', t)); ul.appendChild(li); });
     root.appendChild(ul);
   }
   function crumbsFor(c, m) { return [['Courses', '#courses'], [c.label, '#course-' + c.slug], [m.title, '#module-' + c.slug + '-' + m.id]]; }
   function pageModule(c, m) {
     head('Module', m.title, 'About ' + m.minutes + ' minutes in short parts. Do a few, stop, and pick up where you left off. Skip anything you already know.', [['Courses', '#courses'], [c.label, '#course-' + c.slug], [m.title]]);
+    if (PUB && !storageOK) root.appendChild(saveNote());
     var due = moduleDue(m);
     var info = el('p', 'muted small', 'Weeks ' + m.week_from + (m.week_to !== m.week_from ? ' to ' + m.week_to : '') + ' \u00b7 ' + (due ? 'suggested by ' + fmtDate(due) : 'no start date set')); info.style.marginTop = '12px'; root.appendChild(info);
     if (S.lc[m.id]) { var sug = el('div', 'note'); sug.style.marginTop = '14px'; sug.appendChild(document.createTextNode('Your last check suggested: ' + S.lc[m.id].text + ' ')); sug.appendChild(link(S.lc[m.id].href, 'Go there')); root.appendChild(sug); }
@@ -262,7 +256,7 @@
       var a = link(itemHref(c, m, i), i.title); a.className = 'itname';
       var top = el('div', 'modtop'); top.appendChild(a); top.appendChild(badge(s)); li.appendChild(top);
       var kind = i.kind === 'level_check' ? 'Check your level' : i.kind === 'journey' ? 'Journey' : i.kind === 'workshop' ? 'Workshop' : 'Section';
-      li.appendChild(el('p', 'muted small', kind + ' \u00b7 about ' + i.minutes + ' min' + (PUB ? '' : (i.lesson ? (SET === 'real' ? ' \u00b7 draft lesson' : ' \u00b7 placeholder lesson') : (i.kind === 'section' ? ' \u00b7 outline only' : '')))));
+      li.appendChild(el('p', 'muted small', kind + ' \u00b7 about ' + i.minutes + ' min'));
       ol.appendChild(li);
     });
     root.appendChild(ol);
@@ -287,6 +281,7 @@
   function areaSave(id, ta) { ta.value = S.ex[id] || ''; ta.addEventListener('input', function () { S.ex[id] = ta.value; save(); }); }
   function lessonBody(c, m, i, L) {
     root.appendChild(headerLine(c));
+    if (PUB && i.idea) { var il = el('p', 'lede small', i.idea); il.style.marginTop = '14px'; root.appendChild(il); }
     if (L.chapter_note) { var cn = el('p', 'muted small', L.chapter_note); cn.style.marginTop = '8px'; root.appendChild(cn); }
     var credit = (L.quote_log && L.quote_log[0] && L.quote_log[0].book) || '[title] by [author]';
     if (PUB) {
@@ -329,9 +324,6 @@
       root.appendChild(ck);
     }
     if (L.recap) { var rc = el('div', 'note lrecap'); rc.appendChild(el('span', 'label', PUB ? 'Takeaway' : 'In one line')); rc.appendChild(el('p', null, L.recap)); root.appendChild(rc); }
-    if (false) {
-      var rv = el('p', 'muted small', ''); rv.style.marginTop = '24px'; rv.appendChild(document.createTextNode('For reviewers: ')); rv.appendChild(link('#review-' + L.id, 'open the reviewer view (marks, sources, quote log)')); rv.appendChild(document.createTextNode('. Not for students.')); root.appendChild(rv);
-    }
   }
   function levelCheckBody(c, m, i) {
     var f = el('form', 'lgroup quiz'); f.setAttribute('novalidate', '');
@@ -403,7 +395,7 @@
     } else {
       if (PUB && (i.kind === 'workshop' || i.video || i.video_soon)) { var wl = el('p', 'lede small', i.idea || ''); wl.style.marginTop = '24px'; root.appendChild(wl); }
       else {
-      var nt = el('div', 'box dash'); nt.style.marginTop = '24px'; nt.appendChild(el('span', 'ph', 'Outline only'));
+      var nt = el('div', 'box dash'); nt.style.marginTop = '24px'; nt.appendChild(el('span', 'ph', 'Coming soon'));
       nt.appendChild(el('p', null, i.idea || 'The idea for this part is not written yet.'));
       nt.appendChild(el('p', 'muted small', 'The full lesson text for this part is not written yet.'));
       root.appendChild(nt); }
@@ -440,32 +432,6 @@
     ctas.appendChild(link('#course-' + c.slug, 'Back to ' + c.label, 'btn ghost')); ctas.appendChild(link('#courses', 'All courses', 'btn ghost')); root.appendChild(ctas);
     root.appendChild(movePanel());
   }
-  function pageReview(id) {
-    var L = lessons[id];
-    if (!L) { root.appendChild(el('p', 'muted', 'Loading the reviewer view...')); getData('lessons/' + id + '.json').then(function (d) { lessons[id] = d; render(); }).catch(function (e) { clear(root); root.appendChild(el('p', 'note', 'No lesson to review (' + e.message + ').')); }); return; }
-    head('Reviewer view', 'Reviewer view: ' + L.title, 'Draft view. Every line has a mark and a source cue.', [['Courses', '#courses'], ['Reviewer view']]);
-    var st = el('div', 'note'); st.style.marginTop = '18px'; st.appendChild(el('span', 'ph', 'Status')); st.appendChild(document.createTextNode(' ' + L.status + ' \u00b7 ' + L.source)); root.appendChild(st);
-    var lg = el('p', 'muted small'); lg.style.marginTop = '12px'; lg.textContent = 'Marks: ' + Object.keys(L.marks_legend).map(function (k) { return k + ' = ' + L.marks_legend[k]; }).join('; ') + '.'; root.appendChild(lg);
-    var count = {}; L.groups.forEach(function (g) { g.lines.forEach(function (ln) { count[ln.mark] = (count[ln.mark] || 0) + 1; }); });
-    root.appendChild(el('p', 'muted small', 'Count of lines by mark: ' + Object.keys(count).sort().map(function (k) { return k + ' ' + count[k]; }).join(', ') + '.'));
-    L.groups.forEach(function (g) {
-      var h = el('h2', 'h2', g.heading || 'Hook'); h.style.cssText = 'font-size:1.4rem;margin:26px 0 8px'; root.appendChild(h);
-      var wrap = el('div', 'rv');
-      g.lines.forEach(function (ln) { var r = el('div', 'rvrow'); r.appendChild(el('span', 'mk m' + ln.mark, ln.mark)); var t = el('div', 'rvt'); t.appendChild(el('p', null, ln.text)); t.appendChild(el('p', 'muted small', 'Source: ' + ln.cue)); r.appendChild(t); wrap.appendChild(r); });
-      root.appendChild(wrap);
-    });
-    var h2 = el('h2', 'h2', 'Quote log'); h2.style.cssText = 'font-size:1.4rem;margin:30px 0 8px'; root.appendChild(h2);
-    (L.quote_log || []).forEach(function (q) { var b = el('div', 'box'); b.appendChild(el('p', null, q.book)); b.appendChild(el('p', 'muted small', q.words + ' words \u00b7 cue ' + q.cue + ' \u00b7 placement: ' + q.placement)); b.appendChild(el('p', 'muted small', 'Audio check: ' + q.audio_check)); root.appendChild(b); });
-    root.appendChild(el('p', 'muted small', L.quote_totals));
-    var h3 = el('h2', 'h2', 'Checklist'); h3.style.cssText = 'font-size:1.4rem;margin:30px 0 8px'; root.appendChild(h3);
-    var ul = el('ul', 'list'); (L.checklist || []).forEach(function (t) { ul.appendChild(el('li', null, t)); }); root.appendChild(ul);
-    var h4 = el('h2', 'h2', 'Still pending'); h4.style.cssText = 'font-size:1.4rem;margin:30px 0 8px'; root.appendChild(h4);
-    var ul2 = el('ul', 'list'); (L.pending || []).forEach(function (t) { ul2.appendChild(el('li', null, t)); }); root.appendChild(ul2);
-    if (L.check_note) root.appendChild(el('p', 'muted small', L.check_note));
-    root.appendChild(el('p', 'muted small', 'Placeholder text. Not final.'));
-  }
-
-  /* ---------- route ---------- */
   function render() {
     if (!root) return;
     var ae = document.activeElement, fk = ae && ae.getAttribute ? ae.getAttribute('data-fk') : null, had = !!(ae && root.contains(ae));
@@ -473,7 +439,7 @@
     clear(root);
     var h = current, f;
     if (h === 'courses') pageCourses();
-    else if (/^review-/.test(h)) { if (PUB) pageNotFound(); else pageReview(h.slice(7)); }
+    else if (/^review-/.test(h)) pageNotFound();
     else if (/^done-/.test(h)) { var dc = null; courses.forEach(function (x) { if ('done-' + x.slug === h) dc = x; }); if (dc) pageComplete(dc); else pageNotFound(); }
     else if ((f = find(h))) { if (f.kind === 'course') pageCourse(f.c); else if (f.kind === 'module') pageModule(f.c, f.m); else pageItem(f.c, f.m, f.i); }
     else if (PUB) pageNotFound();

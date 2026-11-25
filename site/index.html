@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="styles.css">
 <meta name="description" content="Courses for entrepreneurs, built from Jose's daily calls: one book per course, each lesson in his own voice, with videos and short exercises. Education, not advice.">
 <link rel="canonical" href="https://standupfounders.com/">
+<link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#0b0f1a">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Stand Up Founders"><meta property="og:title" content="Stand Up Founders">
@@ -26,7 +27,6 @@
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-<div class="banner" role="note" id="banner">Stand Up Founders is an early preview. Most content here is placeholder. Nothing here sends, saves or sells.</div>
 <div class="wrap">
 <header class="top">
   <a class="mark" href="#home" aria-label="Stand Up Founders, home">Stand <i>Up</i> Founders</a>
@@ -36,6 +36,7 @@
 </header>
 
 <main id="main">
+<noscript><div class="note" style="margin:24px 16px"><p><b>Stand Up Founders</b> needs JavaScript to show the lessons. Please turn JavaScript on in your browser and reload this page.</p></div></noscript>
 
 <section data-view="home" aria-labelledby="h-home">
   <div class="hero">
@@ -48,9 +49,9 @@
     <figure class="paint"><img src="img/shot1.jpg" alt="An oil painting in thick impasto: a small faceless figure stands under a thin amber horizon on a dark navy plain." width="1400" height="787"><figcaption>Impasto painting</figcaption></figure>
   </div>
   <div class="strip">
-    <a href="#courses"><span class="label">Learn</span><h3>Courses</h3><p>One course per book, in the book's order, in my reading.</p></a>
-    <a href="#videos"><span class="label">Watch</span><h3>Videos</h3><p>Short ideas, about a minute each.</p></a>
-    <a href="#about-jose"><span class="label">Voice</span><h3>Jose</h3><p>Who is behind the lessons.</p></a>
+    <a href="#courses"><span class="label">Learn</span><h2>Courses</h2><p>One course per book, in the book's order, in my reading.</p></a>
+    <a href="#videos"><span class="label">Watch</span><h2>Videos</h2><p>Short ideas, about a minute each.</p></a>
+    <a href="#about-jose"><span class="label">Voice</span><h2>Jose</h2><p>Who is behind the lessons.</p></a>
   </div>
   <div class="sec">
     <div class="note" id="resume" hidden style="margin-bottom:28px"></div>
@@ -63,51 +64,6 @@
   </div>
 </section>
 
-<section data-view="classes" aria-labelledby="h-classes">
-  <div class="eyebrow"><span class="label">Classes</span><span class="ph">Catalogue shell</span></div>
-  <h1 class="h1" id="h-classes">Learn it, <em>then do it.</em></h1>
-  <p class="lede" style="margin-top:18px">One mock class so far. The others are empty slots that show where real classes will go.</p>
-  <div class="chips" role="group" aria-label="Filter classes">
-    <button class="chip" type="button" data-filter="all" aria-pressed="true">All</button>
-    <button class="chip" type="button" data-filter="mock" aria-pressed="false">Mock class</button>
-    <button class="chip" type="button" data-filter="slot" aria-pressed="false">Empty slots</button>
-  </div>
-  <div class="cards" id="class-cards"></div>
-</section>
-
-<section data-view="class" aria-labelledby="h-class">
-  <div class="eyebrow"><span class="label"><a href="#classes" style="text-decoration:none">Classes</a> / <span id="c-num">Class</span></span><span class="ph">Mock class</span><span class="ph" id="c-status"></span></div>
-  <h1 class="h1" id="h-class">Class</h1>
-  <p class="lede small" id="c-outcome" style="margin-top:18px"></p>
-  <div class="cgrid">
-    <div>
-      <div class="player" id="player">
-        <img id="player-poster" alt="Poster for the selected lesson." src="img/shot1.jpg">
-        <video id="player-video" controls preload="none" playsinline hidden></video>
-        <div class="ovl" id="player-ovl">
-          <button class="playbtn" id="player-play" type="button" aria-label="Play the selected lesson"><i></i></button>
-          <p id="player-msg"></p>
-        </div>
-      </div>
-      <div class="prog" aria-hidden="true"><b id="prog-bar"></b></div>
-      <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between">
-        <span class="label" id="prog-text"></span>
-        <button class="btn ghost" type="button" id="mark-done">Mark this lesson done</button>
-      </div>
-      <p class="muted" id="done-note" hidden style="margin-top:12px">This is the preview clip, so it is not counted. Pick lesson 1 to mark it done.</p>
-      <div class="quiz" id="quiz" aria-live="polite"></div>
-      <h2 class="h2" style="font-size:1.6rem;margin-top:36px">Your notes</h2>
-      <label for="notes">Notes for this lesson (kept only in this browser, if it allows)</label>
-      <textarea id="notes" placeholder="Write anything. It stays on this device."></textarea>
-    </div>
-    <aside>
-      <span class="label">Lessons</span>
-      <ol class="lessons" id="lessons" style="margin-top:12px"></ol>
-      <div class="box dash" style="margin-top:28px"><span class="ph">Placeholder</span><h3>Handout</h3><p class="muted" id="c-handout">A one-page handout will sit under each lesson. Not built yet.</p></div>
-    </aside>
-  </div>
-</section>
-
 <section data-view="videos" aria-labelledby="h-videos">
   <div class="sec">
     <span class="label">Videos</span>
@@ -115,14 +71,6 @@
     <p class="muted">Every video has a written transcript under it. New videos are added here as they are made.</p>
     <div id="videos-wrap"><div id="videos-list" style="margin-top:14px"></div></div>
   </div>
-</section>
-
-<section data-view="stories" aria-labelledby="h-stories">
-  <div class="eyebrow"><span class="label">Stories</span><span class="ph">Short excerpts</span></div>
-  <h1 class="h1" id="h-stories">Short lines, <em>in his words.</em></h1>
-  <p class="lede" style="margin-top:18px">Short lines I said on Stand Up daily calls. These are spoken words, not written ones. Titles and descriptions are ours. Real journeys will come later.</p>
-  <div class="chips" role="group" aria-label="Filter stories" id="story-chips"></div>
-  <div id="story-list"></div>
 </section>
 
 <section data-view="soon" aria-labelledby="h-soon">
@@ -144,49 +92,6 @@
   <div id="courses-root"></div>
 </section>
 
-<section data-view="community" aria-label="Community prototype">
-  <div id="community-root"></div>
-</section>
-
-<section data-view="daily-call" aria-labelledby="h-daily">
-  <div class="eyebrow"><span class="label">The daily Stand Up call</span><span class="ph">Shell</span></div>
-  <h1 class="h1" id="h-daily">Stand up. <em>Make the call.</em></h1>
-  <p class="lede" style="margin-top:18px">Stand Up began as a daily call. The name is the idea: get up, make decisions, get going.</p>
-  <div class="two sec">
-    <div class="box"><span class="label">How it runs</span><h3>A weekday call</h3><p>The call runs on weekdays. It opens with a greeting and closes with the day of the week.</p><p class="muted">Time zone, schedule and format for the platform are not decided.</p></div>
-    <div class="box dash"><span class="ph">Placeholder</span><h3>Today's call</h3><p class="muted" id="daily-time"></p><p class="muted" id="daily-digest" style="margin-top:8px"></p>
-      <div class="ctas" style="margin-top:16px"><button class="btn" type="button" data-toast="Placeholder. No call is connected in this concept.">Join the call</button><button class="btn ghost" type="button" data-toast="Placeholder. The digest is not written yet.">Read the digest</button></div></div>
-  </div>
-  <div class="sec" style="padding-top:40px"><figure class="paint"><img src="img/shot7.jpg" alt="Painting: a straight row of small dark marks across a navy ground, one of them amber." loading="lazy"><figcaption>One small decision, every day</figcaption></figure></div>
-</section>
-
-<section data-view="join" aria-labelledby="h-join">
-  <div class="eyebrow"><span class="label">Join</span><span class="ph">Dummy form</span></div>
-  <h1 class="h1" id="h-join">Come <em>get up.</em></h1>
-  <p class="lede" style="margin-top:18px">This form does not send anything and stores nothing. Type any made-up text to try it.</p>
-  <form class="form" id="join-form" novalidate>
-    <label for="j-name">First name</label><input id="j-name" type="text" autocomplete="off" placeholder="Example name">
-    <label for="j-email">Email</label><input id="j-email" type="text" autocomplete="off" placeholder="example@example.com">
-    <label for="j-goal">What are you building?</label><select id="j-goal"><option>An idea I have not started</option><option>A business that is just starting</option><option>A business I want to grow</option></select>
-    <label class="check" for="j-18"><input id="j-18" type="checkbox"> <span>I am 18 or older.</span></label>
-    <p class="muted small" style="margin-top:6px">Placeholder wording, version draft-0. You tick this yourself and it is not checked, so we never call members &ldquo;verified&rdquo;. In a real version the time you ticked it is kept. No ID or birth date is asked.</p>
-    <div class="note"><span class="ph">Placeholder terms</span><br><span id="join-notice"></span> A takedown route will be shown here. Real terms will be written before launch.</div>
-    <button class="btn" type="submit">Join (does nothing)</button>
-    <p id="join-msg" class="muted" role="status" style="margin-top:14px"></p>
-  </form>
-</section>
-
-<section data-view="sign-in" aria-labelledby="h-si">
-  <div class="eyebrow"><span class="label">Student sign in</span><span class="ph">Visual shell only</span></div>
-  <h1 class="h1" id="h-si">Welcome <em>back.</em></h1>
-  <p class="lede" style="margin-top:18px">Nothing here checks or stores anything. The fields are switched off on purpose; do not type a real password.</p>
-  <form class="form" id="si-form" novalidate>
-    <label for="s-email">Email</label><input id="s-email" type="text" disabled placeholder="Not active in this concept">
-    <label for="s-pass">Password</label><input id="s-pass" type="text" disabled placeholder="Not active in this concept">
-    <div class="ctas" style="margin-top:22px"><button class="btn" type="submit">Sign in</button><button class="btn ghost" type="button" data-toast="Placeholder. No account system exists yet.">Forgot password</button></div>
-  </form>
-</section>
-
 </main>
 
 <footer class="end">
@@ -196,7 +101,7 @@
 </div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="courses.js"></script>
-<script src="community.js"></script>
+
 <script src="app.js"></script>
 </body>
 </html>
