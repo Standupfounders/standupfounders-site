@@ -116,7 +116,13 @@
      "title": "Journey: a story from me",
      "minutes": 10,
      "idea": "I ask my grandparents how they define love.",
-     "lesson": "lesson-b1-j"
+     "lesson": "lesson-b1-j",
+     "video": {
+      "src": "media/standup-v5-just-a-feeling-narrated-fp2.mp4",
+      "label": "It’s just a feeling",
+      "transcript": "I once asked my class to stop and answer one question. How do you define love? When I was in high school, I visited my grandparents. One read the paper on one side of the room, the other on the other side. Day after day, for years. One day I asked them how they define love. They laughed. It's just a feeling, they said. They felt each other's presence. That was all. They weren't overly loving people. They came from the Great Depression. So how much of that shapes us? How would you answer my grandparents' question?",
+      "captions": "media/standup-v5-just-a-feeling-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-b1-w",
@@ -217,7 +223,13 @@
      "title": "Journey: a story from me",
      "minutes": 10,
      "idea": "Out of ten things, I failed nine.",
-     "lesson": "lesson-b2-j"
+     "lesson": "lesson-b2-j",
+     "video": {
+      "src": "media/standup-v4-failed-nine-narrated-fp2.mp4",
+      "label": "Out of ten, I failed nine",
+      "transcript": "By my own count, I've failed at nine of the ten things I've tried. In my twenties I started a digital advertising agency. I thought it would do very well. It didn't work out. But I never told myself I'd never use it again. Even when it fails, I say, it becomes part of your skill set. Years later, I ran a fishing tourism business. Digital advertising was how I got my clients to come. So here's the question. What did one of your failures give you that you still use?",
+      "captions": "media/standup-v4-failed-nine-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-b2-j2",
@@ -451,7 +463,13 @@
      "title": "Where is that line?",
      "minutes": 9,
      "idea": "Conviction versus fantasy: ask experts you admire, watch the margins, keep ego in check.",
-     "lesson": "lesson-b3-5"
+     "lesson": "lesson-b3-5",
+     "video": {
+      "src": "media/standup-v7-where-is-the-line-narrated-fp2.mp4",
+      "label": "Is it conviction or fantasy?",
+      "transcript": "How many of us could lose money for five years and still say: I'm going to make it? I'd ask a harder question. Where is the line where you say: I made a wrong call? And where is the line where you say: no, my conviction is right? I call the danger getting drunk on your own idea. You are inspired, and you stop watching the basics. Ego without logic brings you down. In my twenties I ignored the margins. Sales and volume looked great. The margins weren't there. My fix: ask people who know the field. Not an uncle in a different business. People who've done it. Write one project where you're losing money or time. Then write why you think it will work.",
+      "captions": "media/standup-v7-where-is-the-line-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-b3-w",
@@ -560,7 +578,13 @@
      "title": "We're in the possibility game",
      "minutes": 9,
      "idea": "Turn a goal into daily tasks and know the cost of a customer.",
-     "lesson": "lesson-b4-4"
+     "lesson": "lesson-b4-4",
+     "video": {
+      "src": "media/standup-v14-the-possibility-game-narrated-fp2.mp4",
+      "label": "The possibility game",
+      "transcript": "Say you want a company worth ten million dollars by the end of the year. Big. Scary. I say: get granular. Walk it backwards. The value you want. The sales that needs. The proposals each month. Then each week. Then each day. If we do those daily things, we are in the possibility game. If we ignore them, we're in the impossibility game. I call the daily part showing up. Visit twenty places. Send each a presentation. That's the work you control. After a while the pipeline turns into numbers. A cost to acquire a customer: your time, your money. And a formula: how do I lower it? Write one big goal. Work backwards to a day.",
+      "captions": "media/standup-v14-the-possibility-game-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-b4-w",
@@ -1113,7 +1137,13 @@
      "title": "Approval and accountability",
      "minutes": 9,
      "idea": "Balance approval with accountability; keep the struggle.",
-     "lesson": "lesson-b9-3"
+     "lesson": "lesson-b9-3",
+     "video": {
+      "src": "media/standup-v15-approval-and-accountability-narrated-fp3.mp4",
+      "label": "Approval and accountability",
+      "transcript": "Two magic words for anyone who leads: approval and accountability. I studied a leader who makes his people want to be better. What does he do? My word: accountability. He sets goals, and he takes responsibility for them. He also reads strengths and weaknesses in everyone on his team, fast. And you never hear him say: poor me, a bigger company is bullying me. Victimizing yourself, I said, comes from a negative belief system. It's a delicate balance. Approval gives people security. Accountability makes them tough. Who do you lead? What approval do they get from you? What accountability?",
+      "captions": "media/standup-v15-approval-and-accountability-narrated-fp3.en.vtt"
+     }
     },
     {
      "id": "i-b9-j",
@@ -1339,7 +1369,13 @@
      "title": "My dialogue is going to be determined by the questions that I ask",
      "minutes": 9,
      "idea": "Ask open questions; suspend judgment.",
-     "lesson": "lesson-b11-4"
+     "lesson": "lesson-b11-4",
+     "video": {
+      "src": "media/standup-v12-the-questions-you-ask-narrated-fp2.mp4",
+      "label": "The questions you ask",
+      "transcript": "Imagine you're sitting at a table with leaders of a country in deep conflict with yours. What do you ask? My answer: suspend judgment. Listen. Be almost like a journalist, with good questions. A student's good question: what do they think the problem actually is? It's usually different from what we think it is. Will you freeze, or learn? Don't be the person who stays quiet. It works in business too. Learn who you're talking to before you decide what you think. My dialogue is determined by the questions I ask. Who do you disagree with? What might they think the problem is?",
+      "captions": "media/standup-v12-the-questions-you-ask-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-b11-w",
@@ -1533,7 +1569,13 @@
      "title": "Where did my process break down?",
      "minutes": 9,
      "idea": "Don't blame; ask where the process broke down.",
-     "lesson": "lesson-b13-1"
+     "lesson": "lesson-b13-1",
+     "video": {
+      "src": "media/standup-v10-process-breakdown-narrated-fp2.mp4",
+      "label": "Where did my process break down?",
+      "transcript": "Blame feels good. For about a minute. I noticed that the leader we were studying doesn't blame anybody. Not people. Not circumstances. If you keep blaming outside things, I said, you have an inside problem. The question strong leaders ask: where did my process break down? Blame hands your power away. Auditing your process gets it back. In a small company it starts at the top. The leader takes accountability, and then everyone does. Focus on the problem. What are my options? When have I been here before? Write something that went wrong. Write who you were tempted to blame.",
+      "captions": "media/standup-v10-process-breakdown-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-b13-2",
@@ -2559,7 +2601,13 @@
      "title": "Success is a lot of tiny little decisions",
      "minutes": 9,
      "idea": "Look at the tiny daily decisions.",
-     "lesson": "lesson-b23-3"
+     "lesson": "lesson-b23-3",
+     "video": {
+      "src": "media/standup-v11-tiny-decisions-narrated-fp2.mp4",
+      "label": "Tiny decisions",
+      "transcript": "You don't fail because of one bad decision. I said you fail because you made small bad decisions, day after day. And success is the same. When I meet someone, I watch the habits. Do they get up in the morning? Are they structured? Do they start the day positive? Relationships work like that too. If you don't work at them every day, they drift into neglect. I also look for the defining moments in a life: a hard one, a lesson, a decision it led to. Write three defining moments. Write the emotion, the action and the decision each led to.",
+      "captions": "media/standup-v11-tiny-decisions-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-b23-4",

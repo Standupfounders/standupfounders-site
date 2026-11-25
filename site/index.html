@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self'; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="su-data-set" content="placeholder">
 <meta name="su-mode" content="public">
@@ -22,8 +24,6 @@
 <meta property="og:image:alt" content="An oil painting: a small faceless figure under a thin amber horizon on a dark navy plain.">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Stand Up Founders">
 <meta name="twitter:description" content="Courses for entrepreneurs, built from Jose's daily calls. Education, not advice."><meta name="twitter:image" content="https://standupfounders.com/img/shot1.jpg">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; media-src 'self'; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
-<meta name="referrer" content="no-referrer">
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -31,7 +31,7 @@
 <header class="top">
   <a class="mark" href="#home" aria-label="Stand Up Founders, home">Stand <i>Up</i> Founders</a>
   <nav class="main" aria-label="Main">
-    <a href="#home">Home</a><a href="#courses">Courses</a><a href="#videos">Videos</a><a href="#stories">Stories</a><a href="#daily-call">Daily call</a><a href="#community">Community</a><a href="#about-jose">About Jose</a>
+    <a href="#home">Home</a><a href="#courses">Courses</a><a href="#progress">My progress</a><a href="#videos">Videos</a><a href="#about-jose">About Jose</a><span class="navsoon"><a href="#stories">Stories <i class="tag">Soon</i></a><a href="#daily-call">Daily call <i class="tag">Soon</i></a><a href="#community">Community <i class="tag">Soon</i></a></span>
   </nav>
 </header>
 
@@ -44,23 +44,19 @@
       <span class="label">Entrepreneurs &middot; journeys &middot; classes</span>
       <h1 class="hl" id="h-home"><span>Get up.</span><span>Make the call.</span><span><em>Decide on <span class="amber">purpose.</span></em></span></h1>
       <p class="sub">A place to learn from the journeys of real entrepreneurs, and take their wisdom into your own venture.</p>
-      <div class="ctas"><a class="btn" href="#course-book-1">Open Course 1</a><a class="btn ghost" href="#lesson-book-1-m-a1-i-a1-1">Start with lesson 1</a></div>
+      <div class="ctas"><a class="btn" id="hero-cta" href="#lesson-book-1-m-a1-i-a1-1">Start with lesson 1</a></div>
+      <p class="muted small" id="hero-note" style="margin-top:12px"></p>
     </div>
     <figure class="paint"><img src="img/shot1.jpg" alt="An oil painting in thick impasto: a small faceless figure stands under a thin amber horizon on a dark navy plain." width="1400" height="787"><figcaption>Impasto painting</figcaption></figure>
   </div>
-  <div class="strip">
-    <a href="#courses"><span class="label">Learn</span><h2>Courses</h2><p>One course per book, in the book's order, in my reading.</p></a>
-    <a href="#videos"><span class="label">Watch</span><h2>Videos</h2><p>Short ideas, about a minute each.</p></a>
-    <a href="#about-jose"><span class="label">Voice</span><h2>Jose</h2><p>Who is behind the lessons.</p></a>
-  </div>
-  <div class="sec">
-    <div class="note" id="resume" hidden style="margin-bottom:28px"></div>
-    <span class="label">Start here</span>
-    <div class="cards4" id="home-cards" style="margin-top:14px"></div>
+    <div class="sec">
+    <span class="label">Courses</span>
+    <div class="cards4" id="course-cards" style="margin-top:14px"></div>
   </div>
   <div class="sec" id="watch" hidden>
-    <span class="label">Watch</span>
+    <span class="label">Videos</span>
     <div id="watch-list" style="margin-top:14px"></div>
+    <p style="margin-top:18px"><a class="btn ghost" href="#videos">All videos</a></p>
   </div>
 </section>
 

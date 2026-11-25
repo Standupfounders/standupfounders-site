@@ -37,14 +37,21 @@
     if (SOON[soonKey]) {
       view = 'soon';
       $('h-soon').textContent = SOON[soonKey][0] + ': coming soon'; $('soon-text').textContent = SOON[soonKey][1];
-    } else if (h === 'courses' || /^(course|module|lesson|done)-/.test(h)) {
+    } else if (h === 'courses' || h === 'progress' || /^(course|module|lesson|done)-/.test(h)) {
       view = 'courses'; if (window.SUCourses) window.SUCourses.show(h);
     } else if (VIEWS.indexOf(h) < 0) { view = 'home'; }
+    var CR = { videos: 'Videos', 'about-jose': 'About Jose', soon: null };
+    if (view === 'videos' || view === 'about-jose' || view === 'soon') {
+      var sec = document.querySelector('[data-view="' + view + '"]'), cr = sec.querySelector('nav.crumb');
+      if (!cr) { cr = document.createElement('nav'); cr.className = 'crumb eyebrow'; cr.setAttribute('aria-label', 'Breadcrumb'); sec.insertBefore(cr, sec.firstChild); }
+      clear(cr); var l = el('span', 'label'); var ha = el('a', null, 'Home'); ha.href = '#home'; l.appendChild(ha);
+      l.appendChild(document.createTextNode(' / ' + (view === 'soon' ? SOON[soonKey][0] : CR[view]))); cr.appendChild(l);
+    }
     document.querySelectorAll('[data-view]').forEach(function (s) { s.classList.toggle('on', s.getAttribute('data-view') === view); });
     setTimeout(setTitle, 60);
     if (routedOnce) setTimeout(focusHeading, 150);
     routedOnce = true;
-    var navKey = view === 'soon' ? soonKey : view;
+    var navKey = view === 'soon' ? soonKey : (view === 'courses' && h === 'progress' ? 'progress' : view);
     document.querySelectorAll('nav.main a').forEach(function (a) {
       if (a.getAttribute('href') === '#' + navKey) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
     });
@@ -90,25 +97,37 @@
       list.appendChild(b);
     });
   }
-  function renderResume() {
-    var box = $('resume'); if (!box) return; clear(box);
-    var best = window.SUCourses && window.SUCourses.resume ? window.SUCourses.resume() : null;
-    if (!best) { box.hidden = true; return; }
-    box.hidden = false;
-    box.appendChild(el('span', 'label', 'Continue where you left off'));
-    var p = el('p', null, best.text); p.style.margin = '6px 0 10px'; box.appendChild(p);
-    var a1 = el('a', 'btn ghost', 'Continue'); a1.href = best.href; box.appendChild(a1);
-    box.appendChild(el('p', 'muted small', 'Saved only in this browser.'));
-  }
   var storageOK = (function () { try { localStorage.setItem('su.t', '1'); localStorage.removeItem('su.t'); return true; } catch (e) { return false; } })();
   function renderHome() {
-    if (!storageOK && !$('storage-warn')) { var w = el('div', 'note', 'Your browser is blocking storage, so your progress, notes and answers will not be kept when you close this page.'); w.id = 'storage-warn'; w.style.margin = '0 0 24px'; var hc = $('home-cards'); if (hc && hc.parentNode) hc.parentNode.insertBefore(w, hc); }
-    renderWatch('watch', 'watch-list');
-    renderResume();
-    var box = $('home-cards'); clear(box);
-    box.appendChild(card('#course-book-1', 'img/shot1.jpg', 'Impasto painting: a small figure under a thin amber horizon.', 'Course 1', 'Open Course 1', 'My reading of one book, module by module, in the book’s order.'));
-    box.appendChild(card('#lesson-book-1-m-a1-i-a1-1', 'img/shot2.jpg', 'Painting: one dark boulder under a thin amber horizon.', 'Lesson 1', 'Start with lesson 1', 'One idea, about nine minutes, then your own five minutes of writing.'));
-    box.appendChild(card('#courses', 'img/shot7.jpg', 'Painting: a straight row of small dark marks across a navy ground, one of them amber.', 'Courses', 'All courses', 'Six courses, one per book, with every lesson open.'));
+    var sm = window.SUCourses && window.SUCourses.summary ? window.SUCourses.summary() : [];
+    var rs = window.SUCourses && window.SUCourses.resume ? window.SUCourses.resume() : null;
+    var cta = $('hero-cta'), note = $('hero-note');
+    if (cta) {
+      var cont = rs && sm.some(function (x) { return x.started && !x.finished; });
+      if (cont) { cta.textContent = 'Continue: ' + (rs.title || 'where you left off'); cta.href = rs.href; } else { cta.textContent = 'Start with lesson 1'; cta.href = '#lesson-book-1-m-a1-i-a1-1'; }
+      if (note) note.textContent = cont ? 'Your place is saved in this browser.' : 'One idea, about nine minutes, then your own writing.';
+    }
+    if (!storageOK && !$('storage-warn')) { var w = el('div', 'note', 'Your browser is blocking storage, so your progress, notes and answers will not be kept when you close this page.'); w.id = 'storage-warn'; w.style.margin = '0 0 24px'; var hc = $('course-cards'); if (hc && hc.parentNode) hc.parentNode.insertBefore(w, hc); }
+    var box = $('course-cards'); if (!box) return; clear(box);
+    sm.forEach(function (x) {
+      var cd = el('div', 'card wide'), bd = el('div', 'body'); bd.appendChild(el('span', 'label', x.label));
+      var h = el('h2'); var ha = el('a', null, x.title); ha.href = x.courseHref; h.appendChild(ha); bd.appendChild(h);
+      bd.appendChild(el('p', null, x.outcome));
+      var bar = el('div', 'prog'); var bb = el('b'); bb.style.width = Math.round(100 * x.done / Math.max(1, x.n)) + '%'; bar.appendChild(bb); bar.setAttribute('role', 'progressbar'); bar.setAttribute('aria-label', x.label + ': ' + x.done + ' of ' + x.n + ' items done'); bar.setAttribute('aria-valuemin', '0'); bar.setAttribute('aria-valuemax', String(x.n)); bar.setAttribute('aria-valuenow', String(x.done)); bd.appendChild(bar);
+      var f = el('div', 'foot'); f.appendChild(el('span', 'ph', x.done + ' of ' + x.n + ' done'));
+      var go = el('a', x.started && !x.finished ? 'btn' : 'btn ghost', x.finished ? 'Finished: see summary' : (x.started ? 'Continue' : 'Start the course')); go.href = x.href; f.appendChild(go); bd.appendChild(f);
+      cd.appendChild(bd); box.appendChild(cd);
+    });
+    renderStrip();
+  }
+  function renderStrip() {
+    var w = $('watch'), list = $('watch-list'); if (!w || !list) return; clear(list);
+    var vids = ((D.site && D.site.videos) || []).filter(function (v) { return !v.soon; }).slice(0, 4);
+    if (!vids.length) { w.hidden = true; return; }
+    w.hidden = false;
+    var g = el('div', 'cards4');
+    vids.forEach(function (v) { var c = el('a', 'card'); c.href = '#videos'; var b = el('div', 'body'); b.appendChild(el('span', 'label', v.group || 'Video')); b.appendChild(el('h3', null, v.title)); b.appendChild(el('p', null, 'Watch, with a written transcript.')); c.appendChild(b); g.appendChild(c); });
+    list.appendChild(g);
   }
 
   function boot() {
@@ -116,8 +135,8 @@
       D.site = site;
       renderWatch('videos-wrap', 'videos-list'); renderHome();
       window.addEventListener('hashchange', route);
-      window.addEventListener('su-courses-ready', function () { renderResume(); renderWatch('videos-wrap', 'videos-list'); renderWatch('watch', 'watch-list'); });
-      window.addEventListener('su-progress', renderResume);
+      window.addEventListener('su-courses-ready', function () { renderHome(); renderWatch('videos-wrap', 'videos-list'); });
+      window.addEventListener('su-progress', renderHome);
       route();
     }).catch(function () {
       var m = $('main'); clear(m);

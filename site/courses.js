@@ -41,7 +41,7 @@
   function saveNote() { var p = el('p', 'muted small', storageOK ? 'Your progress is saved on this device, in this browser. Nothing is sent anywhere.' : 'Your browser is blocking storage, so your progress, notes and answers will not be kept when you close this page.'); if (!storageOK) p.className = 'note'; return p; }
   function exportProgress() {
     var o = { app: 'Stand Up Founders', exported: new Date().toISOString(), data: {} };
-    [KEY, APPKEY].forEach(function (k) { try { var v = localStorage.getItem(k); if (v) o.data[k] = JSON.parse(v); } catch (e) {} });
+    [KEY].forEach(function (k) { try { var v = localStorage.getItem(k); if (v) o.data[k] = JSON.parse(v); } catch (e) {} });
     var blob = new Blob([JSON.stringify(o, null, 1)], { type: 'application/json' }), a = document.createElement('a');
     a.href = URL.createObjectURL(blob); a.download = 'stand-up-progress.json'; document.body.appendChild(a); a.click();
     setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 500);
@@ -52,7 +52,7 @@
       try {
         var o = JSON.parse(r.result); if (!o || o.app !== 'Stand Up Founders' || !o.data) throw new Error('not a Stand Up progress file');
         var n = 0;
-        [KEY, APPKEY].forEach(function (k) {
+        [KEY].forEach(function (k) {   // only the courses key is imported; the old class-page key is ignored
           var d = o.data[k]; if (!d || d.schema !== 1 || typeof d !== 'object') return;
           if (k === KEY) {   // keep only plain data of the right shape; links must be in-page routes
             var okRoute = /^#[a-z0-9-]+$/;
@@ -135,7 +135,8 @@
 
   /* ---------- shared pieces ---------- */
   function head(label, title, lede, crumbs) {
-    var e = el('div', 'eyebrow');
+    if (PUB) crumbs = crumbs ? [['Home', '#home']].concat(crumbs) : [['Home', '#home'], [label]];
+    var e = el('div', 'eyebrow'); e.className = 'eyebrow crumb';
     if (crumbs) { var l = el('span', 'label'); crumbs.forEach(function (c, ix) { if (ix) l.appendChild(document.createTextNode(' / ')); if (c[1]) l.appendChild(link(c[1], c[0])); else l.appendChild(document.createTextNode(c[0])); }); e.appendChild(l); }
     else e.appendChild(el('span', 'label', label));
     root.appendChild(e);
@@ -202,6 +203,8 @@
       else if (l1) ct.appendChild(link(itemHref(c, l1.m, l1.i), 'Start with lesson 1', 'btn'));
       root.appendChild(ct); root.appendChild(saveNote());
     }
+    var _r0 = root, _pd = null;
+    if (PUB) { _pd = el('details', 'paceinfo'); _pd.appendChild(el('summary', null, 'Your pace and suggested weeks')); root = _pd; }
     // start date and pace
     var box = el('div', 'box'); box.style.marginTop = '24px';
     box.appendChild(el('span', 'label', 'Your pace'));
@@ -223,18 +226,31 @@
     var h = el('h2', 'h2', PUB ? 'A suggested run of about ' + (c.weeks || 12) + ' weeks' : 'The suggested twelve weeks'); h.style.cssText = 'font-size:1.6rem;margin:34px 0 4px'; root.appendChild(h);
     root.appendChild(el('p', 'muted small', c.season_note));
     var r = rhythm(c); r.style.marginTop = '14px'; root.appendChild(r);
+    if (_pd) { root = _r0; _pd.style.marginTop = '24px'; root.appendChild(_pd); }
     var h2 = el('h2', 'h2', 'Modules'); h2.style.cssText = 'font-size:1.6rem;margin:34px 0 10px'; root.appendChild(h2);
-    var ul = el('ol', 'mods');
-    c.modules.forEach(function (m) {
+    function modLi(m) {
       var li = el('li', 'mod'); var cnt = moduleCounts(m);
       var top = el('div', 'modtop'); var a = link('#module-' + c.slug + '-' + m.id, m.title); a.className = 'modname'; top.appendChild(a);
       top.appendChild(el('span', 'ph', 'about ' + m.minutes + ' min')); li.appendChild(top);
       var due = moduleDue(m);
       li.appendChild(el('p', 'muted small', 'Weeks ' + m.week_from + (m.week_to !== m.week_from ? ' to ' + m.week_to : '') + ' \u00b7 ' + (due ? 'suggested by ' + fmtDate(due) : 'suggested dates appear after you set a start date') + ' \u00b7 ' + cnt.done + ' done, ' + cnt.skipped + ' skipped, ' + cnt.n + (PUB ? ' ready' + (m.items.length > cnt.n ? ', ' + (m.items.length - cnt.n) + ' coming soon' : '') : ' items')));
       var bar = el('div', 'prog'); var bb = el('b'); bb.style.width = Math.round(100 * (cnt.done + cnt.skipped) / Math.max(1, cnt.n)) + '%'; bar.appendChild(bb); bar.setAttribute('role', 'progressbar'); bar.setAttribute('aria-label', m.title + ': ' + (cnt.done + cnt.skipped) + ' of ' + cnt.n + ' items handled'); bar.setAttribute('aria-valuemin', '0'); bar.setAttribute('aria-valuemax', String(cnt.n)); bar.setAttribute('aria-valuenow', String(cnt.done + cnt.skipped)); li.appendChild(bar);
-      ul.appendChild(li);
-    });
-    root.appendChild(ul);
+      return li;
+    }
+    var curMod = (S.last && S.last.course === c.slug) ? S.last.module : null;
+    if (!(PUB && c.modules.length > 12)) {
+      var ul = el('ol', 'mods'); c.modules.forEach(function (m) { ul.appendChild(modLi(m)); });
+        root.appendChild(ul);
+    } else {
+      if (!curMod) { for (var q = 0; q < c.modules.length; q++) if (!moduleCounts(c.modules[q]).complete) { curMod = c.modules[q].id; break; } }
+      for (var s0 = 0; s0 < c.modules.length; s0 += 10) {
+        var part = c.modules.slice(s0, s0 + 10), dn = 0, tt = 0, hasCur = false;
+        part.forEach(function (m) { var k = moduleCounts(m); dn += k.done + k.skipped; tt += k.n; if (m.id === curMod) hasCur = true; });
+        var gd = el('details', 'modpart'); if (hasCur) gd.open = true;
+        gd.appendChild(el('summary', null, 'Modules ' + (s0 + 1) + ' to ' + (s0 + part.length) + ' \u00b7 ' + dn + ' of ' + tt + ' done'));
+        var gl = el('ol', 'mods'); gl.start = s0 + 1; part.forEach(function (m) { gl.appendChild(modLi(m)); }); gd.appendChild(gl); root.appendChild(gd);
+      }
+    }
   }
   function crumbsFor(c, m) { return [['Courses', '#courses'], [c.label, '#course-' + c.slug], [m.title, '#module-' + c.slug + '-' + m.id]]; }
   function pageModule(c, m) {
@@ -265,17 +281,17 @@
     var bar = el('div', 'ctrl'); var s = state(i);
     var st = el('span', 'badge ' + (s || 'none'), stateLabel(s)); st.setAttribute('role', 'status'); st.setAttribute('data-fk', 'stat'); st.setAttribute('tabindex', '-1'); bar.appendChild(st);
     if (s === 'done') bar.appendChild(btn('Mark not done', 'ghost', function () { S.items[i.id] = 'open'; save(); forceFk = 'stat'; render(); }));
-    else bar.appendChild(btn('Mark done', '', function () { S.items[i.id] = 'done'; save(); if (PUB && courseCounts(c).left === 0) { location.hash = '#done-' + c.slug; return; } forceFk = 'stat'; render(); }));
+    else bar.appendChild(btn('Mark done', '', function () { S.items[i.id] = 'done'; save(); if (PUB && courseCounts(c).left === 0) { location.hash = '#done-' + c.slug; return; } forceFk = PUB ? 'next' : 'stat'; render(); }));
     if (s === 'skipped') bar.appendChild(btn('Undo skip', 'ghost', function () { S.items[i.id] = 'open'; save(); forceFk = 'stat'; render(); }));
-    else if (s !== 'done') bar.appendChild(btn('Skip for now', 'ghost', function () { S.items[i.id] = 'skipped'; save(); toast('Skipped. It stays in your list; you can come back.'); forceFk = 'stat'; render(); }));
+    else if (s !== 'done') bar.appendChild(btn('Skip for now', 'ghost', function () { S.items[i.id] = 'skipped'; save(); toast('Skipped. It stays in your list; you can come back.'); forceFk = PUB ? 'next' : 'stat'; render(); }));
     return bar;
   }
   function stepBar(c, m, i) {
     var a = around(c, i), bar = el('nav', 'ctrl stepnav'); bar.setAttribute('aria-label', 'Previous and next');
     if (a.prev) bar.appendChild(link(itemHref(c, a.prev.m, a.prev.i), '\u2190 ' + (a.prev.m !== m ? 'Previous module: ' : 'Previous: ') + a.prev.i.title, 'btn ghost'));
     bar.appendChild(link('#module-' + c.slug + '-' + m.id, 'This module', 'btn ghost'));
-    if (a.next) bar.appendChild(link(itemHref(c, a.next.m, a.next.i), (a.next.m !== m ? 'Next module: ' + a.next.m.title : 'Next: ' + a.next.i.title) + ' \u2192', 'btn'));
-    else bar.appendChild(link('#done-' + c.slug, 'Finish this course \u2192', 'btn'));
+    var nx = a.next ? link(itemHref(c, a.next.m, a.next.i), (a.next.m !== m ? 'Next module: ' + a.next.m.title : 'Next: ' + a.next.i.title) + ' \u2192', 'btn') : link('#done-' + c.slug, 'Finish this course \u2192', 'btn');
+    nx.setAttribute('data-fk', 'next'); bar.appendChild(nx);
     return bar;
   }
   function areaSave(id, ta) { ta.value = S.ex[id] || ''; ta.addEventListener('input', function () { S.ex[id] = ta.value; save(); }); }
@@ -379,6 +395,8 @@
     head(kind, i.title, 'About ' + i.minutes + ' minutes.', crumbsFor(c, m).concat([[i.title]]));
     if (!S.items[i.id]) { S.items[i.id] = 'open'; }
     S.last = { course: c.slug, module: m.id, item: i.id, ts: Date.now() }; save();
+    var mr = readyItems(m), pos = mr.indexOf(i) + 1;
+    if (PUB && pos > 0) { var pp = el('p', 'muted small position', 'Part ' + pos + ' of ' + mr.length + ' in ' + m.title); pp.style.marginTop = '8px'; root.appendChild(pp); }
     var bar = controls(c, m, i); bar.style.marginTop = '20px'; root.appendChild(bar);
     if (!storageOK) root.appendChild(saveNote());
     if (i.video) root.appendChild(videoBlock(i.video));
@@ -402,7 +420,34 @@
       if (i.kind === 'workshop') workshopBody(c, m, i);
     }
     var sb = stepBar(c, m, i); sb.style.marginTop = '32px'; root.appendChild(sb);
+    if (PUB) {
+      var bb2 = el('nav', 'bottombar'); bb2.setAttribute('aria-label', 'Previous, mark done and next'); var ar = around(c, i);
+      if (ar.prev) { var pl = link(itemHref(c, ar.prev.m, ar.prev.i), '\u2190 Previous', 'bb'); pl.setAttribute('aria-label', 'Previous: ' + ar.prev.i.title); bb2.appendChild(pl); } else bb2.appendChild(el('span', 'bb off', '\u2190 Previous'));
+      var dn2 = state(i) === 'done'; var mb = el('button', 'bb mid', dn2 ? 'Done \u2713' : 'Mark done'); mb.type = 'button'; mb.setAttribute('data-fk', 'bbmid');
+      mb.addEventListener('click', function () { if (state(i) === 'done') { S.items[i.id] = 'open'; save(); forceFk = 'bbmid'; render(); return; } S.items[i.id] = 'done'; save(); if (courseCounts(c).left === 0) { location.hash = '#done-' + c.slug; return; } forceFk = 'bbmid'; render(); });
+      bb2.appendChild(mb);
+      if (ar.next) { var nl = link(itemHref(c, ar.next.m, ar.next.i), 'Next \u2192', 'bb'); nl.setAttribute('aria-label', 'Next: ' + ar.next.i.title); bb2.appendChild(nl); } else { bb2.appendChild(link('#done-' + c.slug, 'Finish \u2192', 'bb')); }
+      root.appendChild(el('div', 'bbspace')); root.appendChild(bb2);
+    }
     var sn = saveNote(); sn.style.marginTop = '14px'; if (storageOK) root.appendChild(sn);
+  }
+  function pageProgress() {
+    head('My progress', 'My progress', 'Everything you have done across the courses. It is saved in this browser, on this device. There are no accounts.');
+    var sm = window.SUCourses.summary(), any = sm.some(function (x) { return x.done > 0 || x.started; });
+    if (!any) { var em = el('div', 'box'); em.style.marginTop = '24px'; em.appendChild(el('p', null, 'You have not started yet. Start with lesson 1 and your progress will show here.')); var l1 = lessonItems(courses[0])[0]; if (l1) { var a0 = link(itemHref(courses[0], l1.m, l1.i), 'Start with lesson 1', 'btn'); a0.style.marginTop = '8px'; em.appendChild(a0); } root.appendChild(em); }
+    var tot = 0, dn = 0; sm.forEach(function (x) { tot += x.n; dn += x.done; });
+    if (any) { var ov = el('p', 'lede small', dn + ' of ' + tot + ' items done across all courses.'); ov.style.marginTop = '18px'; root.appendChild(ov); }
+    var g = el('div', 'cards4'); g.style.marginTop = '24px';
+    sm.forEach(function (x) {
+      var cd = el('div', 'card wide'), bd = el('div', 'body'); bd.appendChild(el('span', 'label', x.label));
+      var h = el('h2'); h.appendChild(link(x.courseHref, x.title)); bd.appendChild(h);
+      var bar = el('div', 'prog'); var bb = el('b'); bb.style.width = Math.round(100 * x.done / Math.max(1, x.n)) + '%'; bar.appendChild(bb); bar.setAttribute('role', 'progressbar'); bar.setAttribute('aria-label', x.label + ': ' + x.done + ' of ' + x.n + ' items done'); bar.setAttribute('aria-valuemin', '0'); bar.setAttribute('aria-valuemax', String(x.n)); bar.setAttribute('aria-valuenow', String(x.done)); bd.appendChild(bar);
+      bd.appendChild(el('p', null, x.done + ' of ' + x.n + ' done'));
+      var f = el('div', 'foot'); f.appendChild(link(x.href, x.finished ? 'Finished: see summary' : (x.started ? 'Continue' : 'Start'), x.finished ? 'btn ghost' : 'btn')); bd.appendChild(f);
+      cd.appendChild(bd); g.appendChild(cd);
+    });
+    root.appendChild(g);
+    root.appendChild(movePanel());
   }
   function pageNotFound() {
     head('Not found', 'We could not find that page', 'The link may be old or mistyped. Nothing is lost: your progress is still saved on this device.', [['Courses', '#courses'], ['Not found']]);
@@ -440,6 +485,7 @@
     var h = current, f;
     if (h === 'courses') pageCourses();
     else if (/^review-/.test(h)) pageNotFound();
+    else if (h === 'progress') pageProgress();
     else if (/^done-/.test(h)) { var dc = null; courses.forEach(function (x) { if ('done-' + x.slug === h) dc = x; }); if (dc) pageComplete(dc); else pageNotFound(); }
     else if ((f = find(h))) { if (f.kind === 'course') pageCourse(f.c); else if (f.kind === 'module') pageModule(f.c, f.m); else pageItem(f.c, f.m, f.i); }
     else if (PUB) pageNotFound();
@@ -451,7 +497,7 @@
     var L = S.last; if (!L) return null;
     for (var a = 0; a < courses.length; a++) { var c = courses[a]; if (c.slug !== L.course) continue;
       for (var b = 0; b < c.modules.length; b++) { var m = c.modules[b]; if (m.id !== L.module) continue;
-        for (var d = 0; d < m.items.length; d++) if (m.items[d].id === L.item) return { ts: L.ts || 0, text: c.label + ' \u00b7 ' + m.title + ' \u00b7 ' + m.items[d].title, href: itemHref(c, m, m.items[d]) }; } }
+        for (var d = 0; d < m.items.length; d++) if (m.items[d].id === L.item) return { ts: L.ts || 0, title: m.items[d].title, text: c.label + ' \u00b7 ' + m.title + ' \u00b7 ' + m.items[d].title, href: itemHref(c, m, m.items[d]) }; } }
     return null;
   }
   function boot() {
@@ -466,6 +512,7 @@
       ready.then(render).catch(function (e) { if (root) { clear(root); root.appendChild(el('p', 'note', (PUB ? 'We could not load the courses. Check your connection and try again.' : 'The courses did not load (' + e.message + ').'))); } });
     },
     resume: resume,
+    summary: function () { return courses.map(function (c) { var cc = courseCounts(c), fo = firstOpen(c), l1 = lessonItems(c)[0], started = cc.done + cc.skipped > 0 || !!(S.last && S.last.course === c.slug); var rs = resume(); var href = started && cc.left > 0 ? ((S.last && S.last.course === c.slug && rs) ? rs.href : (fo ? itemHref(c, fo.m, fo.i) : '#course-' + c.slug)) : (started ? '#done-' + c.slug : (l1 ? itemHref(c, l1.m, l1.i) : '#course-' + c.slug)); return { slug: c.slug, label: c.label, title: c.title, outcome: c.outcome, n: cc.n, done: cc.done + cc.skipped, left: cc.left, soon: soonCount(c), started: started, finished: started && cc.left === 0, href: href, courseHref: '#course-' + c.slug }; }); },
     locate: function (id, isLesson) {
       for (var a = 0; a < courses.length; a++) { var c = courses[a];
         for (var b = 0; b < c.modules.length; b++) { var m = c.modules[b];

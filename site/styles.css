@@ -260,3 +260,50 @@ ol.steps li{margin:8px 0}
 .itemrow.soon .itname{color:var(--grey)}
 .itemrow.soon{border-style:dashed}
 
+/* ---- public19: restrained organization pass. Springs are critically damped (no overshoot). ---- */
+:root{--spring:cubic-bezier(.22,1,.36,1);--glass:rgba(11,15,26,.88)}
+header.top{position:sticky;top:0;z-index:20;background:var(--glass);-webkit-backdrop-filter:blur(18px) saturate(160%);backdrop-filter:blur(18px) saturate(160%);border-bottom:1px solid rgba(241,235,224,.12);margin:0 calc(-1 * var(--gut,0px));padding-left:var(--gut,0px);padding-right:var(--gut,0px)}
+nav.main{align-items:center}
+nav.main .navsoon{display:inline-flex;flex-wrap:wrap;gap:6px 18px;padding-left:18px;margin-left:2px;border-left:1px solid var(--rule)}
+nav.main .navsoon a{font-weight:500;letter-spacing:.1em;opacity:.9}
+nav.main .tag{font-style:normal;font-size:.62rem;letter-spacing:.1em;border:1px solid var(--grey);padding:1px 6px;margin-left:4px;vertical-align:1px;color:var(--grey)}
+.crumb a{color:var(--grey);text-decoration:none}.crumb a:hover{color:var(--cream);text-decoration:underline}
+.position{letter-spacing:.01em}
+.h1,.hero .hl{letter-spacing:-.022em}h2,.h2{letter-spacing:-.012em}.lede,p{letter-spacing:0}.label,.btn,nav.main a{letter-spacing:.14em}
+.card,a.card,.btn,details.modpart>summary{transition:transform .4s var(--spring),border-color .3s var(--spring),filter .3s var(--spring),background-color .3s var(--spring)}
+a.card:hover{transform:translateY(-2px)}
+[data-view].on{animation:viewin .4s var(--spring)}
+@keyframes viewin{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.card .prog{margin:10px 0 2px}
+details.paceinfo,details.modpart{border:1px solid var(--rule);margin-top:14px}
+details.paceinfo>summary,details.modpart>summary{cursor:pointer;padding:14px 16px;font-family:var(--serif);font-size:1.25rem;font-weight:300;list-style:none}
+details.paceinfo>summary::-webkit-details-marker,details.modpart>summary::-webkit-details-marker{display:none}
+details.paceinfo>summary::before,details.modpart>summary::before{content:"+";display:inline-block;width:1.2em;color:var(--grey)}
+details[open].paceinfo>summary::before,details[open].modpart>summary::before{content:"\2212"}
+details.paceinfo>*:not(summary){margin-left:16px;margin-right:16px}details.paceinfo>*:last-child{margin-bottom:16px}
+details.modpart>ol{padding:0 16px 12px}
+.bottombar,.bbspace{display:none}
+@media(max-width:700px){
+  .bbspace{display:block;height:84px}
+  .bottombar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:30;gap:8px;padding:10px max(14px,env(safe-area-inset-right,0px)) max(10px,env(safe-area-inset-bottom,0px)) max(14px,env(safe-area-inset-left,0px));background:var(--glass);-webkit-backdrop-filter:blur(20px) saturate(160%);backdrop-filter:blur(20px) saturate(160%);border-top:1px solid rgba(241,235,224,.18)}
+  .bottombar .bb{flex:1;text-align:center;font:600 .74rem var(--sans);letter-spacing:.1em;text-transform:uppercase;padding:14px 6px;border:1px solid var(--grey);color:var(--cream);background:transparent;text-decoration:none;min-height:44px}
+  .bottombar .bb.mid{background:var(--cream);color:var(--bg);border-color:var(--cream)}
+  .bottombar .bb.off{color:var(--grey);border-color:var(--rule)}
+  nav.main .navsoon{border-left:0;padding-left:0;margin-left:0}
+}
+@media(prefers-reduced-motion:reduce){[data-view].on{animation:opacity-in .2s linear}@keyframes opacity-in{from{opacity:0}to{opacity:1}}a.card:hover{transform:none}}
+@media(prefers-reduced-transparency:reduce){header.top,.bottombar{background:var(--bg);-webkit-backdrop-filter:none;backdrop-filter:none}}
+@media(prefers-contrast:more){header.top,.bottombar{background:var(--bg);border-color:var(--cream)}.card,details.paceinfo,details.modpart{border-color:var(--grey)}}
+
+[tabindex="-1"]:focus{outline:none}
+
+/* phone: the header scrolls away (the lesson gets the screen); the menu is one swipeable row; the footer clears the bottom bar */
+@media(max-width:700px){
+  header.top{position:static;-webkit-backdrop-filter:none;backdrop-filter:none;background:transparent;padding-top:14px;padding-bottom:10px;gap:8px}
+  nav.main{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;width:100%;gap:6px 18px;padding-bottom:6px;-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent)}
+  nav.main::-webkit-scrollbar{display:none}
+  nav.main a{white-space:nowrap;flex:none}
+  nav.main .navsoon{flex-wrap:nowrap;flex:none}
+  footer.end{padding-bottom:calc(96px + env(safe-area-inset-bottom,0px))}
+}
+

@@ -2,37 +2,6 @@
   "schema": 1,
   "data_set": "placeholder",
   "site_name": "Stand Up",
-  "tagline": "Placeholder tagline.",
-  "classes": [
-    "class-power-of-decision"
-  ],
-  "class_slots": 2,
-  "stories": [
-    "story-small-decisions",
-    "story-how-badly",
-    "story-get-up",
-    "story-principle",
-    "story-big-questions",
-    "story-student-journey",
-    "story-panama"
-  ],
-  "home": {
-    "featured_class": "class-power-of-decision",
-    "featured_story": "story-small-decisions"
-  },
-  "topics": [
-    "decisions",
-    "beliefs"
-  ],
-  "daily_call": {
-    "time_label": "Placeholder time, with time zone",
-    "link": null,
-    "digest": "Placeholder: a two-sentence digest of today's call."
-  },
-  "legal": {
-    "recorded_notice": "Placeholder: classes are recorded and may be used in Stand Up videos and promotion.",
-    "private_voice_note": ""
-  },
   "courses": [
     "course-book-1",
     "course-book-2",
@@ -156,9 +125,11 @@
     },
     {
       "title": "Approval and accountability",
+      "src": "media/standup-v15-approval-and-accountability-narrated-fp3.mp4",
       "group": "One idea at a time",
-      "soon": true,
-      "lesson": "lesson-b9-3"
+      "lesson": "lesson-b9-3",
+      "captions": "media/standup-v15-approval-and-accountability-narrated-fp3.en.vtt",
+      "transcript": "Two magic words for anyone who leads: approval and accountability. I studied a leader who makes his people want to be better. What does he do? My word: accountability. He sets goals, and he takes responsibility for them. He also reads strengths and weaknesses in everyone on his team, fast. And you never hear him say: poor me, a bigger company is bullying me. Victimizing yourself, I said, comes from a negative belief system. It's a delicate balance. Approval gives people security. Accountability makes them tough. Who do you lead? What approval do they get from you? What accountability?"
     }
   ]
 }

@@ -395,7 +395,13 @@
      "title": "Pick one and finish it",
      "minutes": 9,
      "idea": "Pick one thing and finish it.",
-     "lesson": "lesson-a2-5"
+     "lesson": "lesson-a2-5",
+     "video": {
+      "src": "media/standup-v6-pick-one-narrated-fp2.mp4",
+      "label": "Pick one, then finish it",
+      "transcript": "Nobody has time. Or so we say. I hear it differently. When someone tells me they don't have time, I hear something else: I don't know how to manage my time. I don't know how to delegate. I don't know how to build a structure. My own lesson came from swimming. I swam for years, hours a day, before school and after. To get good at one thing, you pick one. You can't be good at three or four at once. And once you finish one thing, you learn how you got there: the discipline, the goals, the process. Even if you leave that field, you keep the roadmap. So here's the question. What did you start and leave unfinished? What would finishing it have taught you?",
+      "captions": "media/standup-v6-pick-one-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-a2-w",
@@ -1873,7 +1879,13 @@
      "title": "Know your numbers",
      "minutes": 9,
      "idea": "Know your numbers; read theirs before you call.",
-     "lesson": "lesson-a16-5"
+     "lesson": "lesson-a16-5",
+     "video": {
+      "src": "media/standup-v8-know-your-numbers-narrated-fp2.mp4",
+      "label": "Your three numbers",
+      "transcript": "Three numbers. Miss one, and an investor can end the meeting. Your burn rate. Your cost to get a customer. Your margin. I know people living in what I call the fantasy world. I have massive margins. Massive how much? Then I look at the industry. Is the market growing or shrinking? Is your piece getting bigger? And before a joint venture I do one thing first. I read their financials. Then I call. Ask like an owner, and people see you differently. You care about their company's health. Write your three numbers. Then write the ones you don't know yet.",
+      "captions": "media/standup-v8-know-your-numbers-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-a16-w",
@@ -1966,7 +1978,13 @@
      "title": "Cross-training",
      "minutes": 9,
      "idea": "Learn from other fields.",
-     "lesson": "lesson-a17-2"
+     "lesson": "lesson-a17-2",
+     "video": {
+      "src": "media/standup-v13-cross-training-narrated-fp2.mp4",
+      "label": "Cross-training",
+      "transcript": "The narrower your perspective, the fewer advantages you have. I compared two famous athletes. One was raised to try many sports, then chose one. He kept learning from the others. Think of an orchestra. One player knows the violin. The conductor knows what every instrument does, and joins them together. I swam. Coaches once said: swim farther. Then they learned it's about the heart rate. Then that swimming butterfly makes a freestyler better. You don't get better at one stroke without bringing in others. Write your main stroke. Write the other strokes that could build it.",
+      "captions": "media/standup-v13-cross-training-narrated-fp2.en.vtt"
+     }
     },
     {
      "id": "i-a17-3",
@@ -3126,7 +3144,13 @@
      "title": "No language of limits",
      "minutes": 9,
      "idea": "Replace 'can't be done' with 'why not?'.",
-     "lesson": "lesson-a28-3"
+     "lesson": "lesson-a28-3",
+     "video": {
+      "src": "media/standup-v9-why-not-narrated-fp3.mp4",
+      "label": "Ask why not",
+      "transcript": "Delete one sentence from your vocabulary: that can't be done. I point to a founder who doesn't seem to have it. Told something is impossible, he asks: why not? And then he keeps asking. My question for you: are you repeating your goal, with positive emotion, every day? Or does it still feel unfamiliar? A million in six months feels like a threat when it's unfamiliar. After six months of picturing it in detail, it feels possible. We build thought habits the way we build any habit. Specific. Measurable. Repeated. Write one goal. Say it every day this week. Then write what in your week doesn't line up with it.",
+      "captions": "media/standup-v9-why-not-narrated-fp3.en.vtt"
+     }
     },
     {
      "id": "i-a28-4",
