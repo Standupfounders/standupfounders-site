@@ -285,7 +285,7 @@ ol.steps li{margin:8px 0}
       <p class="sub">A place to learn from the journeys of real entrepreneurs, and take their wisdom into your own venture.</p>
       <div class="ctas"><a class="btn" href="#stories">Read the stories</a><a class="btn ghost" href="#lesson-book-1-m-builder-i-s3">Try the first lesson</a></div>
     </div>
-    <figure class="paint"><img src="img/shot1.jpg" alt="An oil painting in thick impasto: a small faceless figure stands under a thin amber horizon on a dark navy plain." width="1400" height="787"><figcaption>Impasto painting &middot; AI-generated concept art</figcaption></figure>
+    <figure class="paint"><img src="img/shot1.jpg" alt="An oil painting in thick impasto: a small faceless figure stands under a thin amber horizon on a dark navy plain." width="1400" height="787"><figcaption>Impasto painting</figcaption></figure>
   </div>
   <div class="strip">
     <a href="#stories"><span class="label">Library</span><h3>Stories</h3><p>Short journeys and lessons, by topic. More to come.</p></a>
@@ -336,7 +336,6 @@ ol.steps li{margin:8px 0}
         <button class="btn ghost" type="button" id="mark-done">Mark this lesson done</button>
       </div>
       <p class="muted" id="done-note" hidden style="margin-top:12px">This is the preview clip, so it is not counted. Pick lesson 1 to mark it done.</p>
-      <div class="note" style="margin-top:20px" id="c-voice"></div>
       <div class="quiz" id="quiz" aria-live="polite"></div>
       <h2 class="h2" style="font-size:1.6rem;margin-top:36px">Your notes</h2>
       <label for="notes">Notes for this lesson (kept only in this browser, if it allows)</label>
@@ -398,7 +397,7 @@ ol.steps li{margin:8px 0}
     <div class="box dash"><span class="ph">Placeholder</span><h3>Today's call</h3><p class="muted" id="daily-time"></p><p class="muted" id="daily-digest" style="margin-top:8px"></p>
       <div class="ctas" style="margin-top:16px"><button class="btn" type="button" data-toast="Placeholder. No call is connected in this concept.">Join the call</button><button class="btn ghost" type="button" data-toast="Placeholder. The digest is not written yet.">Read the digest</button></div></div>
   </div>
-  <div class="sec" style="padding-top:40px"><figure class="paint"><img src="img/shot7.jpg" alt="Painting: a straight row of small dark marks across a navy ground, one of them amber." loading="lazy"><figcaption>One small decision, every day &middot; AI-generated concept art</figcaption></figure></div>
+  <div class="sec" style="padding-top:40px"><figure class="paint"><img src="img/shot7.jpg" alt="Painting: a straight row of small dark marks across a navy ground, one of them amber." loading="lazy"><figcaption>One small decision, every day</figcaption></figure></div>
 </section>
 
 <section data-view="join" aria-labelledby="h-join">
@@ -432,7 +431,6 @@ ol.steps li{margin:8px 0}
 
 <footer class="end">
   <span>Stand Up Founders &middot; early preview &middot; placeholder content &middot; no accounts or payments.</span>
-  <span>Paintings are AI-generated concept art.</span>
 </footer>
 </div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
@@ -706,7 +704,6 @@ ol.steps li{margin:8px 0}
     vid.setAttribute('aria-label', v.label);
     var s = document.createElement('source'); s.src = v.src; s.type = 'video/mp4'; vid.appendChild(s);
     box.appendChild(vid);
-    box.appendChild(el('p', 'muted small', v.label + '. Narration is an AI voice made from recordings of Jose, with his agreement.'));
     return box;
   }
   function pageItem(c, m, i) {
@@ -1109,7 +1106,7 @@ ol.steps li{margin:8px 0}
       ['No ads, selling or referral links', 'RULED (DRAFT)', ''],
       ['No promises of results, and no buy, sell or hold tips', 'RULED (DRAFT)', ''],
       ['Post only what you wrote or may share', 'RULED (DRAFT)', ''],
-      ['No impersonation, and no AI voice or likeness of a real person', 'RULED (DRAFT)', ''],
+      ['No impersonation of a real person', 'RULED (DRAFT)', ''],
       ['Nothing illegal', 'RULED (DRAFT)', ''],
       ['Moderators may remove content or close an account', 'RULED (DRAFT)', 'A member can appeal once. Who hears appeals: NOT RULED.']
     ]);
@@ -1331,7 +1328,7 @@ ol.steps li{margin:8px 0}
       var vid = document.createElement('video'); vid.controls = true; vid.preload = 'none'; vid.playsInline = true;
       vid.setAttribute('aria-label', v.title); vid.src = v.src; vid.style.width = '100%'; vid.style.maxWidth = '720px'; vid.style.marginTop = '10px';
       b.appendChild(vid);
-      b.appendChild(el('p', 'muted small', v.caption));
+      if (v.caption) b.appendChild(el('p', 'muted small', v.caption));
       if (v.transcript) {
         var dt = document.createElement('details'); dt.style.marginTop = '8px';
         var sm = document.createElement('summary'); sm.textContent = 'Transcript'; dt.appendChild(sm);
@@ -1454,9 +1451,6 @@ ol.steps li{margin:8px 0}
     CL = D.classes[id]; cur = 0;
     $('h-class').textContent = CL.title; $('c-outcome').textContent = CL.outcome; $('c-num').textContent = 'Class 1';
     $('c-status').textContent = MODE === 'preview' ? 'Status: ' + CL.status : '';
-    $('c-voice').textContent = '';
-    var b = el('b', null, 'Voice. '); $('c-voice').appendChild(b);
-    $('c-voice').appendChild(document.createTextNode('Where a lesson uses an AI voice, the page will say: \u201c' + D.site.legal.ai_narration_label + '\u201d'));
     var start = 0;
     if (P.last && P.last.class === slug) CL.lessons.forEach(function (x, ix) { if (x.id === P.last.lesson) start = ix; });
     selectLesson(start);
