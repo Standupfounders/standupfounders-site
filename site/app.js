@@ -112,7 +112,7 @@
   var PV = { 'stories': ['Stories', 'Stories grouped by topic', pvStories], 'daily-call': ['Daily call', 'The daily call', pvDaily], 'community': ['Community', 'Community', pvCommunity] };
   function renderPreview(key) {
     var sec = document.querySelector('[data-view="preview"]'), body = $('pv-body'), spec = PV[key]; clear(body);
-    $('pv-back').href = '#' + key;
+    $('pv-back').href = '#' + key; $('pv-back').textContent = 'Back to ' + spec[0];
     $('h-pv').textContent = spec[0] + ': sample layout'; $('pv-lede').textContent = spec[1] + '. Everything below is a sample.';
     spec[2](body);
     var cr = sec.querySelector('nav.crumb'); if (!cr) { cr = document.createElement('nav'); cr.className = 'crumb eyebrow'; cr.setAttribute('aria-label', 'Breadcrumb'); sec.insertBefore(cr, $('h-pv')); }
