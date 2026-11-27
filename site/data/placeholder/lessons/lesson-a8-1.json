@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "id": "lesson-a8-1",
- "title": "Calculated risk",
+ "title": "Calculated Risk: Checking the Evidence and the Cost",
  "minutes": 9,
  "kind": "section",
  "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
@@ -19,22 +19,28 @@
    ]
   },
   {
-   "heading": "All in, or calculated?",
+   "heading": "What a calculated risk is",
    "lines": [
     {
-     "text": "A student said the person in the book does not value money. He would sleep under an overpass to be in a space where he puts all his money on the line.",
-     "mark": "N",
-     "cue": "",
-     "kind": "student"
-    },
-    {
-     "text": "I said he realizes he needs money, but he doesn't let money be a distraction to the mission. He understands it is a consequence of the mission.",
+     "text": "A calculated risk is a risk taken after checking the evidence for how it can be reduced, even when it looks like an all-in bet from outside.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Let's pay attention to the evidence of how he mitigates risk, I said. It comes across as: I'll risk everything, like the poker game where he kept doubling until he won and then walked away with the money. But I think he is very calculated in his risk.",
+     "text": "A student said: the person in the book does not value money. He would sleep under an overpass to be in a space where he puts all his money on the line.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    },
+    {
+     "text": "He realizes he needs money, but he doesn't let money be a distraction to the mission. He understands it is a consequence of the mission.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Let's pay attention to the evidence of how the person in the book mitigates risk. It comes across as: I'll risk everything, like the poker game where he kept doubling until he won and then walked away with the money. But I think he is very calculated in his risk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -42,10 +48,16 @@
    ]
   },
   {
-   "heading": "The idiot index",
+   "heading": "The mechanism: the idiot index",
    "lines": [
     {
-     "text": "A student found the evidence: how he thinks about cost against the overall cost of everything. I read the passage from the book.",
+     "text": "The book's idea: the idiot index compares how much a finished product costs with the cost of its basic materials.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student found the evidence in how the person in the book thinks about cost against the overall cost of everything. The passage from the book follows.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -57,16 +69,33 @@
      "kind": "quote"
     },
     {
-     "text": "So he is mitigating risk, I said. He is not just going and buying a rocket that is overpriced. He asks what the components are, and what the carbon fibre, the metal and the fuel cost. I'm not going to believe anything at face value.",
+     "text": "So he is mitigating risk. He is not just going and buying a rocket that is overpriced. He asks what the components are, and what the carbon fibre, the metal and the fuel cost. I'm not going to believe anything at face value.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said another lesson: after his risk assessment and the cost of everything, he concluded they could do it themselves. They just needed the information, the data and the qualified people.",
+     "text": "A student said: another lesson: after his risk assessment and the cost of everything, he concluded they could do it themselves. They just needed the information, the data and the qualified people.",
      "mark": "N",
      "cue": "",
      "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Why this matters for you",
+   "lines": [
+    {
+     "text": "Before you take or price a risk, find the cost of the basic parts and the gap to the price. That is how a bold bet becomes a calculated one.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Next idea: price set against cost. The next lesson, \"Price against cost\", applies the same test to show where a price is speculation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "What is the real cost of the thing you buy or sell?",
@@ -96,34 +125,37 @@
  },
  "check": [
   {
-   "q": "What did I say about how the person treats money?",
+   "q": "A founder says they will risk everything on a plan. What shows the risk is still calculated, in the lesson's terms?",
    "choices": [
-    "It is a consequence of the mission, not a distraction",
-    "It is the mission",
-    "It does not matter"
+    "The founder asks other people to approve each step of the plan first",
+    "The founder checks the evidence on how to reduce the risk",
+    "The founder spends a long time planning every detail in advance",
+    "The founder keeps the plan secret until it is nearly finished"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A product sells for much more than the cost of its basic materials. What does the idiot index show?",
+   "choices": [
+    "The gap between the finished price and the cost of its materials",
+    "The profit the seller has set for the product over the year",
+    "The number of other firms that sell the same kind of product",
+    "The cost of the labour used to make and ship the product"
    ],
    "answer": 0
   },
   {
-   "q": "What did I say about the person's risk?",
+   "q": "Why does the lesson say money did not distract the person from the mission?",
    "choices": [
-    "It is very calculated",
-    "It is reckless",
-    "There is none"
+    "Money was never needed for the mission to go ahead",
+    "Money was left to other people to look after for the person",
+    "Money was treated as a consequence of the mission",
+    "Money was kept apart from the mission in a separate fund"
    ],
-   "answer": 0
-  },
-  {
-   "q": "What does the idiot index compare?",
-   "choices": [
-    "The cost of a finished product to the cost of its basic materials",
-    "Two companies",
-    "Two salaries"
-   ],
-   "answer": 0
+   "answer": 2
   }
  ],
- "recap": "Calculate the risk. Know the cost of the basic materials.",
+ "recap": "A bold bet becomes a calculated one when you check the evidence. The idiot index compares a finished price with the cost of its basic materials.",
  "quote_log": [
   {
    "book": "the book discussed in class"

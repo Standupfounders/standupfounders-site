@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "id": "lesson-b2-5",
- "title": "I think he's got a visual intelligence",
+ "title": "Reading in Depth: Taking a Book Apart with Notes",
  "minutes": 9,
  "kind": "section",
  "header_line": "My analysis of one book on an entrepreneur's life. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
@@ -19,22 +19,16 @@
    ]
   },
   {
-   "heading": "I think he's got a visual intelligence",
+   "heading": "What it means to take a book apart",
    "lines": [
     {
-     "text": "I said that what is important in this chapter is how the author is growing his business, the decisions he is making, and the tension he has with people. He is transforming his whole business model.",
+     "text": "Taking a book apart means reading for the decisions the author makes and the tension around them, and taking notes as you go, not only following the story.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Think about billboards, I said. A picture, an image, is a form of content. Radio is content too, just voice. But I think he didn't really get into the voice. He wanted something visual, because coming from billboards it was all about the visual.",
-     "mark": "N",
-     "cue": "",
-     "kind": "plain"
-    },
-    {
-     "text": "I think he's got a visual intelligence, I said. The way he describes his sailing, you see pictures when he talks. I think that is why he wanted to go right to television.",
+     "text": "What is important in this chapter is how the author is growing his business, the decisions the author is making, and the tension the author has with people. The author is transforming the whole business model.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -42,34 +36,68 @@
    ]
   },
   {
-   "heading": "I read it very in depth",
+   "heading": "How I read in depth",
    "lines": [
     {
-     "text": "I asked the group how the pace was and whether they were enjoying the book. A student said it was their second time reading it, and they were getting way more out of it this time.",
+     "text": "I asked the group how the pace was and whether they were enjoying the book.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: it was their second time reading it, and they were getting way more out of it this time.",
      "mark": "N",
      "cue": "",
      "kind": "student"
     },
     {
-     "text": "This is how I read a book, I said. I read it very in depth. I analyze a lot of things and I take a lot of notes. Even when I like a movie, I print the script and read it, because I absorb a lot more reading it than watching.",
+     "text": "This is how I read a book. I read it very in depth. I analyze a lot of things and I take a lot of notes. Even when I like a movie, I print the script and read it, because I absorb a lot more reading it than watching.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I said I have at least twenty or thirty really good books that I believe are life-changing for business and personal life.",
+     "text": "I have at least twenty or thirty really good books that I believe are life-changing for business and personal life.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "Later we can read something more technical, I said, like venture capital books about how small companies are structured and capitalized. But I like that we are reading a narrative, a story first. Then when we get into the technical, you will have a background.",
+     "text": "Later we can read something more technical, like venture capital books about how small companies are structured and capitalized. But I like that we are reading a narrative, a story first. Then when we get into the technical, you will have a background.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "One example: the author's way of seeing",
+   "lines": [
+    {
+     "text": "Think about billboards. A picture, an image, is a form of content. Radio is content too, just voice. But I think the author didn't really get into the voice. The author wanted something visual, because coming from billboards it was all about the visual.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "The technical, believe it or not, is a lot easier than people think, I said. Colleges make it more difficult than it really is.",
+     "text": "I think the author has a visual intelligence. The way the author describes his sailing, you see pictures when he talks. I think that is why the author wanted to go right to television.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "Why this matters for you",
+   "lines": [
+    {
+     "text": "One question to ask when you take a book apart: what might explain the choices the author makes? In this example, Jose infers that the author's way of seeing in pictures may be why the author went straight to television.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "The technical, believe it or not, is a lot easier than people think. Colleges make it more difficult than it really is.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -102,34 +130,37 @@
  },
  "check": [
   {
-   "q": "What kind of intelligence did I say the author has?",
+   "q": "A reader wants to take a chapter apart, not just read it. What should they look for first?",
    "choices": [
-    "A visual intelligence",
-    "A musical intelligence",
-    "A mechanical intelligence"
+    "The length of the chapter and where it falls in the book",
+    "The decisions the author makes and the tension around them",
+    "How often the author repeats the same words in the chapter",
+    "Which parts of the chapter can be skipped to save time"
    ],
-   "answer": 0
+   "answer": 1
   },
   {
-   "q": "What do I do with a movie I like?",
+   "q": "In the lesson, what does Jose infer from the author's way of seeing in pictures?",
    "choices": [
-    "Prints the script and reads it",
-    "Watches it twice",
-    "Writes a review"
+    "That a person's training matters more than their strengths",
+    "That the author's choices cannot be explained at all",
+    "That it may explain why the author went straight to television",
+    "That pictures are a weaker kind of content than voice"
    ],
-   "answer": 0
+   "answer": 2
   },
   {
-   "q": "Why did I say I like reading a narrative first?",
+   "q": "Why does the lesson prefer to read a story before the technical material?",
    "choices": [
-    "So you have a background before the technical part",
-    "Because it is shorter",
-    "Because it is cheaper"
+    "The story gives a background for the technical part",
+    "The technical material is not needed once the story is read",
+    "The story is shorter and quicker to get through in a sitting",
+    "The technical material should be read first, before the story"
    ],
    "answer": 0
   }
  ],
- "recap": "Read in depth and take notes. Learn the story first, then the technical part.",
+ "recap": "Take a book apart: read for the author's decisions and tension, and take notes. Learn the story first, then the technical part.",
  "quote_log": [
   {
    "book": "the book discussed in class"

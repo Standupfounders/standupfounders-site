@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "id": "lesson-f3-1",
- "title": "An anchor is a stored association",
+ "title": "Anchors as Stored Associations",
  "minutes": 9,
  "kind": "section",
  "header_line": "My analysis of one book on neuro-linguistic programming. Not a summary of the book. Not affiliated with or endorsed by the author or publisher.",
@@ -22,16 +22,16 @@
    "heading": "What an anchor is",
    "lines": [
     {
-     "text": "I said: an anchor is a stored association. You associate wearing that shirt with being on top of your game, and when you go out you feel good. Anybody have a shirt like that?",
+     "text": "An anchor is a stored association. You associate wearing that shirt with being on top of your game, and when you go out you feel good. Anybody have a shirt like that?",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "A student said that ninety percent of our lives is a kind of trance state, with a consistent level, and anchors change the level. This is his claim and is to be verified.",
+     "text": "The mechanism: a cue, such as a shirt, a smell or a song, is linked in memory to a feeling, so meeting the cue brings the feeling back.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
     }
    ]
   },
@@ -39,13 +39,41 @@
    "heading": "Your senses",
    "lines": [
     {
-     "text": "I asked the group to look around their rooms for positive anchors. I said that you have kinesthetic anchors, smells and tastes, and that your senses lead you to anchors and triggers.",
+     "text": "I asked the group to look around their rooms for positive anchors. You have kinesthetic anchors, smells and tastes, and that your senses lead you to anchors and triggers.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    }
+   ]
+  },
+  {
+   "heading": "A claim to verify",
+   "lines": [
+    {
+     "text": "A student said: ninety percent of our lives is a kind of trance state, with a consistent level, and anchors change the level. This is his claim and is to be verified.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student"
+    }
+   ]
+  },
+  {
+   "heading": "Why this matters for you",
+   "lines": [
+    {
+     "text": "I said that I have to control my own emotions because I am vulnerable to them, and that some days I am different from others.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
     },
     {
-     "text": "I said that I have to control my own emotions because I am vulnerable to them, and that some days I am different from others.",
+     "text": "So a person can place cues on purpose, where they want the feeling to come back. That is the step the exercise asks for.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "Next idea: setting an anchor for another person. The next lesson, \"Setting an anchor for someone else\", builds on this definition.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
@@ -78,34 +106,37 @@
  },
  "check": [
   {
-   "q": "What did I call an anchor?",
+   "q": "A song reliably puts someone in a confident mood before a meeting. In the lesson's terms, what is the song?",
    "choices": [
-    "A stored association",
-    "A rule",
-    "A prize"
+    "A reward given for a meeting that went well in the past",
+    "A rule the person made up to help them stay disciplined",
+    "A cue linked to a feeling, which is an anchor",
+    "A habit that the person repeats without noticing it"
    ],
-   "answer": 0
+   "answer": 2
   },
   {
-   "q": "What did I say senses lead you to?",
+   "q": "Why does the lesson ask people to look around their rooms?",
    "choices": [
-    "Anchors and triggers",
-    "Mistakes",
-    "Money"
+    "To remove objects that could distract them while they work",
+    "To find positive anchors that are already there",
+    "To count how many things in the room belong to the person",
+    "To decide which objects they would like to buy next"
    ],
-   "answer": 0
+   "answer": 1
   },
   {
-   "q": "What did a student claim about daily life?",
+   "q": "How should the claim about daily life being mostly a trance state be treated?",
    "choices": [
-    "It is mostly a trance state, which is to be verified",
-    "It is always changing",
-    "It is random"
+    "As a student's claim that is still to be verified",
+    "As a fact the lesson has already proved",
+    "As a rule every person in the group must accept",
+    "As a claim that proves anchors never change a mood"
    ],
    "answer": 0
   }
  ],
- "recap": "Know your anchors. Use your senses.",
+ "recap": "An anchor is a stored association: a cue linked to a feeling. Your senses lead you to anchors; place the ones you want on purpose.",
  "quote_log": [
   {
    "book": "the book discussed in class"
