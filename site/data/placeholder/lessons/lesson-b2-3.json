@@ -28,10 +28,11 @@
      "kind": "plain"
     },
     {
-     "text": "As I retell it, the author wants to diversify. He realizes the billboard business is under threat. He wants a television station.",
+     "text": "The book's idea: the author wants to diversify. He realizes the billboard business is under threat. He wants a television station.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "Now it is not just putting an ad on a billboard, I said. There are all these moving parts: the antenna, the content, selling the advertising. You can see the complexity.",
@@ -69,16 +70,24 @@
      "kind": "plain"
     },
     {
-     "text": "A student asked: I thought diluting meant printing more shares. I said: not necessarily. Even if you print more shares, it is all based on the valuation. You go down in your value because you are selling part of the company.",
+     "text": "A student said: I thought diluting meant printing more shares.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     },
     {
-     "text": "As I retell the chapter, the author's ownership dropped below half, but he kept the voting stock.",
+     "text": "I said: not necessarily. Even if you print more shares, it is all based on the valuation. You go down in your value because you are selling part of the company.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
+    },
+    {
+     "text": "The book's idea: the author's ownership dropped below half, but he kept the voting stock.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "So be very careful as entrepreneurs, I said. Are you selling the company too quickly, before you build value in it? And are you losing control of the voting shares?",

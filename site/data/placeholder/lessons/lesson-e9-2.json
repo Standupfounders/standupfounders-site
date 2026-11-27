@@ -22,10 +22,11 @@
    "heading": "Values first",
    "lines": [
     {
-     "text": "A student said that the point he took away is: you do not want to negotiate on values, which he learned from me early on; if you are aligned on values and they are the highest priority, then other things follow.",
+     "text": "A student said that the point the student took away is: you do not want to negotiate on values, which the student learned from Jose early on; if you are aligned on values and they are the highest priority, then other things follow.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "I said that when you have a partner and you have your values and integrity, you do not even need to negotiate, and it is a very powerful and lasting situation because you care about each other.",

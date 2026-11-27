@@ -52,10 +52,17 @@
      "kind": "student"
     },
     {
-     "text": "Another said no, he set the wrong goals. He focused too much on money. I said: you're getting warm.",
+     "text": "Another student said no, he set the wrong goals. He focused too much on money.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said: you're getting warm.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "A third said it is good advice. If your goal is far ahead, you take more steps and move further. And that it was not the achievement that was fulfilling, it was the process.",

@@ -28,10 +28,17 @@
      "kind": "plain"
     },
     {
-     "text": "A student said that labeling is stating what they are feeling. I said: it is spotting their feelings, turning them into words, and calmly repeating them back, validating by acknowledging.",
+     "text": "A student said: labeling is stating what they are feeling.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said: it is spotting their feelings, turning them into words, and calmly repeating them back, validating by acknowledging.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     }
    ]
   },

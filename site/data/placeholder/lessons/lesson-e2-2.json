@@ -28,10 +28,17 @@
      "kind": "plain"
     },
     {
-     "text": "A student asked about it when someone says we and it is really my problem. I said: authenticity, but be careful, because you want a team situation.",
+     "text": "A student asked about it when someone says we and it is really my problem.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said: authenticity, but be careful, because you want a team situation.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "I said to always give other people the credit: every time we do something with you, success is inevitable.",

@@ -34,10 +34,17 @@
      "kind": "plain"
     },
     {
-     "text": "A student said: when he had people opt in instead of opt out. I said: what a great filter that is.",
+     "text": "A student said: when he had people opt in instead of opt out.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said: what a great filter that is.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     }
    ]
   },

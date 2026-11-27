@@ -22,10 +22,17 @@
    "heading": "Smart money and dumb money",
    "lines": [
     {
-     "text": "A student asked if voting shares are valued differently. I said no, but they carry votes. If you buy a certain amount of equity, you also buy a seat on the board, and you negotiate for it. The founder can say no.",
+     "text": "A student asked if voting shares are valued differently.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said no, but they carry votes. If you buy a certain amount of equity, you also buy a seat on the board, and you negotiate for it. The founder can say no.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "As entrepreneurs, I said, we have what you call smart money and dumb money. Sometimes the money invested in your company comes from somebody strategic, a mentor, somebody who is going to help you advance the company.",
@@ -63,10 +70,17 @@
      "kind": "plain"
     },
     {
-     "text": "A student asked: isn't it best to own the majority and let people you trust be your board? I said I believe wholeheartedly in having a board of advisors. I love to ask people's opinion, and to get feedback before I make a major decision. That is my personal thing.",
+     "text": "A student asked: isn't it best to own the majority and let people you trust be your board?",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said I believe wholeheartedly in having a board of advisors. I love to ask people's opinion, and to get feedback before I make a major decision. That is my personal thing.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "I know friends of mine who are comfortable making a decision on their own, I said. So there is a real balance there.",
@@ -75,7 +89,14 @@
      "kind": "plain"
     },
     {
-     "text": "As I retell the chapter, the author was growing fast, from billboards to radio to television in a year, and his conservative board saw all the signs of danger and risk. I said we will see how much he is calculating his risk.",
+     "text": "The book's idea: the author was growing fast, from billboards to radio to television in a year, and his conservative board saw all the signs of danger and risk.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain",
+     "tag": "Book idea"
+    },
+    {
+     "text": "I said we will see how much he is calculating his risk.",
      "mark": "N",
      "cue": "",
      "kind": "plain"

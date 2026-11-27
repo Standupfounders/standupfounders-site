@@ -80,10 +80,17 @@
    "heading": "Wealth is what you don't see",
    "lines": [
     {
-     "text": "I said I love a book called The Psychology of Money, and have given it to all my children. As I describe it, the book separates a rich person from a wealthy person.",
+     "text": "I said I love a book called The Psychology of Money, and have given it to all my children.",
      "mark": "N",
      "cue": "",
      "kind": "plain"
+    },
+    {
+     "text": "The book's idea: the book separates a rich person from a wealthy person.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "In my words: wealth is the nice cars you don't purchase, the diamonds you didn't buy, the watches you didn't wear. It is the money that has not been turned into the stuff you can see.",

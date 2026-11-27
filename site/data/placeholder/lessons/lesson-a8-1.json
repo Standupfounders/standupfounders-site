@@ -31,7 +31,8 @@
      "text": "A student said: the person in the book does not value money. He would sleep under an overpass to be in a space where he puts all his money on the line.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "He realizes he needs money, but he doesn't let money be a distraction to the mission. He understands it is a consequence of the mission.",
@@ -54,7 +55,8 @@
      "text": "The book's idea: the idiot index compares how much a finished product costs with the cost of its basic materials.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "A student found the evidence in how the person in the book thinks about cost against the overall cost of everything. The passage from the book follows.",
@@ -78,7 +80,8 @@
      "text": "A student said: another lesson: after his risk assessment and the cost of everything, he concluded they could do it themselves. They just needed the information, the data and the qualified people.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     }
    ]
   },

@@ -63,10 +63,17 @@
      "kind": "plain"
     },
     {
-     "text": "A student who works with hotel guests said: it's not a crisis unless you make it a crisis. Figure out what they need and get to the solution. I said you learn how to calm people down.",
+     "text": "A student who works with hotel guests said: it's not a crisis unless you make it a crisis. Figure out what they need and get to the solution.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said you learn how to calm people down.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     }
    ]
   },

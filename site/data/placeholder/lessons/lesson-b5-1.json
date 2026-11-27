@@ -22,10 +22,11 @@
    "heading": "What's my relationship with money?",
    "lines": [
     {
-     "text": "As I retell the book, the author was at millions and millions of dollars, but his father had taught him to be very conscious of spending. He was an incredible operational manager with amazing budget controls. Every single dime was accounted for.",
+     "text": "The book's idea: the author was at millions and millions of dollars, but his father had taught him to be very conscious of spending. He was an incredible operational manager with amazing budget controls. Every single dime was accounted for.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "Anybody who does well in business, I said, has that level of detail. They are conscious of every single cent going into the business and out of the business. You need a lot of discipline.",

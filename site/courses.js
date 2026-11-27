@@ -310,8 +310,11 @@
       g.lines.forEach(function (ln) {
         if (ln.kind === 'quote') {
           var q = el('blockquote', 'lquote'); q.appendChild(el('p', null, ln.text)); q.appendChild(el('cite', null, 'The author\u2019s words, as I read them in class. From ' + credit + '.')); sec.appendChild(q);
-        } else if (ln.kind === 'student') sec.appendChild(el('p', 'lstu', ln.text));
-        else sec.appendChild(el('p', 'lp', ln.text));
+        } else {
+          var lp = el('p', ln.kind === 'student' ? 'lstu' : 'lp');
+          if (ln.tag === 'Student' || ln.tag === 'Book idea') lp.appendChild(el('span', 'ltag', ln.tag));
+          lp.appendChild(document.createTextNode((ln.tag === 'Student' || ln.tag === 'Book idea' ? ' ' : '') + ln.text)); sec.appendChild(lp);
+        }
       });
       root.appendChild(sec);
     });

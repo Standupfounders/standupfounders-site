@@ -103,16 +103,30 @@
    "heading": "What's your range?",
    "lines": [
     {
-     "text": "A student made a point that ties it together: the consumer always decides the value, not the provider. I added that most of the time, the consumer doesn't even know they have a problem.",
+     "text": "A student said, to tie it together: the consumer always decides the value, not the provider.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     },
     {
-     "text": "When you are first, I said, what criteria do you use? What is your range? What is your flexibility? A student said: use as many reference points as you can, but there are no really wrong answers at that point.",
+     "text": "I added that most of the time, the consumer doesn't even know they have a problem.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
+    },
+    {
+     "text": "When you are first, what criteria do you use? What is your range? What is your flexibility?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: use as many reference points as you can, but there are no really wrong answers at that point.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "I ended with a thought experiment. What if one of your criteria was never to look at anything with less than a thousand percent profit margin? People would say you are crazy. But forcing yourself to have criteria like that, and to keep adapting, pushes limits, and that creates opportunity.",

@@ -57,10 +57,17 @@
    "heading": "Define these concepts for yourself",
    "lines": [
     {
-     "text": "A student said: taking care of the other person, taking care of yourself, having responsibility with each other, and patience when there are problems. I said: a sense of selflessness.",
+     "text": "A student said: taking care of the other person, taking care of yourself, having responsibility with each other, and patience when there are problems.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said: a sense of selflessness.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "Another said you have to put your feelings aside and let go of winning. It is not getting walked all over. It is sometimes letting the other person win.",
@@ -87,10 +94,17 @@
      "kind": "plain"
     },
     {
-     "text": "A student said the measure is what sacrifices you are willing to make for the other person. Another gave one word: unconditional. I said that is a very good word.",
+     "text": "A student said: the measure is what sacrifices you are willing to make for the other person. Another gave one word: unconditional.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said that is a very good word.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     }
    ]
   },
@@ -98,10 +112,17 @@
    "heading": "What does love become?",
    "lines": [
     {
-     "text": "I asked what love becomes when you have been in the same routine for years. A student said you need some commonality, more of a friendship and a partnership.",
+     "text": "I asked what love becomes when you have been in the same routine for years.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: you need some commonality, more of a friendship and a partnership.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "It transforms, I said. First everything is new. Then we get to the routine, we have to pay the bills, and now we have kids. Love gets distilled into other things. It is still important, but it becomes something else.",

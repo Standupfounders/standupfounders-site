@@ -56,10 +56,17 @@
    "heading": "Time is a fight",
    "lines": [
     {
-     "text": "A student said it always feels like there is not enough time. I did not quite agree. I said the founder thinks people don't understand that you have to fight against time. It is an unrelenting fight.",
+     "text": "A student said it always feels like there is not enough time.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I did not quite agree. I said the founder thinks people don't understand that you have to fight against time. It is an unrelenting fight.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "So what is your definition of time, I asked, and how do you define it in the culture of your company?",

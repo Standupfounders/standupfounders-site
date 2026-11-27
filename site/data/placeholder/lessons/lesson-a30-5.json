@@ -51,10 +51,17 @@
      "kind": "student"
     },
     {
-     "text": "That is where the value comes in as a leader, the student said: not being the expert, not needing the hundred-and-first expert, but asking: what's the problem we're trying to solve, how do we step away from the status quo? I said: beautiful. That is what we are learning in this chapter.",
+     "text": "A student said: that is where the value comes in as a leader: not being the expert, not needing the hundred-and-first expert, but asking what's the problem we're trying to solve, how do we step away from the status quo?",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said: beautiful. That is what we are learning in this chapter.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     }
    ]
   },

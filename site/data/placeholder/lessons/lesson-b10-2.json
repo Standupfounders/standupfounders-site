@@ -51,10 +51,11 @@
      "kind": "plain"
     },
     {
-     "text": "As I read it, the author says his father raised him to be distrustful of a political ideology, and the climate of the times reinforced that.",
+     "text": "The book's idea: the author says his father raised him to be distrustful of a political ideology, and the climate of the times reinforced that.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     }
    ]
   },

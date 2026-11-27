@@ -22,10 +22,11 @@
    "heading": "Aligned events",
    "lines": [
     {
-     "text": "A student said that events appear that are aligned with your greater goal, synchronized with the direction you are going, and that he often talks about it with me as an entrepreneur.",
+     "text": "A student said that events appear that are aligned with your greater goal, synchronized with the direction you are going, and that the student often talks about it with Jose as an entrepreneur.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "Another said that while dealing with a cost-of-acquisition problem, a new kind of inspection work fell into their lap and solved every problem they had.",

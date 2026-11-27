@@ -39,10 +39,17 @@
    "heading": "Guilt and shame",
    "lines": [
     {
-     "text": "A student said: the awareness of my bad habits is driven by guilt. I asked: who installed that guilt?",
+     "text": "A student said: the awareness of my bad habits is driven by guilt.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I asked: who installed that guilt?",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "Another said: there was repetitive shame, not told once but drilled into me every day. I might have made a decision once, but I would be hearing about it for four years.",

@@ -28,10 +28,11 @@
      "kind": "plain"
     },
     {
-     "text": "As I retell the chapter, the author's company had revenue of about two hundred and eighty million dollars, while the network he wanted to buy had about five billion. So he had to go and raise money.",
+     "text": "The book's idea: the author's company had revenue of about two hundred and eighty million dollars, while the network he wanted to buy had about five billion. So he had to go and raise money.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     }
    ]
   },

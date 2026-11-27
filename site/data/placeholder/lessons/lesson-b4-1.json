@@ -45,10 +45,11 @@
    "heading": "Owning the content doesn't mean that you own the way to distribute it",
    "lines": [
     {
-     "text": "As I describe it from the book, the author was coming from a limited signal, and he wanted to go national. He believed he had enough content.",
+     "text": "The book's idea: the author was coming from a limited signal, and he wanted to go national. He believed he had enough content.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "But owning the content, owning the movies, I said, doesn't mean that you own the way to distribute them.",

@@ -53,7 +53,8 @@
      "text": "A student said: ninety percent of our lives is a kind of trance state, with a consistent level, and anchors change the level. This is his claim and is to be verified.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     }
    ]
   },

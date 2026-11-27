@@ -315,3 +315,6 @@ body.pv header.top{position:static}
 .pvbody .chip{cursor:default}
 .pvbody input:disabled,.pvbody select:disabled,.pvbody button:disabled{cursor:not-allowed;opacity:.7}
 
+/* line tags: Student, Book idea */
+.ltag{display:inline-block;font:600 .68rem var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--grey);border:1px solid var(--rule);padding:2px 8px;margin-right:10px;vertical-align:1px;font-style:normal}
+

@@ -56,10 +56,17 @@
    "heading": "Practice",
    "lines": [
     {
-     "text": "A student said that the group runs through a lot of concepts and asked how to practice them. I said the best way to practise is to separate two language styles.",
+     "text": "A student said: the group runs through a lot of concepts and asked how to practice them.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said the best way to practise is to separate two language styles.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "Write one problem in your field and say three true things about it.",

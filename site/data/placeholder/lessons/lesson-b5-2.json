@@ -57,10 +57,17 @@
    "heading": "You're the underdog",
    "lines": [
     {
-     "text": "I said he goes into this much detail because there will come a time when you are dealing with a government agency. A student described a rule about stormwater that had been on the books but not enforced, and was now being enforced, and how their company was thinking of working alongside the regulators.",
+     "text": "I said he goes into this much detail because there will come a time when you are dealing with a government agency.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: a rule about stormwater had been on the books but not enforced, and was now being enforced, and their company was thinking of working alongside the regulators.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "We are going to run into massive monopolies, I said. So pick your battles. You are the underdog. You are the author right now.",

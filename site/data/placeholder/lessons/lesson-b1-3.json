@@ -46,10 +46,17 @@
      "kind": "plain"
     },
     {
-     "text": "He was twenty-four. His father had said he was too young to take a big role. So what support system does he have, I asked? A student said: he doesn't. He just has himself, and the principles he learned from his dad.",
+     "text": "He was twenty-four. His father had said he was too young to take a big role. So what support system does he have, I asked?",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: he doesn't. He just has himself, and the principles he learned from his dad.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "I agreed. That's it. He only has himself, and the biggest influence in his entire life is now gone.",
@@ -63,10 +70,17 @@
    "heading": "His mental positive anchor",
    "lines": [
     {
-     "text": "I asked: what in his childhood contributed to that confidence? A student said: all the times he was on his own at school and had to figure it out.",
+     "text": "I asked: what in his childhood contributed to that confidence?",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: all the times he was on his own at school and had to figure it out.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "I added that the father put him in positions where he had to adapt on his own. So the father created an independent person.",

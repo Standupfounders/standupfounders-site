@@ -39,10 +39,11 @@
    "heading": "Internal or external",
    "lines": [
     {
-     "text": "A student asked me: when you look back at your failures, was it an external thing or something about your internal actions?",
+     "text": "A student asked Jose: when you look back at your failures, was it an external thing or something about your internal actions?",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
     },
     {
      "text": "I said that the minute people start blaming things externally, that is negative language and a very dangerous situation, because they are not fully taking accountability, and the language comes from a negative anchor.",

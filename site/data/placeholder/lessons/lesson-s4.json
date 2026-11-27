@@ -63,10 +63,17 @@
      "kind": "plain"
     },
     {
-     "text": "A student said: contrarian thinking. Another said he brings everything back to first principles, the basic laws you don't need deep knowledge to understand. I said both are right.",
+     "text": "A student said: contrarian thinking. Another said he brings everything back to first principles, the basic laws you don't need deep knowledge to understand.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I said both are right.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "Then I gave my example. You go to a mechanic and you know nothing about engines. He could charge you five hundred dollars, or two thousand. Your lack of knowledge is a threat. So you have to challenge what the mechanic is doing. What resource do you use?",
@@ -81,10 +88,23 @@
      "kind": "plain"
     },
     {
-     "text": "I asked if there was another way to explain it. A student said the founder is like a sponge, learning on the go from the people who know. I agreed that was another concept.",
+     "text": "I asked if there was another way to explain it.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
+    },
+    {
+     "text": "A student said the founder is like a sponge, learning on the go from the people who know.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I agreed that was another concept.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     }
    ]
   },

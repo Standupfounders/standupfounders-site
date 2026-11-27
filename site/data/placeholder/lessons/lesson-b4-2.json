@@ -28,10 +28,11 @@
      "kind": "plain"
     },
     {
-     "text": "As I tell it, the author asks himself a question: if a rule doesn't let me do something that is so logical, it must be a bad rule.",
+     "text": "The book's idea: the author asks himself a question: if a rule doesn't let me do something that is so logical, it must be a bad rule.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "I said that, in his view, big monopolies make up rules to favor themselves and use agencies to support their monopolies, because of the money they give.",
@@ -80,10 +81,17 @@
    "heading": "When you get big enough",
    "lines": [
     {
-     "text": "A student said the local channels want to keep their market share and have no competition. I agreed. They go to their local authorities and make it illegal, I said. It is a legislative momentum. Everybody is protected, everybody has marked out their territory, and nobody can do anything else.",
+     "text": "A student said the local channels want to keep their market share and have no competition.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I agreed. They go to their local authorities and make it illegal. It is a legislative momentum. Everybody is protected, everybody has marked out their territory, and nobody can do anything else.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "When you get big enough, I said, unfortunately, the government comes after you. The competitors come after you. You don't think you will just sit there and make a ton of money and nobody will come after you. It just doesn't happen.",

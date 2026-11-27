@@ -80,10 +80,11 @@
    "heading": "A market maker",
    "lines": [
     {
-     "text": "As I retell the chapter, the author realized no bank would lend, because banks want established, predictable businesses. He was doing something for the very first time.",
+     "text": "The book's idea: the author realized no bank would lend, because banks want established, predictable businesses. He was doing something for the very first time.",
      "mark": "N",
      "cue": "",
-     "kind": "plain"
+     "kind": "plain",
+     "tag": "Book idea"
     },
     {
      "text": "There is a name for that, I said. It is called a market maker. A market maker is somebody who creates a market that doesn't exist. He is creating a market of people who watch news twenty-four seven.",

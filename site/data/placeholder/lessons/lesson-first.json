@@ -64,10 +64,23 @@
      "kind": "plain"
     },
     {
-     "text": "When I asked what creates that, a student said: comfort. I agreed: good, comfort.",
+     "text": "I asked what creates that.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "plain"
+    },
+    {
+     "text": "A student said: comfort.",
+     "mark": "N",
+     "cue": "",
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I agreed: good, comfort.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     }
    ]
   },
@@ -104,10 +117,17 @@
    "heading": "The hungry boxer",
    "lines": [
     {
-     "text": "A student said complacency also comes from fear. I put it this way: a fear of loss, essentially.",
+     "text": "A student said complacency also comes from fear.",
      "mark": "N",
      "cue": "",
-     "kind": "student"
+     "kind": "student",
+     "tag": "Student"
+    },
+    {
+     "text": "I put it this way: a fear of loss, essentially.",
+     "mark": "N",
+     "cue": "",
+     "kind": "plain"
     },
     {
      "text": "The same student gave a picture. If you have been getting punched in the mouth every day for thirty years, you will probably be a little wary of people with their fists up. If you have been the one doing the punching, you are probably not scared of much.",
