@@ -20,6 +20,20 @@
   function toast(m) { var t = document.getElementById('toast'); if (!t) return; t.textContent = m; t.classList.add('on'); clearTimeout(toast.t); toast.t = setTimeout(function () { t.classList.remove('on'); }, 2800); }
 
   /* ---------- state, browser only ---------- */
+  // Quick-check choices are shown in a shuffled order. The radio value stays the ORIGINAL index, so scoring (value === q.answer),
+  // saved progress (S.check holds only score and count) and the lesson data are unchanged. The order is fixed for this page load
+  // (so a re-render does not move choices under the reader) and differs between loads. Choices like "Neither" or "All of it" stay last.
+  var QUIZ_SALT = Math.floor(Math.random() * 4294967296);
+  function quizOrder(lid, qi, choices) {
+    var idx = choices.map(function (_, i) { return i; });
+    var pin = /^(neither|none|none of the above|all of it|all of the above|both|both of the above)\.?$/i;
+    var pinned = idx.filter(function (i) { return pin.test(String(choices[i]).trim()); });
+    var free = idx.filter(function (i) { return pinned.indexOf(i) < 0; });
+    var h = QUIZ_SALT; for (var k = 0; k < lid.length; k++) h = (Math.imul(h ^ lid.charCodeAt(k), 2654435761) + qi) >>> 0;
+    function rnd() { h = (h + 0x6D2B79F5) >>> 0; var t = Math.imul(h ^ (h >>> 15), 1 | h); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }
+    for (var i = free.length - 1; i > 0; i--) { var j = Math.floor(rnd() * (i + 1)); var tmp = free[i]; free[i] = free[j]; free[j] = tmp; }
+    return free.concat(pinned);
+  }
   function fresh() { return { schema: 1, start: null, items: {}, ex: {}, check: {}, lc: {}, last: null }; }
   function load() { try { var r = JSON.parse(localStorage.getItem(KEY) || 'null'); if (r && r.schema === 1) return r; } catch (e) {} return fresh(); }
   var S = load();
@@ -328,7 +342,7 @@
       var ck = el('form', 'lgroup quiz'); ck.setAttribute('novalidate', ''); ck.appendChild(el('span', 'label', 'Quick check \u00b7 a study aid, not a test'));
       L.check.forEach(function (q, qi) {
         var fs = el('fieldset'); fs.appendChild(el('legend', null, q.q));
-        q.choices.forEach(function (ch, ci) { var lb = el('label', 'opt'); var r = el('input'); r.type = 'radio'; r.name = 'ck' + qi; r.value = String(ci); lb.appendChild(r); lb.appendChild(el('span', null, ch)); fs.appendChild(lb); });
+        quizOrder(L.id, qi, q.choices).forEach(function (ci) { var ch = q.choices[ci]; var lb = el('label', 'opt'); var r = el('input'); r.type = 'radio'; r.name = 'ck' + qi; r.value = String(ci); lb.appendChild(r); lb.appendChild(el('span', null, ch)); fs.appendChild(lb); });
         ck.appendChild(fs);
       });
       var res = el('p', 'res', ''); res.setAttribute('role', 'status');
